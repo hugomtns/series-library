@@ -986,6 +986,20 @@ $html = @'
       color: var(--muted);
     }
 
+    .season-score {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 44px;
+      min-height: 24px;
+      border: 1px solid var(--rating-border, var(--line));
+      border-radius: 999px;
+      background: var(--rating-bg, var(--panel-2));
+      color: var(--rating-fg, var(--ink));
+      font-weight: 750;
+      font-variant-numeric: tabular-nums;
+    }
+
     body.searching .empty.visible { display: block; }
     body.searching .year-section.empty-year { display: none; }
     .card.hidden { display: none; }
@@ -1360,6 +1374,14 @@ $html = @'
         return "-";
       }
 
+      function seasonScoreCell(season) {
+        if (season.score == null) {
+          return `<span class="season-score-empty">Pending</span>`;
+        }
+        const score = Number(season.score);
+        return `<span class="season-score" title="Season IMDb average" style="${ratingTone(score)}">${escapeText(score.toFixed(1))}</span>`;
+      }
+
       return `
         <section class="season-detail">
           <h3>Seasons</h3>
@@ -1370,7 +1392,7 @@ $html = @'
                 <span>${escapeText(seasonNumberLabel(season))}</span>
                 <span>${escapeText(seasonYearLabel(season))}</span>
                 <span>${escapeText(season.episodeCount ?? "-")}</span>
-                <span class="season-score-empty">${season.score == null ? "Pending" : escapeText(Number(season.score).toFixed(1))}</span>
+                <span>${seasonScoreCell(season)}</span>
               </div>
             `).join("")}
           </div>

@@ -92,4 +92,5 @@ if ($html.Contains('id="seriesDetailDone"')) { throw "Series detail modal should
 if ($html.Contains('<a class="imdb-link fact"')) { throw "Series detail modal should not duplicate the IMDb link." }
 if (-not $html.Contains('class="season-table"')) { throw "Series detail modal should render season details." }
 if (-not $html.Contains('<span>Year</span>')) { throw "Series detail modal should render season years." }
+if (-not $html.Contains('class="season-score"')) { throw "Rated seasons should render as score pills." }
 if (-not $html.Contains('Pending')) { throw "Season ratings should show a pending state when rating data is unavailable." }
