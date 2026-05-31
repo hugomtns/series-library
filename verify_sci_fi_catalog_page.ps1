@@ -36,6 +36,7 @@ $missingCategories = @($series | Where-Object { -not $_.categories -or @($_.cate
 $turkishPrimaryRows = @($series | Where-Object { $_.primaryOrigin -eq "TR" })
 $sciFiRows = @($series | Where-Object { @($_.categories) -contains "Sci-Fi" })
 $fantasyRows = @($series | Where-Object { @($_.categories) -contains "Fantasy" })
+$actionRows = @($series | Where-Object { @($_.categories) -contains "Action" })
 $bothRows = @($series | Where-Object { @($_.categories) -contains "Sci-Fi" -and @($_.categories) -contains "Fantasy" })
 $years = @($data.years)
 
@@ -59,6 +60,7 @@ $years = @($data.years)
   DragonBallOrTrigunRows = $badJapanExamples.Count
   SciFiRows = $sciFiRows.Count
   FantasyRows = $fantasyRows.Count
+  ActionRows = $actionRows.Count
   BothRows = $bothRows.Count
   MissingCategories = $missingCategories.Count
   TurkishPrimaryRows = $turkishPrimaryRows.Count
@@ -72,7 +74,9 @@ $years = @($data.years)
   HasVercelRootRewrite = $vercelConfig.Contains('"source": "/"') -and $vercelConfig.Contains('"destination": "/series_library.html"')
   HasYearSelect = $html.Contains('id="yearSelect"')
   HasCategoryFilter = $html.Contains('id="categoryFilter"')
+  HasActionCategoryFilter = $html.Contains('class="category-choice" value="Action"')
   HasTrendFilter = $html.Contains('id="trendFilter"')
+  HasActionSourceConfig = (Get-Content -Path "build_combined_genre_catalog_source.ps1" -Raw).Contains('imdb_action_year_files_primary_origin') -and (Get-Content -Path "scripts/update_current_year_sources.ps1" -Raw).Contains('Genre = "Action"')
   HasTrendFilterChoices = $html.Contains('class="trend-choice"') -and $html.Contains('value="up"') -and $html.Contains('value="down"') -and $html.Contains('value="disaster"')
   HasDecadeGroups = $html.Contains('"decade-group"')
   HasPosterMarkup = $html.Contains('class="poster"')
@@ -120,6 +124,8 @@ if ($turkishPrimaryRows.Count -gt 0) { throw "Found Turkish-primary rows." }
 if ($sciFiRows.Count -lt 600) { throw "Expected at least 600 Sci-Fi rows." }
 if ($fantasyRows.Count -lt 500) { throw "Expected at least 500 Fantasy rows." }
 if ($bothRows.Count -lt 200) { throw "Expected at least 200 rows in both categories." }
+if (-not $html.Contains('class="category-choice" value="Action"')) { throw "Missing Action category filter." }
+if (-not ((Get-Content -Path "build_combined_genre_catalog_source.ps1" -Raw).Contains('imdb_action_year_files_primary_origin') -and (Get-Content -Path "scripts/update_current_year_sources.ps1" -Raw).Contains('Genre = "Action"'))) { throw "Missing Action source configuration." }
 if (-not $html.Contains('href="series_library.css"')) { throw "Missing extracted stylesheet link." }
 if ($html.Contains('<style>')) { throw "HTML should not contain an inline style block." }
 if (-not ($css.Contains('.card') -and $css.Contains('.series-detail-modal'))) { throw "Extracted stylesheet is missing expected UI styles." }

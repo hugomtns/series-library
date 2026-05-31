@@ -2,6 +2,7 @@ param(
   [string]$SciFiYearDir = "imdb_sci_fi_year_files_primary_origin",
   [string]$FantasyYearDir = "imdb_fantasy_year_files_primary_origin",
   [string]$AdventureYearDir = "imdb_adventure_year_files_primary_origin",
+  [string]$ActionYearDir = "imdb_action_year_files_primary_origin",
   [string]$CacheDir = "imdb_sci_fi_catalog_cache",
   [string]$OutCsv = "scripts/.generated/catalog_source.csv",
   [string]$OutTxt = "scripts/.generated/catalog_source.txt"
@@ -53,6 +54,7 @@ $sourceRows = New-Object System.Collections.Generic.List[object]
 Add-SourceRows -Rows $sourceRows -YearDir $SciFiYearDir -Filter "imdb_sci_fi_primary_origin_*.csv" -Category "Sci-Fi"
 Add-SourceRows -Rows $sourceRows -YearDir $FantasyYearDir -Filter "imdb_fantasy_primary_origin_*.csv" -Category "Fantasy"
 Add-SourceRows -Rows $sourceRows -YearDir $AdventureYearDir -Filter "imdb_adventure_primary_origin_*.csv" -Category "Adventure"
+Add-SourceRows -Rows $sourceRows -YearDir $ActionYearDir -Filter "imdb_action_primary_origin_*.csv" -Category "Action"
 
 function Get-CachedDetail {
   param([string]$IMDbId)
@@ -135,6 +137,7 @@ $ranked |
       SciFiTitles = @($_.Group | Where-Object { $_.Categories -match "(^|;)Sci-Fi(;|$)" }).Count
       FantasyTitles = @($_.Group | Where-Object { $_.Categories -match "(^|;)Fantasy(;|$)" }).Count
       AdventureTitles = @($_.Group | Where-Object { $_.Categories -match "(^|;)Adventure(;|$)" }).Count
+      ActionTitles = @($_.Group | Where-Object { $_.Categories -match "(^|;)Action(;|$)" }).Count
       BothTitles = @($_.Group | Where-Object { $_.Categories -match "(^|;)Sci-Fi(;|$)" -and $_.Categories -match "(^|;)Fantasy(;|$)" }).Count
     }
   } |

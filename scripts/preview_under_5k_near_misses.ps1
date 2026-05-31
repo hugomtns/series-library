@@ -10,7 +10,7 @@ param(
 
 $ErrorActionPreference = "Stop"
 
-$genres = @("Sci-Fi", "Fantasy", "Adventure")
+$genres = @("Sci-Fi", "Fantasy", "Adventure", "Action")
 $allowedPrimary = New-Object System.Collections.Generic.HashSet[string]
 @("US", "GB", "CA") | ForEach-Object { [void]$allowedPrimary.Add($_) }
 
