@@ -1342,6 +1342,13 @@ $html = @'
         `;
       }
 
+      function seasonNumberLabel(season) {
+        const value = season.season ?? season.label ?? "";
+        const numeric = Number(value);
+        if (Number.isFinite(numeric)) return String(numeric);
+        return String(value).replace(/^season\s+/i, "") || "-";
+      }
+
       return `
         <section class="season-detail">
           <h3>Seasons</h3>
@@ -1349,7 +1356,7 @@ $html = @'
             <div class="season-row header"><span>Season</span><span>Episodes</span><span>IMDb avg</span></div>
             ${seasons.map(season => `
               <div class="season-row">
-                <span>${escapeText(season.season ?? "-")}</span>
+                <span>${escapeText(seasonNumberLabel(season))}</span>
                 <span>${escapeText(season.episodeCount ?? "-")}</span>
                 <span class="season-score-empty">${season.score == null ? "Pending" : escapeText(Number(season.score).toFixed(1))}</span>
               </div>
