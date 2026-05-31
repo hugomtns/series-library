@@ -3,8 +3,8 @@ param(
   [string]$FantasyYearDir = "imdb_fantasy_year_files_primary_origin",
   [string]$AdventureYearDir = "imdb_adventure_year_files_primary_origin",
   [string]$CacheDir = "imdb_sci_fi_catalog_cache",
-  [string]$OutCsv = "imdb_scifi_fantasy_series_by_year_all_primary_origin.csv",
-  [string]$OutTxt = "imdb_scifi_fantasy_series_by_year_all_primary_origin.txt"
+  [string]$OutCsv = "scripts/.generated/catalog_source.csv",
+  [string]$OutTxt = "scripts/.generated/catalog_source.txt"
 )
 
 $ErrorActionPreference = "Stop"
@@ -114,6 +114,14 @@ $ranked = foreach ($yearGroup in ($combined | Group-Object Year | Sort-Object { 
     }
 }
 
+$outCsvDir = [io.path]::GetDirectoryName($OutCsv)
+if (-not [string]::IsNullOrWhiteSpace($outCsvDir)) {
+  New-Item -ItemType Directory -Path $outCsvDir -Force | Out-Null
+}
+$outTxtDir = [io.path]::GetDirectoryName($OutTxt)
+if (-not [string]::IsNullOrWhiteSpace($outTxtDir)) {
+  New-Item -ItemType Directory -Path $outTxtDir -Force | Out-Null
+}
 $ranked | Export-Csv -Path $OutCsv -NoTypeInformation -Encoding UTF8
 
 $countsPath = [io.path]::ChangeExtension($OutCsv, ".counts.csv")

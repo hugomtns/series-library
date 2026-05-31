@@ -1,7 +1,7 @@
 param(
-  [string]$SourceCsv = "imdb_scifi_fantasy_series_by_year_all_primary_origin.csv",
+  [string]$SourceCsv = "scripts/.generated/catalog_source.csv",
   [string]$CacheDir = "imdb_sci_fi_catalog_cache",
-  [string]$OutData = "imdb_sci_fi_catalog_data.json",
+  [string]$OutData = "scripts/.generated/catalog_data.json",
   [string]$OutHtml = "series_library.html",
   [int]$ThrottleMilliseconds = 700,
   [switch]$SkipFetch,
@@ -235,6 +235,10 @@ $data = [pscustomobject]@{
 }
 
 $json = $data | ConvertTo-Json -Depth 20
+$outDataDir = [io.path]::GetDirectoryName($OutData)
+if (-not [string]::IsNullOrWhiteSpace($outDataDir)) {
+  New-Item -ItemType Directory -Path $outDataDir -Force | Out-Null
+}
 $json | Set-Content -Path $OutData -Encoding UTF8
 
 if ($SkipHtml) {
@@ -242,8 +246,6 @@ if ($SkipHtml) {
   Write-Host "Skipped HTML page rebuild"
   return
 }
-
-$embeddedJson = $json -replace "</", "<\/"
 
 $html = @'
 <!doctype html>
@@ -867,9 +869,12 @@ $html = @'
     </main>
   </div>
 
-  <script id="catalog-data" type="application/json">__CATALOG_DATA__</script>
-  <script>
-    const data = JSON.parse(document.getElementById("catalog-data").textContent);
+  <script type="module">
+    const response = await fetch("/api/series", { cache: "no-store" });
+    if (!response.ok) {
+      throw new Error(`Catalog request failed: ${response.status}`);
+    }
+    const data = await response.json();
     const byYear = new Map();
     for (const item of data.series) {
       if (!byYear.has(item.year)) byYear.set(item.year, []);
@@ -1206,8 +1211,6 @@ $html = @'
 </body>
 </html>
 '@
-
-$html = $html.Replace("__CATALOG_DATA__", $embeddedJson)
 
 $html | Set-Content -Path $OutHtml -Encoding UTF8
 

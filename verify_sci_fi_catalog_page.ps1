@@ -1,8 +1,12 @@
 $ErrorActionPreference = "Stop"
 
-$data = Get-Content -Path "imdb_sci_fi_catalog_data.json" -Raw | ConvertFrom-Json
 $html = Get-Content -Path "series_library.html" -Raw
-$sourceRows = @(Import-Csv -Path "imdb_scifi_fantasy_series_by_year_all_primary_origin.csv")
+$env:SERIES_LIBRARY_DB = Join-Path (Resolve-Path ".") "series_library.db"
+$dataJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const meta = Object.fromEntries(db.prepare('SELECT key, value FROM metadata').all().map(row => [row.key, row.value])); const rows = db.prepare('SELECT payload_json, imdb_score, vote_count, season_count, season_label, episode_count FROM series ORDER BY start_year ASC, imdb_score DESC, vote_count DESC, title ASC').all(); db.close(); const series = rows.map(row => { const item = JSON.parse(row.payload_json); item.score = row.imdb_score; item.votes = row.vote_count; item.seasons = row.season_count; item.seasonLabel = row.season_label; item.episodes = row.episode_count; return item; }); const yearCounts = new Map(); for (const item of series) yearCounts.set(item.year, (yearCounts.get(item.year) || 0) + 1); process.stdout.write(JSON.stringify({ generatedAt: meta.generatedAt || '', total: series.length, years: Array.from(yearCounts, ([year, count]) => ({ year, count })), series }));"
+if ($LASTEXITCODE -ne 0) {
+  throw "Failed to read catalog from SQLite."
+}
+$data = $dataJson | ConvertFrom-Json
 
 $series = @($data.series)
 $badVotes = @($series | Where-Object { [int]$_.votes -lt 5000 })
@@ -20,7 +24,6 @@ $years = @($data.years)
 [pscustomobject]@{
   Total = $data.total
   SeriesRows = $series.Count
-  SourceRows = $sourceRows.Count
   Years = $years.Count
   FirstYear = ($years | Sort-Object { [int]$_.year } | Select-Object -First 1).year
   LastYear = ($years | Sort-Object { [int]$_.year } | Select-Object -Last 1).year
@@ -42,8 +45,7 @@ $years = @($data.years)
   HasSearch = $html.Contains('id="search"')
 } | Format-List
 
-if ($data.total -ne $sourceRows.Count) { throw "Catalog total does not match source CSV rows." }
-if ($series.Count -ne $sourceRows.Count) { throw "Series rows do not match source CSV rows." }
+if ($data.total -ne $series.Count) { throw "Catalog total does not match SQLite series rows." }
 if ($years.Count -lt 60) { throw "Expected at least 60 years with eligible series after extending to 1960." }
 if ((($years | Sort-Object { [int]$_.year } | Select-Object -First 1).year) -gt 1961) { throw "Expected catalog to include early 1960s entries." }
 if ($badVotes.Count -gt 0) { throw "Found rows below 5000 votes." }

@@ -1,8 +1,9 @@
 const fs = require("node:fs");
 const path = require("node:path");
+const Database = require("better-sqlite3");
 
 const root = path.resolve(__dirname, "..");
-const catalogPath = path.join(root, "imdb_sci_fi_catalog_data.json");
+const dbPath = path.join(root, "series_library.db");
 const cacheDir = path.join(root, "imdb_sci_fi_catalog_cache");
 const currentYear = new Date().getFullYear();
 const batchSize = 5;
@@ -23,6 +24,19 @@ function readJson(filePath) {
 
 function writeJson(filePath, value) {
   fs.writeFileSync(filePath, `${JSON.stringify(value, null, 2)}\n`, "utf8");
+}
+
+function readCatalogItems() {
+  const db = new Database(dbPath, { readonly: true });
+  try {
+    return db.prepare(`
+      SELECT payload_json
+      FROM series
+      ORDER BY start_year ASC, title ASC
+    `).all().map((row) => JSON.parse(row.payload_json));
+  } finally {
+    db.close();
+  }
 }
 
 async function fetchJson(uri) {
@@ -84,9 +98,8 @@ function chunks(values, size) {
 }
 
 async function run() {
-  const catalog = readJson(catalogPath);
   const now = new Date();
-  const unique = new Map((catalog.series || []).map((item) => [item.id, item]));
+  const unique = new Map(readCatalogItems().map((item) => [item.id, item]));
   const staleItems = Array.from(unique.values()).filter((item) => isStale(item, now));
   const batches = chunks(staleItems, batchSize);
   let completed = 0;

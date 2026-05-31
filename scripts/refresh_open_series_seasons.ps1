@@ -42,10 +42,14 @@ function Set-RefreshValue {
 }
 
 $root = Resolve-Path "$PSScriptRoot\.."
-$catalogPath = Join-Path $root "imdb_sci_fi_catalog_data.json"
+$dbPath = Join-Path $root "series_library.db"
 $cacheDir = Join-Path $root "imdb_sci_fi_catalog_cache"
-$catalog = Get-Content -Path $catalogPath -Raw | ConvertFrom-Json
-$openSeries = @($catalog.series | Where-Object { "$($_.years)" -match "-$" })
+$env:SERIES_LIBRARY_DB = $dbPath
+$openSeriesJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const rows = db.prepare('SELECT payload_json FROM series ORDER BY start_year ASC, title ASC').all(); db.close(); const items = rows.map(row => JSON.parse(row.payload_json)).filter(item => String(item.years || '').endsWith('-')); process.stdout.write(JSON.stringify(items));"
+if ($LASTEXITCODE -ne 0) {
+  throw "Failed to read open-ended series from SQLite."
+}
+$openSeries = @($openSeriesJson | ConvertFrom-Json)
 
 Write-StepEvent -Current 0 -Total $openSeries.Count -Message "Refreshing seasons for open-ended series"
 for ($i = 0; $i -lt $openSeries.Count; $i++) {

@@ -2,8 +2,8 @@ param(
   [int]$StartYear = (Get-Date).Year,
   [int]$EndYear = (Get-Date).Year,
   [int]$MaxVoteCount = 4999,
-  [string]$OutJson = "under_5k_near_misses.json",
-  [string]$OutCsv = "under_5k_near_misses.csv",
+  [string]$OutJson = "scripts/.generated/under_5k_near_misses.json",
+  [string]$OutCsv = "scripts/.generated/under_5k_near_misses.csv",
   [switch]$Table,
   [switch]$NonBlocking
 )
@@ -144,6 +144,14 @@ $report = [pscustomobject]@{
   series = $sorted
 }
 
+$outJsonDir = [io.path]::GetDirectoryName($OutJson)
+if (-not [string]::IsNullOrWhiteSpace($outJsonDir)) {
+  New-Item -ItemType Directory -Path $outJsonDir -Force | Out-Null
+}
+$outCsvDir = [io.path]::GetDirectoryName($OutCsv)
+if (-not [string]::IsNullOrWhiteSpace($outCsvDir)) {
+  New-Item -ItemType Directory -Path $outCsvDir -Force | Out-Null
+}
 $report | ConvertTo-Json -Depth 8 | Set-Content -Path $OutJson -Encoding UTF8
 $sorted | Export-Csv -Path $OutCsv -NoTypeInformation -Encoding UTF8
 

@@ -6,5 +6,6 @@ node_modules/
 *.db-wal
 .DS_Store
 Thumbs.db
+scripts/.generated/
 imdb_sci_fi_year_files/
 imdb_sci_fi_year_files_non_animated/

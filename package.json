@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "migrate": "node scripts/migrate_to_sqlite.js",
+    "migrate": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/rebuild_catalog_and_db.ps1",
     "serve": "node series_library_server.js",
-    "test": "node scripts/migrate_to_sqlite.js"
+    "test": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File verify_sci_fi_catalog_page.ps1"
   },
   "keywords": [],
   "author": "",

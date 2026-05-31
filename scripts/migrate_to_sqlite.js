@@ -3,7 +3,10 @@ const path = require("node:path");
 const Database = require("better-sqlite3");
 
 const root = path.resolve(__dirname, "..");
-const inputPath = path.join(root, "imdb_sci_fi_catalog_data.json");
+const inputArgIndex = process.argv.indexOf("--input");
+const inputPath = inputArgIndex >= 0 && process.argv[inputArgIndex + 1]
+  ? path.resolve(process.argv[inputArgIndex + 1])
+  : path.join(root, "scripts", ".generated", "catalog_data.json");
 const dbPath = path.join(root, "series_library.db");
 const cacheDir = path.join(root, "imdb_sci_fi_catalog_cache");
 
