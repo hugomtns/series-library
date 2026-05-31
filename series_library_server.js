@@ -259,7 +259,7 @@ function startUpdate() {
     },
     {
       key: "seasons",
-      label: "Refresh open-ended series seasons",
+      label: "Refresh seasons and episode ratings",
       command: "powershell.exe",
       args: ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "scripts/refresh_open_series_seasons.ps1"],
     },

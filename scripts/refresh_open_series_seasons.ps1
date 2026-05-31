@@ -1,3 +1,8 @@
+param(
+  [string]$TitleId = "",
+  [int]$Limit = 0
+)
+
 $ErrorActionPreference = "Stop"
 
 function Write-StepEvent {
@@ -41,31 +46,55 @@ function Set-RefreshValue {
   $Cached.refresh | Add-Member -NotePropertyName $Name -NotePropertyValue $Value -Force
 }
 
+function Get-Seasons {
+  param([string]$TitleId)
+
+  $response = Invoke-ImdbApi -Uri "https://api.imdbapi.dev/titles/$TitleId/seasons"
+  return @($response.seasons)
+}
+
+function Get-Episodes {
+  param([string]$TitleId)
+
+  $response = Invoke-ImdbApi -Uri "https://api.imdbapi.dev/titles/$TitleId/episodes"
+  return @($response.episodes)
+}
+
 $root = Resolve-Path "$PSScriptRoot\.."
 $dbPath = Join-Path $root "series_library.db"
 $cacheDir = Join-Path $root "imdb_sci_fi_catalog_cache"
 $env:SERIES_LIBRARY_DB = $dbPath
-$openSeriesJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const rows = db.prepare('SELECT payload_json FROM series ORDER BY start_year ASC, title ASC').all(); db.close(); const items = rows.map(row => JSON.parse(row.payload_json)).filter(item => String(item.years || '').endsWith('-')); process.stdout.write(JSON.stringify(items));"
+$seriesJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const rows = db.prepare('SELECT payload_json FROM series ORDER BY start_year ASC, title ASC').all(); db.close(); const items = rows.map(row => JSON.parse(row.payload_json)); process.stdout.write(JSON.stringify(items));"
 if ($LASTEXITCODE -ne 0) {
-  throw "Failed to read open-ended series from SQLite."
+  throw "Failed to read series from SQLite."
 }
-$openSeries = @($openSeriesJson | ConvertFrom-Json)
+$allSeries = @($seriesJson | ConvertFrom-Json)
+if ([string]::IsNullOrWhiteSpace($TitleId)) {
+  $refreshSeries = @($allSeries | Where-Object { "$($_.years)".EndsWith("-") })
+} else {
+  $refreshSeries = @($allSeries | Where-Object { $_.id -eq $TitleId })
+}
+if ($Limit -gt 0) {
+  $refreshSeries = @($refreshSeries | Select-Object -First $Limit)
+}
 
-Write-StepEvent -Current 0 -Total $openSeries.Count -Message "Refreshing seasons for open-ended series"
-for ($i = 0; $i -lt $openSeries.Count; $i++) {
-  $item = $openSeries[$i]
-  Write-StepEvent -Current $i -Total $openSeries.Count -Message "Refreshing seasons: $($item.title)"
+Write-StepEvent -Current 0 -Total $refreshSeries.Count -Message "Refreshing seasons and episode ratings"
+for ($i = 0; $i -lt $refreshSeries.Count; $i++) {
+  $item = $refreshSeries[$i]
+  Write-StepEvent -Current $i -Total $refreshSeries.Count -Message "Refreshing seasons: $($item.title)"
   $cachePath = Join-Path $cacheDir "$($item.id).json"
   if (Test-Path -Path $cachePath) {
     $cached = Get-Content -Path $cachePath -Raw | ConvertFrom-Json
   } else {
-    $cached = [pscustomobject]@{ id = $item.id; detail = $null; seasons = $null }
+    $cached = [pscustomobject]@{ id = $item.id; detail = $null; seasons = $null; episodes = $null }
   }
-  $response = Invoke-ImdbApi -Uri "https://api.imdbapi.dev/titles/$($item.id)/seasons"
-  $cached.seasons = @($response.seasons)
-  Set-RefreshValue -Cached $cached -Name "lastSeasonCheckAt" -Value (Get-Date).ToUniversalTime().ToString("o")
+  $cached.seasons = @(Get-Seasons -TitleId $item.id)
+  $cached | Add-Member -NotePropertyName episodes -NotePropertyValue @(Get-Episodes -TitleId $item.id) -Force
+  $now = (Get-Date).ToUniversalTime().ToString("o")
+  Set-RefreshValue -Cached $cached -Name "lastSeasonCheckAt" -Value $now
+  Set-RefreshValue -Cached $cached -Name "lastEpisodeRatingCheckAt" -Value $now
   $cached | ConvertTo-Json -Depth 20 | Set-Content -Path $cachePath -Encoding UTF8
-  Write-StepEvent -Current ($i + 1) -Total $openSeries.Count -Message "Finished seasons: $($item.title)"
+  Write-StepEvent -Current ($i + 1) -Total $refreshSeries.Count -Message "Finished seasons: $($item.title)"
 }
 
-Write-StepEvent -Current $openSeries.Count -Total $openSeries.Count -Status "complete" -Message "Open-ended seasons refreshed"
+Write-StepEvent -Current $refreshSeries.Count -Total $refreshSeries.Count -Status "complete" -Message "Seasons and episode ratings refreshed"

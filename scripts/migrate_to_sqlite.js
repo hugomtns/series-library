@@ -54,6 +54,62 @@ function readCachedSeasons(imdbId) {
   }
 }
 
+function readCachedEpisodes(imdbId) {
+  const cachePath = path.join(cacheDir, `${imdbId}.json`);
+  if (!fs.existsSync(cachePath)) return [];
+  try {
+    const cache = JSON.parse(fs.readFileSync(cachePath, "utf8").replace(/^\uFEFF/, ""));
+    return Array.isArray(cache.episodes) ? cache.episodes : [];
+  } catch {
+    return [];
+  }
+}
+
+function average(values) {
+  if (!values.length) return null;
+  const total = values.reduce((sum, value) => sum + value, 0);
+  return Number((total / values.length).toFixed(1));
+}
+
+function episodeStatsBySeason(episodes) {
+  const statsBySeason = new Map();
+  for (const episode of episodes) {
+    const seasonNumber = intOrNull(episode.season);
+    if (seasonNumber === null) continue;
+
+    if (!statsBySeason.has(seasonNumber)) {
+      statsBySeason.set(seasonNumber, {
+        ratings: [],
+        voteCount: 0,
+        years: [],
+      });
+    }
+
+    const stats = statsBySeason.get(seasonNumber);
+    const rating = numberOrNull(episode.rating?.aggregateRating);
+    if (rating !== null) stats.ratings.push(rating);
+
+    const votes = intOrNull(episode.rating?.voteCount);
+    if (votes !== null) stats.voteCount += votes;
+
+    const year = intOrNull(episode.releaseDate?.year);
+    if (year !== null) stats.years.push(year);
+  }
+  return statsBySeason;
+}
+
+function minOrNull(values) {
+  return values.length ? Math.min(...values) : null;
+}
+
+function maxOrNull(values) {
+  return values.length ? Math.max(...values) : null;
+}
+
+function firstNonNull(...values) {
+  return values.find((value) => value !== null && value !== undefined) ?? null;
+}
+
 function addColumnIfMissing(table, columnDefinition) {
   try {
     db.exec(`ALTER TABLE ${table} ADD COLUMN ${columnDefinition}`);
@@ -251,19 +307,28 @@ const migrate = db.transaction(() => {
       insertGenre.run(item.id, genre);
     }
 
+    const episodeStats = episodeStatsBySeason(readCachedEpisodes(item.id));
     for (const season of readCachedSeasons(item.id)) {
       const seasonNumber = intOrNull(season.season);
       if (seasonNumber === null) continue;
+      const stats = episodeStats.get(seasonNumber) || { ratings: [], voteCount: 0, years: [] };
+      const seasonScore = firstNonNull(
+        average(stats.ratings),
+        numberOrNull(season.rating?.aggregateRating ?? season.imdbScore ?? season.score)
+      );
       insertSeason.run({
         imdb_id: item.id,
         season_number: seasonNumber,
         label: season.label || `Season ${seasonNumber}`,
         episode_count: intOrNull(season.episodeCount),
-        start_year: intOrNull(season.startYear),
-        end_year: intOrNull(season.endYear),
-        imdb_score: numberOrNull(season.rating?.aggregateRating ?? season.imdbScore ?? season.score),
-        vote_count: intOrNull(season.rating?.voteCount ?? season.votes),
-        payload_json: JSON.stringify(season),
+        start_year: firstNonNull(intOrNull(season.startYear), minOrNull(stats.years)),
+        end_year: firstNonNull(intOrNull(season.endYear), maxOrNull(stats.years)),
+        imdb_score: seasonScore,
+        vote_count: firstNonNull(intOrNull(season.rating?.voteCount ?? season.votes), stats.ratings.length ? stats.voteCount : null),
+        payload_json: JSON.stringify({
+          ...season,
+          episodeRatingCount: stats.ratings.length,
+        }),
       });
     }
   }
