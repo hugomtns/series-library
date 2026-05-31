@@ -1,0 +1,10 @@
+node_modules
+.git
+.vercel
+imdb_*_catalog_cache
+imdb_*_year_files_primary_origin
+scripts/.generated
+series_library.db
+series_library.db-shm
+series_library.db-wal
+*.png
