@@ -957,20 +957,27 @@ $html = @'
       border: 1px solid var(--line);
       border-radius: 8px;
       overflow: hidden;
+      min-width: 430px;
     }
 
     .season-row {
       display: grid;
-      grid-template-columns: 72px minmax(92px, 1fr) 86px 94px;
-      gap: 10px;
+      grid-template-columns: 64px minmax(110px, 1fr) 96px 104px;
+      gap: 14px;
       align-items: center;
-      min-height: 38px;
-      padding: 7px 10px;
+      min-height: 42px;
+      padding: 8px 12px;
       border-top: 1px solid var(--line);
       font-size: 0.84rem;
     }
 
     .season-row:first-child { border-top: 0; }
+
+    .season-row span:nth-child(3),
+    .season-row span:nth-child(4) {
+      justify-self: end;
+      text-align: right;
+    }
 
     .season-row.header {
       min-height: 34px;
@@ -1026,7 +1033,15 @@ $html = @'
       .rating { justify-self: start; }
       .content { padding-left: 12px; padding-right: 12px; }
       .detail-facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-      .season-row { grid-template-columns: 48px minmax(82px, 1fr) 64px 74px; gap: 8px; }
+      .season-table { min-width: 0; }
+      .season-row {
+        grid-template-columns: 46px minmax(72px, 1fr) 58px 64px;
+        gap: 8px;
+        padding: 8px 9px;
+        font-size: 0.78rem;
+      }
+      .season-row.header { font-size: 0.66rem; }
+      .season-score { width: 40px; min-height: 22px; }
     }
   </style>
 </head>
