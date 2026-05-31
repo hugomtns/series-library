@@ -76,10 +76,10 @@ function Get-Episodes {
     }
     $nextPageToken = $response.nextPageToken
     $pageCount++
-  } while (-not [string]::IsNullOrWhiteSpace($nextPageToken) -and $pageCount -lt 100)
+  } while (-not [string]::IsNullOrWhiteSpace($nextPageToken) -and $pageCount -lt 500)
 
-  if ($pageCount -ge 100) {
-    throw "Episode pagination exceeded 100 pages for $TitleId."
+  if ($pageCount -ge 500) {
+    throw "Episode pagination exceeded 500 pages for $TitleId."
   }
 
   return [pscustomobject]@{
