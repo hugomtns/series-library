@@ -58,6 +58,9 @@ $years = @($data.years)
   HasSeriesDetailFooter = $html.Contains('class="series-detail-foot"')
   HasSeriesDetailDone = $html.Contains('id="seriesDetailDone"')
   HasSeriesDetailImdbLink = $html.Contains('<a class="imdb-link fact"')
+  HasSeriesDetailLayout = $html.Contains('class="detail-layout"')
+  HasSeriesDetailInfo = $html.Contains('class="detail-info"')
+  HasDetailDuplicateTags = $html.Contains('class="detail-tags"')
   HasSeasonDetailTable = $html.Contains('class="season-table"')
   HasSeasonPendingState = $html.Contains('Pending')
 } | Format-List
@@ -85,7 +88,11 @@ if (-not $html.Contains('placeholder="Search titles..."')) { throw "Search input
 if ($html.Contains('class="synopsis"')) { throw "Cards should not render synopsis markup." }
 if ($html.Contains('data-search="${escapeText([item.title, item.synopsis')) { throw "Card search should not include synopsis." }
 if (-not $html.Contains('id="seriesDetailModal"')) { throw "Missing series detail modal." }
+if (-not $html.Contains('class="detail-layout"')) { throw "Detail modal should use the poster/info/synopsis/season layout." }
+if (-not $html.Contains('class="detail-info"')) { throw "Detail modal should render card-style series info." }
 if (-not $html.Contains('class="detail-synopsis"')) { throw "Detail modal should render synopsis." }
+if ($html.Contains('class="detail-tags"')) { throw "Detail modal should not render a duplicate genre/tag row." }
+if ($html.Contains('class="detail-fact"')) { throw "Detail modal should not restate card facts as separate metric boxes." }
 if (-not ($html.Contains('role="button"') -and $html.Contains('data-id="${escapeText(item.id)}"'))) { throw "Series cards should be keyboard-openable detail triggers." }
 if ($html.Contains('class="series-detail-foot"')) { throw "Series detail modal should not have a footer action bar." }
 if ($html.Contains('id="seriesDetailDone"')) { throw "Series detail modal should only use the close button." }

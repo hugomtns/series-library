@@ -643,10 +643,11 @@
     .series-detail-backdrop[hidden] { display: none; }
 
     .series-detail-modal {
-      width: min(820px, calc(100vw - 32px));
-      max-height: min(82vh, 820px);
+      width: min(900px, calc(100vw - 32px));
+      height: min(88vh, 860px);
+      max-height: min(88vh, 860px);
       display: grid;
-      grid-template-rows: auto minmax(0, 1fr);
+      grid-template-rows: minmax(0, 1fr);
       border: 1px solid var(--line);
       border-radius: 10px;
       background: var(--panel);
@@ -656,27 +657,19 @@
 
     .series-detail-head {
       position: relative;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 16px;
-      padding: 16px 58px 16px 18px;
-      border-bottom: 1px solid var(--line);
-    }
-
-    .series-detail-title {
-      display: flex;
-      gap: 14px;
-      min-width: 0;
-      align-items: center;
+      min-height: 0;
+      padding: 0;
+      display: none;
     }
 
     .series-detail-poster {
-      width: 58px;
+      width: 100%;
+      height: 100%;
+      min-height: 560px;
       aspect-ratio: 2 / 3;
       flex: 0 0 auto;
       border: 1px solid var(--line);
-      border-radius: 6px;
+      border-radius: 8px;
       background: var(--panel-2);
       overflow: hidden;
     }
@@ -688,30 +681,14 @@
       display: block;
     }
 
-    .series-detail-title h2 {
-      margin: 0;
-      font-size: 1.05rem;
-      line-height: 1.2;
-      letter-spacing: 0;
-    }
-
-    .series-detail-meta {
-      margin-top: 5px;
-      color: var(--muted);
-      font-size: 0.82rem;
-    }
-
     .series-detail-close {
-      position: absolute;
-      top: 14px;
-      right: 14px;
       width: 34px;
       height: 34px;
       display: grid;
       place-items: center;
-      border: 1px solid oklch(82% 0.014 250);
-      border-radius: 8px;
-      background: oklch(97.5% 0.007 250);
+      border: 0;
+      border-radius: 999px;
+      background: transparent;
       color: var(--ink);
       cursor: pointer;
       font: inherit;
@@ -721,7 +698,7 @@
 
     .series-detail-close:hover,
     .series-detail-close:focus-visible {
-      border-color: var(--focus);
+      background: var(--panel-2);
       outline: none;
     }
 
@@ -732,48 +709,74 @@
       gap: 16px;
     }
 
-    .detail-facts {
+    .detail-layout {
       display: grid;
-      grid-template-columns: repeat(4, minmax(0, 1fr));
-      gap: 8px;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      grid-template-areas:
+        "poster info"
+        "poster synopsis"
+        "seasons seasons";
+      gap: 18px;
+      align-items: stretch;
     }
 
-    .detail-fact {
+    .detail-poster-frame {
+      grid-area: poster;
+      min-height: 560px;
+    }
+
+    .detail-info {
+      grid-area: info;
       display: grid;
-      gap: 2px;
-      min-height: 58px;
-      padding: 9px;
+      gap: 10px;
+      align-content: start;
+      min-height: 136px;
+      padding: 16px;
       border: 1px solid var(--line);
       border-radius: 8px;
-      background: var(--panel-2);
+      background: oklch(98.6% 0.007 250);
     }
 
-    .detail-fact span {
-      color: var(--muted);
-      font-size: 0.72rem;
-      font-weight: 650;
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
+    .detail-info .title {
+      font-size: 1.05rem;
     }
 
-    .detail-fact strong {
-      font-size: 0.9rem;
-      line-height: 1.25;
-      overflow-wrap: anywhere;
+    .detail-info .title-row {
+      grid-template-columns: minmax(0, 1fr) max-content;
+    }
+
+    .detail-title-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .detail-info .card-actions {
+      margin-top: 0;
     }
 
     .detail-synopsis {
+      grid-area: synopsis;
       margin: 0;
+      min-height: 400px;
+      padding: 16px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: oklch(98.6% 0.007 250);
       color: oklch(35% 0.018 250);
       font-size: 0.9rem;
       line-height: 1.5;
-      max-width: 75ch;
+      max-width: none;
     }
 
-    .detail-tags {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
+    .detail-season-panel {
+      grid-area: seasons;
+      min-width: 0;
+      padding: 16px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: oklch(98.6% 0.007 250);
+      overflow: auto;
     }
 
     .season-detail {
@@ -1001,7 +1004,30 @@
       .title-row { grid-template-columns: 1fr; }
       .rating { justify-self: start; }
       .content { padding-left: 12px; padding-right: 12px; }
-      .detail-facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .series-detail-body { padding: 14px; }
+      .detail-layout {
+        grid-template-columns: 45% minmax(0, 1fr);
+        grid-template-areas:
+          "poster info"
+          "synopsis synopsis"
+          "seasons seasons";
+        gap: 12px;
+      }
+      .detail-poster-frame,
+      .series-detail-poster {
+        min-height: 220px;
+      }
+      .detail-info {
+        min-height: 220px;
+        padding: 14px;
+      }
+      .detail-info .title-row { grid-template-columns: 1fr; }
+      .detail-title-actions { justify-content: space-between; }
+      .detail-synopsis { min-height: 0; }
+      .detail-synopsis,
+      .detail-season-panel {
+        padding: 14px;
+      }
       .season-table { min-width: 0; }
       .season-row {
         grid-template-columns: 46px minmax(72px, 1fr) 58px 64px;
@@ -1463,29 +1489,33 @@
 
     function openSeriesDetail(item, trigger) {
       lastSeriesTrigger = trigger || null;
-      seriesDetailHead.innerHTML = `
-        <div class="series-detail-title">
-          ${renderDetailPoster(item)}
-          <div>
-            <h2 id="seriesDetailTitle">${escapeText(item.title)}</h2>
-            <div class="series-detail-meta">${escapeText(item.years)} · ${escapeText(item.primaryOrigin)} · IMDb ${escapeText(Number(item.score).toFixed(1))}</div>
+      seriesDetailHead.innerHTML = "";
+      seriesDetailBody.innerHTML = `
+        <div class="detail-layout">
+          <div class="detail-poster-frame">${renderDetailPoster(item)}</div>
+          <section class="detail-info" aria-labelledby="seriesDetailTitle">
+            <div class="title-row">
+              <h2 class="title" id="seriesDetailTitle">${escapeText(item.title)}</h2>
+              <div class="detail-title-actions">
+                <div class="rating" title="IMDb rating" style="${ratingTone(item.score)}">IMDb ${escapeText(Number(item.score).toFixed(1))}</div>
+                <button type="button" class="series-detail-close" id="seriesDetailClose" aria-label="Close series details">×</button>
+              </div>
+            </div>
+            <div class="facts">
+              ${(item.categories || []).map(category => `<span class="fact category-chip">${escapeText(category)}</span>`).join("")}
+              <span class="fact">${escapeText(item.seasonLabel || item.seasons || "-")}</span>
+              <span class="fact">${escapeText(item.years || "-")}</span>
+              <span class="fact">${escapeText(item.primaryOrigin || "-")}</span>
+            </div>
+            <div class="card-actions">
+              <span class="rank">#${escapeText(item.rank || "-")} in ${escapeText(item.year || "-")}</span>
+            </div>
+          </section>
+          <p class="detail-synopsis">${escapeText(item.synopsis || "No synopsis available.")}</p>
+          <div class="detail-season-panel">
+            ${renderSeasonDetails(item)}
           </div>
         </div>
-        <button type="button" class="series-detail-close" id="seriesDetailClose" aria-label="Close series details">×</button>
-      `;
-      seriesDetailBody.innerHTML = `
-        <div class="detail-facts">
-          <div class="detail-fact"><span>Seasons</span><strong>${escapeText(item.seasonLabel || item.seasons || "-")}</strong></div>
-          <div class="detail-fact"><span>Episodes</span><strong>${escapeText(item.episodes || "-")}</strong></div>
-          <div class="detail-fact"><span>Origin</span><strong>${escapeText(item.countries || item.primaryOrigin || "-")}</strong></div>
-          <div class="detail-fact"><span>Votes</span><strong>${escapeText(formatter.format(item.votes || 0))}</strong></div>
-        </div>
-        <p class="detail-synopsis">${escapeText(item.synopsis || "No synopsis available.")}</p>
-        <div class="detail-tags">
-          ${(item.categories || []).map(category => `<span class="fact category-chip">${escapeText(category)}</span>`).join("")}
-          ${(item.genres || []).map(genre => `<span class="fact">${escapeText(genre)}</span>`).join("")}
-        </div>
-        ${renderSeasonDetails(item)}
       `;
       seriesDetailModal.hidden = false;
       document.getElementById("seriesDetailClose").focus();
