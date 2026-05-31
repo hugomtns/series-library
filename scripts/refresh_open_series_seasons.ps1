@@ -1,6 +1,8 @@
 param(
   [string]$TitleId = "",
-  [int]$Limit = 0
+  [int]$Limit = 0,
+  [switch]$All,
+  [switch]$SkipExisting
 )
 
 $ErrorActionPreference = "Stop"
@@ -58,6 +60,7 @@ function Get-Episodes {
 
   $episodes = @()
   $nextPageToken = $null
+  $totalCount = $null
   $pageCount = 0
 
   do {
@@ -68,6 +71,9 @@ function Get-Episodes {
 
     $response = Invoke-ImdbApi -Uri $uri
     $episodes += @($response.episodes)
+    if ($null -ne $response.totalCount) {
+      $totalCount = [int]$response.totalCount
+    }
     $nextPageToken = $response.nextPageToken
     $pageCount++
   } while (-not [string]::IsNullOrWhiteSpace($nextPageToken) -and $pageCount -lt 100)
@@ -76,14 +82,43 @@ function Get-Episodes {
     throw "Episode pagination exceeded 100 pages for $TitleId."
   }
 
-  return $episodes
+  return [pscustomobject]@{
+    episodes = $episodes
+    totalCount = $totalCount
+  }
+}
+
+function Get-ExpectedEpisodeCount {
+  param([object[]]$Seasons)
+
+  $total = 0
+  foreach ($season in @($Seasons)) {
+    $count = 0
+    if ([int]::TryParse("$($season.episodeCount)", [ref]$count)) {
+      $total += $count
+    }
+  }
+  return $total
+}
+
+function Test-HasCompleteEpisodeCache {
+  param([object]$Cached)
+
+  $episodeCount = @($Cached.episodes).Count
+  if ($episodeCount -eq 0) { return $false }
+  if ($null -ne $Cached.episodeTotalCount -and $episodeCount -ge [int]$Cached.episodeTotalCount) {
+    return $true
+  }
+
+  $expectedCount = Get-ExpectedEpisodeCount -Seasons @($Cached.seasons)
+  return $expectedCount -gt 0 -and $episodeCount -ge $expectedCount
 }
 
 $root = Resolve-Path "$PSScriptRoot\.."
 $dbPath = Join-Path $root "series_library.db"
 $cacheDir = Join-Path $root "imdb_sci_fi_catalog_cache"
 $env:SERIES_LIBRARY_DB = $dbPath
-$seriesJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const rows = db.prepare('SELECT payload_json FROM series ORDER BY start_year ASC, title ASC').all(); db.close(); const titleId = process.argv[1] || ''; const limit = Number(process.argv[2] || 0); let items = rows.map(row => JSON.parse(row.payload_json)); items = titleId ? items.filter(item => item.id === titleId) : items.filter(item => String(item.years || '').endsWith('-')); if (limit > 0) items = items.slice(0, limit); process.stdout.write(JSON.stringify(items));" $TitleId $Limit
+$seriesJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const rows = db.prepare('SELECT payload_json FROM series ORDER BY start_year ASC, title ASC').all(); db.close(); const titleId = process.argv[1] || ''; const limit = Number(process.argv[2] || 0); const all = process.argv[3] === 'true'; let items = rows.map(row => JSON.parse(row.payload_json)); items = titleId ? items.filter(item => item.id === titleId) : all ? items : items.filter(item => String(item.years || '').endsWith('-')); if (limit > 0) items = items.slice(0, limit); process.stdout.write(JSON.stringify(items));" $TitleId $Limit $All.IsPresent
 if ($LASTEXITCODE -ne 0) {
   throw "Failed to read series from SQLite."
 }
@@ -99,8 +134,15 @@ for ($i = 0; $i -lt $refreshSeries.Count; $i++) {
   } else {
     $cached = [pscustomobject]@{ id = $item.id; detail = $null; seasons = $null; episodes = $null }
   }
+  if ($SkipExisting -and (Test-HasCompleteEpisodeCache -Cached $cached)) {
+    Write-StepEvent -Current ($i + 1) -Total $refreshSeries.Count -Message "Skipped cached seasons: $($item.title)"
+    continue
+  }
+
   $cached.seasons = @(Get-Seasons -TitleId $item.id)
-  $cached | Add-Member -NotePropertyName episodes -NotePropertyValue @(Get-Episodes -TitleId $item.id) -Force
+  $episodeResult = Get-Episodes -TitleId $item.id
+  $cached | Add-Member -NotePropertyName episodes -NotePropertyValue @($episodeResult.episodes) -Force
+  $cached | Add-Member -NotePropertyName episodeTotalCount -NotePropertyValue $episodeResult.totalCount -Force
   $now = (Get-Date).ToUniversalTime().ToString("o")
   Set-RefreshValue -Cached $cached -Name "lastSeasonCheckAt" -Value $now
   Set-RefreshValue -Cached $cached -Name "lastEpisodeRatingCheckAt" -Value $now
