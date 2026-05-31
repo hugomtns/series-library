@@ -58,6 +58,8 @@ $years = @($data.years)
   HasSeriesDetailFooter = $html.Contains('class="series-detail-foot"')
   HasSeriesDetailDone = $html.Contains('id="seriesDetailDone"')
   HasSeriesDetailImdbLink = $html.Contains('<a class="imdb-link fact"')
+  HasSeasonDetailTable = $html.Contains('class="season-table"')
+  HasSeasonPendingState = $html.Contains('Pending')
 } | Format-List
 
 if ($data.total -ne $series.Count) { throw "Catalog total does not match SQLite series rows." }
@@ -88,3 +90,5 @@ if (-not ($html.Contains('role="button"') -and $html.Contains('data-id="${escape
 if ($html.Contains('class="series-detail-foot"')) { throw "Series detail modal should not have a footer action bar." }
 if ($html.Contains('id="seriesDetailDone"')) { throw "Series detail modal should only use the close button." }
 if ($html.Contains('<a class="imdb-link fact"')) { throw "Series detail modal should not duplicate the IMDb link." }
+if (-not $html.Contains('class="season-table"')) { throw "Series detail modal should render season details." }
+if (-not $html.Contains('Pending')) { throw "Season ratings should show a pending state until rating fetch is implemented." }

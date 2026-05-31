@@ -940,6 +940,52 @@ $html = @'
       gap: 6px;
     }
 
+    .season-detail {
+      display: grid;
+      gap: 8px;
+    }
+
+    .season-detail h3 {
+      margin: 0;
+      font-size: 0.95rem;
+      line-height: 1.25;
+      letter-spacing: 0;
+    }
+
+    .season-table {
+      display: grid;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .season-row {
+      display: grid;
+      grid-template-columns: minmax(84px, 1fr) 86px 94px;
+      gap: 10px;
+      align-items: center;
+      min-height: 38px;
+      padding: 7px 10px;
+      border-top: 1px solid var(--line);
+      font-size: 0.84rem;
+    }
+
+    .season-row:first-child { border-top: 0; }
+
+    .season-row.header {
+      min-height: 34px;
+      background: var(--panel-2);
+      color: var(--muted);
+      font-size: 0.72rem;
+      font-weight: 750;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    .season-score-empty {
+      color: var(--muted);
+    }
+
     body.searching .empty.visible { display: block; }
     body.searching .year-section.empty-year { display: none; }
     .card.hidden { display: none; }
@@ -966,6 +1012,7 @@ $html = @'
       .rating { justify-self: start; }
       .content { padding-left: 12px; padding-right: 12px; }
       .detail-facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .season-row { grid-template-columns: minmax(80px, 1fr) 72px 74px; }
     }
   </style>
 </head>
@@ -1284,6 +1331,34 @@ $html = @'
       return `<div class="series-detail-poster"><img src="${escapeText(item.poster)}" alt="Poster for ${escapeText(item.title)}"></div>`;
     }
 
+    function renderSeasonDetails(item) {
+      const seasons = item.seasonDetails || [];
+      if (!seasons.length) {
+        return `
+          <section class="season-detail">
+            <h3>Seasons</h3>
+            <p class="update-log-empty">No season details available.</p>
+          </section>
+        `;
+      }
+
+      return `
+        <section class="season-detail">
+          <h3>Seasons</h3>
+          <div class="season-table">
+            <div class="season-row header"><span>Season</span><span>Episodes</span><span>IMDb avg</span></div>
+            ${seasons.map(season => `
+              <div class="season-row">
+                <span>${escapeText(season.season ?? "-")}</span>
+                <span>${escapeText(season.episodeCount ?? "-")}</span>
+                <span class="season-score-empty">${season.score == null ? "Pending" : escapeText(Number(season.score).toFixed(1))}</span>
+              </div>
+            `).join("")}
+          </div>
+        </section>
+      `;
+    }
+
     function openSeriesDetail(item, trigger) {
       lastSeriesTrigger = trigger || null;
       seriesDetailHead.innerHTML = `
@@ -1308,6 +1383,7 @@ $html = @'
           ${(item.categories || []).map(category => `<span class="fact category-chip">${escapeText(category)}</span>`).join("")}
           ${(item.genres || []).map(genre => `<span class="fact">${escapeText(genre)}</span>`).join("")}
         </div>
+        ${renderSeasonDetails(item)}
       `;
       seriesDetailModal.hidden = false;
       document.getElementById("seriesDetailClose").focus();
