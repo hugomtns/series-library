@@ -64,19 +64,11 @@ $root = Resolve-Path "$PSScriptRoot\.."
 $dbPath = Join-Path $root "series_library.db"
 $cacheDir = Join-Path $root "imdb_sci_fi_catalog_cache"
 $env:SERIES_LIBRARY_DB = $dbPath
-$seriesJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const rows = db.prepare('SELECT payload_json FROM series ORDER BY start_year ASC, title ASC').all(); db.close(); const items = rows.map(row => JSON.parse(row.payload_json)); process.stdout.write(JSON.stringify(items));"
+$seriesJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const rows = db.prepare('SELECT payload_json FROM series ORDER BY start_year ASC, title ASC').all(); db.close(); const titleId = process.argv[1] || ''; const limit = Number(process.argv[2] || 0); let items = rows.map(row => JSON.parse(row.payload_json)); items = titleId ? items.filter(item => item.id === titleId) : items.filter(item => String(item.years || '').endsWith('-')); if (limit > 0) items = items.slice(0, limit); process.stdout.write(JSON.stringify(items));" $TitleId $Limit
 if ($LASTEXITCODE -ne 0) {
   throw "Failed to read series from SQLite."
 }
-$allSeries = @($seriesJson | ConvertFrom-Json)
-if ([string]::IsNullOrWhiteSpace($TitleId)) {
-  $refreshSeries = @($allSeries | Where-Object { "$($_.years)".EndsWith("-") })
-} else {
-  $refreshSeries = @($allSeries | Where-Object { $_.id -eq $TitleId })
-}
-if ($Limit -gt 0) {
-  $refreshSeries = @($refreshSeries | Select-Object -First $Limit)
-}
+$refreshSeries = @($seriesJson | ConvertFrom-Json)
 
 Write-StepEvent -Current 0 -Total $refreshSeries.Count -Message "Refreshing seasons and episode ratings"
 for ($i = 0; $i -lt $refreshSeries.Count; $i++) {
