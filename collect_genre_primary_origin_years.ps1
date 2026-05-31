@@ -6,6 +6,7 @@ param(
   [int]$EndYear = (Get-Date).Year,
   [string]$OutYearDir = "imdb_fantasy_year_files_primary_origin",
   [int]$ThrottleMilliseconds = 1200,
+  [switch]$SkipJson,
   [switch]$Force
 )
 
@@ -183,6 +184,8 @@ foreach ($year in $StartYear..$EndYear) {
   )
 
   $sortedRows | Export-Csv -Path $yearCsv -NoTypeInformation -Encoding UTF8
-  $sortedRows | ConvertTo-Json -Depth 8 | Set-Content -Path $yearJson -Encoding UTF8
+  if (-not $SkipJson) {
+    $sortedRows | ConvertTo-Json -Depth 8 | Set-Content -Path $yearJson -Encoding UTF8
+  }
   Write-Host "Wrote $($sortedRows.Count) $GenreLabel rows for $year."
 }

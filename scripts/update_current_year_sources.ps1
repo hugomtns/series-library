@@ -36,6 +36,7 @@ for ($i = 0; $i -lt $tasks.Count; $i++) {
     -OutYearDir $task.OutYearDir `
     -StartYear $year `
     -EndYear $year `
+    -SkipJson `
     -Force
   Write-StepEvent -Current ($i + 1) -Total $tasks.Count -Message "Finished $($task.GenreLabel) $year"
 }
