@@ -750,14 +750,6 @@ $html = @'
       color: oklch(34% 0.055 250);
     }
 
-    .synopsis {
-      margin: 0;
-      color: oklch(35% 0.018 250);
-      font-size: 0.86rem;
-      line-height: 1.42;
-      max-width: 72ch;
-    }
-
     .card-actions {
       display: flex;
       justify-content: space-between;
@@ -861,7 +853,7 @@ $html = @'
     </aside>
     <main class="content">
       <div class="toolbar">
-        <input class="search" id="search" type="search" placeholder="Search title, country, synopsis..." aria-label="Search series">
+        <input class="search" id="search" type="search" placeholder="Search titles..." aria-label="Search titles">
         <div class="meta-line" id="metaLine"></div>
       </div>
       <div class="empty" id="empty">No matching series.</div>
@@ -1072,7 +1064,7 @@ $html = @'
         </div>
         <div class="grid">
           ${items.map(item => `
-            <article class="card" data-categories="${escapeText(item.categories.join(";"))}" data-search="${escapeText([item.title, item.synopsis, item.countries, item.genres.join(" "), item.categories.join(" ")].join(" ").toLowerCase())}">
+            <article class="card" data-categories="${escapeText(item.categories.join(";"))}" data-search="${escapeText(item.title.toLowerCase())}">
               ${renderPoster(item)}
               <div class="card-main">
                 <div class="card-top">
@@ -1087,7 +1079,6 @@ $html = @'
                     <span class="fact">${escapeText(item.primaryOrigin)}</span>
                   </div>
                 </div>
-                <p class="synopsis">${escapeText(item.synopsis)}</p>
                 <div class="card-actions">
                   <span class="rank">#${item.rank} in ${item.year}</span>
                   <a class="imdb-link" href="${escapeText(item.imdbUrl)}" target="_blank" rel="noreferrer">IMDb</a>

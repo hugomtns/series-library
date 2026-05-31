@@ -43,6 +43,9 @@ $years = @($data.years)
   HasDecadeGroups = $html.Contains('"decade-group"')
   HasPosterMarkup = $html.Contains('class="poster"')
   HasSearch = $html.Contains('id="search"')
+  HasTitleSearchPlaceholder = $html.Contains('placeholder="Search titles..."')
+  HasSynopsisMarkup = $html.Contains('class="synopsis"')
+  SearchIncludesSynopsis = $html.Contains('item.synopsis')
 } | Format-List
 
 if ($data.total -ne $series.Count) { throw "Catalog total does not match SQLite series rows." }
@@ -61,3 +64,6 @@ if (-not $html.Contains('id="categoryFilter"')) { throw "Missing category filter
 if (-not $html.Contains('"decade-group"')) { throw "Missing decade group renderer." }
 if (-not $html.Contains('class="poster"')) { throw "Missing poster markup." }
 if (-not $html.Contains('id="search"')) { throw "Missing search input." }
+if (-not $html.Contains('placeholder="Search titles..."')) { throw "Search input should be title-focused." }
+if ($html.Contains('class="synopsis"')) { throw "Cards should not render synopsis markup." }
+if ($html.Contains('item.synopsis')) { throw "Card search should not include synopsis." }
