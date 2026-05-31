@@ -91,4 +91,5 @@ if ($html.Contains('class="series-detail-foot"')) { throw "Series detail modal s
 if ($html.Contains('id="seriesDetailDone"')) { throw "Series detail modal should only use the close button." }
 if ($html.Contains('<a class="imdb-link fact"')) { throw "Series detail modal should not duplicate the IMDb link." }
 if (-not $html.Contains('class="season-table"')) { throw "Series detail modal should render season details." }
+if (-not $html.Contains('<span>Year</span>')) { throw "Series detail modal should render season years." }
 if (-not $html.Contains('Pending')) { throw "Season ratings should show a pending state when rating data is unavailable." }

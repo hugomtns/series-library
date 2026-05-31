@@ -961,7 +961,7 @@ $html = @'
 
     .season-row {
       display: grid;
-      grid-template-columns: minmax(84px, 1fr) 86px 94px;
+      grid-template-columns: 72px minmax(92px, 1fr) 86px 94px;
       gap: 10px;
       align-items: center;
       min-height: 38px;
@@ -1012,7 +1012,7 @@ $html = @'
       .rating { justify-self: start; }
       .content { padding-left: 12px; padding-right: 12px; }
       .detail-facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-      .season-row { grid-template-columns: minmax(80px, 1fr) 72px 74px; }
+      .season-row { grid-template-columns: 48px minmax(82px, 1fr) 64px 74px; gap: 8px; }
     }
   </style>
 </head>
@@ -1349,14 +1349,26 @@ $html = @'
         return String(value).replace(/^season\s+/i, "") || "-";
       }
 
+      function seasonYearLabel(season) {
+        const startYear = Number(season.startYear);
+        const endYear = Number(season.endYear);
+        if (Number.isFinite(startYear) && Number.isFinite(endYear) && startYear !== endYear) {
+          return `${startYear}-${endYear}`;
+        }
+        if (Number.isFinite(startYear)) return String(startYear);
+        if (Number.isFinite(endYear)) return String(endYear);
+        return "-";
+      }
+
       return `
         <section class="season-detail">
           <h3>Seasons</h3>
           <div class="season-table">
-            <div class="season-row header"><span>Season</span><span>Episodes</span><span>IMDb avg</span></div>
+            <div class="season-row header"><span>Season</span><span>Year</span><span>Episodes</span><span>IMDb avg</span></div>
             ${seasons.map(season => `
               <div class="season-row">
                 <span>${escapeText(seasonNumberLabel(season))}</span>
+                <span>${escapeText(seasonYearLabel(season))}</span>
                 <span>${escapeText(season.episodeCount ?? "-")}</span>
                 <span class="season-score-empty">${season.score == null ? "Pending" : escapeText(Number(season.score).toFixed(1))}</span>
               </div>
