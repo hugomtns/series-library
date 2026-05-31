@@ -33,5 +33,8 @@ Write-StepEvent -Current 1 -Total 3 -Message "Rebuilding catalog JSON"
 
 Write-StepEvent -Current 2 -Total 3 -Message "Migrating to SQLite"
 & node "$root\scripts\migrate_to_sqlite.js" --input $catalogJson
+if ($LASTEXITCODE -ne 0) {
+  throw "SQLite migration failed."
+}
 
 Write-StepEvent -Current 3 -Total 3 -Status "complete" -Message "Database rebuilt"

@@ -74,6 +74,7 @@ function average(values) {
 function episodeStatsBySeason(episodes) {
   const statsBySeason = new Map();
   for (const episode of episodes) {
+    if (!episode) continue;
     const seasonNumber = intOrNull(episode.season);
     if (seasonNumber === null) continue;
 
