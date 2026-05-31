@@ -56,8 +56,27 @@ function Get-Seasons {
 function Get-Episodes {
   param([string]$TitleId)
 
-  $response = Invoke-ImdbApi -Uri "https://api.imdbapi.dev/titles/$TitleId/episodes"
-  return @($response.episodes)
+  $episodes = @()
+  $nextPageToken = $null
+  $pageCount = 0
+
+  do {
+    $uri = "https://api.imdbapi.dev/titles/$TitleId/episodes"
+    if (-not [string]::IsNullOrWhiteSpace($nextPageToken)) {
+      $uri = "$uri`?pageToken=$([System.Uri]::EscapeDataString($nextPageToken))"
+    }
+
+    $response = Invoke-ImdbApi -Uri $uri
+    $episodes += @($response.episodes)
+    $nextPageToken = $response.nextPageToken
+    $pageCount++
+  } while (-not [string]::IsNullOrWhiteSpace($nextPageToken) -and $pageCount -lt 100)
+
+  if ($pageCount -ge 100) {
+    throw "Episode pagination exceeded 100 pages for $TitleId."
+  }
+
+  return $episodes
 }
 
 $root = Resolve-Path "$PSScriptRoot\.."
