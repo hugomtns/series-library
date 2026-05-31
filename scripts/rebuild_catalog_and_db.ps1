@@ -18,17 +18,12 @@ function Write-StepEvent {
 }
 
 $root = Resolve-Path "$PSScriptRoot\.."
-$htmlPath = Join-Path $root "series_library.html"
-$htmlSnapshot = if (Test-Path -Path $htmlPath) { Get-Content -Path $htmlPath -Raw } else { $null }
 
 Write-StepEvent -Current 0 -Total 3 -Message "Combining genre sources"
 & "$root\build_combined_genre_catalog_source.ps1"
 
 Write-StepEvent -Current 1 -Total 3 -Message "Rebuilding catalog JSON"
-& "$root\build_sci_fi_catalog_page.ps1"
-if ($null -ne $htmlSnapshot) {
-  $htmlSnapshot | Set-Content -Path $htmlPath -Encoding UTF8
-}
+& "$root\build_sci_fi_catalog_page.ps1" -SkipHtml
 
 Write-StepEvent -Current 2 -Total 3 -Message "Migrating to SQLite"
 & node "$root\scripts\migrate_to_sqlite.js"

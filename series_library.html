@@ -226,9 +226,10 @@
 
     .update-step {
       display: grid;
-      grid-template-columns: 50px 48px;
+      grid-template-columns: 1fr;
       align-items: center;
       gap: 6px;
+      width: 72px;
       font-size: 12px;
     }
 
@@ -239,9 +240,13 @@
       color: var(--muted);
     }
 
-    .update-step-row .update-percent { display: none; }
+    .update-step-row .update-percent {
+      color: var(--ink);
+      font-variant-numeric: tabular-nums;
+    }
 
     .progress-track {
+      display: none;
       height: 5px;
       overflow: hidden;
       border-radius: 999px;
@@ -835,20 +840,24 @@
             <button type="button" class="update-button" id="updateButton">Update library</button>
             <div class="update-status" id="updateStatus"></div>
             <div class="update-panel" id="updatePanel" hidden>
+              <div class="update-step" data-step="nearMisses">
+                <div class="update-step-row"><span>Near</span><span class="update-percent">0/0</span></div>
+                <div class="progress-track"><div class="progress-fill"></div></div>
+              </div>
               <div class="update-step" data-step="newSeries">
-                <div class="update-step-row"><span>New</span><span class="update-percent">0%</span></div>
+                <div class="update-step-row"><span>New</span><span class="update-percent">0/0</span></div>
                 <div class="progress-track"><div class="progress-fill"></div></div>
               </div>
               <div class="update-step" data-step="seasons">
-                <div class="update-step-row"><span>Seasons</span><span class="update-percent">0%</span></div>
+                <div class="update-step-row"><span>Seasons</span><span class="update-percent">0/0</span></div>
                 <div class="progress-track"><div class="progress-fill"></div></div>
               </div>
               <div class="update-step" data-step="ratings">
-                <div class="update-step-row"><span>Ratings</span><span class="update-percent">0%</span></div>
+                <div class="update-step-row"><span>Ratings</span><span class="update-percent">0/0</span></div>
                 <div class="progress-track"><div class="progress-fill"></div></div>
               </div>
               <div class="update-step" data-step="rebuild">
-                <div class="update-step-row"><span>DB</span><span class="update-percent">0%</span></div>
+                <div class="update-step-row"><span>DB</span><span class="update-percent">0/0</span></div>
                 <div class="progress-track"><div class="progress-fill"></div></div>
               </div>
             </div>
@@ -37154,11 +37163,12 @@
       for (const [key, step] of Object.entries(run.steps || {})) {
         const element = updatePanel.querySelector(`[data-step="${key}"]`);
         if (!element) continue;
-        const total = Math.max(1, Number(step.total) || 1);
+        const displayTotal = Math.max(0, Number(step.total) || 0);
+        const total = Math.max(1, displayTotal || 1);
         const current = Math.max(0, Number(step.current) || 0);
         const percent = Math.max(0, Math.min(100, Math.round((current / total) * 100)));
         element.querySelector(".progress-fill").style.width = `${percent}%`;
-        element.querySelector(".update-percent").textContent = step.status === "complete" ? "Done" : `${percent}%`;
+        element.querySelector(".update-percent").textContent = step.status === "complete" ? `${displayTotal}/${displayTotal}` : `${current}/${displayTotal}`;
       }
 
       if (run.status === "complete") {

@@ -209,7 +209,8 @@ function startUpdate() {
     id: Date.now(),
     status: "running",
     steps: {
-      newSeries: { label: "New series", current: 0, total: 3, status: "running" },
+      nearMisses: { label: "Near misses", current: 0, total: 1, status: "running" },
+      newSeries: { label: "New series", current: 0, total: 3, status: "pending" },
       seasons: { label: "Seasons", current: 0, total: 1, status: "pending" },
       ratings: { label: "Ratings", current: 0, total: 1, status: "pending" },
       rebuild: { label: "Rebuild database", current: 0, total: 1, status: "pending" },
@@ -219,6 +220,12 @@ function startUpdate() {
   sendEvent({ type: "update", run });
 
   const commands = [
+    {
+      key: "nearMisses",
+      label: "Build under-5k near-miss report",
+      command: "powershell.exe",
+      args: ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "scripts/preview_under_5k_near_misses.ps1", "-NonBlocking"],
+    },
     {
       key: "newSeries",
       label: "Refresh current-year genre searches",
@@ -234,8 +241,8 @@ function startUpdate() {
     {
       key: "ratings",
       label: "Refresh existing ratings",
-      command: "powershell.exe",
-      args: ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "scripts/refresh_existing_ratings.ps1"],
+      command: "node",
+      args: ["scripts/refresh_existing_ratings.js"],
     },
     {
       key: "rebuild",

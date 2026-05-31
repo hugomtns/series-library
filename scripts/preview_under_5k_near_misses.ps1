@@ -1,7 +1,11 @@
 param(
   [int]$StartYear = (Get-Date).Year,
   [int]$EndYear = (Get-Date).Year,
-  [int]$MaxVoteCount = 4999
+  [int]$MaxVoteCount = 4999,
+  [string]$OutJson = "under_5k_near_misses.json",
+  [string]$OutCsv = "under_5k_near_misses.csv",
+  [switch]$Table,
+  [switch]$NonBlocking
 )
 
 $ErrorActionPreference = "Stop"
@@ -10,11 +14,39 @@ $genres = @("Sci-Fi", "Fantasy", "Adventure")
 $allowedPrimary = New-Object System.Collections.Generic.HashSet[string]
 @("US", "GB", "CA") | ForEach-Object { [void]$allowedPrimary.Add($_) }
 
+function Write-StepEvent {
+  param(
+    [int]$Current,
+    [int]$Total,
+    [string]$Status = "running",
+    [string]$Message = ""
+  )
+
+  [pscustomobject]@{
+    step = "nearMisses"
+    current = $Current
+    total = $Total
+    status = $Status
+    message = $Message
+  } | ConvertTo-Json -Compress
+}
+
 function Invoke-ImdbApi {
   param([string]$Uri)
-  $result = Invoke-RestMethod -Uri $Uri -Method Get -TimeoutSec 45
-  Start-Sleep -Milliseconds 700
-  return $result
+  $maxAttempts = if ($NonBlocking) { 1 } else { 4 }
+  for ($attempt = 1; $attempt -le $maxAttempts; $attempt++) {
+    try {
+      $result = Invoke-RestMethod -Uri $Uri -Method Get -TimeoutSec 45
+      Start-Sleep -Milliseconds 900
+      return $result
+    } catch {
+      if ($attempt -eq $maxAttempts) {
+        if ($NonBlocking) { return $null }
+        throw
+      }
+      Start-Sleep -Seconds ([math]::Min(60, 10 * $attempt))
+    }
+  }
 }
 
 function Get-Candidates {
@@ -28,6 +60,7 @@ function Get-Candidates {
       $uri += "&pageToken=$([uri]::EscapeDataString($pageToken))"
     }
     $response = Invoke-ImdbApi -Uri $uri
+    if ($null -eq $response) { return }
     foreach ($title in @($response.titles)) {
       if ($title.id -and $title.rating.voteCount -gt 0 -and $title.rating.voteCount -le $MaxVoteCount) {
         [pscustomobject]@{
@@ -52,22 +85,32 @@ function Get-Details {
     $chunk = @($Ids[$i..([math]::Min($Ids.Count - 1, $i + 4))])
     $query = ($chunk | ForEach-Object { "titleIds=$([uri]::EscapeDataString($_))" }) -join "&"
     $response = Invoke-ImdbApi -Uri "https://api.imdbapi.dev/titles:batchGet?$query"
+    if ($null -eq $response) { continue }
     $details += @($response.titles)
   }
   return $details
 }
 
+$totalSearches = (($EndYear - $StartYear) + 1) * $genres.Count
+$searchIndex = 0
+Write-StepEvent -Current 0 -Total $totalSearches -Message "Finding under-5k near misses"
+
 $candidateRows = foreach ($year in $StartYear..$EndYear) {
   foreach ($genre in $genres) {
+    Write-StepEvent -Current $searchIndex -Total $totalSearches -Message "Searching $genre $year"
     Get-Candidates -Genre $genre -Year $year
+    $searchIndex++
   }
 }
+Write-StepEvent -Current $totalSearches -Total $totalSearches -Message "Fetching details for near misses"
 
 $groups = $candidateRows | Group-Object Id
-$ids = @($groups | ForEach-Object { $_.Name } | Sort-Object -Unique)
+$ids = @($groups | ForEach-Object { $_.Name } | Where-Object { $_ -match "^tt\d+$" } | Sort-Object -Unique)
 $detailsById = @{}
-foreach ($detail in Get-Details -Ids $ids) {
-  $detailsById[$detail.id] = $detail
+if ($ids.Count -gt 0) {
+  foreach ($detail in Get-Details -Ids $ids) {
+    $detailsById[$detail.id] = $detail
+  }
 }
 
 $results = foreach ($group in $groups) {
@@ -89,4 +132,23 @@ $results = foreach ($group in $groups) {
   }
 }
 
-$results | Sort-Object @{ Expression = "Votes"; Descending = $true }, @{ Expression = "Score"; Descending = $true } | Format-Table -AutoSize
+$sorted = @($results | Sort-Object @{ Expression = "Votes"; Descending = $true }, @{ Expression = "Score"; Descending = $true })
+
+$report = [pscustomobject]@{
+  generatedAt = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
+  startYear = $StartYear
+  endYear = $EndYear
+  maxVoteCount = $MaxVoteCount
+  primaryOrigins = @("US", "GB", "CA")
+  total = $sorted.Count
+  series = $sorted
+}
+
+$report | ConvertTo-Json -Depth 8 | Set-Content -Path $OutJson -Encoding UTF8
+$sorted | Export-Csv -Path $OutCsv -NoTypeInformation -Encoding UTF8
+
+Write-StepEvent -Current $totalSearches -Total $totalSearches -Status "complete" -Message "Found $($sorted.Count) under-5k near misses"
+
+if ($Table) {
+  $sorted | Format-Table -AutoSize
+}

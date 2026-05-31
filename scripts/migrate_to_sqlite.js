@@ -5,6 +5,7 @@ const Database = require("better-sqlite3");
 const root = path.resolve(__dirname, "..");
 const inputPath = path.join(root, "imdb_sci_fi_catalog_data.json");
 const dbPath = path.join(root, "series_library.db");
+const cacheDir = path.join(root, "imdb_sci_fi_catalog_cache");
 
 function readCatalog() {
   if (!fs.existsSync(inputPath)) {
@@ -21,6 +22,32 @@ function intOrNull(value) {
 function numberOrNull(value) {
   const parsed = Number(value);
   return Number.isFinite(parsed) ? parsed : null;
+}
+
+function readRefreshMetadata(imdbId) {
+  const cachePath = path.join(cacheDir, `${imdbId}.json`);
+  if (!fs.existsSync(cachePath)) return {};
+  try {
+    const cache = JSON.parse(fs.readFileSync(cachePath, "utf8").replace(/^\uFEFF/, ""));
+    const mtime = fs.statSync(cachePath).mtime.toISOString();
+    return {
+      last_rating_check_at: cache.refresh?.lastRatingCheckAt || mtime,
+      last_season_check_at: cache.refresh?.lastSeasonCheckAt || mtime,
+      last_detail_check_at: cache.refresh?.lastDetailCheckAt || mtime,
+    };
+  } catch {
+    return {};
+  }
+}
+
+function addColumnIfMissing(table, columnDefinition) {
+  try {
+    db.exec(`ALTER TABLE ${table} ADD COLUMN ${columnDefinition}`);
+  } catch (error) {
+    if (!String(error.message).includes("duplicate column name")) {
+      throw error;
+    }
+  }
 }
 
 const catalog = readCatalog();
@@ -54,6 +81,9 @@ db.exec(`
     origin_countries TEXT,
     country_codes TEXT,
     primary_origin TEXT,
+    last_rating_check_at TEXT,
+    last_season_check_at TEXT,
+    last_detail_check_at TEXT,
     payload_json TEXT NOT NULL,
     updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
   );
@@ -96,6 +126,20 @@ db.exec(`
   CREATE INDEX IF NOT EXISTS idx_genres_genre ON series_genres(genre);
 `);
 
+addColumnIfMissing("series", "last_rating_check_at TEXT");
+addColumnIfMissing("series", "last_season_check_at TEXT");
+addColumnIfMissing("series", "last_detail_check_at TEXT");
+db.exec(`
+  CREATE INDEX IF NOT EXISTS idx_series_last_rating_check ON series(last_rating_check_at);
+  CREATE INDEX IF NOT EXISTS idx_series_last_season_check ON series(last_season_check_at);
+`);
+
+const existingRefreshRows = db.prepare(`
+  SELECT imdb_id, last_rating_check_at, last_season_check_at, last_detail_check_at
+  FROM series
+`).all();
+const existingRefresh = new Map(existingRefreshRows.map((row) => [row.imdb_id, row]));
+
 const replaceMeta = db.prepare(`
   INSERT INTO metadata (key, value) VALUES (?, ?)
   ON CONFLICT(key) DO UPDATE SET value = excluded.value
@@ -106,12 +150,14 @@ const insertSeries = db.prepare(`
     imdb_id, title, type, start_year, end_year, imdb_score, vote_count,
     years_text, imdb_url, poster_url, poster_width, poster_height, synopsis,
     season_count, season_label, episode_count, origin_countries, country_codes,
-    primary_origin, payload_json, updated_at
+    primary_origin, last_rating_check_at, last_season_check_at, last_detail_check_at,
+    payload_json, updated_at
   ) VALUES (
     @imdb_id, @title, @type, @start_year, @end_year, @imdb_score, @vote_count,
     @years_text, @imdb_url, @poster_url, @poster_width, @poster_height,
     @synopsis, @season_count, @season_label, @episode_count, @origin_countries,
-    @country_codes, @primary_origin, @payload_json, CURRENT_TIMESTAMP
+    @country_codes, @primary_origin, @last_rating_check_at, @last_season_check_at,
+    @last_detail_check_at, @payload_json, CURRENT_TIMESTAMP
   )
 `);
 const insertCategory = db.prepare(`
@@ -128,6 +174,8 @@ const migrate = db.transaction(() => {
   deleteSeries.run();
 
   for (const item of catalog.series || []) {
+    const refresh = readRefreshMetadata(item.id);
+    const previousRefresh = existingRefresh.get(item.id) || {};
     insertSeries.run({
       imdb_id: item.id,
       title: item.title || item.id,
@@ -150,6 +198,9 @@ const migrate = db.transaction(() => {
       origin_countries: item.countries || null,
       country_codes: item.countryCodes || null,
       primary_origin: item.primaryOrigin || null,
+      last_rating_check_at: refresh.last_rating_check_at || previousRefresh.last_rating_check_at || null,
+      last_season_check_at: refresh.last_season_check_at || previousRefresh.last_season_check_at || null,
+      last_detail_check_at: refresh.last_detail_check_at || previousRefresh.last_detail_check_at || null,
       payload_json: JSON.stringify(item),
     });
 

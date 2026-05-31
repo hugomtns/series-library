@@ -4,7 +4,8 @@ param(
   [string]$OutData = "imdb_sci_fi_catalog_data.json",
   [string]$OutHtml = "series_library.html",
   [int]$ThrottleMilliseconds = 700,
-  [switch]$SkipFetch
+  [switch]$SkipFetch,
+  [switch]$SkipHtml
 )
 
 $ErrorActionPreference = "Stop"
@@ -43,6 +44,15 @@ function Get-Seasons {
 
   $response = Invoke-ImdbApi -Uri "https://api.imdbapi.dev/titles/$TitleId/seasons"
   return @($response.seasons)
+}
+
+function Set-RefreshValue {
+  param([object]$Cached, [string]$Name, [string]$Value)
+
+  if ($null -eq $Cached.refresh) {
+    $Cached | Add-Member -NotePropertyName refresh -NotePropertyValue ([pscustomobject]@{}) -Force
+  }
+  $Cached.refresh | Add-Member -NotePropertyName $Name -NotePropertyValue $Value -Force
 }
 
 function Get-NumericSeasonCount {
@@ -163,10 +173,15 @@ if (-not $SkipFetch) {
     if ($missingDetails.Count -gt 0) {
       foreach ($detail in (Get-TitleDetailsBatch -TitleIds $missingDetails)) {
         $cachePath = Join-Path $CacheDir "$($detail.id).json"
+        $checkedAt = (Get-Date).ToUniversalTime().ToString("o")
         [pscustomobject]@{
           id = $detail.id
           detail = $detail
           seasons = $null
+          refresh = [pscustomobject]@{
+            lastRatingCheckAt = $checkedAt
+            lastDetailCheckAt = $checkedAt
+          }
         } | ConvertTo-Json -Depth 20 | Set-Content -Path $cachePath -Encoding UTF8
       }
     }
@@ -188,6 +203,7 @@ if (-not $SkipFetch) {
 
     Write-Host "Fetching seasons $index/$($ids.Count): $id"
     $cached.seasons = @(Get-Seasons -TitleId $id)
+    Set-RefreshValue -Cached $cached -Name "lastSeasonCheckAt" -Value (Get-Date).ToUniversalTime().ToString("o")
     $cached | ConvertTo-Json -Depth 20 | Set-Content -Path $cachePath -Encoding UTF8
   }
 }
@@ -220,6 +236,13 @@ $data = [pscustomobject]@{
 
 $json = $data | ConvertTo-Json -Depth 20
 $json | Set-Content -Path $OutData -Encoding UTF8
+
+if ($SkipHtml) {
+  Write-Host "Wrote $($items.Count) catalog items to $OutData"
+  Write-Host "Skipped HTML page rebuild"
+  return
+}
+
 $embeddedJson = $json -replace "</", "<\/"
 
 $html = @'

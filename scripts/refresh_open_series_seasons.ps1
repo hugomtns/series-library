@@ -32,6 +32,15 @@ function Invoke-ImdbApi {
   }
 }
 
+function Set-RefreshValue {
+  param([object]$Cached, [string]$Name, [string]$Value)
+
+  if ($null -eq $Cached.refresh) {
+    $Cached | Add-Member -NotePropertyName refresh -NotePropertyValue ([pscustomobject]@{}) -Force
+  }
+  $Cached.refresh | Add-Member -NotePropertyName $Name -NotePropertyValue $Value -Force
+}
+
 $root = Resolve-Path "$PSScriptRoot\.."
 $catalogPath = Join-Path $root "imdb_sci_fi_catalog_data.json"
 $cacheDir = Join-Path $root "imdb_sci_fi_catalog_cache"
@@ -50,6 +59,7 @@ for ($i = 0; $i -lt $openSeries.Count; $i++) {
   }
   $response = Invoke-ImdbApi -Uri "https://api.imdbapi.dev/titles/$($item.id)/seasons"
   $cached.seasons = @($response.seasons)
+  Set-RefreshValue -Cached $cached -Name "lastSeasonCheckAt" -Value (Get-Date).ToUniversalTime().ToString("o")
   $cached | ConvertTo-Json -Depth 20 | Set-Content -Path $cachePath -Encoding UTF8
   Write-StepEvent -Current ($i + 1) -Total $openSeries.Count -Message "Finished seasons: $($item.title)"
 }
