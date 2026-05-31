@@ -495,6 +495,15 @@
       border-radius: 8px;
       background: var(--panel);
       box-shadow: 0 1px 0 oklch(100% 0 0 / 0.65) inset;
+      cursor: pointer;
+      transition: border-color 160ms ease, box-shadow 160ms ease, background-color 160ms ease;
+    }
+
+    .card:hover,
+    .card:focus-visible {
+      border-color: var(--focus);
+      box-shadow: 0 0 0 2px oklch(70% 0.12 250 / 0.18);
+      outline: none;
     }
 
     .poster {
@@ -619,6 +628,152 @@
       border-radius: 8px;
       color: var(--muted);
       background: var(--panel);
+    }
+
+    .series-detail-backdrop {
+      position: fixed;
+      inset: 0;
+      z-index: 25;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      background: oklch(18% 0.018 250 / 0.45);
+    }
+
+    .series-detail-backdrop[hidden] { display: none; }
+
+    .series-detail-modal {
+      width: min(820px, calc(100vw - 32px));
+      max-height: min(82vh, 820px);
+      display: grid;
+      grid-template-rows: auto minmax(0, 1fr);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: var(--panel);
+      box-shadow: 0 24px 80px oklch(16% 0.02 250 / 0.28);
+      overflow: hidden;
+    }
+
+    .series-detail-head {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 16px 58px 16px 18px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .series-detail-title {
+      display: flex;
+      gap: 14px;
+      min-width: 0;
+      align-items: center;
+    }
+
+    .series-detail-poster {
+      width: 58px;
+      aspect-ratio: 2 / 3;
+      flex: 0 0 auto;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--panel-2);
+      overflow: hidden;
+    }
+
+    .series-detail-poster img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .series-detail-title h2 {
+      margin: 0;
+      font-size: 1.05rem;
+      line-height: 1.2;
+      letter-spacing: 0;
+    }
+
+    .series-detail-meta {
+      margin-top: 5px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+
+    .series-detail-close {
+      position: absolute;
+      top: 14px;
+      right: 14px;
+      width: 34px;
+      height: 34px;
+      display: grid;
+      place-items: center;
+      border: 1px solid oklch(82% 0.014 250);
+      border-radius: 8px;
+      background: oklch(97.5% 0.007 250);
+      color: var(--ink);
+      cursor: pointer;
+      font: inherit;
+      font-size: 1rem;
+      line-height: 1;
+    }
+
+    .series-detail-close:hover,
+    .series-detail-close:focus-visible {
+      border-color: var(--focus);
+      outline: none;
+    }
+
+    .series-detail-body {
+      overflow: auto;
+      padding: 18px;
+      display: grid;
+      gap: 16px;
+    }
+
+    .detail-facts {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 8px;
+    }
+
+    .detail-fact {
+      display: grid;
+      gap: 2px;
+      min-height: 58px;
+      padding: 9px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel-2);
+    }
+
+    .detail-fact span {
+      color: var(--muted);
+      font-size: 0.72rem;
+      font-weight: 650;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    .detail-fact strong {
+      font-size: 0.9rem;
+      line-height: 1.25;
+      overflow-wrap: anywhere;
+    }
+
+    .detail-synopsis {
+      margin: 0;
+      color: oklch(35% 0.018 250);
+      font-size: 0.9rem;
+      line-height: 1.5;
+      max-width: 75ch;
+    }
+
+    .detail-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
     }
 
     .update-log-backdrop {
@@ -779,6 +934,7 @@
       .title-row { grid-template-columns: 1fr; }
       .rating { justify-self: start; }
       .content { padding-left: 12px; padding-right: 12px; }
+      .detail-facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
       .update-log-summary { grid-template-columns: repeat(2, minmax(0, 1fr)); }
       .update-log-head,
       .update-log-foot,
@@ -861,6 +1017,12 @@
       <div id="catalog"></div>
     </main>
   </div>
+  <div class="series-detail-backdrop" id="seriesDetailModal" hidden>
+    <section class="series-detail-modal" role="dialog" aria-modal="true" aria-labelledby="seriesDetailTitle">
+      <header class="series-detail-head" id="seriesDetailHead"></header>
+      <div class="series-detail-body" id="seriesDetailBody"></div>
+    </section>
+  </div>
   <div class="update-log-backdrop" id="updateLogModal" hidden>
     <section class="update-log-modal" role="dialog" aria-modal="true" aria-labelledby="updateLogTitle">
       <header class="update-log-head">
@@ -890,11 +1052,14 @@
 
     let data = await loadCatalogData();
     let byYear = new Map();
+    let seriesById = new Map();
     function rebuildYearMap() {
       byYear = new Map();
+      seriesById = new Map();
       for (const item of data.series) {
         if (!byYear.has(item.year)) byYear.set(item.year, []);
         byYear.get(item.year).push(item);
+        seriesById.set(item.id, item);
       }
     }
     rebuildYearMap();
@@ -915,6 +1080,9 @@
     const updateLogSubtitle = document.getElementById("updateLogSubtitle");
     const updateLogClose = document.getElementById("updateLogClose");
     const updateLogDone = document.getElementById("updateLogDone");
+    const seriesDetailModal = document.getElementById("seriesDetailModal");
+    const seriesDetailHead = document.getElementById("seriesDetailHead");
+    const seriesDetailBody = document.getElementById("seriesDetailBody");
     const catalog = document.getElementById("catalog");
     const totalCount = document.getElementById("totalCount");
     const yearCount = document.getElementById("yearCount");
@@ -925,6 +1093,7 @@
     let selectedCategories = new Set(categoryChoices.map(input => input.value));
     let shownUpdateLogId = null;
     let shouldReloadAfterModal = false;
+    let lastSeriesTrigger = null;
 
     totalCount.textContent = data.total.toLocaleString();
     yearCount.textContent = data.years.length.toLocaleString();
@@ -1106,7 +1275,7 @@
         </div>
         <div class="grid">
           ${items.map(item => `
-            <article class="card" data-categories="${escapeText(item.categories.join(";"))}" data-search="${escapeText(item.title.toLowerCase())}">
+            <article class="card" tabindex="0" role="button" aria-label="Open details for ${escapeText(item.title)}" data-id="${escapeText(item.id)}" data-categories="${escapeText(item.categories.join(";"))}" data-search="${escapeText(item.title.toLowerCase())}">
               ${renderPoster(item)}
               <div class="card-main">
                 <div class="card-top">
@@ -1153,6 +1322,68 @@
       }
     }, { rootMargin: "-15% 0px -65% 0px", threshold: [0.01, 0.2, 0.5] });
     sections.forEach(section => observer.observe(section));
+
+    function renderDetailPoster(item) {
+      if (!item.poster) {
+        return `<div class="series-detail-poster"><div class="poster-fallback">No poster</div></div>`;
+      }
+      return `<div class="series-detail-poster"><img src="${escapeText(item.poster)}" alt="Poster for ${escapeText(item.title)}"></div>`;
+    }
+
+    function openSeriesDetail(item, trigger) {
+      lastSeriesTrigger = trigger || null;
+      seriesDetailHead.innerHTML = `
+        <div class="series-detail-title">
+          ${renderDetailPoster(item)}
+          <div>
+            <h2 id="seriesDetailTitle">${escapeText(item.title)}</h2>
+            <div class="series-detail-meta">${escapeText(item.years)} · ${escapeText(item.primaryOrigin)} · IMDb ${escapeText(Number(item.score).toFixed(1))}</div>
+          </div>
+        </div>
+        <button type="button" class="series-detail-close" id="seriesDetailClose" aria-label="Close series details">×</button>
+      `;
+      seriesDetailBody.innerHTML = `
+        <div class="detail-facts">
+          <div class="detail-fact"><span>Seasons</span><strong>${escapeText(item.seasonLabel || item.seasons || "-")}</strong></div>
+          <div class="detail-fact"><span>Episodes</span><strong>${escapeText(item.episodes || "-")}</strong></div>
+          <div class="detail-fact"><span>Origin</span><strong>${escapeText(item.countries || item.primaryOrigin || "-")}</strong></div>
+          <div class="detail-fact"><span>Votes</span><strong>${escapeText(formatter.format(item.votes || 0))}</strong></div>
+        </div>
+        <p class="detail-synopsis">${escapeText(item.synopsis || "No synopsis available.")}</p>
+        <div class="detail-tags">
+          ${(item.categories || []).map(category => `<span class="fact category-chip">${escapeText(category)}</span>`).join("")}
+          ${(item.genres || []).map(genre => `<span class="fact">${escapeText(genre)}</span>`).join("")}
+        </div>
+      `;
+      seriesDetailModal.hidden = false;
+      document.getElementById("seriesDetailClose").focus();
+    }
+
+    function closeSeriesDetail() {
+      seriesDetailModal.hidden = true;
+      if (lastSeriesTrigger) lastSeriesTrigger.focus();
+    }
+
+    catalog.addEventListener("click", event => {
+      if (event.target.closest(".imdb-link")) return;
+      const card = event.target.closest(".card");
+      if (!card) return;
+      const item = seriesById.get(card.dataset.id);
+      if (item) openSeriesDetail(item, card);
+    });
+
+    catalog.addEventListener("keydown", event => {
+      if (event.key !== "Enter") return;
+      const card = event.target.closest(".card");
+      if (!card) return;
+      const item = seriesById.get(card.dataset.id);
+      if (item) openSeriesDetail(item, card);
+    });
+
+    seriesDetailModal.addEventListener("click", event => {
+      if (event.target === seriesDetailModal) closeSeriesDetail();
+      if (event.target.id === "seriesDetailClose") closeSeriesDetail();
+    });
 
     async function reloadCatalogFromApi() {
       data = await loadCatalogData();
@@ -1352,6 +1583,7 @@
       if (event.target === updateLogModal) closeUpdateLog();
     });
     document.addEventListener("keydown", event => {
+      if (event.key === "Escape" && !seriesDetailModal.hidden) closeSeriesDetail();
       if (event.key === "Escape" && !updateLogModal.hidden) closeUpdateLog();
     });
 

@@ -45,7 +45,13 @@ $years = @($data.years)
   HasSearch = $html.Contains('id="search"')
   HasTitleSearchPlaceholder = $html.Contains('placeholder="Search titles..."')
   HasSynopsisMarkup = $html.Contains('class="synopsis"')
-  SearchIncludesSynopsis = $html.Contains('item.synopsis')
+  CardSearchIncludesSynopsis = $html.Contains('data-search="${escapeText([item.title, item.synopsis')
+  HasSeriesDetailModal = $html.Contains('id="seriesDetailModal"')
+  HasSeriesDetailSynopsis = $html.Contains('class="detail-synopsis"')
+  HasClickableCards = $html.Contains('role="button"') -and $html.Contains('data-id="${escapeText(item.id)}"')
+  HasSeriesDetailFooter = $html.Contains('class="series-detail-foot"')
+  HasSeriesDetailDone = $html.Contains('id="seriesDetailDone"')
+  HasSeriesDetailImdbLink = $html.Contains('<a class="imdb-link fact"')
 } | Format-List
 
 if ($data.total -ne $series.Count) { throw "Catalog total does not match SQLite series rows." }
@@ -66,4 +72,10 @@ if (-not $html.Contains('class="poster"')) { throw "Missing poster markup." }
 if (-not $html.Contains('id="search"')) { throw "Missing search input." }
 if (-not $html.Contains('placeholder="Search titles..."')) { throw "Search input should be title-focused." }
 if ($html.Contains('class="synopsis"')) { throw "Cards should not render synopsis markup." }
-if ($html.Contains('item.synopsis')) { throw "Card search should not include synopsis." }
+if ($html.Contains('data-search="${escapeText([item.title, item.synopsis')) { throw "Card search should not include synopsis." }
+if (-not $html.Contains('id="seriesDetailModal"')) { throw "Missing series detail modal." }
+if (-not $html.Contains('class="detail-synopsis"')) { throw "Detail modal should render synopsis." }
+if (-not ($html.Contains('role="button"') -and $html.Contains('data-id="${escapeText(item.id)}"'))) { throw "Series cards should be keyboard-openable detail triggers." }
+if ($html.Contains('class="series-detail-foot"')) { throw "Series detail modal should not have a footer action bar." }
+if ($html.Contains('id="seriesDetailDone"')) { throw "Series detail modal should only use the close button." }
+if ($html.Contains('<a class="imdb-link fact"')) { throw "Series detail modal should not duplicate the IMDb link." }
