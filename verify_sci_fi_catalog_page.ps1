@@ -2,6 +2,8 @@ $ErrorActionPreference = "Stop"
 
 $html = Get-Content -Path "series_library.html" -Raw
 $css = Get-Content -Path "series_library.css" -Raw
+$publicData = Get-Content -Path "series_library_data.json" -Raw | ConvertFrom-Json
+$vercelConfig = Get-Content -Path "vercel.json" -Raw
 $env:SERIES_LIBRARY_DB = Join-Path (Resolve-Path ".") "series_library.db"
 $dataJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const meta = Object.fromEntries(db.prepare('SELECT key, value FROM metadata').all().map(row => [row.key, row.value])); const seasonRows = db.prepare('SELECT imdb_id, season_number, label, episode_count, start_year, end_year, imdb_score, vote_count FROM series_seasons ORDER BY imdb_id ASC, season_number ASC').all(); const seasonsBySeries = new Map(); for (const row of seasonRows) { if (!seasonsBySeries.has(row.imdb_id)) seasonsBySeries.set(row.imdb_id, []); seasonsBySeries.get(row.imdb_id).push({ season: row.season_number, label: row.label, episodeCount: row.episode_count, startYear: row.start_year, endYear: row.end_year, score: row.imdb_score, votes: row.vote_count }); } const rows = db.prepare('SELECT payload_json, imdb_score, vote_count, season_count, season_label, episode_count, season_rating_trend_slope, season_rating_trend_intercept, season_rating_trend_points FROM series ORDER BY start_year ASC, imdb_score DESC, vote_count DESC, title ASC').all(); db.close(); const series = rows.map(row => { const item = JSON.parse(row.payload_json); item.score = row.imdb_score; item.votes = row.vote_count; item.seasons = row.season_count; item.seasonLabel = row.season_label; item.episodes = row.episode_count; item.seasonTrend = { slope: row.season_rating_trend_slope, intercept: row.season_rating_trend_intercept, points: row.season_rating_trend_points }; item.seasonDetails = seasonsBySeries.get(item.id) || []; return item; }); const yearCounts = new Map(); for (const item of series) yearCounts.set(item.year, (yearCounts.get(item.year) || 0) + 1); process.stdout.write(JSON.stringify({ generatedAt: meta.generatedAt || '', total: series.length, seasonRows: seasonRows.length, years: Array.from(yearCounts, ([year, count]) => ({ year, count })), series }));"
 if ($LASTEXITCODE -ne 0) {
@@ -39,6 +41,7 @@ $years = @($data.years)
 
 [pscustomobject]@{
   Total = $data.total
+  PublicDataTotal = $publicData.total
   SeriesRows = $series.Count
   Years = $years.Count
   FirstYear = ($years | Sort-Object { [int]$_.year } | Select-Object -First 1).year
@@ -63,6 +66,10 @@ $years = @($data.years)
   HasStylesheet = $html.Contains('href="series_library.css"')
   HasInlineStyleBlock = $html.Contains('<style>')
   HasExtractedCss = $css.Contains('.card') -and $css.Contains('.series-detail-modal')
+  UsesStaticCatalogJson = $html.Contains('fetch("series_library_data.json"')
+  HasUpdateButton = $html.Contains('id="updateButton"')
+  HasUpdateApiReference = $html.Contains('/api/update') -or $html.Contains('EventSource')
+  HasVercelRootRewrite = $vercelConfig.Contains('"source": "/"') -and $vercelConfig.Contains('"destination": "/series_library.html"')
   HasYearSelect = $html.Contains('id="yearSelect"')
   HasCategoryFilter = $html.Contains('id="categoryFilter"')
   HasTrendFilter = $html.Contains('id="trendFilter"')
@@ -97,6 +104,7 @@ $years = @($data.years)
 } | Format-List
 
 if ($data.total -ne $series.Count) { throw "Catalog total does not match SQLite series rows." }
+if ($publicData.total -ne $data.total) { throw "Public JSON total does not match SQLite catalog total." }
 if ($years.Count -lt 60) { throw "Expected at least 60 years with eligible series after extending to 1960." }
 if ((($years | Sort-Object { [int]$_.year } | Select-Object -First 1).year) -gt 1961) { throw "Expected catalog to include early 1960s entries." }
 if ($badVotes.Count -gt 0) { throw "Found rows below 5000 votes." }
@@ -115,6 +123,10 @@ if ($bothRows.Count -lt 200) { throw "Expected at least 200 rows in both categor
 if (-not $html.Contains('href="series_library.css"')) { throw "Missing extracted stylesheet link." }
 if ($html.Contains('<style>')) { throw "HTML should not contain an inline style block." }
 if (-not ($css.Contains('.card') -and $css.Contains('.series-detail-modal'))) { throw "Extracted stylesheet is missing expected UI styles." }
+if (-not $html.Contains('fetch("series_library_data.json"')) { throw "Public page should load static catalog JSON." }
+if ($html.Contains('id="updateButton"')) { throw "Public page should not expose update controls." }
+if ($html.Contains('/api/update') -or $html.Contains('EventSource')) { throw "Public page should not reference update APIs." }
+if (-not ($vercelConfig.Contains('"source": "/"') -and $vercelConfig.Contains('"destination": "/series_library.html"'))) { throw "Missing Vercel root rewrite." }
 if (-not $html.Contains('id="yearNav"')) { throw "Missing year navigation." }
 if (-not $html.Contains('id="yearSelect"')) { throw "Missing year select." }
 if (-not $html.Contains('id="categoryFilter"')) { throw "Missing category filter." }

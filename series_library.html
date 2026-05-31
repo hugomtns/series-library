@@ -1,4 +1,4 @@
-<!doctype html>
+ï»¿<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -58,32 +58,6 @@
       <div class="toolbar">
         <input class="search" id="search" type="search" placeholder="Search titles..." aria-label="Search titles">
         <div class="toolbar-actions">
-          <div class="update-box" aria-label="Catalog updates">
-            <button type="button" class="update-button" id="updateButton">Update library</button>
-            <div class="update-status" id="updateStatus"></div>
-            <div class="update-panel" id="updatePanel" hidden>
-              <div class="update-step" data-step="nearMisses">
-                <div class="update-step-row"><span>Near</span><span class="update-percent">0/0</span></div>
-                <div class="progress-track"><div class="progress-fill"></div></div>
-              </div>
-              <div class="update-step" data-step="newSeries">
-                <div class="update-step-row"><span>New</span><span class="update-percent">0/0</span></div>
-                <div class="progress-track"><div class="progress-fill"></div></div>
-              </div>
-              <div class="update-step" data-step="seasons">
-                <div class="update-step-row"><span>Seasons</span><span class="update-percent">0/0</span></div>
-                <div class="progress-track"><div class="progress-fill"></div></div>
-              </div>
-              <div class="update-step" data-step="ratings">
-                <div class="update-step-row"><span>Ratings</span><span class="update-percent">0/0</span></div>
-                <div class="progress-track"><div class="progress-fill"></div></div>
-              </div>
-              <div class="update-step" data-step="rebuild">
-                <div class="update-step-row"><span>DB</span><span class="update-percent">0/0</span></div>
-                <div class="progress-track"><div class="progress-fill"></div></div>
-              </div>
-            </div>
-          </div>
           <div class="meta-line" id="metaLine"></div>
         </div>
       </div>
@@ -97,27 +71,9 @@
       <div class="series-detail-body" id="seriesDetailBody"></div>
     </section>
   </div>
-  <div class="update-log-backdrop" id="updateLogModal" hidden>
-    <section class="update-log-modal" role="dialog" aria-modal="true" aria-labelledby="updateLogTitle">
-      <header class="update-log-head">
-        <div>
-          <h2 id="updateLogTitle">Library update complete</h2>
-          <p id="updateLogSubtitle">Update log</p>
-        </div>
-        <button type="button" class="update-log-close" id="updateLogClose" aria-label="Close update log">x</button>
-      </header>
-      <div class="update-log-body" id="updateLogBody"></div>
-      <footer class="update-log-foot">
-        <button type="button" class="update-button" id="updateLogDone">Done</button>
-      </footer>
-    </section>
-  </div>
   <script type="module">
-    const apiBase = location.origin === "http://127.0.0.1:8787" || location.origin === "http://localhost:8787"
-      ? ""
-      : "http://127.0.0.1:8787";
     async function loadCatalogData() {
-      const response = await fetch(`${apiBase}/api/series`, { cache: "no-store" });
+      const response = await fetch("series_library_data.json", { cache: "no-store" });
       if (!response.ok) {
         throw new Error(`Catalog request failed: ${response.status}`);
       }
@@ -150,14 +106,6 @@
     const trendChoices = Array.from(document.querySelectorAll(".trend-choice"));
     const minScoreInput = document.getElementById("minScore");
     const maxScoreInput = document.getElementById("maxScore");
-    const updateButton = document.getElementById("updateButton");
-    const updateStatus = document.getElementById("updateStatus");
-    const updatePanel = document.getElementById("updatePanel");
-    const updateLogModal = document.getElementById("updateLogModal");
-    const updateLogBody = document.getElementById("updateLogBody");
-    const updateLogSubtitle = document.getElementById("updateLogSubtitle");
-    const updateLogClose = document.getElementById("updateLogClose");
-    const updateLogDone = document.getElementById("updateLogDone");
     const seriesDetailModal = document.getElementById("seriesDetailModal");
     const seriesDetailHead = document.getElementById("seriesDetailHead");
     const seriesDetailBody = document.getElementById("seriesDetailBody");
@@ -170,8 +118,6 @@
 
     let selectedCategories = new Set(categoryChoices.map(input => input.value));
     let selectedTrends = new Set(trendChoices.map(input => input.value));
-    let shownUpdateLogId = null;
-    let shouldReloadAfterModal = false;
     let lastSeriesTrigger = null;
 
     totalCount.textContent = data.total.toLocaleString();
@@ -561,7 +507,7 @@
               <h2 class="title" id="seriesDetailTitle">${escapeText(item.title)}</h2>
               <div class="detail-title-actions">
                 <div class="rating" title="IMDb rating" style="${ratingTone(item.score)}">IMDb ${escapeText(Number(item.score).toFixed(1))}</div>
-                <button type="button" class="series-detail-close" id="seriesDetailClose" aria-label="Close series details">×</button>
+                <button type="button" class="series-detail-close" id="seriesDetailClose" aria-label="Close series details">&times;</button>
               </div>
             </div>
             <div class="facts">
@@ -609,21 +555,6 @@
       if (event.target === seriesDetailModal) closeSeriesDetail();
       if (event.target.id === "seriesDetailClose") closeSeriesDetail();
     });
-
-    async function reloadCatalogFromApi() {
-      data = await loadCatalogData();
-      rebuildYearMap();
-      totalCount.textContent = data.total.toLocaleString();
-      yearCount.textContent = data.years.length.toLocaleString();
-      metaLine.textContent = `Generated ${data.generatedAt}`;
-      renderYearNavigation();
-      renderCatalogSections();
-      sections.forEach(section => observer.unobserve(section));
-      sections = Array.from(document.querySelectorAll(".year-section"));
-      sections.forEach(section => observer.observe(section));
-      navLinks = Array.from(yearNav.querySelectorAll("a"));
-      applyFilters();
-    }
 
     function cardMatchesCategory(card) {
       const categories = card.dataset.categories.split(";");
@@ -754,159 +685,8 @@
     minScoreInput.addEventListener("input", applyFilters);
     maxScoreInput.addEventListener("input", applyFilters);
 
-    function updateLogTags(item) {
-      return (item.tags || []).join(", ") || "No tags";
-    }
-
-    function plural(value, singular, pluralLabel = `${singular}s`) {
-      return Number(value) === 1 ? singular : pluralLabel;
-    }
-
-    function renderLogList(items, emptyText, renderItem) {
-      if (!items.length) {
-        return `<p class="update-log-empty">${escapeText(emptyText)}</p>`;
-      }
-
-      const visible = items.slice(0, 20);
-      const rest = items.length - visible.length;
-      return `
-        <ul class="update-log-list">
-          ${visible.map(renderItem).join("")}
-        </ul>
-        ${rest > 0 ? `<p class="update-log-empty">And ${rest.toLocaleString()} more.</p>` : ""}
-      `;
-    }
-
-    function openUpdateLog(log) {
-      const totals = log.totals || {};
-      updateLogSubtitle.textContent = `Database changed from ${(totals.before || 0).toLocaleString()} to ${(totals.after || 0).toLocaleString()} series.`;
-      updateLogBody.innerHTML = `
-        <div class="update-log-summary">
-          <div class="update-log-stat"><strong>${(totals.newSeries || 0).toLocaleString()}</strong><span>new series</span></div>
-          <div class="update-log-stat"><strong>${(totals.seasonUpdates || 0).toLocaleString()}</strong><span>season updates</span></div>
-          <div class="update-log-stat"><strong>${(totals.ratingUpdates || 0).toLocaleString()}</strong><span>rating changes</span></div>
-          <div class="update-log-stat"><strong>${(totals.dataUpdates || 0).toLocaleString()}</strong><span>other data changes</span></div>
-        </div>
-        <section class="update-log-section">
-          <h3>New series added</h3>
-          ${renderLogList(log.newSeries || [], "No new series matched the current filters.", item => `
-            <li class="update-log-item">
-              <strong>${escapeText(item.title)}</strong>
-              <span class="update-log-meta">${escapeText(item.year)} · ${escapeText(updateLogTags(item))} · ${escapeText(item.seasons ?? "unknown")} ${escapeText(plural(item.seasons, "season"))}</span>
-            </li>
-          `)}
-        </section>
-        <section class="update-log-section">
-          <h3>New seasons found</h3>
-          ${renderLogList(log.seasonUpdates || [], "No season counts changed.", item => `
-            <li class="update-log-item">
-              <strong>${escapeText(item.title)}</strong>
-              <span class="update-log-meta">${escapeText(item.year)} · ${escapeText(updateLogTags(item))} · seasons ${escapeText(item.seasonsBefore ?? "?")} -> ${escapeText(item.seasonsAfter ?? "?")} · episodes ${escapeText(item.episodesBefore ?? "?")} -> ${escapeText(item.episodesAfter ?? "?")}</span>
-            </li>
-          `)}
-        </section>
-        <section class="update-log-section">
-          <h3>IMDb rating changes</h3>
-          ${renderLogList(log.ratingUpdates || [], "No IMDb ratings changed.", item => `
-            <li class="update-log-item">
-              <strong>${escapeText(item.title)}</strong>
-              <span class="update-log-meta">${escapeText(item.year)} · ${escapeText(updateLogTags(item))} · IMDb ${escapeText(item.ratingBefore ?? "?")} -> ${escapeText(item.ratingAfter ?? "?")} · votes ${escapeText(formatter.format(item.votesBefore || 0))} -> ${escapeText(formatter.format(item.votesAfter || 0))}</span>
-            </li>
-          `)}
-        </section>
-        <section class="update-log-section">
-          <h3>Other data changes</h3>
-          ${renderLogList(log.dataUpdates || [], "No title, year, poster, or synopsis changes were detected.", item => `
-            <li class="update-log-item">
-              <strong>${escapeText(item.title)}</strong>
-              <span class="update-log-meta">${escapeText(item.year)} · ${escapeText(updateLogTags(item))} · changed ${escapeText((item.changed || []).join(", "))}</span>
-            </li>
-          `)}
-        </section>
-      `;
-      updateLogModal.hidden = false;
-      updateLogClose.focus();
-    }
-
-    async function closeUpdateLog() {
-      updateLogModal.hidden = true;
-      updateButton.focus();
-      if (shouldReloadAfterModal) {
-        shouldReloadAfterModal = false;
-        updateStatus.textContent = "Reloading";
-        updateStatus.title = "Loading updated catalog data.";
-        await reloadCatalogFromApi();
-        updateStatus.textContent = "Updated";
-        updateStatus.title = "Catalog data refreshed.";
-      }
-    }
-
-    updateLogClose.addEventListener("click", closeUpdateLog);
-    updateLogDone.addEventListener("click", closeUpdateLog);
-    updateLogModal.addEventListener("click", event => {
-      if (event.target === updateLogModal) closeUpdateLog();
-    });
     document.addEventListener("keydown", event => {
       if (event.key === "Escape" && !seriesDetailModal.hidden) closeSeriesDetail();
-      if (event.key === "Escape" && !updateLogModal.hidden) closeUpdateLog();
-    });
-
-    function renderUpdateRun(run) {
-      updatePanel.hidden = false;
-      for (const [key, step] of Object.entries(run.steps || {})) {
-        const element = updatePanel.querySelector(`[data-step="${key}"]`);
-        if (!element) continue;
-        const displayTotal = Math.max(0, Number(step.total) || 0);
-        const total = Math.max(1, displayTotal || 1);
-        const current = Math.max(0, Number(step.current) || 0);
-        const percent = Math.max(0, Math.min(100, Math.round((current / total) * 100)));
-        element.querySelector(".progress-fill").style.width = `${percent}%`;
-        element.querySelector(".update-percent").textContent = step.status === "complete" ? `${displayTotal}/${displayTotal}` : `${current}/${displayTotal}`;
-      }
-
-      if (run.status === "complete") {
-        updateButton.disabled = false;
-        updateStatus.textContent = "Updated";
-        updateStatus.title = "Update complete. Close the update log to refresh the catalog.";
-        if (run.log && shownUpdateLogId !== run.id) {
-          shownUpdateLogId = run.id;
-          shouldReloadAfterModal = true;
-          openUpdateLog(run.log);
-        }
-      } else if (run.status === "error") {
-        updateButton.disabled = false;
-        updateStatus.textContent = "Update failed";
-        updateStatus.title = run.error || "Update failed.";
-      } else {
-        updateStatus.textContent = "Updating";
-        updateStatus.title = "Updating in the background.";
-      }
-    }
-
-    updateButton.addEventListener("click", async () => {
-      updateButton.disabled = true;
-      updateStatus.textContent = "Starting update...";
-      updatePanel.hidden = false;
-
-      try {
-        const events = new EventSource(`${apiBase}/api/update/events`);
-        events.onmessage = event => {
-          const payload = JSON.parse(event.data);
-          if (!payload.run) return;
-          renderUpdateRun(payload.run);
-          if (payload.run.status === "complete" || payload.run.status === "error") {
-            events.close();
-          }
-        };
-
-        const response = await fetch(`${apiBase}/api/update/start`, { method: "POST" });
-        if (!response.ok) throw new Error("Update endpoint failed.");
-        renderUpdateRun(await response.json());
-      } catch {
-        updateButton.disabled = false;
-        updateStatus.textContent = "Server offline";
-        updateStatus.title = "Start the local API with npm run serve to update from the page.";
-      }
     });
   </script>
 </body>
