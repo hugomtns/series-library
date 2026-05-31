@@ -1,0 +1,212 @@
+﻿{
+    "id":  "tt1831164",
+    "detail":  {
+                   "id":  "tt1831164",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Leyla and Mecnun",
+                   "originalTitle":  "Leyla ile Mecnun",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNzQ4ZTMxM2UtYTY2MS00NjlmLTlmNmYtYWFmMjMyMzZmZjZkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1332
+                                    },
+                   "startYear":  2011,
+                   "endYear":  2023,
+                   "runtimeSeconds":  5400,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  9,
+                                  "voteCount":  103747
+                              },
+                   "plot":  "This unique, heartwarming show follows the extraordinary journey of a couple named Leyla (Ezgi Asaroglu) and Mecnun (Ali Atay). The series has garnered a massive fan base and critical acclaim.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1729447",
+                                         "displayName":  "Onur ÃnlÃ¼",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1291171",
+                                         "displayName":  "EyÃ¼p Boz",
+                                         "alternativeNames":  [
+                                                                  "Eyup Boz"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYTExN2I4YjktYmIzYS00NjgzLWJmMDktOTIxNDUyNzFiYjJiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  560,
+                                                              "height":  412
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "visual_effects"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm4724324",
+                                         "displayName":  "Murat Onbul",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm4342198",
+                                       "displayName":  "Burak Aksak",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm6051033",
+                                       "displayName":  "Hamza Asgin",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm6051034",
+                                       "displayName":  "Derem Ciray",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1778124",
+                                     "displayName":  "Ali Atay",
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "production_designer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1763577",
+                                     "displayName":  "Serkan Keskin",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGYwOWEwZmItMzUyNi00YmRiLTk4ZGQtMzQ5ZGI1NTNhZDg0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  439,
+                                                          "height":  650
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2183200",
+                                     "displayName":  "Osman Sonant",
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1488529",
+                                     "displayName":  "Ahmet MÃ¼mtaz Taylan",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzU2ZDAyZWItZWZkZi00YTMxLWE3YjQtOTA2ODVjYmUyYjhkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  512,
+                                                          "height":  512
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "composer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "TR",
+                                               "name":  "Turkey"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "tur",
+                                               "name":  "Turkish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000150",
+                                         "name":  "Romantic Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  41
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  43
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  10
+                    }
+                ]
+}

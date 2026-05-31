@@ -1,0 +1,182 @@
+﻿{
+    "id":  "tt0094791",
+    "detail":  {
+                   "id":  "tt0094791",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "The Bourne Identity",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOGRkYjkzM2UtODQ1MS00NDFkLWE5MTAtOGI4ZTViM2Y3NjQ1XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  780,
+                                        "height":  1170
+                                    },
+                   "startYear":  1988,
+                   "endYear":  1988,
+                   "runtimeSeconds":  5580,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.8,
+                                  "voteCount":  5194
+                              },
+                   "plot":  "An injured, unconscious man washes ashore in a small French town. As he recovers, it becomes quite clear, someone is trying to kill him.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0002726",
+                                         "displayName":  "Roger Young",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjgwMTk4ZTctNzM0Zi00MGUyLWEyNDUtYjhiODIxNzAzY2YwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4288,
+                                                              "height":  2848
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0524924",
+                                       "displayName":  "Robert Ludlum",
+                                       "alternativeNames":  [
+                                                                "Jonathan Ryder",
+                                                                "Michael Shepherd"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0811807",
+                                       "displayName":  "Carol Sobieski",
+                                       "alternativeNames":  [
+                                                                "C. O\u0027Brien",
+                                                                "Carole O\u0027Brien",
+                                                                "Carol O\u0027Brien"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000328",
+                                     "displayName":  "Richard Chamberlain",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY1NTczMjI5Nl5BMl5BanBnXkFtZTcwMzcwNTMwNw@@._V1_.jpg",
+                                                          "width":  1643,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000646",
+                                     "displayName":  "Jaclyn Smith",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTA1YmQxNzUtMTZmYi00Zjc2LWE1ZmUtNTFjMzZkNjUxMGQ0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3323,
+                                                          "height":  4794
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0703033",
+                                     "displayName":  "Anthony Quayle",
+                                     "alternativeNames":  [
+                                                              "Sir Anthony Quayle"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE0NzE5NjkyNl5BMl5BanBnXkFtZTcwMDg4NTUwOA@@._V1_.jpg",
+                                                          "width":  1640,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0595567",
+                                     "displayName":  "Donald Moffat",
+                                     "alternativeNames":  [
+                                                              "Donald Moffatt",
+                                                              "Don Moffett"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTMyMTg1NTk0MV5BMl5BanBnXkFtZTcwODc4NDgwMw@@._V1_.jpg",
+                                                          "width":  1572,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           },
+                                           {
+                                               "code":  "deu",
+                                               "name":  "German"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  2
+                    }
+                ]
+}

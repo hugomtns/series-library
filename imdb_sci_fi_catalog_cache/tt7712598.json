@@ -1,0 +1,211 @@
+﻿{
+    "id":  "tt7712598",
+    "detail":  {
+                   "id":  "tt7712598",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Blood \u0026 Treasure",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjYzNmIxODgtYzM5ZC00OWQyLWE2N2ItMDZhYmU5YzNhMDBlXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1600
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2022,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.8,
+                                  "voteCount":  7422
+                              },
+                   "plot":  "An antiquities expert teams up with an art thief to catch a terrorist who funds his attacks using stolen artifacts.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0102434",
+                                         "displayName":  "Steve Boyum",
+                                         "alternativeNames":  [
+                                                                  "Stephen Boyum",
+                                                                  "Steve M. Boyum"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZmQ3YmE0MTYtNThlYi00MjAwLTg2ODAtMGI0YTliYmY1ZDkwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  640,
+                                                              "height":  427
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "stunts"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0768721",
+                                         "displayName":  "Stephen Scaia",
+                                         "alternativeNames":  [
+                                                                  "Steve Scaia"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjQzOTk2NzctZDlkNS00NThlLWE2NGMtYTk1Y2QzYTEyMmZmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2000,
+                                                              "height":  1329
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0066218",
+                                         "displayName":  "Guy Norman Bee",
+                                         "alternativeNames":  [
+                                                                  "Guy Bee"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0156215",
+                                       "displayName":  "Kevin Chesley",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTMxNTIxNTQ3MF5BMl5BanBnXkFtZTcwMTQxODc0NQ@@._V1_.jpg",
+                                                            "width":  344,
+                                                            "height":  500
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1668149",
+                                       "displayName":  "Matthew Federman",
+                                       "alternativeNames":  [
+                                                                "Matt Federman"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0768721",
+                                       "displayName":  "Stephen Scaia",
+                                       "alternativeNames":  [
+                                                                "Steve Scaia"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjQzOTk2NzctZDlkNS00NThlLWE2NGMtYTk1Y2QzYTEyMmZmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2000,
+                                                            "height":  1329
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1204778",
+                                     "displayName":  "Matt Barr",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjM2MTQyNDQ3NV5BMl5BanBnXkFtZTcwNTM1OTc5OQ@@._V1_.jpg",
+                                                          "width":  395,
+                                                          "height":  594
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2822103",
+                                     "displayName":  "Sofia Pernas",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWZkYjdjYWEtOTcyNi00NGZhLWJjNjMtYmY3MGRkMjc2Y2E2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3648,
+                                                          "height":  5472
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0130536",
+                                     "displayName":  "James Callis",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDFkNjU3ZTgtNjUxNC00NDk1LTlkZDgtYjNjMWM3NmZhZWEyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2000,
+                                                          "height":  1395
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1782215",
+                                     "displayName":  "Mark Gagliardi",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTYxZTY2Y2ItMDFkNC00ZWExLThiMDAtMjk4MTgyOTg0NGNiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  800,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "animation_department",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000016",
+                                         "name":  "Globetrotting Adventure",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    }
+                ]
+}

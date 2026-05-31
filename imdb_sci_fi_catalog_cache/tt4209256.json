@@ -1,0 +1,241 @@
+﻿{
+    "id":  "tt4209256",
+    "detail":  {
+                   "id":  "tt4209256",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Colony",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTg1MzAzODQ5OF5BMl5BanBnXkFtZTgwMDA1MDI0NTM@._V1_.jpg",
+                                        "width":  682,
+                                        "height":  1000
+                                    },
+                   "startYear":  2016,
+                   "endYear":  2018,
+                   "runtimeSeconds":  2520,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  41700
+                              },
+                   "plot":  "In the wake of a mysterious alien invasion, a family fights to stay together in a new world order.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0002728",
+                                         "displayName":  "Juan JosÃ© Campanella",
+                                         "alternativeNames":  [
+                                                                  "Juan JosÃ© Campanela",
+                                                                  "Juan J. Campanella",
+                                                                  "Juan Jose Campanella",
+                                                                  "Juan Campanella"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTcxMDgwNDM0NF5BMl5BanBnXkFtZTcwMzczMjMyMw@@._V1_.jpg",
+                                                              "width":  400,
+                                                              "height":  600
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0816074",
+                                         "displayName":  "Tim Southam",
+                                         "alternativeNames":  [
+                                                                  "Eda Holmes \u0026 Tim Southam"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BY2QzMDEzMmUtMzM2NC00Yjc0LTllZjYtNTE3Mzk1OTE0OGFiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1420,
+                                                              "height":  1171
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0566586",
+                                         "displayName":  "Nelson McCormick",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzA2YWU0Y2YtMWQxNS00YjU1LTkxODMtMTUzODlhZDUyNzNmXkEyXkFqcGc@._V1_CR49,1,1257,1885_.jpg",
+                                                              "width":  1257,
+                                                              "height":  1885
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2952284",
+                                       "displayName":  "Ryan J. Condal",
+                                       "alternativeNames":  [
+                                                                "Ryan Condal"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZDUzYTNhOTUtYjM2YS00NWIzLWJkZWMtZjM3MjZlYjFhMzZmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5464,
+                                                            "height":  6985
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0193681",
+                                       "displayName":  "Carlton Cuse",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYzkyYWJkYzktMDMxYi00ZjkxLThmODMtMjQwN2E1OTVjN2VmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2000,
+                                                            "height":  3000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm6269516",
+                                       "displayName":  "Julia Cooperman",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmIxN2NiNDItZDVmYy00YjVlLTgyYTctOTZkM2M4N2U5NTc2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1366,
+                                                            "height":  1748
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0391326",
+                                     "displayName":  "Josh Holloway",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk5NTQ2NjMzNl5BMl5BanBnXkFtZTYwOTExMzY1._V1_.jpg",
+                                                          "width":  273,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0915637",
+                                     "displayName":  "Sarah Wayne Callies",
+                                     "alternativeNames":  [
+                                                              "Sarah Callies"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzAyZTkyNDAtOTU0Mi00MTUwLTgyNDktODI3MTU3ZDQzYzNkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1600,
+                                                          "height":  2400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0414772",
+                                     "displayName":  "Peter Jacobson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2UwODk5NzgtNmU3Mi00MGE4LWEwZTAtYjhlYWQ3Mjg0YTVmXkEyXkFqcGc@._V1_CR63,0,533,799_.jpg",
+                                                          "width":  533,
+                                                          "height":  799
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0457796",
+                                     "displayName":  "Tory Kittles",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg2NzM4NDE4MF5BMl5BanBnXkFtZTgwMDAxNDg4NjE@._V1_.jpg",
+                                                          "width":  1499,
+                                                          "height":  1853
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "composer",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000157",
+                                         "name":  "Alien Invasion",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    }
+                ]
+}

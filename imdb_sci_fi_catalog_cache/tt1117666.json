@@ -1,0 +1,176 @@
+﻿{
+    "id":  "tt1117666",
+    "detail":  {
+                   "id":  "tt1117666",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Lost in Austen",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNmJmZmRjMmMtZjAwYS00YTM0LTgxYmYtZGUxM2IzNGJiMjNjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  780,
+                                        "height":  1170
+                                    },
+                   "startYear":  2008,
+                   "endYear":  2008,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Romance",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  12093
+                              },
+                   "plot":  "Amanda, an ardent Jane Austen fan, lives in present day London with her boyfriend Michael, until she finds she\u0027s swapped places with Austen\u0027s fictional creation Elizabeth Bennet.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0954204",
+                                         "displayName":  "Dan Zeff",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTI4ZDVmNzUtNjJmMy00ZTNmLTgwYjEtMDk5MTVkNGQ1ZDQ4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  698,
+                                                              "height":  777
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0028672",
+                                       "displayName":  "Guy Andrews",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0000807",
+                                       "displayName":  "Jane Austen",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjIxNDAyMjk5MF5BMl5BanBnXkFtZTcwNzk5ODgxOA@@._V1_.jpg",
+                                                            "width":  1478,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0095017",
+                                     "displayName":  "Hugh Bonneville",
+                                     "alternativeNames":  [
+                                                              "Richard Bonneville"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTI4M2YyYmUtMTM5Ny00NDg3LTk3NTUtZjU4NzYxZDUxN2ZiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4237,
+                                                          "height":  5296
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0740383",
+                                     "displayName":  "Jemima Rooper",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg3MTk0Njk1Ml5BMl5BanBnXkFtZTcwMjE4OTkzMQ@@._V1_.jpg",
+                                                          "width":  336,
+                                                          "height":  503
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1410360",
+                                     "displayName":  "Morven Christie",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWFmZjA4YzMtZjEwYS00ZTgzLThhZjUtNDZmNjMzYmE3Mjc0XkEyXkFqcGc@._V1_CR0,1,1289,1934_.jpg",
+                                                          "width":  1289,
+                                                          "height":  1934
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005094",
+                                     "displayName":  "Alex Kingston",
+                                     "alternativeNames":  [
+                                                              "Alex"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk3MTczNDIxOF5BMl5BanBnXkFtZTcwNDQ2MzI0Mg@@._V1_.jpg",
+                                                          "width":  298,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000074",
+                                         "name":  "Costume Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000083",
+                                         "name":  "Period Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000166",
+                                         "name":  "Time Travel",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  4
+                    }
+                ]
+}

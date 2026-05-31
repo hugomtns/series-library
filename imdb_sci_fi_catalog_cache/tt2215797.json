@@ -1,0 +1,202 @@
+﻿{
+    "id":  "tt2215797",
+    "detail":  {
+                   "id":  "tt2215797",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Zero Hour",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjk0MzQyY2UtZTRhNC00MmQyLTlmYTQtYjJjMmEyOGRlM2E3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  510,
+                                        "height":  680
+                                    },
+                   "startYear":  2013,
+                   "endYear":  2013,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.3,
+                                  "voteCount":  5583
+                              },
+                   "plot":  "Revolves around a bizarre twist of fate that pulls a man who\u0027s spent 20 years as the editor of a skeptics magazine into one of the most compelling conspiracies in human history.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0931724",
+                                         "displayName":  "Stephen Williams",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0603628",
+                                         "displayName":  "Pierre Morel",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjE3NDcyNzY4Nl5BMl5BanBnXkFtZTcwNDg5NDUxMw@@._V1_.jpg",
+                                                              "width":  283,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "cinematographer",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0211523",
+                                         "displayName":  "Jean de Segonzac",
+                                         "alternativeNames":  [
+                                                                  "Jean De Segonzac",
+                                                                  "Jean De Seonzac",
+                                                                  "Jean DeSegonzac",
+                                                                  "Jean de Segoznac",
+                                                                  "Jean deSegonzac"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZmE0ZDk4MjktMWU5Ny00ZGMwLTgwYTgtNDI1NGZlYjNmYTU2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3264,
+                                                              "height":  2448
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "cinematographer",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0771228",
+                                       "displayName":  "Paul T. Scheuring",
+                                       "alternativeNames":  [
+                                                                "Paul T. Schering",
+                                                                "Paul Scheuring"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1830692",
+                                       "displayName":  "Jerome Schwartz",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0818434",
+                                       "displayName":  "Tom Spezialy",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000381",
+                                     "displayName":  "Anthony Edwards",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI1NTk5ODY3Nl5BMl5BanBnXkFtZTcwNTE5MjcyMg@@._V1_.jpg",
+                                                          "width":  289,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0252238",
+                                     "displayName":  "Carmen Ejogo",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjI4NzA5NzI0MV5BMl5BanBnXkFtZTcwNTY3MDY0Ng@@._V1_.jpg",
+                                                          "width":  540,
+                                                          "height":  720
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1789970",
+                                     "displayName":  "Addison Timlin",
+                                     "alternativeNames":  [
+                                                              "Addison J. Timlin",
+                                                              "Addison Jayne Timlin"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjMyMDA5MjA4Nl5BMl5BanBnXkFtZTcwNzE0NDAyOQ@@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  750
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1974920",
+                                     "displayName":  "Scott Michael Foster",
+                                     "alternativeNames":  [
+                                                              "Scott M. Foster"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjQ0NDMyNGEtMGRhZC00MmZjLWE1OGYtY2I0MjMyZGI0MmMzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  830,
+                                                          "height":  1110
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

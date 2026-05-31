@@ -1,0 +1,233 @@
+﻿{
+    "id":  "tt9251798",
+    "detail":  {
+                   "id":  "tt9251798",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Ragnarok",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYzhlZTU4MTgtMTViNS00OWJhLTg2N2QtYmVhZmNhZjJmOTkxXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2025,
+                                        "height":  3000
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2023,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Action",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  54435
+                              },
+                   "plot":  "A small Norwegian town experiencing warm winters and violent downpours seems to be headed for Ragnarok -- unless someone intervenes in time.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0160208",
+                                         "displayName":  "Mogens Hagedorn",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDE0ZDVlYjItYjY0ZC00YmI0LTgxZjUtNDUxY2FmZTk3Yjk4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  484,
+                                                              "height":  542
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0423804",
+                                         "displayName":  "Jannik Johansen",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1802382",
+                                         "displayName":  "Mads Kamp Thulstrup",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm6306573",
+                                       "displayName":  "Emilie Lebech Kaae",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0696769",
+                                       "displayName":  "Adam Price",
+                                       "alternativeNames":  [
+                                                                "James \u0026 Adam Price",
+                                                                "Adam Prie"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1904101",
+                                       "displayName":  "Simen Alsvik",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNmVmMjRlY2QtYzA2Yy00NmNhLWI4ODEtMGFlNWVlYWY3ZDcwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2511,
+                                                            "height":  2834
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "music_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm8184025",
+                                     "displayName":  "David Stakston",
+                                     "alternativeNames":  [
+                                                              "David Aleksander SjÃ¸holt",
+                                                              "David Alexander SjÃ¸holt",
+                                                              "David SjÃ¸holt"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8514857",
+                                     "displayName":  "Theresa Frostad EggesbÃ¸",
+                                     "alternativeNames":  [
+                                                              "Theresa EggesbÃ¸"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2FlNjM0M2MtMTA3Ny00YWRkLTkwNmYtM2JlYWYzODgwOTNmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1333,
+                                                          "height":  2000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6338716",
+                                     "displayName":  "Jonas Strand Gravli",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU5NDY5MzI5NV5BMl5BanBnXkFtZTgwODgzMDAzNjM@._V1_.jpg",
+                                                          "width":  1370,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4794692",
+                                     "displayName":  "Herman TÃ¸mmeraas",
+                                     "alternativeNames":  [
+                                                              "Herman TÃ¸meraas",
+                                                              "Hermann TÃ¸mmeraas"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjE2OTMxYWMtOGFkZS00M2FlLWE3ZGYtMTVhMzUwMDMyZDNiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1536,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "stunts"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "DK",
+                                               "name":  "Denmark"
+                                           },
+                                           {
+                                               "code":  "NO",
+                                               "name":  "Norway"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "nor",
+                                               "name":  "Norwegian"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000089",
+                                         "name":  "Teen Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  6
+                    }
+                ]
+}

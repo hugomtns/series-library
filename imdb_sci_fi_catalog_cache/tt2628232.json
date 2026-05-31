@@ -1,0 +1,249 @@
+﻿{
+    "id":  "tt2628232",
+    "detail":  {
+                   "id":  "tt2628232",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Penny Dreadful",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZjkxMDAzMDgtNzFhNS00MjJkLWI5NTctZGRjODg3MzRiOWEzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2400,
+                                        "height":  3263
+                                    },
+                   "startYear":  2014,
+                   "endYear":  2016,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.2,
+                                  "voteCount":  139712
+                              },
+                   "plot":  "Explorer Sir Malcolm Murray, American gunslinger Ethan Chandler, scientist Victor Frankenstein and medium Vanessa Ives unite to combat supernatural threats in Victorian London.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2270017",
+                                         "displayName":  "Damon Thomas",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZjA1YzNiNjgtNDM0MC00MDQ0LTgwMWEtODUyYTRhOGUyNGYxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3024,
+                                                              "height":  4032
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0369949",
+                                         "displayName":  "James Hawes",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMWIzMjNlZmEtNzcyYi00N2VhLTljYjMtMzhkNTQ0OThmODQzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3177,
+                                                              "height":  3177
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1047532",
+                                         "displayName":  "Brian Kirk",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0517589",
+                                       "displayName":  "John Logan",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTc0MjEzMjM3MF5BMl5BanBnXkFtZTgwNzk5MjkxMDI@._V1_.jpg",
+                                                            "width":  3264,
+                                                            "height":  3744
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm6999214",
+                                       "displayName":  "Andrew Hinderaker",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmNmZmM2NzUtY2IzMi00NTJlLWFiNzUtOTg4NGEwNGM3YWY0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4497,
+                                                            "height":  6610
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4880670",
+                                       "displayName":  "Krysty Wilson-Cairns",
+                                       "alternativeNames":  [
+                                                                "Krysty Wilson Cairns"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmNmZmM2NzUtY2IzMi00NTJlLWFiNzUtOTg4NGEwNGM3YWY0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4497,
+                                                            "height":  6610
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0138840",
+                                     "displayName":  "Reeve Carney",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDUxNzEzMDI3MV5BMl5BanBnXkFtZTgwMDYyNDMyODE@._V1_.jpg",
+                                                          "width":  1050,
+                                                          "height":  1500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "composer",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1200692",
+                                     "displayName":  "Eva Green",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ0MDA2ODE2Ml5BMl5BanBnXkFtZTcwMjI0Nzc3Nw@@._V1_.jpg",
+                                                          "width":  1307,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001096",
+                                     "displayName":  "Timothy Dalton",
+                                     "alternativeNames":  [
+                                                              "Tim Dalton"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDE5NDA1OTA4NV5BMl5BanBnXkFtZTcwMDE3NDk0NA@@._V1_.jpg",
+                                                          "width":  687,
+                                                          "height":  1023
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001326",
+                                     "displayName":  "Josh Hartnett",
+                                     "alternativeNames":  [
+                                                              "Joshua Hartnett"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY5MDgzNDA2MF5BMl5BanBnXkFtZTcwODE3ODg1Mg@@._V1_.jpg",
+                                                          "width":  269,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000083",
+                                         "name":  "Period Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000110",
+                                         "name":  "Folk Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000113",
+                                         "name":  "Monster Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000121",
+                                         "name":  "Witch Horror",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  9
+                    }
+                ]
+}

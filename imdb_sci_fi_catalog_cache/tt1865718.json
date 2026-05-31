@@ -1,0 +1,304 @@
+﻿{
+    "id":  "tt1865718",
+    "detail":  {
+                   "id":  "tt1865718",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Gravity Falls",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTEzNDc3MDQ2NzNeQTJeQWpwZ15BbWU4MDYzMzUwMDIx._V1_.jpg",
+                                        "width":  2779,
+                                        "height":  4335
+                                    },
+                   "startYear":  2012,
+                   "endYear":  2016,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.9,
+                                  "voteCount":  179089
+                              },
+                   "plot":  "Twin siblings Dipper and Mabel Pines spend the summer at their great-uncle\u0027s tourist trap in the enigmatic Gravity Falls, Oregon.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2541595",
+                                         "displayName":  "Joe Pitt",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMWI0N2I2YjUtMDRkMi00Nzg1LTliMDYtMWY1MDRhNDcwZGJiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  800,
+                                                              "height":  800
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1434374",
+                                         "displayName":  "John Aoshima",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMWUxN2IzYTQtYWJjOS00YzhhLWI0NzEtN2EzMWVjZjgzNDE5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  512,
+                                                              "height":  535
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm5107569",
+                                         "displayName":  "Matt Braly",
+                                         "alternativeNames":  [
+                                                                  "Matthew Braly"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3229215",
+                                       "displayName":  "Alex Hirsch",
+                                       "alternativeNames":  [
+                                                                "Bill Cipher",
+                                                                "Alex Hirsh"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzk0ZjFkNDEtZjgzYy00MTc1LWE4ZGQtODUyMzE0MDc0NzFlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  219,
+                                                            "height":  299
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2626629",
+                                       "displayName":  "Mark Rizzo",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjEwOWY3ODMtZGVjNS00ZDE3LTg0NDktMDlmOTFhNmQ5ODY0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2316,
+                                                            "height":  3088
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1480095",
+                                       "displayName":  "Matt Chapman",
+                                       "alternativeNames":  [
+                                                                "Strong Bad",
+                                                                "The Brothers Chaps",
+                                                                "\"Mart Champin\"",
+                                                                "Matthew Chapman",
+                                                                "Strong Sad \u0026 The Cheat",
+                                                                "Strong Bad \u0026 friends"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTk4MzkzMzk0MF5BMl5BanBnXkFtZTcwNDIwMjM4NA@@._V1_.jpg",
+                                                            "width":  1024,
+                                                            "height":  1536
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm6676487",
+                                       "displayName":  "Jeff Rowe",
+                                       "alternativeNames":  [
+                                                                "Jeffrey Rowe"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDEzN2YwZjAtNTllYS00Mjk5LTg4OTAtYzViMDQxZWRkMTUxXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3286,
+                                                            "height":  5000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0728762",
+                                     "displayName":  "Jason Ritter",
+                                     "alternativeNames":  [
+                                                              "Jason Morgan",
+                                                              "Jason Morgan Ritter"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTY0ZmJkNWQtZjNkNS00NzZjLWJiMTgtMjk0YmUyYzc2OTFhXkEyXkFqcGc@._V1_CR1,1,1492,2238_.jpg",
+                                                          "width":  1492,
+                                                          "height":  2238
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "stunts"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1102891",
+                                     "displayName":  "Kristen Schaal",
+                                     "alternativeNames":  [
+                                                              "Frannie Hood",
+                                                              "Kristen Schall",
+                                                              "Kristin Schall",
+                                                              "Kristen Shaal"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg0NTQ1NzY1OV5BMl5BanBnXkFtZTgwMjg3NjIxMDI@._V1_.jpg",
+                                                          "width":  1050,
+                                                          "height":  1465
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0004802",
+                                     "displayName":  "Linda Cardellini",
+                                     "alternativeNames":  [
+                                                              "Linda Edna Cardellini"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ2MDM4MTM2NF5BMl5BanBnXkFtZTgwMTM4MjYyMDE@._V1_.jpg",
+                                                          "width":  1482,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3229215",
+                                     "displayName":  "Alex Hirsch",
+                                     "alternativeNames":  [
+                                                              "Bill Cipher",
+                                                              "Alex Hirsh"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzk0ZjFkNDEtZjgzYy00MTc1LWE4ZGQtODUyMzE0MDc0NzFlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  219,
+                                                          "height":  299
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000032",
+                                         "name":  "Buddy Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000037",
+                                         "name":  "High-Concept Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  21
+                    }
+                ]
+}

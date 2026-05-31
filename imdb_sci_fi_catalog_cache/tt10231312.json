@@ -1,0 +1,220 @@
+﻿{
+    "id":  "tt10231312",
+    "detail":  {
+                   "id":  "tt10231312",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Inside Job",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZjJkMjhhNzctNjMxOS00M2Y1LWFiMmMtZjQ5ZjllM2UxYjAzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1350
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2022,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.7,
+                                  "voteCount":  38444
+                              },
+                   "plot":  "For employees of the Deep State, conspiracies aren\u0027t just theories, they\u0027re fact. And keeping them a secret is a full-time job.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm5373161",
+                                         "displayName":  "Vitaliy Strokous",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm5049656",
+                                         "displayName":  "David Ochs",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm5971274",
+                                         "displayName":  "Mike Bertino",
+                                         "alternativeNames":  [
+                                                                  "Michael Bertino"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm5077533",
+                                       "displayName":  "Alisha Brophy",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTYzNjE2NTAyNF5BMl5BanBnXkFtZTgwNjEyMzQ0MzE@._V1_.jpg",
+                                                            "width":  885,
+                                                            "height":  1500
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3748422",
+                                       "displayName":  "Adam Lederer",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1104239",
+                                       "displayName":  "Scott Miles",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjk3ZGM5YTQtMTg3Ny00ZTAxLWJiZGMtMjI5M2I4ZWY0YzAzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  450,
+                                                            "height":  505
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000225",
+                                     "displayName":  "Christian Slater",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY5ODA1ODY2Nl5BMl5BanBnXkFtZTgwNjcwNDczNzE@._V1_.jpg",
+                                                          "width":  1361,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0135221",
+                                     "displayName":  "Lizzy Caplan",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA1MDgxNDU0Nl5BMl5BanBnXkFtZTgwNjk4NTgwMTE@._V1_.jpg",
+                                                          "width":  960,
+                                                          "height":  1202
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "executive",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0132896",
+                                     "displayName":  "Tisha Campbell",
+                                     "alternativeNames":  [
+                                                              "Tisha M. Campbell",
+                                                              "Tisha Campbell-Martin",
+                                                              "Tisha Campbell Martin"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU2MTkwNTIyNF5BMl5BanBnXkFtZTYwMzQ5OTQz._V1_.jpg",
+                                                          "width":  309,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0241173",
+                                     "displayName":  "Clark Duke",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2E1NTdjOGMtMWQ5MS00Y2JhLWEzMGMtYjRkNzhmYzliZjA1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  400,
+                                                          "height":  600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    }
+                ]
+}

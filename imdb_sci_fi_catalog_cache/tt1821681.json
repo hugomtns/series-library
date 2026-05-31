@@ -1,0 +1,226 @@
+﻿{
+    "id":  "tt1821681",
+    "detail":  {
+                   "id":  "tt1821681",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Touch",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNTI3OTcwNTk3Ml5BMl5BanBnXkFtZTcwNzA3NzAzNw@@._V1_.jpg",
+                                        "width":  510,
+                                        "height":  755
+                                    },
+                   "startYear":  2012,
+                   "endYear":  2013,
+                   "runtimeSeconds":  2580,
+                   "genres":  [
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  43983
+                              },
+                   "plot":  "A widower struggling to raise his emotionally challenged son discovers that he can predict events before they happen.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0566586",
+                                         "displayName":  "Nelson McCormick",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzA2YWU0Y2YtMWQxNS00YjU1LTkxODMtMTUzODlhZDUyNzNmXkEyXkFqcGc@._V1_CR49,1,1257,1885_.jpg",
+                                                              "width":  1257,
+                                                              "height":  1885
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0156838",
+                                         "displayName":  "Milan Cheylov",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYWM1YjI0ZmEtZGUyNC00MDJhLWJkMjAtMDE1NjZkMjJhNzg1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  640,
+                                                              "height":  480
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0915400",
+                                         "displayName":  "Michael Waxman",
+                                         "alternativeNames":  [
+                                                                  "Michael Waxman-Lenz"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0471352",
+                                       "displayName":  "Tim Kring",
+                                       "alternativeNames":  [
+                                                                "R. Timothy Kring"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjMzNjgwNzg3N15BMl5BanBnXkFtZTcwMzc2NTg2OA@@._V1_.jpg",
+                                                            "width":  1816,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0053322",
+                                       "displayName":  "Carol Barbee",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDE4NmNmYmQtMTQwNy00YjU4LWFjNzktZTRkNmY3NTI2ZDkxXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  406,
+                                                            "height":  608
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0294352",
+                                       "displayName":  "Rob Fresco",
+                                       "alternativeNames":  [
+                                                                "Bob Fresco",
+                                                                "Robert J. Fresco",
+                                                                "Robert Fresco"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000662",
+                                     "displayName":  "Kiefer Sutherland",
+                                     "alternativeNames":  [
+                                                              "Keifer Sutherland"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjQ1MjI5ODI3Nl5BMl5BanBnXkFtZTcwNTQzOTM0Mw@@._V1_.jpg",
+                                                          "width":  289,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1813221",
+                                     "displayName":  "Gugu Mbatha-Raw",
+                                     "alternativeNames":  [
+                                                              "Gugu Mbatha Raw"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzA5Yjk5OTktODVlMi00OTliLWE1Y2ItMTY3MTliNmFhMWEzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1371,
+                                                          "height":  1500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3458761",
+                                     "displayName":  "David Mazouz",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGRlMDI0ZDgtZDU3Zi00M2FmLWE4MDUtZGE4MTY4NGEzNTdkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1170,
+                                                          "height":  1756
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001305",
+                                     "displayName":  "Lukas Haas",
+                                     "alternativeNames":  [
+                                                              "Lucas D. Haas",
+                                                              "Lucas Haas"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ3MjU1MDMxM15BMl5BanBnXkFtZTgwODk5ODE4MDE@._V1_.jpg",
+                                                          "width":  1240,
+                                                          "height":  1680
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    }
+                ]
+}

@@ -1,0 +1,217 @@
+﻿{
+    "id":  "tt8466564",
+    "detail":  {
+                   "id":  "tt8466564",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Obi-Wan Kenobi",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOGU4ODlmNmMtMDM0OS00NTMxLWFlODUtZGFkMjU5NDdhMjgyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1688,
+                                        "height":  2500
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2022,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  263269
+                              },
+                   "plot":  "Jedi Master Obi-Wan Kenobi must save young Leia after she is kidnapped, all the while being pursued by Imperial Inquisitors and his former Padawan now known as Darth Vader.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1278887",
+                                         "displayName":  "Deborah Chow",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzgyNDY2YTUtYjE3MS00ODY1LWI2YjAtYTkzYTJkNGUzMDUzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  7116,
+                                                              "height":  4965
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1703612",
+                                       "displayName":  "Joby Harold",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOTQyNWY2YjYtNjc1MS00OGFkLWI0MWYtMWM2NDU3ZjFkMDUyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  425,
+                                                            "height":  610
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0000184",
+                                       "displayName":  "George Lucas",
+                                       "alternativeNames":  [
+                                                                "George",
+                                                                "George L.",
+                                                                "Lucas"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTA0Mjc0NzExNzBeQTJeQWpwZ15BbWU3MDEzMzQ3MDI@._V1_.jpg",
+                                                            "width":  271,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0024925",
+                                       "displayName":  "Hossein Amini",
+                                       "alternativeNames":  [
+                                                                "Hoss Amini"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNTY4OTE1MTM3Ml5BMl5BanBnXkFtZTgwMzk3Njk3MTE@._V1_.jpg",
+                                                            "width":  1388,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000191",
+                                     "displayName":  "Ewan McGregor",
+                                     "alternativeNames":  [
+                                                              "Ewan Mcgregor"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg1MjQ0MDg0Nl5BMl5BanBnXkFtZTcwNjYyNjI5Mg@@._V1_.jpg",
+                                                          "width":  269,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9458718",
+                                     "displayName":  "Moses Ingram",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDA2MDU2YzktOGIxYi00NDJhLTk0YWYtMDc4YmU3NDczMWY5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1000,
+                                                          "height":  1500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0159789",
+                                     "displayName":  "Hayden Christensen",
+                                     "alternativeNames":  [
+                                                              "Hayden Christiansen",
+                                                              "Hayden Cristensen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDI3ZGEzMWUtMzgzMC00ZDIxLTgzYzEtZTM5YjczMTdkNmQzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  620
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8643487",
+                                     "displayName":  "Vivien Lyra Blair",
+                                     "alternativeNames":  [
+                                                              "Vivien Blair"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTQ2NzBhZmUtMWNkMi00ZDU2LTkyOTgtYzhiYmM4YWZhY2IzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1024,
+                                                          "height":  1535
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000002",
+                                         "name":  "Action Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000015",
+                                         "name":  "Adventure Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000090",
+                                         "name":  "Tragedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    }
+                ]
+}

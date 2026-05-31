@@ -1,0 +1,192 @@
+﻿{
+    "id":  "tt3007640",
+    "detail":  {
+                   "id":  "tt3007640",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Naked and Afraid",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzc4Nzc2ZWItMDQ1ZS00OWI2LTk2MTAtNTQ1ODBkZTg4YjhhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1600,
+                                        "height":  2400
+                                    },
+                   "startYear":  2013,
+                   "runtimeSeconds":  2580,
+                   "genres":  [
+                                  "Adventure",
+                                  "Game-Show",
+                                  "Horror",
+                                  "Reality-TV"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.6,
+                                  "voteCount":  5644
+                              },
+                   "plot":  "Reality show where two strangers (typically 1 male, 1 female) try to survive in the wild for up to 21 days, naked.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2526285",
+                                         "displayName":  "Robert Michael Kelly",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3773434",
+                                         "displayName":  "Kyle Hunter",
+                                         "primaryProfessions":  [
+                                                                    "miscellaneous",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3782043",
+                                         "displayName":  "Ariel Shaffir",
+                                         "primaryProfessions":  [
+                                                                    "miscellaneous",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2526285",
+                                       "displayName":  "Robert Michael Kelly",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "editor",
+                                                                  "producer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm5844226",
+                                     "displayName":  "Michael Brown",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000105",
+                                         "name":  "Game Show"
+                                     },
+                                     {
+                                         "id":  "in0000106",
+                                         "name":  "Survival Competition",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000148",
+                                         "name":  "Reality TV"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  17
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "13",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "14",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "15",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "16",
+                        "episodeCount":  5
+                    },
+                    {
+                        "season":  "17",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "18",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "19",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  7
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  8
+                    }
+                ]
+}

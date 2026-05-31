@@ -1,0 +1,259 @@
+﻿{
+    "id":  "tt0925266",
+    "detail":  {
+                   "id":  "tt0925266",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Pushing Daisies",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTY3ODYxNjU1Nl5BMl5BanBnXkFtZTcwMTI0MTU1MQ@@._V1_.jpg",
+                                        "width":  510,
+                                        "height":  755
+                                    },
+                   "startYear":  2007,
+                   "endYear":  2009,
+                   "runtimeSeconds":  2640,
+                   "genres":  [
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Musical",
+                                  "Mystery",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.4,
+                                  "voteCount":  62263
+                              },
+                   "plot":  "A pastry chef with the power to bring dead people back to life solves murder mysteries with his resurrected childhood sweetheart, a cynical private investigator, and a lovesick waitress.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0872823",
+                                         "displayName":  "Lawrence Trilling",
+                                         "alternativeNames":  [
+                                                                  "Larry Trilling"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYmZiYjAwNDAtMDA2Ny00ZGExLTlkZmQtYjNjNmVlNTFhNjE3XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2100,
+                                                              "height":  1400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0437246",
+                                         "displayName":  "Adam Kane",
+                                         "alternativeNames":  [
+                                                                  "Adam M. Kane",
+                                                                  "Enak Mada"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWZmZjI0NGYtNTEwMC00OGE2LTgxYjYtYmVkMjExODk4YzFjXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1449,
+                                                              "height":  1532
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0640964",
+                                         "displayName":  "Peter O\u0027Fallon",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc1OTgyNjg0M15BMl5BanBnXkFtZTcwMjA0NDU0NQ@@._V1_.jpg",
+                                                              "width":  1326,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0298188",
+                                       "displayName":  "Bryan Fuller",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BODkwMDg5MTE1Ml5BMl5BanBnXkFtZTYwMzQ3MTg3._V1_.jpg",
+                                                            "width":  485,
+                                                            "height":  724
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2847370",
+                                       "displayName":  "Lisa Joy",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjM2MDEzOTkwNl5BMl5BanBnXkFtZTgwODIzMzk2NjM@._V1_.jpg",
+                                                            "width":  705,
+                                                            "height":  1024
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0643824",
+                                       "displayName":  "Peter Ocko",
+                                       "alternativeNames":  [
+                                                                "Pete Ocko"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0295484",
+                                     "displayName":  "Anna Friel",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI1Mjk3NTcyNl5BMl5BanBnXkFtZTcwNDcxMjE2Mg@@._V1_.jpg",
+                                                          "width":  291,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1195855",
+                                     "displayName":  "Lee Pace",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWRjYjkxYjctMzUzMi00Mjc1LTkzNmMtNmVkYjUwMzVkMjliXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1323,
+                                                          "height":  1626
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0564277",
+                                     "displayName":  "Chi McBride",
+                                     "alternativeNames":  [
+                                                              "Chi",
+                                                              "Chi Mcbride"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY2NDcyNTI1Ml5BMl5BanBnXkFtZTcwNTYyOTI4Mw@@._V1_.jpg",
+                                                          "width":  490,
+                                                          "height":  653
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0197715",
+                                     "displayName":  "Jim Dale",
+                                     "alternativeNames":  [
+                                                              "Jim Dale MBE"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc5MzY0MzM0Nl5BMl5BanBnXkFtZTcwMzM3MDEzOA@@._V1_.jpg",
+                                                          "width":  1000,
+                                                          "height":  1233
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "composer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000037",
+                                         "name":  "High-Concept Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000133",
+                                         "name":  "Musical"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000141",
+                                         "name":  "Whodunnit",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  1
+                    }
+                ]
+}

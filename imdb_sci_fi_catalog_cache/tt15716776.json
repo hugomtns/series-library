@@ -1,0 +1,251 @@
+﻿{
+    "id":  "tt15716776",
+    "detail":  {
+                   "id":  "tt15716776",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Devil May Cry",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTcwZTkxZTctYzRlOC00YjZkLWJiYTQtOTJiOWY5NWEwYmU1XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2222
+                                    },
+                   "startYear":  2025,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Fantasy",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  31880
+                              },
+                   "plot":  "When a mysterious villain threatens to open the gates of Hell, a devilishly handsome demon hunter could be the world\u0027s best hope for salvation.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm12433536",
+                                         "displayName":  "Seung Woo Han",
+                                         "alternativeNames":  [
+                                                                  "Han Seung Woo"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm6228269",
+                                         "displayName":  "So Young Park",
+                                         "alternativeNames":  [
+                                                                  "Park So Young"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm13960112",
+                                         "displayName":  "Mathieu Corbin",
+                                         "alternativeNames":  [
+                                                                  "CORBIN Mathieu"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm9106804",
+                                         "displayName":  "Hong Ji-Young",
+                                         "alternativeNames":  [
+                                                                  "Hong Jee Young"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm8288195",
+                                       "displayName":  "Alex Larsen",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3021774",
+                                       "displayName":  "Adi Shankar",
+                                       "alternativeNames":  [
+                                                                "Aditya Shankar"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BODgxYzZkZTEtZGUzYy00NjllLWI4MGItNzlhMGNiMGJmMWE4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5464,
+                                                            "height":  8192
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0097765",
+                                     "displayName":  "Johnny Yong Bosch",
+                                     "alternativeNames":  [
+                                                              "Johnny Y. Bosch",
+                                                              "Johnny Yong Bosch/Johnny Bosch",
+                                                              "Johnny Young Bosch",
+                                                              "Johnny Bosch",
+                                                              "John Bosch",
+                                                              "Jonnie Bosch",
+                                                              "Johnny Yong Bosh",
+                                                              "Kevin Hatcher",
+                                                              "Adam Park"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQzMzk3MDU5NV5BMl5BanBnXkFtZTgwMjE2MzUyMTE@._V1_.jpg",
+                                                          "width":  2400,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0174021",
+                                     "displayName":  "Scout Taylor-Compton",
+                                     "alternativeNames":  [
+                                                              "Scout Taylor Compton",
+                                                              "Scout Compton"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTU5ODk0MzYtNzRmZC00MmUzLWJlYzktNTVmYTQ5N2MzNDBhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1192,
+                                                          "height":  1670
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1229640",
+                                     "displayName":  "Hoon Lee",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTQ4YzIzYmMtMGM2Ny00MWM5LTlhNzItZjA2N2Y3MTFmNDVlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1597,
+                                                          "height":  2396
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0175834",
+                                     "displayName":  "Kevin Conroy",
+                                     "alternativeNames":  [
+                                                              "Kevin"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM4MDcwMTU2NF5BMl5BanBnXkFtZTcwMzMyMjg0Nw@@._V1_.jpg",
+                                                          "width":  1420,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000027",
+                                         "name":  "Anime"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    }
+                ]
+}

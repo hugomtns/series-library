@@ -1,0 +1,216 @@
+﻿{
+    "id":  "tt0085011",
+    "detail":  {
+                   "id":  "tt0085011",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Dungeons \u0026 Dragons",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMDc4YzU1ZTEtOTM0Yy00ZTNjLWIzODktZmMxNmFmYTc2MWQwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1648,
+                                        "height":  2220
+                                    },
+                   "startYear":  1983,
+                   "endYear":  1985,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8,
+                                  "voteCount":  6864
+                              },
+                   "plot":  "A group of kids are thrown into a fantasy world where they must search for a way home, armed with magic weapons that an evil tyrant wants.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0316685",
+                                         "displayName":  "John Gibbs",
+                                         "alternativeNames":  [
+                                                                  "John V. Gibbs"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0724436",
+                                         "displayName":  "Bob Richardson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNmQxYjBjZWItZjUxOC00NmIwLTlmOTQtMmI3ZmFlMDZkNzQzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2592,
+                                                              "height":  2625
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2239807",
+                                       "displayName":  "Kevin Paul Coates",
+                                       "alternativeNames":  [
+                                                                "Kevin Coates"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0262494",
+                                       "displayName":  "Mark Evanier",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTg0OTk4NjkwOF5BMl5BanBnXkFtZTcwNTE4ODg2Mw@@._V1_.jpg",
+                                                            "width":  1009,
+                                                            "height":  1024
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0548808",
+                                       "displayName":  "Dennis Marks",
+                                       "alternativeNames":  [
+                                                                "Denis Marks",
+                                                                "Dennis Marx"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000714",
+                                     "displayName":  "Willie Aames",
+                                     "alternativeNames":  [
+                                                              "Willie Ames"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmY2NGU2ZWEtMDk1Zi00Njc3LWJhZjUtOWIzZjE3MTQ5MmYzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  720,
+                                                          "height":  990
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0609182",
+                                     "displayName":  "Don Most",
+                                     "alternativeNames":  [
+                                                              "Donald K. Most",
+                                                              "Donald Most",
+                                                              "Donny Most",
+                                                              "Donn Most"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDg4YmZjZTctMzVhZC00NjE2LTlhYWEtZDRiYjg4ODMxYTY5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1752,
+                                                          "height":  2912
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0723589",
+                                     "displayName":  "Adam Rich",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI1MjMwNTg5N15BMl5BanBnXkFtZTYwMjkxODIz._V1_.jpg",
+                                                          "width":  270,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0191520",
+                                     "displayName":  "Peter Cullen",
+                                     "alternativeNames":  [
+                                                              "Peter Cullan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUxNzMwMTU0MF5BMl5BanBnXkFtZTcwMjI2OTU5Ng@@._V1_.jpg",
+                                                          "width":  1404,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  7
+                    }
+                ]
+}

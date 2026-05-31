@@ -1,0 +1,284 @@
+﻿{
+    "id":  "tt2647544",
+    "detail":  {
+                   "id":  "tt2647544",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Sleepy Hollow",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTAzMGM2ZDAtYTkzOC00OWM3LWEzYWUtZDY1NTI1YWMwYzIwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  936,
+                                        "height":  1384
+                                    },
+                   "startYear":  2013,
+                   "endYear":  2017,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  66939
+                              },
+                   "plot":  "Ichabod Crane is resurrected and pulled two and a half centuries through time to unravel a mystery that dates all the way back to the founding fathers.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0277655",
+                                         "displayName":  "Russell Lee Fine",
+                                         "alternativeNames":  [
+                                                                  "Russell L. Fine",
+                                                                  "Russell Fine",
+                                                                  "Russel Fine"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0250267",
+                                         "displayName":  "Paul A. Edwards",
+                                         "alternativeNames":  [
+                                                                  "Paul Edwards"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZjkyNjI0YjUtMTdjZi00MmQ3LWEzYjgtMjc4Yjk5MjJlZTgxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2448,
+                                                              "height":  1836
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0007439",
+                                         "displayName":  "Doug Aarniokoski",
+                                         "alternativeNames":  [
+                                                                  "Doug T. Aarniokoski",
+                                                                  "Douglas Aarniokoski",
+                                                                  "Doug Aarniokowski",
+                                                                  "Arnold Cassius"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODkyODQxMDYzMl5BMl5BanBnXkFtZTcwODQ3MzMxOA@@._V1_.jpg",
+                                                              "width":  708,
+                                                              "height":  849
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm5484242",
+                                       "displayName":  "Phillip Iscove",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzM3OTQxMTgwNV5BMl5BanBnXkFtZTcwMzAyODk4OQ@@._V1_.jpg",
+                                                            "width":  1446,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0476064",
+                                       "displayName":  "Alex Kurtzman",
+                                       "alternativeNames":  [
+                                                                "Alex Kurtzman-Counter"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTY3MDAxOTY3M15BMl5BanBnXkFtZTcwOTIxODY5Nw@@._V1_.jpg",
+                                                            "width":  1148,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0649460",
+                                       "displayName":  "Roberto Orci",
+                                       "alternativeNames":  [
+                                                                "Roberto Gaston Orci"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjIxNTI4NDI4MF5BMl5BanBnXkFtZTcwNDkxODk4OQ@@._V1_.jpg",
+                                                            "width":  1511,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2070427",
+                                     "displayName":  "Tom Mison",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmQ2OTY4NzMtMDY3Mi00ZTFmLTgyMTctNjkzZDRlMTk3MTczXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  752,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3442405",
+                                     "displayName":  "Lyndie Greenwood",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjIyMzY0NzI1NF5BMl5BanBnXkFtZTgwNDQ1MTgyMDI@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0428963",
+                                     "displayName":  "Orlando Jones",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY1NTY2NzA5MF5BMl5BanBnXkFtZTcwMDc0MTkyMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  462
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2718512",
+                                     "displayName":  "Nicole Beharie",
+                                     "alternativeNames":  [
+                                                              "Nikki Beharie",
+                                                              "Nicole Browne"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzczNjAyYmUtYzAyZi00OTQ3LWI2MTEtZDc0MDNmYTFjMzM1XkEyXkFqcGc@._V1_CR0,409,1124,1686_.jpg",
+                                                          "width":  1124,
+                                                          "height":  1686
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "enm",
+                                               "name":  "Middle English (1100-1500)"
+                                           },
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "deu",
+                                               "name":  "German"
+                                           },
+                                           {
+                                               "code":  "ell",
+                                               "name":  "Modern Greek (1453-)"
+                                           },
+                                           {
+                                               "code":  "lat",
+                                               "name":  "Latin"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000113",
+                                         "name":  "Monster Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    }
+                ]
+}

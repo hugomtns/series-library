@@ -1,0 +1,185 @@
+﻿{
+    "id":  "tt0423668",
+    "detail":  {
+                   "id":  "tt0423668",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Hex",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZjg2YmY0NmUtYTZiNy00OTFmLThkZDktMjU4M2EyNjU4N2E5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  2004,
+                   "endYear":  2005,
+                   "runtimeSeconds":  6300,
+                   "genres":  [
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  5390
+                              },
+                   "plot":  "Cassie is a shy and lonely student who is only really loved by her best friend Thelma.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0335283",
+                                         "displayName":  "Brian Grant",
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0323758",
+                                         "displayName":  "Andy Goddard",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0614414",
+                                         "displayName":  "Julian Murphy",
+                                         "primaryProfessions":  [
+                                                                    "producer",
+                                                                    "script_department",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0428483",
+                                       "displayName":  "Julian Jones",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2350239",
+                                       "displayName":  "Jake Michie",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0845956",
+                                       "displayName":  "Peter Tabern",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0740383",
+                                     "displayName":  "Jemima Rooper",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg3MTk0Njk1Ml5BMl5BanBnXkFtZTcwMjE4OTkzMQ@@._V1_.jpg",
+                                                          "width":  336,
+                                                          "height":  503
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1373929",
+                                     "displayName":  "Jamie Davis",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTk3ZWM4ZWUtMjFmYS00ZGM2LWI0ODItYTNhZmEyMjQ0M2U5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0756604",
+                                     "displayName":  "Amber Sainsbury",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTMwMTUyMDU5OV5BMl5BanBnXkFtZTYwNzI3OTI4._V1_.jpg",
+                                                          "width":  260,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0758760",
+                                     "displayName":  "Colin Salmon",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDE3MDQ3MGEtOTNmYS00MzlmLTk3MGQtYTM0OGZjZDNhMWQ3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  968,
+                                                          "height":  1346
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000121",
+                                         "name":  "Witch Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  5
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    }
+                ]
+}

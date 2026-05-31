@@ -1,0 +1,10 @@
+node_modules/
+*.log
+*.tmp
+*.bak
+*.db-shm
+*.db-wal
+.DS_Store
+Thumbs.db
+imdb_sci_fi_year_files/
+imdb_sci_fi_year_files_non_animated/

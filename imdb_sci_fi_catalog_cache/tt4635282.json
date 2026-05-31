@@ -1,0 +1,211 @@
+﻿{
+    "id":  "tt4635282",
+    "detail":  {
+                   "id":  "tt4635282",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The OA",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTY5OTkwNDkzOF5BMl5BanBnXkFtZTgwMDEyNzI1NzM@._V1_.jpg",
+                                        "width":  1382,
+                                        "height":  2048
+                                    },
+                   "startYear":  2016,
+                   "endYear":  2019,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  127347
+                              },
+                   "plot":  "Having gone missing seven years ago, the previously blind Prairie returns home, now in her twenties with her sight restored. While many believe she is a miracle, others worry that she could be dangerous.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2610231",
+                                         "displayName":  "Zal Batmanglij",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BN2E5OTY3M2ItYmM2YS00YjAzLTkzYWEtYjU1NjQ5M2ZmOGQwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1170,
+                                                              "height":  2532
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0354091",
+                                         "displayName":  "Andrew Haigh",
+                                         "alternativeNames":  [
+                                                                  "Andrew Haig"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjM4NDI2NDE4NV5BMl5BanBnXkFtZTgwMzE3MDQ0MzI@._V1_.jpg",
+                                                              "width":  1363,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2326407",
+                                         "displayName":  "Anna Rose Holmer",
+                                         "alternativeNames":  [
+                                                                  "Anna Farrell"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2610231",
+                                       "displayName":  "Zal Batmanglij",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BN2E5OTY3M2ItYmM2YS00YjAzLTkzYWEtYjU1NjQ5M2ZmOGQwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1170,
+                                                            "height":  2532
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1779870",
+                                       "displayName":  "Brit Marling",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTcxOTMxOTI3N15BMl5BanBnXkFtZTgwODcwMjg1MjE@._V1_.jpg",
+                                                            "width":  628,
+                                                            "height":  434
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5505530",
+                                       "displayName":  "Dominic Orlando",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1779870",
+                                     "displayName":  "Brit Marling",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTcxOTMxOTI3N15BMl5BanBnXkFtZTgwODcwMjg1MjE@._V1_.jpg",
+                                                          "width":  628,
+                                                          "height":  434
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005042",
+                                     "displayName":  "Jason Isaacs",
+                                     "alternativeNames":  [
+                                                              "Hello to Jason Isaacs",
+                                                              "Jason Isaccs",
+                                                              "Jason Lorca"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTBhMjc3MjAtNWQ2OS00ZWVjLWE5MjQtZDg0YzQxZTA1MzYxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3648,
+                                                          "height":  5472
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000481",
+                                     "displayName":  "Alice Krige",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDBkMTMyODYtYmI0OC00NmNjLThiYzUtMmIwZTVjNDAwN2YyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2664,
+                                                          "height":  3150
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0934113",
+                                     "displayName":  "Scott Wilson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjEwMjA2MDA4NF5BMl5BanBnXkFtZTgwNDM4MzMzNDE@._V1_.jpg",
+                                                          "width":  1620,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    }
+                ]
+}

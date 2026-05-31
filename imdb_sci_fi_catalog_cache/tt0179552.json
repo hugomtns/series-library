@@ -1,0 +1,188 @@
+﻿{
+    "id":  "tt0179552",
+    "detail":  {
+                   "id":  "tt0179552",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Adventures of Tintin",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNGMzZWU1MjktNjE3Zi00MjUxLWE0NTQtNGIyNzRhNGEwMGIzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  667,
+                                        "height":  1000
+                                    },
+                   "startYear":  1991,
+                   "endYear":  1992,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Family",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.3,
+                                  "voteCount":  20608
+                              },
+                   "plot":  "The adventures of the young reporter, his faithful dog and friends as they travel around the world on adventures.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0076558",
+                                         "displayName":  "StÃ©phane Bernasconi",
+                                         "alternativeNames":  [
+                                                                  "Stephane Bernasconi"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1121858",
+                                       "displayName":  "AmÃ©lie Aubert",
+                                       "primaryProfessions":  [
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0059551",
+                                       "displayName":  "Aaron Barzman",
+                                       "alternativeNames":  [
+                                                                "Aaron Barzmann"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "assistant_director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1227012",
+                                       "displayName":  "Alex Boon",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0641840",
+                                     "displayName":  "Colin O\u0027Meara",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0921335",
+                                     "displayName":  "Thierry Wermuth",
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0671216",
+                                     "displayName":  "Christian Pelissier",
+                                     "alternativeNames":  [
+                                                              "Chrisitan Peliser",
+                                                              "Christien Pelissier",
+                                                              "Christian PÃ©lissier"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0479772",
+                                     "displayName":  "Henri LabussiÃ¨re",
+                                     "alternativeNames":  [
+                                                              "Henri La BussiÃ¨re",
+                                                              "Henri Labussiere",
+                                                              "LabussiÃ¨re"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "FR",
+                                               "name":  "France"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "BE",
+                                               "name":  "Belgium"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    }
+                ]
+}

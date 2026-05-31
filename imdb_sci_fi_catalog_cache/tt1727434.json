@@ -1,0 +1,234 @@
+﻿{
+    "id":  "tt1727434",
+    "detail":  {
+                   "id":  "tt1727434",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "My Babysitter\u0027s a Vampire",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMmVlMmY3ZDctNDA0ZC00ZWIzLWE4OGItYjY5NzZiYjQzMTBjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  1000
+                                    },
+                   "startYear":  2011,
+                   "endYear":  2012,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Action",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Horror"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.1,
+                                  "voteCount":  6055
+                              },
+                   "plot":  "Ethan Morgan, his half-vampire babysitter and pals battle against creatures from their nightmares.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0847749",
+                                         "displayName":  "Tibor TakÃ¡cs",
+                                         "alternativeNames":  [
+                                                                  "Tabor Takacs",
+                                                                  "Tibor Takacs"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjEyNjUyMTU0Nl5BMl5BanBnXkFtZTgwMzU0MTY3MjE@._V1_.jpg",
+                                                              "width":  728,
+                                                              "height":  1017
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0289186",
+                                         "displayName":  "Paul Fox",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzM0MmYwMjAtM2FmNi00MmM2LWI1ODItMmVlOTdmYzZmMTdhXkEyXkFqcGc@._V1_CR1399,1,2986,4479_.jpg",
+                                                              "width":  2986,
+                                                              "height":  4479
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0567680",
+                                         "displayName":  "Bruce McDonald",
+                                         "alternativeNames":  [
+                                                                  "Bruce MacDonald",
+                                                                  "Bruce Mcdonald"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTQzMjI2NTQwN15BMl5BanBnXkFtZTYwMDE4MzY2._V1_.jpg",
+                                                              "width":  475,
+                                                              "height":  637
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0675708",
+                                       "displayName":  "Jennifer Pertsch",
+                                       "alternativeNames":  [
+                                                                "Jeny Pertsch"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTc5MjMyNTI2OV5BMl5BanBnXkFtZTcwMTczNzcyMQ@@._V1_.jpg",
+                                                            "width":  314,
+                                                            "height":  441
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0569299",
+                                       "displayName":  "Tom McGillis",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDJkMTlkMTItMGFkMy00ZmYxLThlYTYtNjk2Mzk0YmUxMmFiXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1645,
+                                                            "height":  2107
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2954947",
+                                       "displayName":  "Craig Martin",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0605081",
+                                     "displayName":  "Vanessa Morgan",
+                                     "alternativeNames":  [
+                                                              "Vanessa Morgan Mziray",
+                                                              "Vanessa"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYyOTc5ODU1Ml5BMl5BanBnXkFtZTgwMDE3NDY5NTM@._V1_.jpg",
+                                                          "width":  1359,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1342743",
+                                     "displayName":  "Matthew Knight",
+                                     "alternativeNames":  [
+                                                              "Matt Knight"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc0ODc1NzA5Nl5BMl5BanBnXkFtZTYwMjk1Njc2._V1_.jpg",
+                                                          "width":  485,
+                                                          "height":  322
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3620184",
+                                     "displayName":  "Atticus Mitchell",
+                                     "alternativeNames":  [
+                                                              "Atticus Dean Mitchell"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmYyNmNjOGUtZTgwNy00NWM0LTkxZTEtYjNlNjM1ZTlmMTJkXkEyXkFqcGc@._V1_CR0,0,1999,2999_.jpg",
+                                                          "width":  1999,
+                                                          "height":  2999
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "composer",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2789757",
+                                     "displayName":  "Cameron Kennedy",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTEwNTg1NDkwMjReQTJeQWpwZ15BbWU3MDM1NTQyMjg@._V1_.jpg",
+                                                          "width":  1400,
+                                                          "height":  1120
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    }
+                ]
+}

@@ -1,0 +1,244 @@
+﻿{
+    "id":  "tt0244365",
+    "detail":  {
+                   "id":  "tt0244365",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Star Trek: Enterprise",
+                   "originalTitle":  "Enterprise",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZDdjNGIyMTEtNDdlNS00MTRjLTg2NzktYjUzNzA0MjA0NjlhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2480,
+                                        "height":  3508
+                                    },
+                   "startYear":  2001,
+                   "endYear":  2005,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  64373
+                              },
+                   "plot":  "A century before Captain Kirk\u0027s five-year mission, Jonathan Archer captains the United Earth ship Enterprise during the early years of Starfleet, leading up to the Earth-Romulan War and the formation of the Federation.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0515237",
+                                         "displayName":  "David Livingston",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMWIzMWY3MWItNjFjMS00NDgwLThjZGMtYjBlNTY0ODc1ODQ4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1366,
+                                                              "height":  768
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "production_manager"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0471862",
+                                         "displayName":  "Allan Kroeker",
+                                         "alternativeNames":  [
+                                                                  "Alan Kroeker"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYWE3OGY4MWItNTRkZi00MGU4LWJjYjEtNTg4YzY0MDdkNWQ3XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2560,
+                                                              "height":  1920
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0892144",
+                                         "displayName":  "Michael Vejar",
+                                         "alternativeNames":  [
+                                                                  "Mike Laurence Vejar",
+                                                                  "Mike Vejar"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0075834",
+                                       "displayName":  "Rick Berman",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjA4ODE3ODI2NF5BMl5BanBnXkFtZTYwODQwNzQ3._V1_.jpg",
+                                                            "width":  485,
+                                                            "height":  325
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0103804",
+                                       "displayName":  "Brannon Braga",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjFlM2Y2NzAtMTA0Yy00YjA1LWJkYWMtYWMzZWY0YzMyN2E4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1835,
+                                                            "height":  3000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0734472",
+                                       "displayName":  "Gene Roddenberry",
+                                       "alternativeNames":  [
+                                                                "E.W. Roddenberry",
+                                                                "E. Roddenberry",
+                                                                "Gene Roddenburry",
+                                                                "Robert Wesley"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjE1NDY4MDM5OV5BMl5BanBnXkFtZTcwOTY1MzQ3Mw@@._V1_.jpg",
+                                                            "width":  232,
+                                                            "height":  311
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000836",
+                                     "displayName":  "Scott Bakula",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDM1NDkzOTE0MF5BMl5BanBnXkFtZTYwMzA0OTY1._V1_.jpg",
+                                                          "width":  277,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0086883",
+                                     "displayName":  "Jolene",
+                                     "alternativeNames":  [
+                                                              "Jolene Blalock"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzNmMmRiNGMtOWRiNS00ZTA1LTk0YWEtMmRjOWQwOTc4MjkwXkEyXkFqcGc@._V1_CR0,0,3081,4621_.jpg",
+                                                          "width":  3081,
+                                                          "height":  4621
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0082517",
+                                     "displayName":  "John Billingsley",
+                                     "alternativeNames":  [
+                                                              "John A. Billingsley"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzYxYzFjYTktMmRmZC00MmZhLTg1ZTctYjEzOTY2YTFlYmY5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  675,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0444098",
+                                     "displayName":  "Dominic Keating",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc2YzdjNzUtMWM2Mi00N2UxLWI0ZTYtZDVlMjEyOTllNWJlXkEyXkFqcGc@._V1_CR132,1,617,926_.jpg",
+                                                          "width":  617,
+                                                          "height":  926
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "tlh",
+                                               "name":  "Klingon"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  22
+                    }
+                ]
+}

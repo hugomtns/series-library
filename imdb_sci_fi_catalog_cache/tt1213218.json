@@ -1,0 +1,265 @@
+﻿{
+    "id":  "tt1213218",
+    "detail":  {
+                   "id":  "tt1213218",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Batman: The Brave and the Bold",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BM2FkYTQ2MzUtNWI1NC00MTM0LTgyNzYtMDM3NmE1OWYyNjRjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1426
+                                    },
+                   "startYear":  2008,
+                   "endYear":  2011,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  11390
+                              },
+                   "plot":  "An updated animated series centering on the Caped Crusader himself as he partners and deals with his fellow superheroes in the DC Comics universe.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0427551",
+                                         "displayName":  "Heather A. Maxwell",
+                                         "alternativeNames":  [
+                                                                  "Ben Jones"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0970607",
+                                         "displayName":  "Michael Chang",
+                                         "alternativeNames":  [
+                                                                  "Mike Chang"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0324713",
+                                         "displayName":  "Michael Goguen",
+                                         "alternativeNames":  [
+                                                                  "Micheal Goguen",
+                                                                  "Mike Goguen",
+                                                                  "Mike Gougen"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0004170",
+                                       "displayName":  "Bob Kane",
+                                       "alternativeNames":  [
+                                                                "DC"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTM2MDQ2MDAyOV5BMl5BanBnXkFtZTcwMDUyMjcxOA@@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1066073",
+                                       "displayName":  "Sheldon Moldoff",
+                                       "alternativeNames":  [
+                                                                "Sheldon \u0027Shelly\u0027 Moldoff"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "art_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0017447",
+                                       "displayName":  "Steven Melching",
+                                       "alternativeNames":  [
+                                                                "Buzz Alden",
+                                                                "Steve Melching"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0046033",
+                                     "displayName":  "Diedrich Bader",
+                                     "alternativeNames":  [
+                                                              "Detricht Bader",
+                                                              "Dietrich Bader"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTkzMTkyNzYyOV5BMl5BanBnXkFtZTYwNTMyNDE0._V1_.jpg",
+                                                          "width":  291,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0224007",
+                                     "displayName":  "John DiMaggio",
+                                     "alternativeNames":  [
+                                                              "John De Maggio",
+                                                              "Johnny Dee",
+                                                              "John Di Maggio",
+                                                              "John DiImaggio",
+                                                              "Jon DiMaggio",
+                                                              "John Dimaggio",
+                                                              "B.B. Leeland"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzI2NTk1MzYxOV5BMl5BanBnXkFtZTcwMDE2MDQ4Nw@@._V1_.jpg",
+                                                          "width":  1503,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0852517",
+                                     "displayName":  "James Arnold Taylor",
+                                     "alternativeNames":  [
+                                                              "James Arnold",
+                                                              "Jim Arnold",
+                                                              "James A. Taylor",
+                                                              "James Taylor",
+                                                              "Josh Taylor/James Arnold Taylor"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmZhMjE0NjAtYjRjNy00ODZiLTg4ODEtZTBiM2UwZDc1YzYzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  7975,
+                                                          "height":  5319
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0048389",
+                                     "displayName":  "Dee Bradley Baker",
+                                     "alternativeNames":  [
+                                                              "Bradley D. Baker",
+                                                              "Bradley Dee Baker",
+                                                              "D. Bradley Baker",
+                                                              "D. Baker",
+                                                              "Dee B. Baker",
+                                                              "Dee Bradly Baker",
+                                                              "Dee Baker",
+                                                              "Dee Barker",
+                                                              "Di Bredli Beyker",
+                                                              "Olmec"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk4MzkzMzk0MF5BMl5BanBnXkFtZTcwNDIwMjM4NA@@._V1_.jpg",
+                                                          "width":  1024,
+                                                          "height":  1536
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    }
+                ]
+}

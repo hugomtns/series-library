@@ -1,0 +1,273 @@
+﻿{
+    "id":  "tt0235917",
+    "detail":  {
+                   "id":  "tt0235917",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Dora the Explorer",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZWFiZmM2ZGQtZGE0OC00ZmI4LWI0NzAtM2QzZDg5ODdiYWQ5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  667,
+                                        "height":  1000
+                                    },
+                   "startYear":  2000,
+                   "endYear":  2019,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Game-Show",
+                                  "Music"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  4.4,
+                                  "voteCount":  10146
+                              },
+                   "plot":  "Along with her friend Boots the monkey, Dora goes on adventures.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0534587",
+                                         "displayName":  "Henry Madden",
+                                         "alternativeNames":  [
+                                                                  "Henry Lenardin-Madden",
+                                                                  "Henry Lenardin Madden"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1013649",
+                                         "displayName":  "George Chialtas",
+                                         "alternativeNames":  [
+                                                                  "George S. Chialtas"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "visual_effects"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1015020",
+                                         "displayName":  "Allan Jacobsen",
+                                         "alternativeNames":  [
+                                                                  "Jake Jacobsen",
+                                                                  "Allan Jacobson"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1332821",
+                                       "displayName":  "Eric Weiner",
+                                       "alternativeNames":  [
+                                                                "Erik Weiner"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0317513",
+                                       "displayName":  "Chris Gifford",
+                                       "alternativeNames":  [
+                                                                "Chris \u0027Alfred\u0027 Gifford",
+                                                                "Christopher Gifford"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0909904",
+                                       "displayName":  "Valerie Walsh Valdes",
+                                       "alternativeNames":  [
+                                                                "Valerie Walsh"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm3262742",
+                                     "displayName":  "Fatima Ptacek",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTkzNDkwOTk3Ml5BMl5BanBnXkFtZTcwNDc4ODUxOQ@@._V1_.jpg",
+                                                          "width":  1357,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2175570",
+                                     "displayName":  "Regan Mizrahi",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmVlOTk4YzMtOGJkYS00MGE1LWJhZTQtZThmODEzYTY4YmQ1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5548,
+                                                          "height":  3699
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2377684",
+                                     "displayName":  "Caitlin Sanchez",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGI0MmQ3MWEtZTZmNi00YTI4LTk2M2QtODEwMGIzZDFkZTYxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  402,
+                                                          "height":  594
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3225523",
+                                     "displayName":  "Alexandria Suarez",
+                                     "alternativeNames":  [
+                                                              "Alexandra Suarez",
+                                                              "Alex Suarez"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTdmZGQ4YTYtMTM4Ni00MmRjLTg2ODEtYjM0OThlNzY3Nzc1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  596,
+                                                          "height":  714
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "DE",
+                                               "name":  "Germany"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000017",
+                                         "name":  "Jungle Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000032",
+                                         "name":  "Buddy Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000105",
+                                         "name":  "Game Show"
+                                     },
+                                     {
+                                         "id":  "in0000130",
+                                         "name":  "Music"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  27
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  20
+                    }
+                ]
+}

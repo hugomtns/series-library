@@ -1,0 +1,224 @@
+﻿{
+    "id":  "tt16030542",
+    "detail":  {
+                   "id":  "tt16030542",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Recruit",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTgyOGQ3ZTEtMGQ0Ni00YjI1LTgxYjItOTJjMjhiZWE1YWZkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2221
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2025,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  64474
+                              },
+                   "plot":  "Owen Hendricks, a CIA lawyer becomes involved in massive international conflicts with dangerous parties after an asset tries to expose her relationship to the agency.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0391905",
+                                         "displayName":  "Julian Holmes",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYWYzNTRlMWEtNmM3Ni00M2MzLWExMmMtZjVmY2JmMmZkNjUzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2316,
+                                                              "height":  3088
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2016145",
+                                         "displayName":  "Alex Kalymnios",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZGMyNGRlNGYtZTllZC00MzM1LWExOWUtZDkwMTE2OWQ3ZDcxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  6533,
+                                                              "height":  4355
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0510731",
+                                         "displayName":  "Doug Liman",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODk4MjIwNjU5OF5BMl5BanBnXkFtZTcwODU4Njk1Mw@@._V1_.jpg",
+                                                              "width":  294,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm7515055",
+                                       "displayName":  "George V. Ghanem",
+                                       "alternativeNames":  [
+                                                                "George Ghanem"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1149075",
+                                       "displayName":  "Alexi Hawley",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm8705831",
+                                       "displayName":  "Hadi Nicholas Deeb",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1865834",
+                                     "displayName":  "Aarti Mann",
+                                     "alternativeNames":  [
+                                                              "Aarti Majmudar"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmNkYjQ0ZmItODJiNC00MmNhLWFjOTctZmQ1ODUwY2Y1NjcwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  933,
+                                                          "height":  1407
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3170207",
+                                     "displayName":  "Noah Centineo",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTIyMTQ0YmItNWE4My00OTc3LWE1ZjEtYTcwZWEyYTc1ZDg0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3898,
+                                                          "height":  5848
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1472589",
+                                     "displayName":  "Colton Dunn",
+                                     "alternativeNames":  [
+                                                              "Colton McHenry"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM5NTQ4OTYwN15BMl5BanBnXkFtZTgwMjkyNDkwMTE@._V1_.jpg",
+                                                          "width":  399,
+                                                          "height":  593
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1640384",
+                                     "displayName":  "Fivel Stewart",
+                                     "alternativeNames":  [
+                                                              "Trente H. Stewart",
+                                                              "Trente Stewart"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjg2MjdhOTktN2E4Yy00NTMwLWIxYTgtNGFjNjVmNWM5OTczXkEyXkFqcGc@._V1_CR39,0,814,1221_.jpg",
+                                                          "width":  814,
+                                                          "height":  1221
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack",
+                                                                "stunts"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000184",
+                                         "name":  "Spy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  6
+                    }
+                ]
+}

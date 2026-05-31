@@ -1,0 +1,228 @@
+﻿{
+    "id":  "tt2261227",
+    "detail":  {
+                   "id":  "tt2261227",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Altered Carbon",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNTY4MWY1ZDktZjQxZS00ZDc5LWE3OTctZDU5MzQ2ZWU5ZTJkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  2963
+                                    },
+                   "startYear":  2018,
+                   "endYear":  2020,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  202562
+                              },
+                   "plot":  "Set in a future where consciousness is digitized and stored, a prisoner returns to life in a new body and must solve a mind-bending murder to win his freedom.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0003802",
+                                         "displayName":  "Uta Briesewitz",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BM2VhNjBkNjktZjJkMS00YWVjLThkODctNTliOTNjNDhmMGQ0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  778,
+                                                              "height":  1071
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0336241",
+                                         "displayName":  "Alex Graves",
+                                         "alternativeNames":  [
+                                                                  "Alexander Graves"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjIzODg3NTUwMV5BMl5BanBnXkFtZTgwNjI1MTA2MTE@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1362
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0387486",
+                                         "displayName":  "Peter Hoar",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZjdkYWI2OTItMmZhMy00MDQ2LWE5OWItNjg2ZmU0ZDU3NGVmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  6000,
+                                                              "height":  4000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "location_management",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0436164",
+                                       "displayName":  "Laeta Kalogridis",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmI3YWYzOGEtNDA3MC00NDJkLWEwMDMtZTlmMWU1MzQ3YTQ2XkEyXkFqcGc@._V1_CR92,1,333,499_.jpg",
+                                                            "width":  333,
+                                                            "height":  499
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3975029",
+                                       "displayName":  "Richard Morgan",
+                                       "alternativeNames":  [
+                                                                "Richard K. Morgan"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0219719",
+                                       "displayName":  "Nevin Densham",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0175134",
+                                     "displayName":  "Chris Conner",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWMzZDJiZmItMGM3Zi00ZDAzLTg4NTItOGZmNmVjY2E3MmM5XkEyXkFqcGc@._V1_PT-1.0_CR62,30,907,1360_.jpg",
+                                                          "width":  907,
+                                                          "height":  1360
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0325989",
+                                     "displayName":  "RenÃ©e Elise Goldsberry",
+                                     "alternativeNames":  [
+                                                              "Renee E. Goldsberry",
+                                                              "Renee Elise Goldsberry",
+                                                              "Renee Goldsberry",
+                                                              "RenÃ©e Goldsberry"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ5MjAwNDExM15BMl5BanBnXkFtZTgwNjk0NjUyOTE@._V1_.jpg",
+                                                          "width":  697,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0498449",
+                                     "displayName":  "Will Yun Lee",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYwMTM4NDI4OV5BMl5BanBnXkFtZTgwMDg2NjIwMTE@._V1_.jpg",
+                                                          "width":  738,
+                                                          "height":  736
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1901842",
+                                     "displayName":  "Dichen Lachman",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWY5MDYyMjEtZTA0Mi00OGUzLWE1MDItMjViN2RlNGUwZmQ3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  667,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           },
+                                           {
+                                               "code":  "ara",
+                                               "name":  "Arabic"
+                                           },
+                                           {
+                                               "code":  "deu",
+                                               "name":  "German"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000159",
+                                         "name":  "Cyberpunk",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    }
+                ]
+}

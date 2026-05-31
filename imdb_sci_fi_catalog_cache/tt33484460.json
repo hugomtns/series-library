@@ -1,0 +1,177 @@
+﻿{
+    "id":  "tt33484460",
+    "detail":  {
+                   "id":  "tt33484460",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Robin Hood",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYjJkNzkyNGEtNTBlMC00ZjExLThkNjItOTNlOGQ1MDdhYzliXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  720,
+                                        "height":  900
+                                    },
+                   "startYear":  2025,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.8,
+                                  "voteCount":  6967
+                              },
+                   "plot":  "Rob, a Saxon outlaw, and Marian, a Norman noblewoman, unite to fight injustice after the Norman conquest. He leads a rebel band while she infiltrates the corrupt court, both striving for justice and peace",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0257646",
+                                         "displayName":  "Jonathan English",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYWQyOWRmZWUtMGYzMy00N2ZmLTg4MDQtYWViMTBjNjg5MWY1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4410,
+                                                              "height":  5196
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0257646",
+                                       "displayName":  "Jonathan English",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYWQyOWRmZWUtMGYzMy00N2ZmLTg4MDQtYWViMTBjNjg5MWY1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4410,
+                                                            "height":  5196
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1726457",
+                                       "displayName":  "John Glenn",
+                                       "alternativeNames":  [
+                                                                "John Patrick Glenn"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BN2Y1MDcyMDItZTY0Yy00NzE0LTlmZDItOWNjMGVlNDQ5NzIxXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  220,
+                                                            "height":  271
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001567",
+                                     "displayName":  "Connie Nielsen",
+                                     "alternativeNames":  [
+                                                              "Connie Inge-Lise Nielsen",
+                                                              "Connie Nielson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzc2NDViYTctNmNhYy00ZTU0LTk5ODMtMzIxYjBlZTQ1MmFlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1350,
+                                                          "height":  1800
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0905357",
+                                     "displayName":  "Steven Waddington",
+                                     "alternativeNames":  [
+                                                              "Steve Waddington"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjAwZjc3NWQtZjNlMi00M2FmLTkzNjEtMjUwMTAzNTkyZjY5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  750,
+                                                          "height":  1334
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000293",
+                                     "displayName":  "Sean Bean",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTkzMzc4MDk5OF5BMl5BanBnXkFtZTcwODg3MjUxNw@@._V1_.jpg",
+                                                          "width":  1488,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "animation_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9287946",
+                                     "displayName":  "James Farley",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDUxNjk4NTEtZjIxMC00M2E0LTg2MTEtMTJhMDgzYWU4MjE4XkEyXkFqcGc@._V1_CR42,0,2159,3238_.jpg",
+                                                          "width":  2159,
+                                                          "height":  3238
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1128414",
+                                     "displayName":  "Ian Pirie",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTkzMGYwM2EtYWU5Ni00MWNlLTk3MjktYzNmOGMzYTRkMmIwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  600,
+                                                          "height":  880
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  1
+                    }
+                ]
+}

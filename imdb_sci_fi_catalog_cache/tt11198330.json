@@ -1,0 +1,253 @@
+﻿{
+    "id":  "tt11198330",
+    "detail":  {
+                   "id":  "tt11198330",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "House of the Dragon",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZGM4MTczODQtNGIxOC00Y2U2LTk1YmItNzA2N2VhYmE0Y2YwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  4050,
+                                        "height":  6000
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2018,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.3,
+                                  "voteCount":  528089
+                              },
+                   "plot":  "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0453270",
+                                         "displayName":  "Clare Kilner",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDE0MDkxNjM4NV5BMl5BanBnXkFtZTgwNTAxODU4MjE@._V1_.jpg",
+                                                              "width":  1788,
+                                                              "height":  1714
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1203789",
+                                         "displayName":  "Geeta Vasant Patel",
+                                         "alternativeNames":  [
+                                                                  "Geeta V. Patel",
+                                                                  "Geeta Patel"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOWI1YzI2N2UtM2VmNy00NzNmLWJiMTMtMjg1MjM4ZTE3ODYzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1334,
+                                                              "height":  1994
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0764601",
+                                         "displayName":  "Miguel Sapochnik",
+                                         "alternativeNames":  [
+                                                                  "Miguel Rosenberg",
+                                                                  "Miguel Rosenberg-Sapochnik"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDEzOWUwNDUtZWUwMi00YmJmLTgxNDEtYzQ5ZWQ5NjJlMmUxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1354,
+                                                              "height":  896
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2952284",
+                                       "displayName":  "Ryan J. Condal",
+                                       "alternativeNames":  [
+                                                                "Ryan Condal"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZDUzYTNhOTUtYjM2YS00NWIzLWJkZWMtZjM3MjZlYjFhMzZmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5464,
+                                                            "height":  6985
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0552333",
+                                       "displayName":  "George R.R. Martin",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTY2MzYyNzMzNl5BMl5BanBnXkFtZTcwNDI1NDI3Ng@@._V1_.jpg",
+                                                            "width":  1363,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3193737",
+                                       "displayName":  "Ti Mikkel",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1741002",
+                                     "displayName":  "Matt Smith",
+                                     "alternativeNames":  [
+                                                              "Matthew Smith"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE0NzExMTg0MV5BMl5BanBnXkFtZTgwOTIyNTI5NzE@._V1_.jpg",
+                                                          "width":  1719,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8458664",
+                                     "displayName":  "Emma D\u0027Arcy",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzViZDA2ODktMWFlOC00N2RkLTgzNzYtN2RlNjY3MGY2OTRlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3606,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4972453",
+                                     "displayName":  "Olivia Cooke",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTBmMzEwYmItZThlOC00YzIxLWJlZTEtMmEzNjkwNDE0MzY0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2745,
+                                                          "height":  3600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8844328",
+                                     "displayName":  "Fabien Frankel",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWZhNjllZGYtN2JlOS00Nzc5LTkyODUtMzlkN2Y0ODQ3YWE3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  818,
+                                                          "height":  1208
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000084",
+                                         "name":  "Political Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000096",
+                                         "name":  "Fantasy Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000100",
+                                         "name":  "Sword \u0026 Sorcery",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  1
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  1
+                    }
+                ]
+}

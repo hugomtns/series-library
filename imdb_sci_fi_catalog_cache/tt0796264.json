@@ -1,0 +1,250 @@
+﻿{
+    "id":  "tt0796264",
+    "detail":  {
+                   "id":  "tt0796264",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Eureka",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMDNlZjFhYWUtYTM0My00ZjQ1LWJhYzktYzM4ZWQ5Yzk3NjEyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1500
+                                    },
+                   "startYear":  2006,
+                   "endYear":  2012,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Romance",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  61861
+                              },
+                   "plot":  "A U.S. Marshal becomes the sheriff of Eureka, a remote, cozy little Northwestern town where the best minds in the US have secretly been tucked away to build futuristic inventions for the government which often go disastrously wrong.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0737517",
+                                         "displayName":  "Mike Rohl",
+                                         "alternativeNames":  [
+                                                                  "Michael J. Rohl",
+                                                                  "Michael Rohl"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTk2NDQ5NzgtYzBjMi00YWI1LTk4YWUtNDdmNWVjNjM0MWFiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  640,
+                                                              "height":  426
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0733227",
+                                         "displayName":  "Michael Robison",
+                                         "alternativeNames":  [
+                                                                  "Michael Robinson",
+                                                                  "Mike Robison"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "editorial_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0368602",
+                                         "displayName":  "Matthew Hastings",
+                                         "alternativeNames":  [
+                                                                  "Matt Hastings"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTU4NDU4OTIxNV5BMl5BanBnXkFtZTcwNDAzNTk0OQ@@._V1_.jpg",
+                                                              "width":  3456,
+                                                              "height":  2304
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1184676",
+                                       "displayName":  "Andrew Cosby",
+                                       "alternativeNames":  [
+                                                                "Andrew Crosby"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDMzZjFjYTYtYTRhMS00ODFjLWI2MTktYzRlMjk1NThiNGU1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1536,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1958727",
+                                       "displayName":  "Jaime Paglia",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTU3NjQ1NDY5M15BMl5BanBnXkFtZTgwNTU0OTE5ODE@._V1_CR292,1,2300,3450_.jpg",
+                                                            "width":  2300,
+                                                            "height":  3450
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0588005",
+                                       "displayName":  "Bruce Miller",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDUwMDU0YTQtZDIxZi00MjE3LWIzMGUtMzVmMTI4OTdmNjczXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3573,
+                                                            "height":  5002
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0272399",
+                                     "displayName":  "Colin Ferguson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTczMzk3ODA4NV5BMl5BanBnXkFtZTcwNjQxNDgyMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  545
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0724757",
+                                     "displayName":  "Salli Richardson-Whitfield",
+                                     "alternativeNames":  [
+                                                              "Salli Elise Richardson",
+                                                              "Salli Richardson",
+                                                              "Sally Elise Richardson",
+                                                              "Salli Richardson Whitfield"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjUwNjRiOTMtOTgzNy00NzcxLWI2NjEtZDU2YjM5MTE3NjJiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2731,
+                                                          "height":  4096
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1156977",
+                                     "displayName":  "Neil Grayston",
+                                     "alternativeNames":  [
+                                                              "Neil Grays"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA5MzIxNjc1NzdeQTJeQWpwZ15BbWU3MDExOTE2ODQ@._V1_.jpg",
+                                                          "width":  1529,
+                                                          "height":  1600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1569714",
+                                     "displayName":  "Erica Cerra",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzE3NGU4OWMtZGMwYi00OGU4LTg1MTgtMzM4NWU1MWQzNjYyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3000,
+                                                          "height":  4496
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  13
+                    }
+                ]
+}

@@ -1,0 +1,274 @@
+﻿{
+    "id":  "tt2094262",
+    "detail":  {
+                   "id":  "tt2094262",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Da Vinci\u0027s Demons",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYzc5ODJmOTItYzgwOC00YTM4LTk5YmQtYjhkMWU3ZDdlMzg5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  800,
+                                        "height":  1058
+                                    },
+                   "startYear":  2013,
+                   "endYear":  2015,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Adventure",
+                                  "Biography",
+                                  "Drama",
+                                  "Fantasy",
+                                  "History",
+                                  "Mystery",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  81396
+                              },
+                   "plot":  "Follows Leonardo Da Vinci during his early days in Florence, as a young artist, inventor and dreamer, trying to change the future.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0387486",
+                                         "displayName":  "Peter Hoar",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZjdkYWI2OTItMmZhMy00MDQ2LWE5OWItNjg2ZmU0ZDU3NGVmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  6000,
+                                                              "height":  4000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "location_management",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1068186",
+                                         "displayName":  "MJ Bassett",
+                                         "alternativeNames":  [
+                                                                  "Michael J. Bassett",
+                                                                  "Michael Bassett",
+                                                                  "Scally"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWZmYTU1NTYtOGU0NC00ZjMzLTkyMzYtMTgyODhlNDdmZjFkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2240,
+                                                              "height":  3984
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0275286",
+                                         "displayName":  "David S. Goyer",
+                                         "alternativeNames":  [
+                                                                  "Ricardo Festiva",
+                                                                  "David Goyer",
+                                                                  "Cynthia Verlaine"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMWE2YmY1N2ItYzg5MC00MzVkLThmMGQtNmE0NGMyNTcxNjE4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  948,
+                                                              "height":  849
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0275286",
+                                       "displayName":  "David S. Goyer",
+                                       "alternativeNames":  [
+                                                                "Ricardo Festiva",
+                                                                "David Goyer",
+                                                                "Cynthia Verlaine"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMWE2YmY1N2ItYzg5MC00MzVkLThmMGQtNmE0NGMyNTcxNjE4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  948,
+                                                            "height":  849
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2830283",
+                                       "displayName":  "Kevin McManus",
+                                       "alternativeNames":  [
+                                                                "The McManus Brothers"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZjUxOTA3YmItYTg2NC00ZDcxLWJhMTEtNzQxMWQxMDc0MGRhXkEyXkFqcGc@._V1_CR884,348,3333,5000_.jpg",
+                                                            "width":  3333,
+                                                            "height":  5000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2830317",
+                                       "displayName":  "Matthew McManus",
+                                       "alternativeNames":  [
+                                                                "The McManus Brothers",
+                                                                "Matt McManus"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNmE4ODJjZmMtNDg1NS00YmMzLTg5Y2QtZmIxN2RiY2E4YjcxXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  668,
+                                                            "height":  985
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2068559",
+                                     "displayName":  "Tom Riley",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmNhNmEwYzYtNzFkZi00NWExLWJhYmItNWEwYzNmMTU5MGM5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1124,
+                                                          "height":  1070
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2652095",
+                                     "displayName":  "Laura Haddock",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmQyYzJkZDYtODlhNi00M2RjLWFlZjMtNGQ1OWNjZmZiOTllXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2555,
+                                                          "height":  4000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1209486",
+                                     "displayName":  "Gregg Chilingirian",
+                                     "alternativeNames":  [
+                                                              "Greg Chilingirian",
+                                                              "Gregg Chillin",
+                                                              "Greg Chillin",
+                                                              "Gregg Chillingirian",
+                                                              "Greg Chillingrian"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGY2YjZhYzItMTg2NC00ZWQzLTljMDEtZDRlOGUzYmM3ZjY1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  475,
+                                                          "height":  640
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2869309",
+                                     "displayName":  "Eros V",
+                                     "alternativeNames":  [
+                                                              "Eros Vlahos"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ1NzY4NzYwNl5BMl5BanBnXkFtZTgwMTg4OTY2MTE@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1365
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "heb",
+                                               "name":  "Hebrew"
+                                           },
+                                           {
+                                               "code":  "tur",
+                                               "name":  "Turkish"
+                                           },
+                                           {
+                                               "code":  "ara",
+                                               "name":  "Arabic"
+                                           },
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000072",
+                                         "name":  "Biography"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000080",
+                                         "name":  "History"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    }
+                ]
+}

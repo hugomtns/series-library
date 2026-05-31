@@ -1,0 +1,117 @@
+﻿{
+    "id":  "tt3277670",
+    "detail":  {
+                   "id":  "tt3277670",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Moaning of Life",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNDZlMDNkMzItODAwMC00ZmNhLWJmNzUtMjIxNjk3NmZmNDUyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  1000
+                                    },
+                   "startYear":  2013,
+                   "endYear":  2015,
+                   "runtimeSeconds":  2640,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Reality-TV"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  6926
+                              },
+                   "plot":  "Karl is faced with the different aspects of life by travelling around the world and discovering how different people face life\u0027s challenges.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1061851",
+                                         "displayName":  "Simon Smith",
+                                         "primaryProfessions":  [
+                                                                    "editor",
+                                                                    "editorial_department",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm4053489",
+                                         "displayName":  "Richard Yee",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjQyNzg1MzQ1OV5BMl5BanBnXkFtZTgwNDQxNDc2MDI@._V1_.jpg",
+                                                              "width":  1363,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3116557",
+                                         "displayName":  "Benjamin Green",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm4572105",
+                                     "displayName":  "Aaron Mann",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDBlOGFlNjUtMzBlMC00NzgwLTg0MDItYjVjMjM3N2YzYmVhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1499,
+                                                          "height":  1998
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "editor",
+                                                                "miscellaneous"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000128",
+                                         "name":  "Travel",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000148",
+                                         "name":  "Reality TV"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  5
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  6
+                    }
+                ]
+}

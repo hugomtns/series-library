@@ -1,0 +1,233 @@
+﻿{
+    "id":  "tt10160804",
+    "detail":  {
+                   "id":  "tt10160804",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Hawkeye",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOGU5ZDBlOTAtOTZmYS00MWE0LTg0NzktNDcxZGJhN2FhZmM2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  853,
+                                        "height":  1280
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2021,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  243810
+                              },
+                   "plot":  "Clint Barton aka Hawkeye has the mission to get back to his family for Christmas. But when a threat from his past shows up, Hawkeye reluctantly teams up with Kate Bishop, a skilled archer and his biggest fan, to unravel a conspiracy.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1232262",
+                                         "displayName":  "Bertie Ellwood",
+                                         "alternativeNames":  [
+                                                                  "Bert \u0026 Bertie",
+                                                                  "Bertie",
+                                                                  "Katie Ellwood"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzFjYjc0YmUtZTQ4NC00YTM5LWE4MTgtNThlMTY3MTlmNDY2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  941,
+                                                              "height":  994
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2134432",
+                                         "displayName":  "Amber Templemore",
+                                         "alternativeNames":  [
+                                                                  "Bert \u0026 Bertie",
+                                                                  "Bertie",
+                                                                  "Bert",
+                                                                  "Amber Templemore-Finlayson"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTgzODU5ODQ1OF5BMl5BanBnXkFtZTgwODQyOTgyNzM@._V1_.jpg",
+                                                              "width":  1395,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1658104",
+                                         "displayName":  "Rhys Thomas",
+                                         "alternativeNames":  [
+                                                                  "Morgan Rhys Thomas"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZjA5OWJmYjQtZTlmMy00MTE4LThmMzAtODZlNTM1YzU4YmU5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  505,
+                                                              "height":  720
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2210072",
+                                       "displayName":  "Erin Cancino",
+                                       "primaryProfessions":  [
+                                                                  "cinematographer",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4766691",
+                                       "displayName":  "Jenna Noel Frazier",
+                                       "alternativeNames":  [
+                                                                "Jenna Frazier"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2651299",
+                                       "displayName":  "Brian Gatewood",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0719637",
+                                     "displayName":  "Jeremy Renner",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTk2NDc2ODgzMF5BMl5BanBnXkFtZTcwMTMzOTQ4Nw@@._V1_.jpg",
+                                                          "width":  363,
+                                                          "height":  600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2794962",
+                                     "displayName":  "Hailee Steinfeld",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjg0MjA4OGEtMTc1ZS00ZmJhLTgyYjItMTY4YjI0NjVjNjllXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1200,
+                                                          "height":  1200
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "composer",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0267812",
+                                     "displayName":  "Vera Farmiga",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjIwNTU3NDUyMl5BMl5BanBnXkFtZTgwODEwODg5NDE@._V1_.jpg",
+                                                          "width":  5184,
+                                                          "height":  3456
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6073955",
+                                     "displayName":  "Florence Pugh",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmIxMTFkZTctYzhkZi00MmQ4LThhYzEtMmQwMGZjNzA5MDg0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1194,
+                                                          "height":  1600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "ase",
+                                               "name":  "American Sign Language"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000192",
+                                         "name":  "Holiday"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    }
+                ]
+}

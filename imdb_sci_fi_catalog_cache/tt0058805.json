@@ -1,0 +1,252 @@
+﻿{
+    "id":  "tt0058805",
+    "detail":  {
+                   "id":  "tt0058805",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Get Smart",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYzEyYmEwNjgtZWE0Ny00OTc2LWE2YjAtZjUyODFlMGRiNTY2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  942,
+                                        "height":  1328
+                                    },
+                   "startYear":  1965,
+                   "endYear":  1970,
+                   "runtimeSeconds":  1500,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Family",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.2,
+                                  "voteCount":  15214
+                              },
+                   "plot":  "Maxwell Smart, a highly intellectual but bumbling spy working for the CONTROL agency, battles the evil forces of rival spy agency KAOS with the help of his competent partner Agent 99.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0625379",
+                                         "displayName":  "Gary Nelson",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0082676",
+                                         "displayName":  "Bruce Bilson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNmJjMTMyNDEtODUxMi00OTRiLTgzNzEtZWI1ZmFjOWY0NTYwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  943,
+                                                              "height":  1351
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0010915",
+                                         "displayName":  "Don Adams",
+                                         "alternativeNames":  [
+                                                                  "Mr. X - X"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTU5NjA1MTQ5MV5BMl5BanBnXkFtZTgwMTE4NTY5MzI@._V1_.jpg",
+                                                              "width":  1604,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0000316",
+                                       "displayName":  "Mel Brooks",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTU2MzI5NjA1NV5BMl5BanBnXkFtZTgwMjEyNjQ0MTI@._V1_.jpg",
+                                                            "width":  1365,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0377750",
+                                       "displayName":  "Buck Henry",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTRlOTg1OWMtZWZmMS00NzcyLWJlZTktODZkZGFiNTEzNDFlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2000,
+                                                            "height":  3000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0838441",
+                                       "displayName":  "Arne Sultan",
+                                       "alternativeNames":  [
+                                                                "Arthur Sultan"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0010915",
+                                     "displayName":  "Don Adams",
+                                     "alternativeNames":  [
+                                                              "Mr. X - X"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU5NjA1MTQ5MV5BMl5BanBnXkFtZTgwMTE4NTY5MzI@._V1_.jpg",
+                                                          "width":  1604,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0271156",
+                                     "displayName":  "Barbara Feldon",
+                                     "alternativeNames":  [
+                                                              "Barbara Hall",
+                                                              "Miss Circle - O"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc4MDc3MDYxNV5BMl5BanBnXkFtZTcwNzk3ODQ3MQ@@._V1_.jpg",
+                                                          "width":  277,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0686857",
+                                     "displayName":  "Edward Platt",
+                                     "alternativeNames":  [
+                                                              "Edward C. Platt",
+                                                              "Ed Platt"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjEwNjEwMDIzNl5BMl5BanBnXkFtZTYwMzcxNjAz._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  561
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0440289",
+                                     "displayName":  "Robert Karvelas",
+                                     "alternativeNames":  [
+                                                              "Bob Karvelas"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  26
+                    }
+                ]
+}

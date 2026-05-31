@@ -1,0 +1,288 @@
+﻿{
+    "id":  "tt0278866",
+    "detail":  {
+                   "id":  "tt0278866",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Kim Possible",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMmIwNjQ5MzEtNTg4Zi00NWMyLThkZDktZDg0MGU4MmYzMjlhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1500
+                                    },
+                   "startYear":  2002,
+                   "endYear":  2007,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Mystery",
+                                  "Romance",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  36145
+                              },
+                   "plot":  "A high school cheerleader and her clumsy best friend balance their duties as global crime-fighters with the typical challenges of adolescence.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0521425",
+                                         "displayName":  "Steve Loter",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzIyZjBjYTUtNGRiNS00MWFkLTg4ZDMtZDFkMGYwYmRkNGY5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4683,
+                                                              "height":  7017
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0088705",
+                                         "displayName":  "David Block",
+                                         "alternativeNames":  [
+                                                                  "Dave Block"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0047193",
+                                         "displayName":  "Chris Bailey",
+                                         "alternativeNames":  [
+                                                                  "Chris A. Bailey",
+                                                                  "Christopher Bailey"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0566407",
+                                       "displayName":  "Mark McCorkle",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "sound_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0774792",
+                                       "displayName":  "Bob Schooley",
+                                       "alternativeNames":  [
+                                                                "Robert Scholey",
+                                                                "Robert Schooley"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "sound_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0842391",
+                                       "displayName":  "Brian Swenlin",
+                                       "alternativeNames":  [
+                                                                "Brian Swelin"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0005579",
+                                     "displayName":  "Christy Carlson Romano",
+                                     "alternativeNames":  [
+                                                              "Christy Carlson",
+                                                              "Christy Romano"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmZjYjZlMDUtOWFlOS00YzQ0LTk3MjItMGJkNTUyNmU3MDNkXkEyXkFqcGc@._V1_CR99,0,1007,1511_.jpg",
+                                                          "width":  1007,
+                                                          "height":  1511
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0295115",
+                                     "displayName":  "Will Friedle",
+                                     "alternativeNames":  [
+                                                              "William Friedle"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA1OGFkZGEtOTg5MC00ZWRiLWI4OGItOWQ4MTYzNmM3MTUyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2531,
+                                                          "height":  3164
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0004813",
+                                     "displayName":  "Nancy Cartwright",
+                                     "alternativeNames":  [
+                                                              "Another-Chance-to-Dance-with-Animated-Nance",
+                                                              "Nancy Bartfight",
+                                                              "Nancy Bartfright",
+                                                              "Still Nancy Bartfright",
+                                                              "Not-Another-Nefarious Nancy Booo-Ya!",
+                                                              "Nancy Thankenstein Cartfright",
+                                                              "Nightmarish-Nancy Cartfright",
+                                                              "Scary Night Cartfright",
+                                                              "\u0027Nympho-Nance\u0027 Cartwright",
+                                                              "Bartfright Cartwright",
+                                                              "Blood Curdling Cartwright",
+                                                              "Nancy \u0027Freakin\u0027\u0027 Cartwright",
+                                                              "Nancy \u0027Killer Actor\u0027 Cartwright",
+                                                              "Nancy \u0027Mwah Ah Aaaah\u0027 Cartwright",
+                                                              "Nancy \u0027Thankenstein\u0027 Cartwright",
+                                                              "Nasty Nancy Cartwright",
+                                                              "Nefarious Nancy Cartwright",
+                                                              "Nocturnal Nancy Cartwright",
+                                                              "Fancy Foodfight",
+                                                              "Nocturnal Nancy Frightwright",
+                                                              "Nancy Heart-Fright",
+                                                              "I Peed My Pants Nance",
+                                                              "The Nancerrator",
+                                                              "Nasty Nancy",
+                                                              "Necro-Fancy Nancy",
+                                                              "Noxious Nancy",
+                                                              "NecroNance",
+                                                              "Nothing Normal About Nefarious Nocturnal Nightmarish Nympho-Necromancy-Nancy!",
+                                                              "Nightmare-Nancy Scar-Fright"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjZmYTQ1YjItZTUzYi00Nzk1LTlmNzEtMmRmMjM4NjZmOTcyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2120,
+                                                          "height":  2651
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005254",
+                                     "displayName":  "Tahj Mowry",
+                                     "alternativeNames":  [
+                                                              "Tahj D. Mowry"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjNlMjRiMzgtZDNkMC00MDRiLTk1NGEtZGI5ZmRlZDA5OGQyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1754,
+                                                          "height":  3024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "PH",
+                                               "name":  "Philippines"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  23
+                    }
+                ]
+}

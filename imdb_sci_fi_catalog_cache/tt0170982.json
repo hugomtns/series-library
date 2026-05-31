@@ -1,0 +1,247 @@
+﻿{
+    "id":  "tt0170982",
+    "detail":  {
+                   "id":  "tt0170982",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Mortal Kombat: Conquest",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BN2M4Y2I2NzgtMWZlOS00Y2JlLTlmNzYtOTI3YTc2NDI3M2M4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  1998,
+                   "endYear":  1999,
+                   "runtimeSeconds":  2400,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.2,
+                                  "voteCount":  5629
+                              },
+                   "plot":  "Kung Lao has triumphed in the Mortal Kombat tournament, defeating Shang Tsung and saving Earth Realm. Now, he must train a new generation of warriors for the next tournament.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0046172",
+                                         "displayName":  "Reza Badiyi",
+                                         "alternativeNames":  [
+                                                                  "Reza Badigi",
+                                                                  "Raza Badiyi",
+                                                                  "Reza S. Badiyi"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDlhYWIwZjEtMzZhZS00YjdlLWI0YmYtMzZkZjM4YTZjODFlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  383,
+                                                              "height":  510
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0007150",
+                                         "displayName":  "Charles Siebert",
+                                         "alternativeNames":  [
+                                                                  "Charles Seibert",
+                                                                  "Charles Siebert II",
+                                                                  "Charlie Siebert"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODUyOGJkYzUtMjk3Zi00YTgwLTk0ZDUtNWJlZDYwZTI3ZjcxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  800,
+                                                              "height":  955
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0337675",
+                                         "displayName":  "Bruce Seth Green",
+                                         "alternativeNames":  [
+                                                                  "B. Green Company",
+                                                                  "Bruce Green"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTEyZDEwYTktNzk0Yy00ZDZiLTk1YjUtMGIwMGUyYTkzODE1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3024,
+                                                              "height":  4032
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0135470",
+                                       "displayName":  "James Cappe",
+                                       "alternativeNames":  [
+                                                                "Jay Cappe"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0182871",
+                                       "displayName":  "Juan Carlos Coto",
+                                       "alternativeNames":  [
+                                                                "Carlos Coto"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0220297",
+                                       "displayName":  "Sean Catherine Derek",
+                                       "alternativeNames":  [
+                                                                "Sean Catherine-Derek",
+                                                                "Sean Derek"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0518085",
+                                     "displayName":  "Kristanna Loken",
+                                     "alternativeNames":  [
+                                                              "Kristanna S. Loken",
+                                                              "Kristanna Sommer LÃ¸ken",
+                                                              "Kristanna LÃ¸ken"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ0NjE2NzUzMF5BMl5BanBnXkFtZTcwMTUxNDU2MQ@@._V1_.jpg",
+                                                          "width":  4000,
+                                                          "height":  5336
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "executive",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0598830",
+                                     "displayName":  "Paolo Montalban",
+                                     "alternativeNames":  [
+                                                              "Paolo S. Montalban"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjdjYmUxMzEtYzg3OC00N2EzLTk0ZjUtODhlNDI3YTQ1YWMzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3969,
+                                                          "height":  4961
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0076780",
+                                     "displayName":  "Daniel Bernhardt",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNThlZTViNmEtOGQzNS00YzI1LTljOTQtODI3OGY4MmI2ZjU0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2005,
+                                                          "height":  2506
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "stunts"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0235271",
+                                     "displayName":  "Tracy Douglas",
+                                     "alternativeNames":  [
+                                                              "Tracy Douglass"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZThlMWJiMTQtZWY4YS00NzliLThlNzgtMGZjYTY2OTU3MTQ2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000006",
+                                         "name":  "Martial Arts",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  22
+                    }
+                ]
+}

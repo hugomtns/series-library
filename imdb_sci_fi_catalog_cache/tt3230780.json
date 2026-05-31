@@ -1,0 +1,197 @@
+﻿{
+    "id":  "tt3230780",
+    "detail":  {
+                   "id":  "tt3230780",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Returned",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMGI4NmJhYzMtMjk0Yi00YmMzLThiZDgtM2QxNzgwOGYzYmE0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1284,
+                                        "height":  1897
+                                    },
+                   "startYear":  2015,
+                   "endYear":  2015,
+                   "runtimeSeconds":  2520,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  12487
+                              },
+                   "plot":  "A small town\u0027s residents are stunned when recently deceased locals begin returning from the dead. What should be a miracle soon becomes a nightmare.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0315298",
+                                         "displayName":  "Jennifer Getzinger",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZjYwYmM3MDItZDVkNy00NzQwLWIyMDEtMTI1NzAxNjY2ZTU1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3024,
+                                                              "height":  4032
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1790560",
+                                         "displayName":  "Charles Martin",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0764776",
+                                         "displayName":  "Deran Sarafian",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMDI2YzhiNDEtOTBhNi00NmY4LWJhMTItOWEzNzJjYzRmNzNjXkEyXkFqcGc@._V1_PT2.0_CR119,79,939,1408_.jpg",
+                                                              "width":  939,
+                                                              "height":  1408
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm5429784",
+                                       "displayName":  "Fabien Adda",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0133028",
+                                       "displayName":  "Robin Campillo",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTY1NTU1ODY4OV5BMl5BanBnXkFtZTYwNDkwMzE1._V1_.jpg",
+                                                            "width":  267,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "editor",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0141127",
+                                       "displayName":  "Emmanuel CarrÃ¨re",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTU4ZjYyNDgtMGFjMi00Yzc1LWIyN2YtNDY3ZTJhNDA4ZTVmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  960,
+                                                            "height":  772
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0115671",
+                                     "displayName":  "Agnes Bruckner",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ4Nzg4MTQwMF5BMl5BanBnXkFtZTgwNzYyNzA5NDE@._V1_.jpg",
+                                                          "width":  1920,
+                                                          "height":  802
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1204760",
+                                     "displayName":  "Kevin Alejandro",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA0NDkyNzI0MTBeQTJeQWpwZ15BbWU4MDI4ODUxODUx._V1_.jpg",
+                                                          "width":  2592,
+                                                          "height":  3888
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2061375",
+                                     "displayName":  "India Ennenga",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmExNWMxZTgtNjU4ZS00OWU1LWEyMzEtN2RjM2E0ZGMwMDZkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1010,
+                                                          "height":  1446
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0002142",
+                                     "displayName":  "Sandrine Holt",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTg2MWIyYzQtOTA1ZC00MGNhLWI4ZWYtZWM0NTRiNTI2MDgwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1024,
+                                                          "height":  1536
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    }
+                ]
+}

@@ -1,0 +1,226 @@
+﻿{
+    "id":  "tt7462410",
+    "detail":  {
+                   "id":  "tt7462410",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Wheel of Time",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNmQ5Y2U2MWYtZDcyMi00YTk5LWEyYjItNTI3ODg4MTdlMjYwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1200
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2025,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  164366
+                              },
+                   "plot":  "The lives of five young villagers change forever when a strange and powerful woman arrives, claiming one of them is the child of an ancient prophecy with the power to tip the balance between Light and Dark forever.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1012772",
+                                         "displayName":  "Ciaran Donnelly",
+                                         "alternativeNames":  [
+                                                                  "CiarÃ¡n Donnelly"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDAzNzY4NTAtMzZhZC00MmY3LWE4YjYtNTJmOGE0ZDIxZWNmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1220,
+                                                              "height":  790
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0621168",
+                                         "displayName":  "Thomas Napper",
+                                         "alternativeNames":  [
+                                                                  "Thomas Q. Napper",
+                                                                  "Thomas Q Napper"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDcwZjRmNzktNzk0My00NWNjLTkxMDYtMzlkNWU5NjhlMmQ0XkEyXkFqcGc@._V1_CR80,19,474,711_.jpg",
+                                                              "width":  474,
+                                                              "height":  711
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1065402",
+                                         "displayName":  "Sanaa Hamri",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDZjMzBlY2YtODRkMC00NWRlLWEwY2QtN2U5NWNlYzMxY2E0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2176,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3104337",
+                                       "displayName":  "Robert Jordan",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzhlMTM4MTgtMWJmYy00YWE2LTg0MjQtMzc3YzNlZDY3OTVmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  930,
+                                                            "height":  1580
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1988994",
+                                       "displayName":  "Rafe Judkins",
+                                       "alternativeNames":  [
+                                                                "Rafe Lee Judkins"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm11665732",
+                                       "displayName":  "Katherine B. McKenna",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0683253",
+                                     "displayName":  "Rosamund Pike",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDQ5MDIyMjg3NV5BMl5BanBnXkFtZTgwOTU2NTE0NDM@._V1_.jpg",
+                                                          "width":  1363,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2024644",
+                                     "displayName":  "Daniel Henney",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2I4ZDAxZDktZDVjNi00ZTBhLWI4MWQtNzIxM2RkNzBiZTA1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1200,
+                                                          "height":  1558
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2049911",
+                                     "displayName":  "ZoÃ« Robins",
+                                     "alternativeNames":  [
+                                                              "Zoe Robins"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTAxOTYwMzMtZDY2Ni00Zjc3LTkyOTUtYzZhZTE4OWIyODQ0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2760,
+                                                          "height":  3680
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5136993",
+                                     "displayName":  "Madeleine Madden",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTE0MDliZDYtY2E2ZC00ZGE2LWE5YTQtZTg3MzM3NTliNzZiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3780,
+                                                          "height":  4724
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000015",
+                                         "name":  "Adventure Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000096",
+                                         "name":  "Fantasy Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000100",
+                                         "name":  "Sword \u0026 Sorcery",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    }
+                ]
+}

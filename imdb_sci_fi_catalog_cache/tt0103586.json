@@ -1,0 +1,219 @@
+﻿{
+    "id":  "tt0103586",
+    "detail":  {
+                   "id":  "tt0103586",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Young Indiana Jones Chronicles",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTY3Y2FmZTgtODJlZS00MmU0LTgzMDQtMDYzNDMzYTI2MTBiXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2396,
+                                        "height":  3211
+                                    },
+                   "startYear":  1992,
+                   "endYear":  1993,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Family",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  9373
+                              },
+                   "plot":  "The adventures of the archaeological treasure hunter in his youth as related by an elderly Indiana Jones.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0776209",
+                                         "displayName":  "Carl Schultz",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTYyOTQ4ODk1NF5BMl5BanBnXkFtZTcwNTg1MDkwMw@@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1339
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0934578",
+                                         "displayName":  "Simon Wincer",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc2NjMxMDc3OF5BMl5BanBnXkFtZTYwMjU0NzAz._V1_.jpg",
+                                                              "width":  450,
+                                                              "height":  338
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0544528",
+                                         "displayName":  "RenÃ© Manzor",
+                                         "alternativeNames":  [
+                                                                  "Rene Manzor"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYmQ1OTIyYWQtNjZkYS00Yjk1LTg0NzktYmNhNDg2YTE4YmZiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1152,
+                                                              "height":  1729
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0000184",
+                                       "displayName":  "George Lucas",
+                                       "alternativeNames":  [
+                                                                "George",
+                                                                "George L.",
+                                                                "Lucas"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTA0Mjc0NzExNzBeQTJeQWpwZ15BbWU3MDEzMzQ3MDI@._V1_.jpg",
+                                                            "width":  271,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0001104",
+                                       "displayName":  "Frank Darabont",
+                                       "alternativeNames":  [
+                                                                "Ardeth Bey",
+                                                                "Frank A. Darabont"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjk0MTkxNzQwOF5BMl5BanBnXkFtZTcwODM5OTMwNA@@._V1_.jpg",
+                                                            "width":  322,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0355054",
+                                       "displayName":  "Jonathan Hales",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001218",
+                                     "displayName":  "Sean Patrick Flanery",
+                                     "alternativeNames":  [
+                                                              "Sean Flanery",
+                                                              "Sean Patrick Flannery"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzk5ODBjYWUtODBjNS00YjA1LWI3ZjctMjU0Nzc4N2YyZjgxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4635,
+                                                          "height":  3090
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0355598",
+                                     "displayName":  "George Hall",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjNiZTRjYTMtNzBhOC00OGE0LWEwOTktMjdhZmZmYzFkYWFhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  800,
+                                                          "height":  580
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0184261",
+                                     "displayName":  "Ronny Coutteure",
+                                     "alternativeNames":  [
+                                                              "Ronny Couteure",
+                                                              "Raymond Coutteure"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0140393",
+                                     "displayName":  "Corey Carrier",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTIyNjQ3ODYxMF5BMl5BanBnXkFtZTcwOTIxODgyMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  675
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    }
+                ]
+}

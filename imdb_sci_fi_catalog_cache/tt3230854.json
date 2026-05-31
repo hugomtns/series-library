@@ -1,0 +1,243 @@
+﻿{
+    "id":  "tt3230854",
+    "detail":  {
+                   "id":  "tt3230854",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Expanse",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYzUyYmI3MjctY2Q2MC00NmFjLTgwZGUtNWQzZWNlYmVjNzE2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  404,
+                                        "height":  608
+                                    },
+                   "startYear":  2015,
+                   "endYear":  2022,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.5,
+                                  "voteCount":  192226
+                              },
+                   "plot":  "The disappearance of rich-girl-turned-political-activist links the lives of a Ceres detective, an accidental ship captain and U.N. politician. Amidst political tension between Earth, Mars and the Belt, they unravel the greatest conspiracy.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0252135",
+                                         "displayName":  "Breck Eisner",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTg3NzU4ODU5Ml5BMl5BanBnXkFtZTYwODA1MTQz._V1_.jpg",
+                                                              "width":  266,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0941276",
+                                         "displayName":  "Jeff Woolnough",
+                                         "alternativeNames":  [
+                                                                  "Jeffrey W. Woolnough",
+                                                                  "Jeffrey Woolnough",
+                                                                  "Jeff Woulnough"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMWJiYjA1MmMtOTA0ZC00N2RhLWE5MjgtMjNjZmRjY2E0YjBlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  501,
+                                                              "height":  629
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0568192",
+                                         "displayName":  "Terry McDonough",
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm6439608",
+                                       "displayName":  "Daniel Abraham",
+                                       "alternativeNames":  [
+                                                                "James S. A. Corey",
+                                                                "James S.A. Corey"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1318843",
+                                       "displayName":  "Mark Fergus",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTk1ODk2OTM0OF5BMl5BanBnXkFtZTcwNDE3NDA3MQ@@._V1_.jpg",
+                                                            "width":  287,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5102082",
+                                       "displayName":  "Ty Franck",
+                                       "alternativeNames":  [
+                                                                "James S. A. Corey",
+                                                                "James S.A. Corey"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjlhODMyYjQtYTM2Yy00YzNmLTk2ZjgtZDE4OGMzZjA5Y2U1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3237,
+                                                            "height":  4856
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1711829",
+                                     "displayName":  "Steven Strait",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWU2ZDY4MmYtNzA0YS00ZGRlLThlNTktMTEyNDEzNDAxYjI2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  341,
+                                                          "height":  512
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4625680",
+                                     "displayName":  "Dominique Tipper",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjU5ZjhmY2MtOGQ0Ni00NWJhLWIyMzctYmZjNGUyYWMzYWE5XkEyXkFqcGc@._V1_CR0,1,2347,3521_.jpg",
+                                                          "width":  2347,
+                                                          "height":  3521
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0013037",
+                                     "displayName":  "Shohreh Aghdashloo",
+                                     "alternativeNames":  [
+                                                              "Shohreh",
+                                                              "Shohreh Vaziri"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjBkY2Q4MWEtN2U4Yi00MTAzLWI1YzUtNWZlYzk3ZWE3NGYxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1826,
+                                                          "height":  2507
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1434871",
+                                     "displayName":  "Wes Chatham",
+                                     "alternativeNames":  [
+                                                              "John Wesley Chatham"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzA2NTk4NTQtMGUxZi00MmM2LTgxODMtZmQyM2UxMDBjMDY3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  568,
+                                                          "height":  698
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  6
+                    }
+                ]
+}

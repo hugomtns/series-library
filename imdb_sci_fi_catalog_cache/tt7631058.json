@@ -1,0 +1,270 @@
+﻿{
+    "id":  "tt7631058",
+    "detail":  {
+                   "id":  "tt7631058",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Lord of the Rings: The Rings of Power",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNmVmZGQ2ZTctYzE4NC00YzkxLThhNjYtNGIyZjJmZGEwMjUzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2022,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.9,
+                                  "voteCount":  439539
+                              },
+                   "plot":  "Epic drama set thousands of years before the events of J.R.R. Tolkien\u0027s \u0027The Hobbit\u0027 and \u0027The Lord of the Rings\u0027 follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0104851",
+                                         "displayName":  "Charlotte BrÃ¤ndstrÃ¶m",
+                                         "alternativeNames":  [
+                                                                  "Charlotte Brandstrom",
+                                                                  "Charlotte BrandstrÃ¶m"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMWYwODI0MWYtZTkzZi00YWI2LWFhNTUtNTBjYjVhZTEzMjJiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3744,
+                                                              "height":  5616
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3408764",
+                                         "displayName":  "Wayne Che Yip",
+                                         "alternativeNames":  [
+                                                                  "Wayne Yip"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODZlMjhkNWEtMGFiYy00MDlhLTllZDUtMDk4MzgzMzQxMjJjXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1226,
+                                                              "height":  1839
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0393776",
+                                         "displayName":  "Louise Hooper",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODI2ZjQ5MTctZjljMC00NTEyLTk3NjEtMzgyYTc1NTJjNWEyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3000,
+                                                              "height":  2400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm4259881",
+                                       "displayName":  "Patrick McKay",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMmY1MGNmYzktZWYxNS00OGY1LWIyNjktZDVhNjkyMDUwMTk1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1010,
+                                                            "height":  1012
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4260438",
+                                       "displayName":  "John D. Payne",
+                                       "alternativeNames":  [
+                                                                "J.D. Payne",
+                                                                "JD Payne"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMWIzMjA5OTktODEyZC00NDYzLTlmOWUtZGVhOWZjOWUwZmQwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1012,
+                                                            "height":  1012
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0866058",
+                                       "displayName":  "J.R.R. Tolkien",
+                                       "alternativeNames":  [
+                                                                "J R R Tolkien",
+                                                                "John Ronald Reuel Tolkien",
+                                                                "Monsieur Tolkien",
+                                                                "Tolkien"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNmMyMzU0ZmMtMGUxMS00OGExLWJjMTQtM2ZmMWZjY2Q5ODBiXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1440,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm6077056",
+                                     "displayName":  "Morfydd Clark",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc4OTMyNzMxNF5BMl5BanBnXkFtZTgwODUzMDExMzE@._V1_.jpg",
+                                                          "width":  461,
+                                                          "height":  576
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8190914",
+                                     "displayName":  "Charlie Vickers",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODQxMTAzMDQtZjZiOS00MDFlLWE0YzMtMjMwOTEyMzUwNDFlXkEyXkFqcGc@._V1_CR84,1,666,999_.jpg",
+                                                          "width":  666,
+                                                          "height":  999
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0249876",
+                                     "displayName":  "Charles Edwards",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDIyMzM2M2ItZDgyYS00ZjM0LWI5ZjktMTk4MmViZDU5OGUyXkEyXkFqcGc@._V1_CR1,0,1061,1592_.jpg",
+                                                          "width":  1061,
+                                                          "height":  1592
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3033454",
+                                     "displayName":  "Ismael Cruz Cordova",
+                                     "alternativeNames":  [
+                                                              "Ismael Enrique Cruz",
+                                                              "Ismael Cruz",
+                                                              "Ismael Cruz CÃ³rdova"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTcxNzkxNzc5MV5BMl5BanBnXkFtZTgwODc2MjA0NzM@._V1_.jpg",
+                                                          "width":  1582,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "NZ",
+                                               "name":  "New Zealand"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "sjn",
+                                               "name":  "Sindarin"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000015",
+                                         "name":  "Adventure Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000077",
+                                         "name":  "Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000096",
+                                         "name":  "Fantasy Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000100",
+                                         "name":  "Sword \u0026 Sorcery",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  1
+                    }
+                ]
+}

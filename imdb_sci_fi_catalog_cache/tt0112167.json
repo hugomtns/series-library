@@ -1,0 +1,233 @@
+﻿{
+    "id":  "tt0112167",
+    "detail":  {
+                   "id":  "tt0112167",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Sliders",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZmZjYTU0ZTgtYWYxYi00Mzc1LWE2YTAtMjI0MTlmMWQ5ZGUwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  1000
+                                    },
+                   "startYear":  1995,
+                   "endYear":  2000,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Adventure",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  21954
+                              },
+                   "plot":  "A boy genius and his comrades travel to different parallel universes, trying to find their way back home.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0174068",
+                                         "displayName":  "Richard Compton",
+                                         "alternativeNames":  [
+                                                                  "Dick Compton",
+                                                                  "R.B. Compton",
+                                                                  "Dick Dangerfield"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0669757",
+                                         "displayName":  "David E. Peckinpah",
+                                         "alternativeNames":  [
+                                                                  "David Peckinpah",
+                                                                  "D. Pekinpah"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "miscellaneous",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0005278",
+                                         "displayName":  "Jerry O\u0027Connell",
+                                         "alternativeNames":  [
+                                                                  "Amanda Kloots \u0026 Jerry O\u0027Connell"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTYwNTI3MjcyMF5BMl5BanBnXkFtZTcwNzIyMTA3Mw@@._V1_.jpg",
+                                                              "width":  300,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0868124",
+                                       "displayName":  "Tracy TormÃ©",
+                                       "alternativeNames":  [
+                                                                "Terry Devereaux",
+                                                                "Keith Mills",
+                                                                "Tracy Torme"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0919154",
+                                       "displayName":  "Robert K. Weiss",
+                                       "alternativeNames":  [
+                                                                "Bob Weiss",
+                                                                "Robert Weiss"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTQ1MDUzNTk0MV5BMl5BanBnXkFtZTYwNjQ0MDky._V1_.jpg",
+                                                            "width":  216,
+                                                            "height":  359
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0085220",
+                                       "displayName":  "Chris Black",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0220598",
+                                     "displayName":  "Cleavant Derricks",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTkxNzE1NjI3M15BMl5BanBnXkFtZTgwMjMyMzQ2MjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "composer",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005158",
+                                     "displayName":  "Sabrina Lloyd",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM2OTE0MDYwOV5BMl5BanBnXkFtZTYwOTIxNjA1._V1_.jpg",
+                                                          "width":  267,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005278",
+                                     "displayName":  "Jerry O\u0027Connell",
+                                     "alternativeNames":  [
+                                                              "Amanda Kloots \u0026 Jerry O\u0027Connell"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYwNTI3MjcyMF5BMl5BanBnXkFtZTcwNzIyMTA3Mw@@._V1_.jpg",
+                                                          "width":  300,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0722636",
+                                     "displayName":  "John Rhys-Davies",
+                                     "alternativeNames":  [
+                                                              "John Rhys Davies",
+                                                              "Jonathan Davies",
+                                                              "Jonathan Rhys-Davies"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjMwNDY3NjQxMF5BMl5BanBnXkFtZTcwMDc3NTYyOQ@@._V1_.jpg",
+                                                          "width":  1716,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "sound_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000166",
+                                         "name":  "Time Travel",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  18
+                    }
+                ]
+}

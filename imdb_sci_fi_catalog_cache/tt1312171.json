@@ -1,0 +1,236 @@
+﻿{
+    "id":  "tt1312171",
+    "detail":  {
+                   "id":  "tt1312171",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Umbrella Academy",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzlmMmIxODItYzBjNC00YjMwLWIwOTAtNzVlMTBlNTNkMjZjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2222
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2024,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  315009
+                              },
+                   "plot":  "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2007278",
+                                         "displayName":  "Jeremy Webb",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZTMyOGQ5OTYtYzliYS00NTg2LTg3NjItYWE4YzVmZGNjYTc2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4128,
+                                                              "height":  6192
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2161247",
+                                         "displayName":  "Paco Cabezas",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTQ2NzAxNmQtOTFhOS00NGI5LTk3YjAtYmI0MDI4ZmI1ZmE4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1024,
+                                                              "height":  717
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0475578",
+                                         "displayName":  "Ellen Kuras",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMDU0MmJlZDAtMWUzZC00MTg5LTg4NmMtMDExYmM4YzJiMTZkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3024,
+                                                              "height":  4032
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "cinematographer",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0085775",
+                                       "displayName":  "Steve Blackman",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMWUxMTIzNTItYjBlNy00MmMwLWFlOTMtNjQ3YzgwZjNkNmU5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  886,
+                                                            "height":  1758
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5128174",
+                                       "displayName":  "Gabriel BÃ¡",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2916300",
+                                       "displayName":  "Jeremy Slater",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTczNzUwODQ1N15BMl5BanBnXkFtZTgwOTQ5ODU0NzM@._V1_.jpg",
+                                                            "width":  1433,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0680983",
+                                     "displayName":  "Elliot Page",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmM3ZjE2M2QtYzljOC00ZTI4LWFhNTItOWVhNTkzM2JhOTE3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  480,
+                                                          "height":  633
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8287501",
+                                     "displayName":  "Emmy Raver-Lampman",
+                                     "alternativeNames":  [
+                                                              "Emmy Raver Lampman"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjFhMTgxZDQtMmI0NS00NDU4LThhY2UtYTAzYTFlZmVmOGQzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1170,
+                                                          "height":  1728
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2584392",
+                                     "displayName":  "Tom Hopper",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWUwYjZkZTktYTg4ZS00NGYxLWFiYzUtMGZjNGRkMzk4MTk3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3713,
+                                                          "height":  5569
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "executive",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3244078",
+                                     "displayName":  "David CastaÃ±eda",
+                                     "alternativeNames":  [
+                                                              "David Castaneda Jr.",
+                                                              "David Castaneda",
+                                                              "David CastaÃ±eda Jr."
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmRlNmEzZGItZjkyNy00ZDdhLWE2MzctZmI5NjA0MjM0YzljXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5124,
+                                                          "height":  7682
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  6
+                    }
+                ]
+}

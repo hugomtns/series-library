@@ -1,0 +1,260 @@
+﻿{
+    "id":  "tt1132290",
+    "detail":  {
+                   "id":  "tt1132290",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Warehouse 13",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMDVjOGI3MDEtYTQzYi00N2IxLTlkMGItM2UwMTIzZTcxYjY5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  2009,
+                   "endYear":  2014,
+                   "runtimeSeconds":  2580,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  61220
+                              },
+                   "plot":  "Pete and Myka, U.S Secret Service agents, are deployed in South Dakota\u0027s Warehouse 13 with a new assignment from an authority above and outside the government.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1084723",
+                                         "displayName":  "Chris Fisher",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZTdlNGI3YmItMjJkMi00ZjFlLWJmNjAtZWUzZjM2NTBjNWJmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  960,
+                                                              "height":  637
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0538744",
+                                         "displayName":  "Constantine Makris",
+                                         "alternativeNames":  [
+                                                                  "Gus Makris"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTgzMjA2NjExNF5BMl5BanBnXkFtZTYwOTgyNTA0._V1_.jpg",
+                                                              "width":  254,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "cinematographer",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0571739",
+                                         "displayName":  "Tawnia McKiernan",
+                                         "alternativeNames":  [
+                                                                  "Tawnia Cannell",
+                                                                  "Tawnia Cannell McKiernan",
+                                                                  "Tawnia Mckiernan"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjUwYWRmZWYtMzZmZC00MTViLWE5NDAtOGRjNjhjZGMzMDA3XkEyXkFqcGc@._V1_CR50,0,919,1379_.jpg",
+                                                              "width":  919,
+                                                              "height":  1379
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0260870",
+                                       "displayName":  "Jane Espenson",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjQ2MDkyNDgyN15BMl5BanBnXkFtZTcwOTk0MDM0Nw@@._V1_.jpg",
+                                                            "width":  1363,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0609315",
+                                       "displayName":  "D. Brent Mote",
+                                       "alternativeNames":  [
+                                                                "Brent Mote"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1524395",
+                                       "displayName":  "John-Paul Nickel",
+                                       "alternativeNames":  [
+                                                                "J.P. Nickel"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYmI2ZWVlZjAtY2FjOC00NjRmLWJiYjctNzNlYTc4ZjRmNWI4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2288,
+                                                            "height":  3249
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0565858",
+                                     "displayName":  "Eddie McClintock",
+                                     "alternativeNames":  [
+                                                              "Edward T. McLintock",
+                                                              "Eddie Mcclintock"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTExNTMzOTk3NjReQTJeQWpwZ15BbWU3MDc0MDI2ODQ@._V1_.jpg",
+                                                          "width":  1600,
+                                                          "height":  1584
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1162399",
+                                     "displayName":  "Joanne Kelly",
+                                     "alternativeNames":  [
+                                                              "Joanne M. Kelly"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWRmNmFjZmEtZGM3OC00ZjUwLWI3MDgtNzVhYWI1ZjJmZGRhXkEyXkFqcGc@._V1_CR1641,1,2276,3414_.jpg",
+                                                          "width":  2276,
+                                                          "height":  3414
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0007210",
+                                     "displayName":  "Saul Rubinek",
+                                     "alternativeNames":  [
+                                                              "Saul Rubineck"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2IxMmNkMWEtMzg5Yi00YjRmLWFmMDctN2E4NzRiZTc4ODg1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1239,
+                                                          "height":  1324
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1270095",
+                                     "displayName":  "Allison Scagliotti",
+                                     "alternativeNames":  [
+                                                              "La Femme Pendu",
+                                                              "Allison Scagliotti-Smith"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTljMTFjOWEtZjM2MC00YjE3LTk4NTItZWQ3ZmYyMzgyYzg2XkEyXkFqcGc@._V1_CR468,0,479,719_.jpg",
+                                                          "width":  479,
+                                                          "height":  719
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  6
+                    }
+                ]
+}

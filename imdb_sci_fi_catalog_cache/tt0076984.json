@@ -1,0 +1,241 @@
+﻿{
+    "id":  "tt0076984",
+    "detail":  {
+                   "id":  "tt0076984",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Battlestar Galactica",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTY4NzQ5MDAwM15BMl5BanBnXkFtZTgwODU0OTkwMDE@._V1_.jpg",
+                                        "width":  320,
+                                        "height":  475
+                                    },
+                   "startYear":  1978,
+                   "endYear":  1979,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  19208
+                              },
+                   "metacritic":  {
+                                      "score":  39,
+                                      "reviewCount":  4
+                                  },
+                   "plot":  "After the destruction of the Twelve Colonies of Mankind, the last major fighter carrier leads a makeshift fugitive fleet on a desperate search for the legendary planet Earth.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0390103",
+                                         "displayName":  "Rod Holcomb",
+                                         "alternativeNames":  [
+                                                                  "Alan Smithee"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0638527",
+                                         "displayName":  "Christian I. Nyby II",
+                                         "alternativeNames":  [
+                                                                  "Christian Nyby II",
+                                                                  "Chris Nyby II",
+                                                                  "Christian I. Nyby Jr.",
+                                                                  "Chris Nyby"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0505420",
+                                         "displayName":  "Alan J. Levi",
+                                         "alternativeNames":  [
+                                                                  "Alan Levi"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjEwNDczMjYwNF5BMl5BanBnXkFtZTcwODgwMzI2Nw@@._V1_.jpg",
+                                                              "width":  400,
+                                                              "height":  477
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0488991",
+                                       "displayName":  "Glen A. Larson",
+                                       "alternativeNames":  [
+                                                                "The Four Preps - Glen",
+                                                                "The Four Preps",
+                                                                "Christopher Eric James",
+                                                                "Glen Larson"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTkxMzg5NzgwOV5BMl5BanBnXkFtZTgwNTg1NzM0MzE@._V1_.jpg",
+                                                            "width":  1361,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0069074",
+                                       "displayName":  "Donald P. Bellisario",
+                                       "alternativeNames":  [
+                                                                "Donald Bellisario",
+                                                                "Don Bellisario"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTY2Mzc4MjMwNV5BMl5BanBnXkFtZTcwMDk0NTcxOA@@._V1_.jpg",
+                                                            "width":  1386,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0805994",
+                                       "displayName":  "Michael Sloan",
+                                       "alternativeNames":  [
+                                                                "Michael Sloane"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0368745",
+                                     "displayName":  "Richard Hatch",
+                                     "alternativeNames":  [
+                                                              "Richard Lawrence Hatch"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzc4NjA1NjA3OV5BMl5BanBnXkFtZTcwOTU3NjM3Mg@@._V1_.jpg",
+                                                          "width":  987,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0070767",
+                                     "displayName":  "Dirk Benedict",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc3OTQ3Njk4Nl5BMl5BanBnXkFtZTgwNTc1MTQxMjI@._V1_.jpg",
+                                                          "width":  1322,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001296",
+                                     "displayName":  "Lorne Greene",
+                                     "alternativeNames":  [
+                                                              "Lorne Green",
+                                                              "Lorne \u0026 Nancy"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzZmMmNlZGUtZDQ0NC00ZTk2LWEyZTctM2M1NWZiZGNkMDFlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2249,
+                                                          "height":  3400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0420170",
+                                     "displayName":  "Herbert Jefferson Jr.",
+                                     "alternativeNames":  [
+                                                              "Herb Jefferson Jr.",
+                                                              "Herbert Jefferson",
+                                                              "Herbie Jefferson",
+                                                              "Herb Jefferson",
+                                                              "Herbert Jefferson Jr"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjM4NWQ5YmEtMWM5Zi00M2QyLTk3YzMtYjkzN2I2MDc2YTA5XkEyXkFqcGc@._V1_CR0,4,288,432_.jpg",
+                                                          "width":  288,
+                                                          "height":  432
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  21
+                    }
+                ]
+}

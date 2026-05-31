@@ -1,0 +1,301 @@
+﻿{
+    "id":  "tt0053502",
+    "detail":  {
+                   "id":  "tt0053502",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Flintstones",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOWM1ZWE0MTMtY2UyYi00ZTVlLTg0MmItYTVmYTk3Mzk4YzJjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2497,
+                                        "height":  3341
+                                    },
+                   "startYear":  1960,
+                   "endYear":  1966,
+                   "runtimeSeconds":  1560,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  44683
+                              },
+                   "plot":  "The misadventures of two modern-day Stone Age families, the Flintstones and the Rubbles.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0053484",
+                                         "displayName":  "Joseph Barbera",
+                                         "alternativeNames":  [
+                                                                  "Hanna Barbera",
+                                                                  "Joe Barbera",
+                                                                  "Joseph R. Barbera",
+                                                                  "Hanna Barbera-Productions",
+                                                                  "Hanna-Barbera",
+                                                                  "Hanna-Barbera Prods Inc.",
+                                                                  "Hanna Barbera Productions",
+                                                                  "Hanna-Barbera Productions",
+                                                                  "Joseph Roland"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjVjMDQwZjUtN2EzZC00ZTAyLTllNDgtMzkwZWU2MDUwNDhmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1081,
+                                                              "height":  1500
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0360253",
+                                         "displayName":  "William Hanna",
+                                         "alternativeNames":  [
+                                                                  "Hanna Barbera",
+                                                                  "Hanna Barbera-Productions",
+                                                                  "Bill Hanna",
+                                                                  "Hanna-Barbera",
+                                                                  "Hanna-Barbera Prods Inc.",
+                                                                  "Hanna Barbera Productions",
+                                                                  "Hanna-Barbera Productions",
+                                                                  "Denby Williams",
+                                                                  "Hanna-Barbera productions"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjgxZjViMmUtMzNmNS00ZTk3LWJmMGMtMzgwZjQ0ZWJhMGRlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  705,
+                                                              "height":  576
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0053484",
+                                       "displayName":  "Joseph Barbera",
+                                       "alternativeNames":  [
+                                                                "Hanna Barbera",
+                                                                "Joe Barbera",
+                                                                "Joseph R. Barbera",
+                                                                "Hanna Barbera-Productions",
+                                                                "Hanna-Barbera",
+                                                                "Hanna-Barbera Prods Inc.",
+                                                                "Hanna Barbera Productions",
+                                                                "Hanna-Barbera Productions",
+                                                                "Joseph Roland"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjVjMDQwZjUtN2EzZC00ZTAyLTllNDgtMzkwZWU2MDUwNDhmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1081,
+                                                            "height":  1500
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0360253",
+                                       "displayName":  "William Hanna",
+                                       "alternativeNames":  [
+                                                                "Hanna Barbera",
+                                                                "Hanna Barbera-Productions",
+                                                                "Bill Hanna",
+                                                                "Hanna-Barbera",
+                                                                "Hanna-Barbera Prods Inc.",
+                                                                "Hanna Barbera Productions",
+                                                                "Hanna-Barbera Productions",
+                                                                "Denby Williams",
+                                                                "Hanna-Barbera productions"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYjgxZjViMmUtMzNmNS00ZTk3LWJmMGMtMzgwZjQ0ZWJhMGRlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  705,
+                                                            "height":  576
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0288111",
+                                       "displayName":  "Warren Foster",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "music_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0715284",
+                                     "displayName":  "Alan Reed",
+                                     "alternativeNames":  [
+                                                              "Blubber Bergman",
+                                                              "Teddy Bergman",
+                                                              "Falstaff Openshaw",
+                                                              "Alan Reed Sr.",
+                                                              "Allen Reed Sr.",
+                                                              "Allan Reed"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjEzMzY0NjI1Nl5BMl5BanBnXkFtZTcwNjk2NzYxOA@@._V1_.jpg",
+                                                          "width":  2001,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0888717",
+                                     "displayName":  "Jean Vander Pyl",
+                                     "alternativeNames":  [
+                                                              "Jean Van Pyl",
+                                                              "Jean VanderPyl",
+                                                              "Jean Vanderpyl"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWJkZmFiZTgtOTFlZS00YmNlLWJiNmMtNTQyYTJhNWE5MTc4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  417,
+                                                          "height":  500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000305",
+                                     "displayName":  "Mel Blanc",
+                                     "alternativeNames":  [
+                                                              "M. Mel Blanc"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOGEzZGFiZmUtMDkwNi00ODk0LTkxNTUtNmY4ZTUyMDBkYjYxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4453,
+                                                          "height":  5509
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0070153",
+                                     "displayName":  "Bea Benaderet",
+                                     "alternativeNames":  [
+                                                              "Bea Benadaret",
+                                                              "Bee Benadaret",
+                                                              "Bea Benederet"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYwMjQwMTgwNl5BMl5BanBnXkFtZTcwOTk0NzcxOA@@._V1_.jpg",
+                                                          "width":  1550,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000014",
+                                         "name":  "Dinosaur Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  29
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  32
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  28
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  26
+                    }
+                ]
+}

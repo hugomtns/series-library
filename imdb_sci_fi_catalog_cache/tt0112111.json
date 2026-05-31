@@ -1,0 +1,249 @@
+﻿{
+    "id":  "tt0112111",
+    "detail":  {
+                   "id":  "tt0112111",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Outer Limits",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTEzMDE0ODM0OTFeQTJeQWpwZ15BbWU3MDEzNTI4ODQ@._V1_.jpg",
+                                        "width":  682,
+                                        "height":  1023
+                                    },
+                   "startYear":  1995,
+                   "endYear":  2002,
+                   "runtimeSeconds":  2640,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.7,
+                                  "voteCount":  14984
+                              },
+                   "plot":  "\"The Outer Limits\" is a science fiction anthology series, with Kevin Conway providing the voice of \"Control Voice\".",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0044524",
+                                         "displayName":  "Mario Azzopardi",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0877427",
+                                         "displayName":  "Brad Turner",
+                                         "alternativeNames":  [
+                                                                  "Bradford Turner"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNmJlMDVlZGUtOTMzMy00ZjIwLWI3YmItZjU1OTkwYWI2ZWNjXkEyXkFqcGc@._V1_CR497,0,2015,3023_.jpg",
+                                                              "width":  2015,
+                                                              "height":  3023
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0269899",
+                                         "displayName":  "Neill Fearnley",
+                                         "alternativeNames":  [
+                                                                  "Neill Fearnely",
+                                                                  "Neil Fearnley"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0828562",
+                                       "displayName":  "Leslie Stevens",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTM3ZjlkYzItYWNjMC00ODk1LThhMzAtZjIwOGZkNzg2MDIzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1141,
+                                                            "height":  1347
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0250735",
+                                       "displayName":  "Sam Egan",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0942249",
+                                       "displayName":  "Brad Wright",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0176723",
+                                     "displayName":  "Kevin Conway",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTAxNzgxODMwNTVeQTJeQWpwZ15BbWU3MDM3NTQyMzE@._V1_.jpg",
+                                                          "width":  350,
+                                                          "height":  448
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0224477",
+                                     "displayName":  "Alex Diakun",
+                                     "alternativeNames":  [
+                                                              "Alex Daiken",
+                                                              "Alex Daikun",
+                                                              "Alex Diakin",
+                                                              "Alexander Diakun"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ2MTEwMjQ2OV5BMl5BanBnXkFtZTgwNTgwOTc0MjE@._V1_.jpg",
+                                                          "width":  1363,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0773796",
+                                     "displayName":  "Eric Schneider",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDY5M2NhZjAtMjhiYy00NmM1LWJlZTktMWFhYTk1NzgzNmJkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  640,
+                                                          "height":  480
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0189162",
+                                     "displayName":  "Garvin Cross",
+                                     "alternativeNames":  [
+                                                              "Gavin Cross"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA1OTY4ODQyM15BMl5BanBnXkFtZTcwMjYxNDAzMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  678
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "stunts"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000113",
+                                         "name":  "Monster Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  22
+                    }
+                ]
+}

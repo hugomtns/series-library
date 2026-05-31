@@ -1,0 +1,161 @@
+﻿{
+    "id":  "tt2548418",
+    "detail":  {
+                   "id":  "tt2548418",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Jonathan Strange \u0026 Mr Norrell",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BY2ZkOWYwYzctZmI1MS00YmQ4LWEwZmItMDY4MjhkZDFjM2ExXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1600,
+                                        "height":  2400
+                                    },
+                   "startYear":  2015,
+                   "endYear":  2015,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Fantasy",
+                                  "War"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8,
+                                  "voteCount":  15216
+                              },
+                   "plot":  "In an alternate history, during the time of real life Napoleonic Wars, two men of destiny, the gifted recluse Mr. Norrell and daring spellcasting novice Jonathan Strange, use magic to help England.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1595284",
+                                         "displayName":  "Toby Haynes",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjI4YTJjMzgtMTEwNi00MWU4LTg3MmMtYWE5MmIxM2E5MWEwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3000,
+                                                              "height":  2000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1968349",
+                                       "displayName":  "Susanna Clarke",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1739929",
+                                       "displayName":  "Peter Harness",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZjMxYzc0OGQtNzA3YS00ZGYwLTg2NGQtOWI5ZTNmOWE2ZDEzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3881,
+                                                            "height":  3881
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1584487",
+                                     "displayName":  "Bertie Carvel",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY0OTUyNTA0MF5BMl5BanBnXkFtZTgwMDkzOTY2NTE@._V1_.jpg",
+                                                          "width":  410,
+                                                          "height":  410
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2731660",
+                                     "displayName":  "Charlotte Riley",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTgxODk4NzUwMF5BMl5BanBnXkFtZTcwMTc1MDQ4Nw@@._V1_.jpg",
+                                                          "width":  1609,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0550371",
+                                     "displayName":  "Eddie Marsan",
+                                     "alternativeNames":  [
+                                                              "The Marsan Family",
+                                                              "Edward Marsan",
+                                                              "Eddie Marson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYyMTA0MTYwOF5BMl5BanBnXkFtZTgwMjY5MzkzNzM@._V1_.jpg",
+                                                          "width":  1330,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0912938",
+                                     "displayName":  "Marc Warren",
+                                     "alternativeNames":  [
+                                                              "Mark Warren"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE2MDIyNDMwN15BMl5BanBnXkFtZTcwOTM5NDk1NA@@._V1_.jpg",
+                                                          "width":  570,
+                                                          "height":  364
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000010",
+                                         "name":  "War"
+                                     },
+                                     {
+                                         "id":  "in0000083",
+                                         "name":  "Period Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  7
+                    }
+                ]
+}

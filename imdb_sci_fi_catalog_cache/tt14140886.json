@@ -1,0 +1,169 @@
+﻿{
+    "id":  "tt14140886",
+    "detail":  {
+                   "id":  "tt14140886",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The 7 Lives of Lea",
+                   "originalTitle":  "Les 7 vies de LÃ©a",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzgwMjc0MzMtM2M0My00Y2ZhLTkyNzQtMGIyZDI3NzBmN2M3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1350
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2022,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  6761
+                              },
+                   "plot":  "Follows a woman who stumbles upon the body of Ismael, a teenager who disappeared thirty years earlier, with the event taking her back to 1991 and seeing her wake up every morning in the body of a different person.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1927069",
+                                         "displayName":  "Julien Despaux",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm4202288",
+                                         "displayName":  "Ãmilie Noblet",
+                                         "alternativeNames":  [
+                                                                  "Emilie Noblet"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm6331976",
+                                       "displayName":  "Charlotte Sanson",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2473226",
+                                       "displayName":  "DÃ©borah Hassoun",
+                                       "alternativeNames":  [
+                                                                "Deborah Hassoun",
+                                                                "DÃ©borath Hausson"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4506893",
+                                       "displayName":  "DorothÃ©e Lachaud",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm11512627",
+                                     "displayName":  "Khalil Ben Gharbia",
+                                     "alternativeNames":  [
+                                                              "Khalil Gharbia"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTUwZWJhNzgtM2IwMy00ZmM0LTk1MWEtY2EyYjU2ZmU2Y2FiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1266,
+                                                          "height":  1872
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm12493746",
+                                     "displayName":  "RaÃ¯ka Hazanavicius",
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm10435313",
+                                     "displayName":  "Marguerite Thiam",
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8627770",
+                                     "displayName":  "MaÃ¯ra Schmitt",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUyODAyMTk5OF5BMl5BanBnXkFtZTcwNDgyMDA3Mg@@._V1_.jpg",
+                                                          "width":  354,
+                                                          "height":  500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "FR",
+                                               "name":  "France"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  7
+                    }
+                ]
+}

@@ -1,0 +1,283 @@
+﻿{
+    "id":  "tt0436992",
+    "detail":  {
+                   "id":  "tt0436992",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Doctor Who",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZGVmY2RkZjAtZDAwMC00MmZhLThhMGItZmVlNzE4MTgyMWRkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  608,
+                                        "height":  912
+                                    },
+                   "startYear":  2005,
+                   "endYear":  2022,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.5,
+                                  "voteCount":  262760
+                              },
+                   "plot":  "Continuing on from Doctor Who (1963), this revival follows the further adventures of the Doctor and their companions as they encounter various alien threats and save civilizations on different planets and time periods.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0363865",
+                                         "displayName":  "Graeme Harper",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYmFkNDFiZWEtODZjNi00MTQzLTkwMGMtN2E3YzNiOTg4NGM1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  769,
+                                                              "height":  556
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "production_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0528186",
+                                         "displayName":  "Euros Lyn",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjA0MzU0MzI4M15BMl5BanBnXkFtZTcwMjg0NzM3Mg@@._V1_.jpg",
+                                                              "width":  1024,
+                                                              "height":  683
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0533559",
+                                         "displayName":  "Douglas Mackinnon",
+                                         "alternativeNames":  [
+                                                                  "Doug Mackinnon"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTg0MDM3MzUxMl5BMl5BanBnXkFtZTgwNTc2MTg0NjM@._V1_.jpg",
+                                                              "width":  1471,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0628285",
+                                       "displayName":  "Sydney Newman",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjdiNzEzMjUtN2Y2ZC00YzM5LTg2NzUtYjJiZWRlYTNmYjYzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  888,
+                                                            "height":  499
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0595590",
+                                       "displayName":  "Steven Moffat",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTU5Mjk4NTIyM15BMl5BanBnXkFtZTcwMDA5MjIzNw@@._V1_.jpg",
+                                                            "width":  1365,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1163823",
+                                       "displayName":  "Chris Chibnall",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDE3OTAzNTE0MV5BMl5BanBnXkFtZTgwODMwNjY5NTM@._V1_.jpg",
+                                                            "width":  1365,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1741002",
+                                     "displayName":  "Matt Smith",
+                                     "alternativeNames":  [
+                                                              "Matthew Smith"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE0NzExMTg0MV5BMl5BanBnXkFtZTgwOTIyNTI5NzE@._V1_.jpg",
+                                                          "width":  1719,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2092886",
+                                     "displayName":  "Jodie Whittaker",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA3ODQzOTU1MF5BMl5BanBnXkFtZTgwMjI1ODM2MzE@._V1_.jpg",
+                                                          "width":  1512,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "camera_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0134922",
+                                     "displayName":  "Peter Capaldi",
+                                     "alternativeNames":  [
+                                                              "Peter Capadli",
+                                                              "Dr Peter Capaldi",
+                                                              "Pete Capaldi",
+                                                              "Tony Lobotomy"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA0NTE0NDQ3OV5BMl5BanBnXkFtZTcwMjkwMjkxOA@@._V1_.jpg",
+                                                          "width":  1364,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4929530",
+                                     "displayName":  "Pearl Mackie",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWYzOWRjZjQtZDM0NC00MzUzLTgwNzctNjNlMDJmNDU3ZjYxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  620,
+                                                          "height":  640
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000166",
+                                         "name":  "Time Travel",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "13",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  12
+                    }
+                ]
+}

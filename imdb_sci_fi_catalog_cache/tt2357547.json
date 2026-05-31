@@ -1,0 +1,239 @@
+﻿{
+    "id":  "tt2357547",
+    "detail":  {
+                   "id":  "tt2357547",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Jessica Jones",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMDhhY2VlMWItMjM3Yi00MDc1LTlmYjctNjMzNDIxZjc5NGEwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2222
+                                    },
+                   "startYear":  2015,
+                   "endYear":  2019,
+                   "runtimeSeconds":  3360,
+                   "genres":  [
+                                  "Action",
+                                  "Crime",
+                                  "Drama",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  239776
+                              },
+                   "plot":  "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0839660",
+                                         "displayName":  "Stephen Surjik",
+                                         "alternativeNames":  [
+                                                                  "Stephen Surjic",
+                                                                  "Stephen D. Surjik",
+                                                                  "Steven Surjik",
+                                                                  "Steve Surjik"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjQzNDA1MjkzNl5BMl5BanBnXkFtZTgwNzU4MjQwOTE@._V1_.jpg",
+                                                              "width":  1242,
+                                                              "height":  1242
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0315298",
+                                         "displayName":  "Jennifer Getzinger",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZjYwYmM3MDItZDVkNy00NzQwLWIyMDEtMTI1NzAxNjY2ZTU1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3024,
+                                                              "height":  4032
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0003802",
+                                         "displayName":  "Uta Briesewitz",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BM2VhNjBkNjktZjJkMS00YWVjLThkODctNTliOTNjNDhmMGQ0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  778,
+                                                              "height":  1071
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1144314",
+                                       "displayName":  "Brian Michael Bendis",
+                                       "alternativeNames":  [
+                                                                "Brian Bendis"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzIzOTc2NjYyMl5BMl5BanBnXkFtZTgwMDUzMjEyNTE@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1546
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm7584292",
+                                       "displayName":  "Michael Gaydos",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0742279",
+                                       "displayName":  "Melissa Rosenberg",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTg0MTgxNDI5OV5BMl5BanBnXkFtZTcwNDU5OTM0NA@@._V1_.jpg",
+                                                            "width":  1548,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1269983",
+                                     "displayName":  "Krysten Ritter",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmUyODcyZGUtMDM0NC00YWMzLTg4ZGEtMGNhNWU2MTIyNjBjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2000,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2794212",
+                                     "displayName":  "Eka Darville",
+                                     "alternativeNames":  [
+                                                              "Eka Darvill",
+                                                              "Tobias Reiss"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA4NzAzMjkyMDNeQTJeQWpwZ15BbWU4MDE4NzEyNTUx._V1_.jpg",
+                                                          "width":  1363,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1592225",
+                                     "displayName":  "Rachael Taylor",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjEwMTk0OTM0OV5BMl5BanBnXkFtZTgwOTU2NTY2ODE@._V1_.jpg",
+                                                          "width":  427,
+                                                          "height":  640
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005251",
+                                     "displayName":  "Carrie-Anne Moss",
+                                     "alternativeNames":  [
+                                                              "Carrie Anne Moss",
+                                                              "Carrie Ann Moss",
+                                                              "Carrie-Ann Moss"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYxMjgwNzEwOF5BMl5BanBnXkFtZTcwNTQ0NzI5Ng@@._V1_.jpg",
+                                                          "width":  1547,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000182",
+                                         "name":  "Psychological Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    }
+                ]
+}

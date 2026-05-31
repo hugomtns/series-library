@@ -1,0 +1,202 @@
+﻿{
+    "id":  "tt27031263",
+    "detail":  {
+                   "id":  "tt27031263",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Teacup",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZTk0Mjc3ZjUtY2E0Mi00YWZhLWIwOTgtODYyODNkNTU0YTQ1XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2025,
+                                        "height":  3000
+                                    },
+                   "startYear":  2024,
+                   "endYear":  2024,
+                   "genres":  [
+                                  "Horror",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.3,
+                                  "voteCount":  12837
+                              },
+                   "plot":  "Trapped on a farm in rural Georgia, a group of neighbors must put aside their differences and unite in the face of a mysterious and deadly threat.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0404882",
+                                         "displayName":  "John Hyams",
+                                         "alternativeNames":  [
+                                                                  "John"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1414810",
+                                         "displayName":  "E.L. Katz",
+                                         "alternativeNames":  [
+                                                                  "Evan Katz"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTUwMTQ5OTgyOF5BMl5BanBnXkFtZTgwNDgzMTQ3MjE@._V1_.jpg",
+                                                              "width":  2000,
+                                                              "height":  1333
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3013234",
+                                         "displayName":  "Chloe Okuno",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1679648",
+                                       "displayName":  "Zoe Cooper",
+                                       "alternativeNames":  [
+                                                                "ZoÃ« Cooper"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTg4NTA2NjAtNzMwZi00NjM3LTk1ZDYtOTRkODczMzhjYjk1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1440,
+                                                            "height":  1800
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1004678",
+                                       "displayName":  "Robert R. McCammon",
+                                       "alternativeNames":  [
+                                                                "Robert McCammon"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0717149",
+                                       "displayName":  "Ian McCulloch",
+                                       "alternativeNames":  [
+                                                                "Ian Reid Mcculloch"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzAxODBjNDAtZTE2Zi00YWU1LThkMmQtYzBhM2I4MmJlYjdjXkEyXkFqcGc@._V1_CR2242,202,1722,2583_.jpg",
+                                                            "width":  1722,
+                                                            "height":  2583
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0005454",
+                                     "displayName":  "Scott Speedman",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWNhZDRhYzQtYTlmNi00MTI4LWI2MjItN2NlMjc3M2RiZTQxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3278,
+                                                          "height":  4917
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2088803",
+                                     "displayName":  "Yvonne Strahovski",
+                                     "alternativeNames":  [
+                                                              "Yvonne Strechowski",
+                                                              "Yvonne Strzechowski"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGE4ODNmNTgtZmJkZi00MDZmLTk2YzAtYjc3YjM4MmJkMzFlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  523,
+                                                          "height":  295
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1119726",
+                                     "displayName":  "Chaske Spencer",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWQ1MmRlMzEtOTFlNy00MGNjLWE4ZTAtZWE3NDEyMzk5MTU3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3796,
+                                                          "height":  5364
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5236342",
+                                     "displayName":  "Emilie Bierre",
+                                     "alternativeNames":  [
+                                                              "Ãmilie Bierre"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGZiYTg3ZmItZDcxMi00M2UxLWE5YTQtOGFhNDE5ZmY3NzY2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5464,
+                                                          "height":  8192
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

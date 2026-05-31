@@ -1,0 +1,245 @@
+﻿{
+    "id":  "tt15358446",
+    "detail":  {
+                   "id":  "tt15358446",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Dead Boy Detectives",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYWI0ODg3NjgtMGVkOC00NDBlLTk1YmYtZGQ3MmVhMGM1YWZmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2222
+                                    },
+                   "startYear":  2024,
+                   "endYear":  2024,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  23669
+                              },
+                   "plot":  "Charles Rowland and Edwin Payne choose not to enter the afterlife, instead staying on Earth to investigate crimes that involve the supernatural, with help from their living psychic medium friend.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0935732",
+                                         "displayName":  "Glen Winter",
+                                         "alternativeNames":  [
+                                                                  "Glen \u0027Strategy\u0027 Winter",
+                                                                  "Glen Thomas Winter"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTAzNjE4ODc3NDNeQTJeQWpwZ15BbWU4MDM4MTI4NDMx._V1_.jpg",
+                                                              "width":  800,
+                                                              "height":  537
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0035243",
+                                         "displayName":  "Andi Armaganian",
+                                         "alternativeNames":  [
+                                                                  "Andrea Armaganian"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BY2Y5MDdkZjMtZDYzYi00MmVjLTgwNDQtNTcyMzJhNzYzMzdmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3024,
+                                                              "height":  4032
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0154079",
+                                         "displayName":  "Pete Chatmon",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYTc4ODlmNWEtMzk1NC00NGI2LTg5M2ItYjY0MGYyOTIwOTUyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4336,
+                                                              "height":  5415
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0301274",
+                                       "displayName":  "Neil Gaiman",
+                                       "alternativeNames":  [
+                                                                "Nails Ghoulman"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTczNjc1NjIzMV5BMl5BanBnXkFtZTYwNDU2MjYz._V1_.jpg",
+                                                            "width":  268,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1639312",
+                                       "displayName":  "Matt Wagner",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTQ2NzEyNTAyM15BMl5BanBnXkFtZTgwNDk1NDAzMjE@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1365
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3412809",
+                                       "displayName":  "Steve Yockey",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZTQ4Y2I1ZjYtYWEyYi00ZWNiLTljYjktZjI1NmJhYjYzYjM1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1179,
+                                                            "height":  1520
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm12237626",
+                                     "displayName":  "George Rexstrew",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTY3NWUxNjItNmIxOS00N2EyLTkzZjUtMzJlMWIyZTQ1YzU2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3242,
+                                                          "height":  4053
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6204053",
+                                     "displayName":  "Kassius Nelson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzJmYjkyODAtNDUyNS00OTZkLWIxYzItOTlhN2I3YTIwNmFhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5319,
+                                                          "height":  3646
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4053303",
+                                     "displayName":  "Briana Cuoco",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjY3OTYwMjMtNGVkYS00OTEyLTg2NTAtNDEyZTI3N2UwYzk2XkEyXkFqcGc@._V1_CR285,298,577,866_.jpg",
+                                                          "width":  577,
+                                                          "height":  866
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6581952",
+                                     "displayName":  "Jayden Revri",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjljOTI0NjMtOWNjZS00MWJlLTlmNmEtNGE5NzllYjgxNWJhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2400,
+                                                          "height":  3300
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000118",
+                                         "name":  "Teen Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

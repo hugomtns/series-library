@@ -1,0 +1,244 @@
+﻿{
+    "id":  "tt13668894",
+    "detail":  {
+                   "id":  "tt13668894",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "The Book of Boba Fett",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BY2JlY2NkOWItYjAyZS00Yzc5LWE4ZWEtMGY2NzBlZDkzNjYzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1688,
+                                        "height":  2500
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2022,
+                   "runtimeSeconds":  3000,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.1,
+                                  "voteCount":  210252
+                              },
+                   "plot":  "Bounty hunter Boba Fett and mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\u0027s old turf.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0001675",
+                                         "displayName":  "Robert Rodriguez",
+                                         "alternativeNames":  [
+                                                                  "Robert Rodriguez \u0027My Brother\u0027",
+                                                                  "Mi Hermano Robert R.",
+                                                                  "Mike Figgis \u0026 Robert Rodriguez",
+                                                                  "Roberto Rodriguez",
+                                                                  "Robert RodrÃ­guez"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc0NDg4ODAwNF5BMl5BanBnXkFtZTgwMTIxNTA0MjE@._V1_.jpg",
+                                                              "width":  1335,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1396048",
+                                         "displayName":  "Dave Filoni",
+                                         "alternativeNames":  [
+                                                                  "C1-10P a.k.a. \u0027Chopper\u0027",
+                                                                  "Chopper",
+                                                                  "David Filoni"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTQzMzAxMTg3NV5BMl5BanBnXkFtZTcwNzEyNTQ4MQ@@._V1_.jpg",
+                                                              "width":  267,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1576181",
+                                         "displayName":  "Steph Green",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOGNkYjFlYmMtZGEwZi00ZjkxLWJjMmUtNDU5MTY4ZTIwZDAxXkEyXkFqcGc@._V1_CR505,115,391,586_.jpg",
+                                                              "width":  391,
+                                                              "height":  586
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0269463",
+                                       "displayName":  "Jon Favreau",
+                                       "alternativeNames":  [
+                                                                "John Favreau"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzBiZGI5MmMtOWEzYi00ZDgwLTg4MGEtOTBjMmE1Y2ZiNDg5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1000,
+                                                            "height":  1333
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4987104",
+                                       "displayName":  "Noah Kloor",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOTE5N2JjYzAtNDVjNy00MzVlLWE2MTMtYTRjYjcxYWQ4MTA0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1290,
+                                                            "height":  1414
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0000184",
+                                       "displayName":  "George Lucas",
+                                       "alternativeNames":  [
+                                                                "George",
+                                                                "George L.",
+                                                                "Lucas"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTA0Mjc0NzExNzBeQTJeQWpwZ15BbWU3MDEzMzQ3MDI@._V1_.jpg",
+                                                            "width":  271,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001840",
+                                     "displayName":  "Ming-Na Wen",
+                                     "alternativeNames":  [
+                                                              "Ming-Na",
+                                                              "Ming Na",
+                                                              "Ming Na Wen",
+                                                              "Ming Wen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTIyNjUwNTk3OV5BMl5BanBnXkFtZTcwOTE4NTMzMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  563
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0607325",
+                                     "displayName":  "Temuera Morrison",
+                                     "alternativeNames":  [
+                                                              "The Five Fetts"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzNhOTY4NjktYTVkNC00NjVlLWIyYzgtMTc4MGZjZGE3ODhjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  902,
+                                                          "height":  998
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1946095",
+                                     "displayName":  "Frank Trigg",
+                                     "alternativeNames":  [
+                                                              "Nathon",
+                                                              "Frank Triggs"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmEwNjc1YzgtNDJlNi00YTU3LTk5ZjEtY2Q0YmM4MDMyNWFlXkEyXkFqcGc@._V1_PT270.0_CR110,332,704,1056_.jpg",
+                                                          "width":  704,
+                                                          "height":  1056
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "stunts"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3338453",
+                                     "displayName":  "Collin Hymes",
+                                     "alternativeNames":  [
+                                                              "Collin Charles Hymes"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTk4YjIxMWMtZGFiYi00ODQ1LTllODEtNWFhM2MxOWExMzVlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1440,
+                                                          "height":  1747
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "stunts"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  7
+                    }
+                ]
+}

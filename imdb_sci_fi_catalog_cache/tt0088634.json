@@ -1,0 +1,270 @@
+﻿{
+    "id":  "tt0088634",
+    "detail":  {
+                   "id":  "tt0088634",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Twilight Zone",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYjY3MzMxYmUtN2IyNy00NmFmLTk3ODktMTM1ZDc1NDg1NzQ4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1064,
+                                        "height":  1500
+                                    },
+                   "startYear":  1985,
+                   "endYear":  1989,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.7,
+                                  "voteCount":  13265
+                              },
+                   "plot":  "Tales of science fiction, fantasy and the occult.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0528420",
+                                         "displayName":  "Paul Lynch",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0575389",
+                                         "displayName":  "Peter Medak",
+                                         "alternativeNames":  [
+                                                                  "Peter MedÃ¡k"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTU3MzIxNzk4NF5BMl5BanBnXkFtZTYwMjU0OTc3._V1_.jpg",
+                                                              "width":  475,
+                                                              "height":  423
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0003794",
+                                         "displayName":  "Ryszard Bugajski",
+                                         "alternativeNames":  [
+                                                                  "Richard Bugajski"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzNiYmM4ZjctYzc0MS00YTJjLWEyZDQtNTJjZmMzNzA0MzdlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  815,
+                                                              "height":  542
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0785245",
+                                       "displayName":  "Rod Serling",
+                                       "alternativeNames":  [
+                                                                "Rod \u0026 Carol",
+                                                                "Rod \u0026 Carolyn",
+                                                                "John Phillips"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTY3OTU5NjMwMV5BMl5BanBnXkFtZTcwODYwNDMzMQ@@._V1_.jpg",
+                                                            "width":  450,
+                                                            "height":  567
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0833089",
+                                       "displayName":  "J. Michael Straczynski",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMmY1YWRiZDEtZDY1My00NTg3LThlNmItMDk4OGQ2NjFlZGFmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4342,
+                                                            "height":  6297
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0639328",
+                                       "displayName":  "Rockne S. O\u0027Bannon",
+                                       "alternativeNames":  [
+                                                                "Rockne O\u0027Bannon",
+                                                                "Steven Rae"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTRhMWE3MmEtMjZhNC00NGQ2LTlkYjYtM2Q5YzE1MmViZDJmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  831,
+                                                            "height":  1161
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0911816",
+                                     "displayName":  "Robin Ward",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTE0MzAxZjItMDcwMC00MzcxLWIwZTUtMTU3YjlmMjNjZWUxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  456,
+                                                          "height":  598
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0014493",
+                                     "displayName":  "Charles Aidman",
+                                     "alternativeNames":  [
+                                                              "Charlie Aidman"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGMzMzE2OTYtYzgxMC00YTY1LWFiNTYtNjg2MzM4OTkzNTQ5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  681
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0612321",
+                                     "displayName":  "Richard Mulligan",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGRlZGQxZWUtOGVhOS00MzNmLWI4Y2UtM2NhNTAzYTA2ZGQ0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2451,
+                                                          "height":  3600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0040472",
+                                     "displayName":  "William Atherton",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk4MjE2NDUzOV5BMl5BanBnXkFtZTgwNjE5OTM5NzE@._V1_.jpg",
+                                                          "width":  1880,
+                                                          "height":  2572
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  1
+                    }
+                ]
+}

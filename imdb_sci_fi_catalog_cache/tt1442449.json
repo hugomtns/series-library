@@ -1,0 +1,269 @@
+﻿{
+    "id":  "tt1442449",
+    "detail":  {
+                   "id":  "tt1442449",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Spartacus",
+                   "originalTitle":  "Spartacus",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNTc4ZjlkNjUtOWZlMS00ODQ0LTg2MWUtMjBkNjMwOTJkOWZmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  689,
+                                        "height":  1020
+                                    },
+                   "startYear":  2010,
+                   "endYear":  2013,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Biography",
+                                  "Drama",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.4,
+                                  "voteCount":  295929
+                              },
+                   "plot":  "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1168394",
+                                         "displayName":  "Jesse Warn",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0403628",
+                                         "displayName":  "Michael Hurst",
+                                         "alternativeNames":  [
+                                                                  "Edith Sidebottom",
+                                                                  "Billy Wagstaff"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZWE5OGRhYWUtN2IzNi00MjIwLTg3NTQtZDc5MjY3MmNkNDBkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  285,
+                                                              "height":  402
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0414910",
+                                         "displayName":  "Rick Jacobson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDk4NjcxYTQtYWViOS00ZjA1LWE2M2ItM2IzYTA2ZjlkYzEyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  397,
+                                                              "height":  595
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0215299",
+                                       "displayName":  "Steven S. DeKnight",
+                                       "alternativeNames":  [
+                                                                "Steven DeKnight"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjA3Nzc5ZTktYTNiOC00ZTliLTg1MjAtMjc1NDQxYjQwMDRlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3840,
+                                                            "height":  5760
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2634956",
+                                       "displayName":  "Aaron Helbing",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1054609",
+                                       "displayName":  "Todd Helbing",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0477230",
+                                       "displayName":  "Miranda Kwok",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZDBlMzBjYmQtZWFlNi00YzQ1LWE0YTctMzhjODFiYWZiZjA0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4000,
+                                                            "height":  6000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0005128",
+                                     "displayName":  "Lucy Lawless",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU0NTczNzYyOF5BMl5BanBnXkFtZTgwNjQ5NTk4NjE@._V1_.jpg",
+                                                          "width":  1638,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0071847",
+                                     "displayName":  "Manu Bennett",
+                                     "alternativeNames":  [
+                                                              "John Bennett",
+                                                              "Jon Bennett"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmM2NGYzYWYtY2ViNC00MzBjLThhYmEtNTExNjZiZTA1YmExXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2190,
+                                                          "height":  2853
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2213306",
+                                     "displayName":  "Daniel Feuerriegel",
+                                     "alternativeNames":  [
+                                                              "Dan Feuerriegal",
+                                                              "Dan Feuerriegel",
+                                                              "Daniel Feurriegel"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDIyNmIyY2UtNzM4ZC00MjFlLTlmY2ItZjgzYjQxMmUxZDQ3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3648,
+                                                          "height":  5472
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0579795",
+                                     "displayName":  "Peter Mensah",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTEyMjE3MTIyNTleQTJeQWpwZ15BbWU3MDc2MDI5ODc@._V1_.jpg",
+                                                          "width":  1395,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1813878",
+                                     "displayName":  "Andy Whitfield",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc0OTgwNDcwMF5BMl5BanBnXkFtZTcwNTc2NDI3Mw@@._V1_.jpg",
+                                                          "width":  268,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "deu",
+                                               "name":  "German"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000002",
+                                         "name":  "Action Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000009",
+                                         "name":  "Sword \u0026 Sandal",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000015",
+                                         "name":  "Adventure Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000072",
+                                         "name":  "Biography"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000077",
+                                         "name":  "Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000083",
+                                         "name":  "Period Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "4",
+                        "episodeCount":  1
+                    }
+                ]
+}

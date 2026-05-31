@@ -1,0 +1,224 @@
+﻿{
+    "id":  "tt11379026",
+    "detail":  {
+                   "id":  "tt11379026",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Ghosts",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOGUxMmFjMjYtODQ2ZS00YTNiLWFjNDktNTRhMzgyYjcyOTMyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2021,
+                   "runtimeSeconds":  1260,
+                   "genres":  [
+                                  "Comedy",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  49737
+                              },
+                   "plot":  "A young couple, Sam and Jay, inherit a haunted mansion and, unaware of their invisible housemates, plan to turn it into a B\u0026B. Their lives become much more complicated after a fall causes Sam to see the ghosts. Based on the UK series.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2094436",
+                                         "displayName":  "Trent O\u0027Donnell",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3083111",
+                                         "displayName":  "Katie Locke O\u0027Brien",
+                                         "alternativeNames":  [
+                                                                  "Katie O\u0027Brien"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZmNhNmQwYzYtMDI3NC00OTFmLWEzZTUtYThlNTU5MzU1MTY2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1063,
+                                                              "height":  1384
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0314641",
+                                         "displayName":  "Christine Gernon",
+                                         "alternativeNames":  [
+                                                                  "Chris Gernon"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "production_department"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0691882",
+                                       "displayName":  "Joe Port",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNGJhODc4NDUtMDFlYi00MjQwLThiYmUtYjQyY2RhYjYxY2QxXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  415,
+                                                            "height":  425
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0936474",
+                                       "displayName":  "Joe Wiseman",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2046446",
+                                       "displayName":  "John Timothy",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0570860",
+                                     "displayName":  "Rose McIver",
+                                     "alternativeNames":  [
+                                                              "Rose McIvor",
+                                                              "Rose Mciver"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2RmM2Y3YWUtYTk2Mi00NjhhLTg4ZjYtNTU2NjI4ZWYzYmQyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  427,
+                                                          "height":  640
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2064295",
+                                     "displayName":  "Utkarsh Ambudkar",
+                                     "alternativeNames":  [
+                                                              "UTK"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmI1NzI1OTctZGRjNy00OGU5LTk0ODUtMzI3MWU4MjBiZWM1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  672,
+                                                          "height":  912
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1601147",
+                                     "displayName":  "Brandon Scott Jones",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2Q4Y2NjMTMtZThkNi00OTAwLTg3YjgtNjA3Y2M0OWI4NDYzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4747,
+                                                          "height":  3165
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8492984",
+                                     "displayName":  "Danielle Pinnock",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmE3NWE1ZDQtNWYxZi00YTI0LTkwY2QtOWE2ZTdjNTQ5MDU1XkEyXkFqcGc@._V1_CR1416,761,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  22
+                    }
+                ]
+}

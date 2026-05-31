@@ -1,0 +1,299 @@
+﻿{
+    "id":  "tt0175058",
+    "detail":  {
+                   "id":  "tt0175058",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Powerpuff Girls",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BODY3YjMyOTktZWFiZS00MGNkLWExZjUtYjJjYjljMGM1YWY4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  1020
+                                    },
+                   "startYear":  1998,
+                   "endYear":  2004,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  52755
+                              },
+                   "plot":  "Three super-powered little girls constantly save the world (or at least the city of Townsville) from monsters, would-be conquerers and a few other gross things.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0566833",
+                                         "displayName":  "Craig McCracken",
+                                         "alternativeNames":  [
+                                                                  "Craig",
+                                                                  "Craig Mccracken"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0570767",
+                                         "displayName":  "John McIntyre",
+                                         "alternativeNames":  [
+                                                                  "Professor John McIntyre",
+                                                                  "John Mcintyre"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0616835",
+                                         "displayName":  "Randy Myers",
+                                         "alternativeNames":  [
+                                                                  "Randy M.",
+                                                                  "Randy Meyers",
+                                                                  "Randy Myer",
+                                                                  "Randall Lee Myers",
+                                                                  "Randall Myers",
+                                                                  "Randal Myers",
+                                                                  "randal l. myers"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0566833",
+                                       "displayName":  "Craig McCracken",
+                                       "alternativeNames":  [
+                                                                "Craig",
+                                                                "Craig Mccracken"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0736711",
+                                       "displayName":  "Amy Keating Rogers",
+                                       "alternativeNames":  [
+                                                                "Amy Keating",
+                                                                "Amy Keating-Rogers",
+                                                                "Amy Teaking Rogers",
+                                                                "Amy Rogers"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "production_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0570767",
+                                       "displayName":  "John McIntyre",
+                                       "alternativeNames":  [
+                                                                "Professor John McIntyre",
+                                                                "John Mcintyre"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "director",
+                                                                  "miscellaneous"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0146681",
+                                     "displayName":  "Cathy Cavadini",
+                                     "alternativeNames":  [
+                                                              "Cartherine Cavadini",
+                                                              "Catherine Cavadini",
+                                                              "Cathrine Cavadini",
+                                                              "Catherine Cavdini",
+                                                              "Catherine Cavidini",
+                                                              "Cathy Cavidini"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDQzMzYzZDMtOWVlOS00OTFhLWE2NGYtZmMzMDYxOGFlNTQwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  667,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0444786",
+                                     "displayName":  "Tom Kenny",
+                                     "alternativeNames":  [
+                                                              "Thomas J. Kenney",
+                                                              "Tom Kenney",
+                                                              "Thomas J. Kenny",
+                                                              "Tom J. Kenny",
+                                                              "Tomcat Kenny"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU3MzkzNDI0NV5BMl5BanBnXkFtZTYwMTMyNzE3._V1_.jpg",
+                                                          "width":  485,
+                                                          "height":  729
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0152839",
+                                     "displayName":  "Tara Strong",
+                                     "alternativeNames":  [
+                                                              "Tara Charandoff",
+                                                              "Tara Chardenoff",
+                                                              "Tara Charendoff",
+                                                              "Tara Charendoff-Strong",
+                                                              "Tara Charendorf",
+                                                              "Tara"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDk1MTUxYjQtYzNiMC00NmNhLTlhOTUtZDUzYzU0ZjU5YTcxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3792,
+                                                          "height":  5031
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0197354",
+                                     "displayName":  "Elizabeth Daily",
+                                     "alternativeNames":  [
+                                                              "E.G. Dailey",
+                                                              "E. G. Daily",
+                                                              "E.G. Daily",
+                                                              "E.G Daily",
+                                                              "EG Daily",
+                                                              "Eg Daily",
+                                                              "E.G. Daly",
+                                                              "E.G.Daily",
+                                                              "Elizabeth Guttman",
+                                                              "Lizzy Hunter"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjYzMzc1ZDEtYzM2Mi00ZTQ5LWE1MWUtZmZkZmE4MDg4OWI0XkEyXkFqcGc@._V1_CR0,1,1023,1535_.jpg",
+                                                          "width":  1023,
+                                                          "height":  1535
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  15
+                    }
+                ]
+}

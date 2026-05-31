@@ -1,0 +1,185 @@
+﻿{
+    "id":  "tt8880894",
+    "detail":  {
+                   "id":  "tt8880894",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Living with Yourself",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOWRiNzE2YTQtYzc3NS00MzZmLWFmZTAtMTBiZmEwYzlkYzczXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1013,
+                                        "height":  1500
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2019,
+                   "genres":  [
+                                  "Comedy",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.1,
+                                  "voteCount":  37579
+                              },
+                   "plot":  "An existential comedy about a man struggling in life who undergoes a new treatment to become a better person, only to find that he\u0027s been replaced by a new and improved version of himself.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0206760",
+                                         "displayName":  "Jonathan Dayton",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc0NDExMjQ2NV5BMl5BanBnXkFtZTcwNDQ1NTgyMQ@@._V1_.jpg",
+                                                              "width":  300,
+                                                              "height":  343
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0267512",
+                                         "displayName":  "Valerie Faris",
+                                         "alternativeNames":  [
+                                                                  "Valerie Ferris"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjA2NTU2MjI4NV5BMl5BanBnXkFtZTcwNjQ1NTgyMQ@@._V1_.jpg",
+                                                              "width":  300,
+                                                              "height":  375
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1308367",
+                                       "displayName":  "Timothy Greenberg",
+                                       "alternativeNames":  [
+                                                                "Tim Greenberg"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzkzNzFjMjYtYmRmNS00MzI0LWI2MDItN2YzYTA5YjE2YzJhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  433,
+                                                            "height":  600
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0748620",
+                                     "displayName":  "Paul Rudd",
+                                     "alternativeNames":  [
+                                                              "Kenny Chin",
+                                                              "Paul S. Rudd",
+                                                              "Paul Stephen Rudd"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY4NTEwNDg1MV5BMl5BanBnXkFtZTgwODMwMDA0ODE@._V1_.jpg",
+                                                          "width":  1638,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3201406",
+                                     "displayName":  "Aisling Bea",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzI5OWZlNGYtOTk5OS00ODVmLWJhMDEtYTYwNDc2YTg4NWExXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2475,
+                                                          "height":  3712
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3204288",
+                                     "displayName":  "Karen Pittman",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTcxNTZhODYtNWQzZi00NTQ3LWIzMzYtYjE0Mzg1NTZkMjIxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1751,
+                                                          "height":  2560
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3210828",
+                                     "displayName":  "Desmin Borges",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQxNTg2NjA0M15BMl5BanBnXkFtZTgwNzc0OTI4MjE@._V1_.jpg",
+                                                          "width":  1333,
+                                                          "height":  2000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm13503159",
+                                     "displayName":  "Ali Akbar Sepahi",
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "animation_department",
+                                                                "composer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

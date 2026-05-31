@@ -1,0 +1,200 @@
+﻿{
+    "id":  "tt0115195",
+    "detail":  {
+                   "id":  "tt0115195",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Gulliver\u0027s Travels",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjE4MTllYTYtNjJiMy00ODQ5LWI4MmMtZjZmYTViNWNmYjExXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  452,
+                                        "height":  678
+                                    },
+                   "startYear":  1996,
+                   "endYear":  1996,
+                   "runtimeSeconds":  5580,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.9,
+                                  "voteCount":  7695
+                              },
+                   "plot":  "An Englishman returns after nine years abroad and tells strange stories of the tiny people of Lilliput, the giants of Brobdingnag, the flying island Laputa and the Houyhnhnms, a race of intelligent horses.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0836430",
+                                         "displayName":  "Charles Sturridge",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZWNjNmIzZjktYzE5MS00YjYzLWE4NjQtZDliZGVmZTVmYzAzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1269,
+                                                              "height":  1238
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0601881",
+                                       "displayName":  "Simon Moore",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0842605",
+                                       "displayName":  "Jonathan Swift",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNWJmZWNiMmItYWI2Zi00OWU0LThlYjEtNDVkNWQ1NGRkMjgzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1200,
+                                                            "height":  1200
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001101",
+                                     "displayName":  "Ted Danson",
+                                     "alternativeNames":  [
+                                                              "Ted"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYwOTQzNDM3OF5BMl5BanBnXkFtZTcwODQ3MDgzMw@@._V1_.jpg",
+                                                          "width":  295,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005460",
+                                     "displayName":  "Mary Steenburgen",
+                                     "alternativeNames":  [
+                                                              "Mary"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk1OTI5OTc0Nl5BMl5BanBnXkFtZTcwNjc5NDMwNA@@._V1_.jpg",
+                                                          "width":  305,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0289038",
+                                     "displayName":  "James Fox",
+                                     "alternativeNames":  [
+                                                              "Dzheims Foks",
+                                                              "William Fox"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE0NDIzNDg1M15BMl5BanBnXkFtZTgwOTY5ODMzMjE@._V1_.jpg",
+                                                          "width":  700,
+                                                          "height":  394
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0362735",
+                                     "displayName":  "Robert Hardy",
+                                     "alternativeNames":  [
+                                                              "Robert Khardi"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjMyNTA5MzQxMl5BMl5BanBnXkFtZTcwODE0NjQwOA@@._V1_.jpg",
+                                                          "width":  1415,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000015",
+                                         "name":  "Adventure Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000016",
+                                         "name":  "Globetrotting Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000074",
+                                         "name":  "Costume Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000083",
+                                         "name":  "Period Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  2
+                    }
+                ]
+}

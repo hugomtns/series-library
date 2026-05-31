@@ -1,0 +1,234 @@
+﻿{
+    "id":  "tt0108968",
+    "detail":  {
+                   "id":  "tt0108968",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Touched by an Angel",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYWE1M2Q0N2EtOTUzMS00NTNiLTk0OTgtZjdiMDlhMWU1ZWRiXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1500
+                                    },
+                   "startYear":  1994,
+                   "endYear":  2003,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.1,
+                                  "voteCount":  8939
+                              },
+                   "plot":  "Dispatched from Heaven, a group of angels help those in need.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0402596",
+                                         "displayName":  "Peter H. Hunt",
+                                         "alternativeNames":  [
+                                                                  "Peter Hunt"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODA5MjRmYjUtZWY1NS00ODBiLWI1ZTEtZDBkMGU3MDE0MmRlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2508,
+                                                              "height":  3324
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0887700",
+                                         "displayName":  "Timothy Van Patten",
+                                         "alternativeNames":  [
+                                                                  "Timmy Van Patten",
+                                                                  "Tim Van Patten",
+                                                                  "Tim van Patten"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTk4MDM0NDg4NV5BMl5BanBnXkFtZTcwMzgwNTgxOA@@._V1_.jpg",
+                                                              "width":  1537,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0516493",
+                                         "displayName":  "Victor Lobl",
+                                         "primaryProfessions":  [
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0556435",
+                                       "displayName":  "John Masius",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2317737",
+                                       "displayName":  "Daniel H. Forer",
+                                       "alternativeNames":  [
+                                                                "Dan Forer"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0932104",
+                                       "displayName":  "Martha Williamson",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0004884",
+                                     "displayName":  "Roma Downey",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDg1NGY4NDEtYWY2ZS00ZGIyLTlkOTctZDQ3NjExYmUzMDNjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1664,
+                                                          "height":  2496
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0004891",
+                                     "displayName":  "John Dye",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk2MTYyODYwM15BMl5BanBnXkFtZTYwMjQ3NDg3._V1_.jpg",
+                                                          "width":  485,
+                                                          "height":  322
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005343",
+                                     "displayName":  "Della Reese",
+                                     "alternativeNames":  [
+                                                              "Della Reese Lett",
+                                                              "Rev. Dr. Della Reese Lett"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDkyNTc5NzQ4MV5BMl5BanBnXkFtZTgwOTcyMjIyNDM@._V1_.jpg",
+                                                          "width":  1357,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000933",
+                                     "displayName":  "Valerie Bertinelli",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM3NTY3MTg5NV5BMl5BanBnXkFtZTcwMTUxMTc3MQ@@._V1_.jpg",
+                                                          "width":  311,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  28
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  27
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  22
+                    }
+                ]
+}

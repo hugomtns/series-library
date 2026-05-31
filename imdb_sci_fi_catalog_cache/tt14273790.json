@@ -1,0 +1,220 @@
+﻿{
+    "id":  "tt14273790",
+    "detail":  {
+                   "id":  "tt14273790",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Rig",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZmIyNjIwOWQtODI1Yy00NWRmLWIzNDctODlhZjJkYjQ1NjExXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2025,
+                                        "height":  3000
+                                    },
+                   "startYear":  2023,
+                   "runtimeSeconds":  3060,
+                   "genres":  [
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.9,
+                                  "voteCount":  17948
+                              },
+                   "plot":  "A group of workers on a remote Scottish oil rig are due to return to the mainland when a mysterious fog enshrouds them and supernatural forces take hold.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0391739",
+                                         "displayName":  "Alex Holmes",
+                                         "alternativeNames":  [
+                                                                  "Alexander Holmes"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjA4MzE2ODIxMF5BMl5BanBnXkFtZTcwOTE4NDUxMg@@._V1_.jpg",
+                                                              "width":  725,
+                                                              "height":  485
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0834378",
+                                         "displayName":  "John Strickland",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZWNkOGExZGItMWJiOC00OWVhLThmZGQtMTM3NjY0ODFkZjkwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3870,
+                                                              "height":  2580
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm12455092",
+                                       "displayName":  "David Macpherson",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZTJlZmU5NWItNDkyMy00NWM3LWJjOTItOTczN2I3MWNjZjM5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2000,
+                                                            "height":  1125
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3612092",
+                                       "displayName":  "Meg Salter",
+                                       "alternativeNames":  [
+                                                                "Megan Salter"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYzcxMGFjZjEtOTc5MS00MmI4LWE5YTktODVlZWRkNGNlMThlXkEyXkFqcGc@._V1_CR521,105,829,1243_.jpg",
+                                                            "width":  829,
+                                                            "height":  1243
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3526715",
+                                       "displayName":  "Matthew Jacobs Morgan",
+                                       "alternativeNames":  [
+                                                                "Matthew Jacobs-Morgan",
+                                                                "Matthew J. Morgan",
+                                                                "Matthew Morgan"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMmRjOTQwOGYtNjk1OS00ZWU4LTk3ZDYtOWM3N2ExMmE3Njc0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5486,
+                                                            "height":  8229
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0322513",
+                                     "displayName":  "Iain Glen",
+                                     "alternativeNames":  [
+                                                              "Ian Glen",
+                                                              "Lain Glen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDgzNTZhMWUtMjFhZS00NzQ2LTk4M2EtYWJhMzllYTg0ZWM5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  720,
+                                                          "height":  720
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0358922",
+                                     "displayName":  "Emily Hampshire",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDQxMTBhZmEtOTEyMi00ZWZlLWE3YmEtYmVhN2I0M2E3MTVkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3840,
+                                                          "height":  5760
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1161994",
+                                     "displayName":  "Martin Compston",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjIwMTE3ODI1OV5BMl5BanBnXkFtZTgwOTM2Njc3MDI@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5878360",
+                                     "displayName":  "Rochenda Sandall",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTAwNjJmZjgtZWRkOS00ZmQ5LTg0MjEtODNjYzliZmNhZjgxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  980,
+                                                          "height":  1035
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  6
+                    }
+                ]
+}

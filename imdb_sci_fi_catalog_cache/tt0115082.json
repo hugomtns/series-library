@@ -1,0 +1,234 @@
+﻿{
+    "id":  "tt0115082",
+    "detail":  {
+                   "id":  "tt0115082",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "3rd Rock from the Sun",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BY2UxMzUzNzUtMzA0Ny00MWI1LWEwZjEtMjZhOWYzZGNiMDI3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1426
+                                    },
+                   "startYear":  1996,
+                   "endYear":  2001,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Comedy",
+                                  "Family",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  59287
+                              },
+                   "plot":  "A group of aliens is sent to Earth, disguised as a human family, to experience and report life on the third planet from the sun.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0400958",
+                                         "displayName":  "Terry Hughes",
+                                         "alternativeNames":  [
+                                                                  "Terence Hughes"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODA3OTAzMzMzNV5BMl5BanBnXkFtZTcwMjQ0NDgwMw@@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1223
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0075669",
+                                         "displayName":  "Robert Berlinger",
+                                         "alternativeNames":  [
+                                                                  "Bob Berlinger"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0123273",
+                                         "displayName":  "James Burrows",
+                                         "alternativeNames":  [
+                                                                  "Jim Burrows"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTUzMDEzNTkzNl5BMl5BanBnXkFtZTYwMDk2NzY0._V1_.jpg",
+                                                              "width":  268,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0877425",
+                                       "displayName":  "Bonnie Turner",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0877901",
+                                       "displayName":  "Terry Turner",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOTgyOThiMDQtYmMwZC00OGEwLWI4Y2UtMmI5OGE2MzM3ZTQ3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1105,
+                                                            "height":  1459
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0952863",
+                                       "displayName":  "Christine Zander",
+                                       "alternativeNames":  [
+                                                                "Christine M. Zander"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYWI2ZDAyMGQtM2ZkOC00YWUyLTkzMTMtOTE4ODRlODIyZWNjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  688,
+                                                            "height":  860
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001475",
+                                     "displayName":  "John Lithgow",
+                                     "alternativeNames":  [
+                                                              "John Lithcow"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQzMzUyNDkzNF5BMl5BanBnXkFtZTcwNTMwNTU5MQ@@._V1_.jpg",
+                                                          "width":  319,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005060",
+                                     "displayName":  "Kristen Johnston",
+                                     "alternativeNames":  [
+                                                              "Kristen Johnson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzkxMzQ0NjkyMF5BMl5BanBnXkFtZTgwNjE3NzU0NDM@._V1_.jpg",
+                                                          "width":  1364,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0004852",
+                                     "displayName":  "Jane Curtin",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQyNTAzMDUxMl5BMl5BanBnXkFtZTYwNjY0NTg0._V1_.jpg",
+                                                          "width":  279,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0829390",
+                                     "displayName":  "French Stewart",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU0MGM1MWMtNDNiNi00MGJlLThkM2MtZTM2ZGE5ZTgyNmVlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2402,
+                                                          "height":  3600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "executive",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  27
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  20
+                    }
+                ]
+}

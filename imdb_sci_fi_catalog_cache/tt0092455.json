@@ -1,0 +1,260 @@
+﻿{
+    "id":  "tt0092455",
+    "detail":  {
+                   "id":  "tt0092455",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Star Trek: The Next Generation",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMmNiNTQ2YzYtODBjYy00ZWMwLTlmNWMtYWE1NTQ2ZTYyZmMwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1434,
+                                        "height":  2048
+                                    },
+                   "startYear":  1987,
+                   "endYear":  1994,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.7,
+                                  "voteCount":  149982
+                              },
+                   "plot":  "Set almost 100 years after Captain Kirk\u0027s five-year mission, a new generation of Starfleet officers sets off in the U.S.S. Enterprise-D on its own mission to go where no one has gone before.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0092853",
+                                         "displayName":  "Cliff Bole",
+                                         "alternativeNames":  [
+                                                                  "Clifford Bole"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0484464",
+                                         "displayName":  "Les Landau",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0463926",
+                                         "displayName":  "Winrich Kolbe",
+                                         "alternativeNames":  [
+                                                                  "Winrich Kerwin",
+                                                                  "Herbert Kolbe",
+                                                                  "Rick Kolbe"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0734472",
+                                       "displayName":  "Gene Roddenberry",
+                                       "alternativeNames":  [
+                                                                "E.W. Roddenberry",
+                                                                "E. Roddenberry",
+                                                                "Gene Roddenburry",
+                                                                "Robert Wesley"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjE1NDY4MDM5OV5BMl5BanBnXkFtZTcwOTY1MzQ3Mw@@._V1_.jpg",
+                                                            "width":  232,
+                                                            "height":  311
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0248404",
+                                       "displayName":  "RenÃ© Echevarria",
+                                       "alternativeNames":  [
+                                                                "Rene Echevaria",
+                                                                "Rene Echevarria",
+                                                                "RenÃ© EchevarrÃ­a",
+                                                                "Rene Echeverria"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYmVmOGU1Y2YtMTJjNS00ZDk5LWI3YzItMWFmNjc5MjRjMjVlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1951,
+                                                            "height":  3000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0103804",
+                                       "displayName":  "Brannon Braga",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjFlM2Y2NzAtMTA0Yy00YjA1LWJkYWMtYWMzZWY0YzMyN2E4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1835,
+                                                            "height":  3000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001772",
+                                     "displayName":  "Patrick Stewart",
+                                     "alternativeNames":  [
+                                                              "Sir Patrick Stewart"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc0MzU5ODQ5OF5BMl5BanBnXkFtZTYwODIwODk1._V1_.jpg",
+                                                          "width":  282,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000408",
+                                     "displayName":  "Jonathan Frakes",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM2MDIxOTE3Nl5BMl5BanBnXkFtZTcwMDQxNjcxNw@@._V1_.jpg",
+                                                          "width":  1892,
+                                                          "height":  2848
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000996",
+                                     "displayName":  "LeVar Burton",
+                                     "alternativeNames":  [
+                                                              "Levar Burton"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTc1ZDhlYzMtZWZlNS00YzA2LTljYjAtYTFmNzRhODAwOWNiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  700,
+                                                          "height":  1042
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000653",
+                                     "displayName":  "Brent Spiner",
+                                     "alternativeNames":  [
+                                                              "Brent Mintz"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTgyNDAzOTkyNF5BMl5BanBnXkFtZTgwMzA4NjI3MjE@._V1_.jpg",
+                                                          "width":  4543,
+                                                          "height":  3029
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "tlh",
+                                               "name":  "Klingon"
+                                           },
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  25
+                    }
+                ]
+}

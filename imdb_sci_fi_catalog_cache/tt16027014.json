@@ -1,0 +1,243 @@
+﻿{
+    "id":  "tt16027014",
+    "detail":  {
+                   "id":  "tt16027014",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Marvel Zombies",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNGNkYjI3ZWUtN2MzMS00NDg5LWE5MmYtZGE4Zjc0OGVhODM4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1086,
+                                        "height":  1609
+                                    },
+                   "startYear":  2025,
+                   "endYear":  2026,
+                   "runtimeSeconds":  1920,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  23551
+                              },
+                   "plot":  "After the Avengers are overtaken by a zombie plague, a group of survivors discover the key to bringing an end to the super-powered undead, racing across a dystopian landscape and risking their lives to save their world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1635535",
+                                         "displayName":  "Bryan Andrews",
+                                         "alternativeNames":  [
+                                                                  "Brian Andrews",
+                                                                  "Bryan D. Andrews",
+                                                                  "bryan d. andrews"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1635535",
+                                       "displayName":  "Bryan Andrews",
+                                       "alternativeNames":  [
+                                                                "Brian Andrews",
+                                                                "Bryan D. Andrews",
+                                                                "bryan d. andrews"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2745845",
+                                       "displayName":  "Zeb Wells",
+                                       "alternativeNames":  [
+                                                                "Michael Zeb Wells"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTY1NjI3MDcwN15BMl5BanBnXkFtZTgwMjYyOTEyNjE@._V1_.jpg",
+                                                            "width":  1578,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3079117",
+                                       "displayName":  "Robert Kirkman",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjE4Y2ZiNWQtOWJmNS00NDNmLWFkZWQtMzg3NWQ1ODY5NTE0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  974,
+                                                            "height":  800
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3559354",
+                                       "displayName":  "Sean Phillips",
+                                       "alternativeNames":  [
+                                                                "Sean Philips"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm8901819",
+                                       "displayName":  "Celeste Bronfman",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0647634",
+                                     "displayName":  "Elizabeth Olsen",
+                                     "alternativeNames":  [
+                                                              "Elisabeth Olsen",
+                                                              "Lizzie Olsen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjEzMjA0ODk1OF5BMl5BanBnXkFtZTcwMTA4ODM3OQ@@._V1_.jpg",
+                                                          "width":  640,
+                                                          "height":  899
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6073955",
+                                     "displayName":  "Florence Pugh",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmIxMTFkZTctYzhkZi00MmQ4LThhYzEtMmQwMGZjNzA5MDg0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1194,
+                                                          "height":  1600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2794962",
+                                     "displayName":  "Hailee Steinfeld",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjg0MjA4OGEtMTc1ZS00ZmJhLTgyYjItMTY4YjI0NjVjNjllXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1200,
+                                                          "height":  1200
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "composer",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1092086",
+                                     "displayName":  "David Harbour",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjVkZmNiZGYtZTU3Mi00YzhhLWI1NzQtOTIyNWVmN2IwMjg2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2087,
+                                                          "height":  2593
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000122",
+                                         "name":  "Zombie Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  4
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  1
+                    }
+                ]
+}

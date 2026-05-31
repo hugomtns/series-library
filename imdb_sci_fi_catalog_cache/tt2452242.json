@@ -1,0 +1,253 @@
+﻿{
+    "id":  "tt2452242",
+    "detail":  {
+                   "id":  "tt2452242",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Happy!",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjUxODliY2ItZjlkMi00MjEwLTllMGUtYmY1MDBkZTYzMjViXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2017,
+                   "endYear":  2019,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Comedy",
+                                  "Crime",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  45838
+                              },
+                   "plot":  "An injured hitman befriends his kidnapped daughter\u0027s imaginary friend; a perky blue flying unicorn.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0962729",
+                                         "displayName":  "Brian Taylor",
+                                         "alternativeNames":  [
+                                                                  "Taylor"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYTRhYWNlZTEtNTFjNS00Mzg0LTg0NGUtZmNhMWVlOTkxOGQ5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1588,
+                                                              "height":  1588
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3408764",
+                                         "displayName":  "Wayne Che Yip",
+                                         "alternativeNames":  [
+                                                                  "Wayne Yip"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODZlMjhkNWEtMGFiYy00MDlhLTllZDUtMDk4MzgzMzQxMjJjXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1226,
+                                                              "height":  1839
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0657734",
+                                         "displayName":  "Marianna Palka",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNGU4MWVkZDItNTc2OC00YzdkLTg5YjgtODM0YWZmNzNhMzg0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1018,
+                                                              "height":  736
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1634601",
+                                       "displayName":  "Grant Morrison",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTY0NzkyNjMxOV5BMl5BanBnXkFtZTcwNTA3MTI5Mw@@._V1_.jpg",
+                                                            "width":  2569,
+                                                            "height":  3425
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0962729",
+                                       "displayName":  "Brian Taylor",
+                                       "alternativeNames":  [
+                                                                "Taylor"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTRhYWNlZTEtNTFjNS00Mzg0LTg0NGUtZmNhMWVlOTkxOGQ5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1588,
+                                                            "height":  1588
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1479450",
+                                       "displayName":  "Ken Kristensen",
+                                       "primaryProfessions":  [
+                                                                  "location_management",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0005221",
+                                     "displayName":  "Christopher Meloni",
+                                     "alternativeNames":  [
+                                                              "Christopher P. Meloni",
+                                                              "Chris Meloni",
+                                                              "Reverend Clyde Stanky"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYyODc0MTI2N15BMl5BanBnXkFtZTcwNDYwMjk3Mw@@._V1_.jpg",
+                                                          "width":  1508,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2055623",
+                                     "displayName":  "Lili Mirojnick",
+                                     "alternativeNames":  [
+                                                              "@lilypad13"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUxNjMwNTcwM15BMl5BanBnXkFtZTcwMTY2ODQxOQ@@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1365
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0182662",
+                                     "displayName":  "Ritchie Coster",
+                                     "alternativeNames":  [
+                                                              "Richie Coster"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTMxMjE2MTU5M15BMl5BanBnXkFtZTYwNTM2ODM0._V1_.jpg",
+                                                          "width":  285,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0652663",
+                                     "displayName":  "Patton Oswalt",
+                                     "alternativeNames":  [
+                                                              "Shecky Chucklestein",
+                                                              "John Murphy",
+                                                              "Cumpston Neill",
+                                                              "Patton Osswalt",
+                                                              "Patton Oswald",
+                                                              "Patton P. Oswalt"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU1OTEyNjEyNl5BMl5BanBnXkFtZTgwODkxMjI4NzM@._V1_.jpg",
+                                                          "width":  1535,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    }
+                ]
+}

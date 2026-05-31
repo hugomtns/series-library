@@ -1,0 +1,235 @@
+﻿{
+    "id":  "tt0465327",
+    "detail":  {
+                   "id":  "tt0465327",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Emperor\u0027s New School",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZmE0ZTIxYmItNDU2Zi00ODRhLTgzOTctZDhlYzkwOTc0MTI5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  800,
+                                        "height":  1200
+                                    },
+                   "startYear":  2006,
+                   "endYear":  2008,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.6,
+                                  "voteCount":  7387
+                              },
+                   "plot":  "Continuation of 2000\u0027s The Emperor\u0027s New Groove, showcasing Kuzco\u0027s attempts to graduate from his kingdom\u0027s school, and his former advisor Yzma\u0027s evil attempts to keep him from his goal.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0662810",
+                                         "displayName":  "Howy Parkins",
+                                         "alternativeNames":  [
+                                                                  "Howard Parkins",
+                                                                  "Howie Parkins"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0461419",
+                                         "displayName":  "David Knott",
+                                         "alternativeNames":  [
+                                                                  "Dave Knott",
+                                                                  "David \u0027Astro\u0027 Knott",
+                                                                  "David A. Knott",
+                                                                  "David J. Knott",
+                                                                  "Don Knott"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0186038",
+                                         "displayName":  "Tony Craig",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0227540",
+                                       "displayName":  "Mark Dindal",
+                                       "alternativeNames":  [
+                                                                "Mark L. Dindal"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjE0ODA5OTQ5NV5BMl5BanBnXkFtZTYwMzQxNjQ3._V1_.jpg",
+                                                            "width":  450,
+                                                            "height":  614
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "visual_effects",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1172171",
+                                       "displayName":  "Evan Gore",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0132644",
+                                       "displayName":  "Kevin Campbell",
+                                       "alternativeNames":  [
+                                                                "Kevin D. Campbell"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0002262",
+                                     "displayName":  "J.P. Manoux",
+                                     "alternativeNames":  [
+                                                              "JP Manoux",
+                                                              "Jean-Paul Manoux"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2NjYzNmMmUtMDU0Ni00N2RhLWIzNzgtY2I1YjcwNWExZjM5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2240,
+                                                          "height":  3360
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0457755",
+                                     "displayName":  "Eartha Kitt",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAwNDIwMDI0M15BMl5BanBnXkFtZTgwMDQyMjIxMTE@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1636
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_artist",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0911320",
+                                     "displayName":  "Patrick Warburton",
+                                     "alternativeNames":  [
+                                                              "Pat",
+                                                              "Patrick John Warburton",
+                                                              "Patrick Wharburton"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWE3ZDA0NDgtMDgxMC00NTI1LTkyYTMtMTAzZWZkYWViZTY1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1124,
+                                                          "height":  1361
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0035664",
+                                     "displayName":  "Curtis Armstrong",
+                                     "alternativeNames":  [
+                                                              "Sir Curtis Armstrong"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzg1NTMyNDI3MV5BMl5BanBnXkFtZTYwNTYxMTkz._V1_.jpg",
+                                                          "width":  279,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "PH",
+                                               "name":  "Philippines"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  31
+                    }
+                ]
+}

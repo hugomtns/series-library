@@ -1,0 +1,249 @@
+﻿{
+    "id":  "tt0077008",
+    "detail":  {
+                   "id":  "tt0077008",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Fantasy Island",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjExMDcxMzkxNl5BMl5BanBnXkFtZTcwMDYwNDEzMQ@@._V1_.jpg",
+                                        "width":  365,
+                                        "height":  500
+                                    },
+                   "startYear":  1977,
+                   "endYear":  1984,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Adventure",
+                                  "Family",
+                                  "Fantasy",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.6,
+                                  "voteCount":  10037
+                              },
+                   "plot":  "The mysterious Mr. Roarke runs a unique resort island in the Pacific Ocean that can fulfill any fantasy, but they rarely turn out as expected.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0092853",
+                                         "displayName":  "Cliff Bole",
+                                         "alternativeNames":  [
+                                                                  "Clifford Bole"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0918659",
+                                         "displayName":  "Don Weis",
+                                         "alternativeNames":  [
+                                                                  "Don Weiss"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYmI1MzE4NzYtODE3Ny00ZTRkLWIxOTYtM2Y1YTYxMDA5NGIwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  986,
+                                                              "height":  1353
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "script_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0068691",
+                                         "displayName":  "Earl Bellamy",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0506215",
+                                       "displayName":  "Gene Levitt",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0295357",
+                                       "displayName":  "Ron Friedman",
+                                       "alternativeNames":  [
+                                                                "Ronald I. Friedman"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BM2Y4MTlmYjItYjBjZi00NzM4LTg1NjQtN2RlYjY3MWQyN2Q0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  184,
+                                                            "height":  274
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0408681",
+                                       "displayName":  "Don Ingalls",
+                                       "alternativeNames":  [
+                                                                "Jud Crucis",
+                                                                "Donald G. Ingalls"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001544",
+                                     "displayName":  "Ricardo Montalban",
+                                     "alternativeNames":  [
+                                                              "Amanda Clift and Ricardo Montalban",
+                                                              "Ricardo MontalbÃ¡n",
+                                                              "Ricardo Montalvan",
+                                                              "Ricardo"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjBiZmMxZjEtNGM2My00MzNhLWJiNTMtZGRmZDkxYjRiNmFmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2108,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0769446",
+                                     "displayName":  "Wendy Schaal",
+                                     "alternativeNames":  [
+                                                              "Wendy Scaal",
+                                                              "Wendy Scaall",
+                                                              "Wendy Scal",
+                                                              "Wendy K. Schaal",
+                                                              "Wendy Schaall",
+                                                              "Wendy Schal",
+                                                              "Wendy Schall",
+                                                              "Wendy K. Shaal"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTE5NDE4MTYwNF5BMl5BanBnXkFtZTYwNjY5OTQz._V1_.jpg",
+                                                          "width":  294,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "script_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0898199",
+                                     "displayName":  "HervÃ© Villechaize",
+                                     "alternativeNames":  [
+                                                              "Herve VIllechaize",
+                                                              "Herve Villechaize"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjY0NDY2NzEzOF5BMl5BanBnXkFtZTgwMDQ5OTgyMjI@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1385
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "camera_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0381973",
+                                     "displayName":  "Christopher Hewett",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg4MTE5NDEzMV5BMl5BanBnXkFtZTYwNjY2OTky._V1_.jpg",
+                                                          "width":  435,
+                                                          "height":  597
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  22
+                    }
+                ]
+}

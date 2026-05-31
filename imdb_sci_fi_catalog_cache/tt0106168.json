@@ -1,0 +1,285 @@
+﻿{
+    "id":  "tt0106168",
+    "detail":  {
+                   "id":  "tt0106168",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Walker, Texas Ranger",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTc4MzAzMDA2Ml5BMl5BanBnXkFtZTcwNjk3NzIzMQ@@._V1_.jpg",
+                                        "width":  355,
+                                        "height":  500
+                                    },
+                   "startYear":  1993,
+                   "endYear":  2001,
+                   "runtimeSeconds":  2580,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Western"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.7,
+                                  "voteCount":  20944
+                              },
+                   "plot":  "Cordell Walker and his partner James Trivette are Texas Rangers who make it their business to battle crime in Dallas and all through the state of Texas.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0695779",
+                                         "displayName":  "Michael Preece",
+                                         "alternativeNames":  [
+                                                                  "Mike Preece"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOGQyMzY1MzMtNGViNC00NjMxLTljZTctOWM1YzdkYjZhZGIwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2282,
+                                                              "height":  3043
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "script_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0603286",
+                                         "displayName":  "Tony Mordente",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTU2NjExOTIwN15BMl5BanBnXkFtZTcwNjM3Mjg4NQ@@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1365
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0417054",
+                                         "displayName":  "Jerry Jameson",
+                                         "alternativeNames":  [
+                                                                  "Jerry J. Jameson"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editorial_department",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0133459",
+                                       "displayName":  "Christopher Canaan",
+                                       "alternativeNames":  [
+                                                                "Chris Canaan"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0340037",
+                                       "displayName":  "Leslie Greif",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTBjODRiYWYtMjE0Ny00NTYyLWI5NTktNjBkODg3NDk2ZjFkXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1246,
+                                                            "height":  1360
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0353673",
+                                       "displayName":  "Paul Haggis",
+                                       "alternativeNames":  [
+                                                                "Paul Edward Haggis"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjEwNzYyODM5N15BMl5BanBnXkFtZTgwMTY4NDcwNjE@._V1_.jpg",
+                                                            "width":  364,
+                                                            "height":  364
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001569",
+                                     "displayName":  "Chuck Norris",
+                                     "alternativeNames":  [
+                                                              "Chuck Noris"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDFjOWRiNDktMTMyNy00MDYxLWFkYjYtN2IxNTYyMzZmZjljXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4667,
+                                                          "height":  6585
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0934136",
+                                     "displayName":  "Sheree J. Wilson",
+                                     "alternativeNames":  [
+                                                              "Sheree Wilson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjdiZGQwZWItMTNmZi00ZDQzLTg1Y2QtZWRjYzc1ODlhNTQwXkEyXkFqcGc@._V1_CR145,1,692,1038_.jpg",
+                                                          "width":  692,
+                                                          "height":  1038
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0319739",
+                                     "displayName":  "Clarence Gilyard Jr.",
+                                     "alternativeNames":  [
+                                                              "Clarence A. Gilyard",
+                                                              "Clarence Gilyard"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjQwNjMzNzMwM15BMl5BanBnXkFtZTcwNTIzNjQwOA@@._V1_.jpg",
+                                                          "width":  567,
+                                                          "height":  966
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0932244",
+                                     "displayName":  "Noble Willingham",
+                                     "alternativeNames":  [
+                                                              "Noble Wilingham",
+                                                              "Nobel Willingham"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE1NDk5ODE2NV5BMl5BanBnXkFtZTcwNjY3NDAyOA@@._V1_.jpg",
+                                                          "width":  856,
+                                                          "height":  1157
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000003",
+                                         "name":  "B-Action",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000006",
+                                         "name":  "Martial Arts",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000007",
+                                         "name":  "One-Person Army Action",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000057",
+                                         "name":  "Police Procedural",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000188",
+                                         "name":  "Contemporary Western",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000191",
+                                         "name":  "Western"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  3
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  24
+                    }
+                ]
+}

@@ -1,0 +1,214 @@
+﻿{
+    "id":  "tt14759574",
+    "detail":  {
+                   "id":  "tt14759574",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Mrs. Davis",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNmI3ZjNhNjQtMWNlMi00OTc0LThmYTYtMDM2NGY2NWU1MmRlXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2025,
+                                        "height":  3000
+                                    },
+                   "startYear":  2023,
+                   "endYear":  2023,
+                   "runtimeSeconds":  3420,
+                   "genres":  [
+                                  "Comedy",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  15115
+                              },
+                   "plot":  "Sister Simone partners with her ex-boyfriend Wiley on a globe-spanning journey to destroy Mrs. Davis, a powerful artificial intelligence.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2787176",
+                                         "displayName":  "Owen Harris",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc5MTAwMDU4OV5BMl5BanBnXkFtZTgwMDI4MDE4MDI@._V1_.jpg",
+                                                              "width":  1363,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2370148",
+                                         "displayName":  "Alethea Jones",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOWQ1YzE0ZjctOGM0MC00Nzg2LTljYmQtYzc4Zjg2ZDY0NDZlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2570,
+                                                              "height":  3862
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0870295",
+                                         "displayName":  "Frederick E.O. Toye",
+                                         "alternativeNames":  [
+                                                                  "Fred E.O. Toye",
+                                                                  "Frederick E. O. Toye",
+                                                                  "Frederick O.E. Toye",
+                                                                  "Frederick Toye",
+                                                                  "Fredrick E.O. Toye",
+                                                                  "Fred Toye"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZGYyYmEzZTktMDkwZC00MTgyLWIzY2EtN2NkZTMyYjQ2MWJmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4032,
+                                                              "height":  3024
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3388740",
+                                       "displayName":  "Tara Hernandez",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0511541",
+                                       "displayName":  "Damon Lindelof",
+                                       "alternativeNames":  [
+                                                                "Tha Lonely Donkey Kong"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzRmNTVlZWUtNzRiMi00YzNlLWI4NGEtZWVjY2ZkNDUxN2U1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  500,
+                                                            "height":  750
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1041355",
+                                       "displayName":  "Alberto RoldÃ¡n",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1416330",
+                                     "displayName":  "Jake McDorman",
+                                     "alternativeNames":  [
+                                                              "John McDorman"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmE4YjZiMzEtOGQ0MS00YTg2LWE4YTYtOWYzNWZkMjgyMzYyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  669,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2365811",
+                                     "displayName":  "Betty Gilpin",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTkwMDJjNDUtNmZmNS00ODVlLTkxNTQtZDQzOWUyMmE4NGEyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  6032,
+                                                          "height":  9048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4424472",
+                                     "displayName":  "Andy McQueen",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzlhYzQxOTgtMWIxOS00OTVkLWJlZjktYTI2YjFmNmYwZGYyXkEyXkFqcGc@._V1_CR1250,0,1333,1999_.jpg",
+                                                          "width":  1333,
+                                                          "height":  1999
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0224565",
+                                     "displayName":  "Chris Diamantopoulos",
+                                     "alternativeNames":  [
+                                                              "Rich Chrisandanost"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDkyM2ViMTYtYmU4Zi00YjFlLTkwN2EtMTMzNjlkNzdjYjgwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  907,
+                                                          "height":  941
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000158",
+                                         "name":  "Artificial Intelligence",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

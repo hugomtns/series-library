@@ -1,0 +1,253 @@
+﻿{
+    "id":  "tt0804484",
+    "detail":  {
+                   "id":  "tt0804484",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Foundation",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzY5OGJhYzItNGQyOS00NmU3LWFhOWMtNGY1OGVlNTlmYjc0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2021,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  126582
+                              },
+                   "plot":  "A complex saga of humans scattered on planets throughout the galaxy all living under the rule of the Galactic Empire.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0206259",
+                                         "displayName":  "Roxann Dawson",
+                                         "alternativeNames":  [
+                                                                  "Roxann Biggs",
+                                                                  "Roxann Biggs-Dawson",
+                                                                  "Roxanne Cabalero",
+                                                                  "Roxann Cabalero"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzQ2Y2JjYzctNGVkYi00YTg0LThjZWQtZDllNzA5ZGJlZDRlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1080,
+                                                              "height":  1440
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0336241",
+                                         "displayName":  "Alex Graves",
+                                         "alternativeNames":  [
+                                                                  "Alexander Graves"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjIzODg3NTUwMV5BMl5BanBnXkFtZTgwNjI1MTA2MTE@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1362
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0275286",
+                                         "displayName":  "David S. Goyer",
+                                         "alternativeNames":  [
+                                                                  "Ricardo Festiva",
+                                                                  "David Goyer",
+                                                                  "Cynthia Verlaine"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMWE2YmY1N2ItYzg5MC00MzVkLThmMGQtNmE0NGMyNTcxNjE4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  948,
+                                                              "height":  849
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0001920",
+                                       "displayName":  "Isaac Asimov",
+                                       "alternativeNames":  [
+                                                                "Dr. Isaac Asimov"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzg1NjcwNmQtYzE5Mi00OGYzLTlhMTItYWQ1ODE4Nzg0ZTZlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1070,
+                                                            "height":  1553
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0295264",
+                                       "displayName":  "Josh Friedman",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0275286",
+                                       "displayName":  "David S. Goyer",
+                                       "alternativeNames":  [
+                                                                "Ricardo Festiva",
+                                                                "David Goyer",
+                                                                "Cynthia Verlaine"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMWE2YmY1N2ItYzg5MC00MzVkLThmMGQtNmE0NGMyNTcxNjE4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  948,
+                                                            "height":  849
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0364813",
+                                     "displayName":  "Jared Harris",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjRiMWMzNDUtNDQ0Ny00YjdiLWEzM2UtMTVmZTEyNTRhMmI5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3000,
+                                                          "height":  2999
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm10306608",
+                                     "displayName":  "Lou Llobell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGRlM2JkMGQtYWVkZi00NTNmLWJkNjktNThhMDFkMWM0ZGFlXkEyXkFqcGc@._V1_CR906,194,2660,3990_.jpg",
+                                                          "width":  2660,
+                                                          "height":  3990
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1285342",
+                                     "displayName":  "Laura Birn",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDZhYjRmZjYtNmI2ZS00N2U3LWJmNmYtNmI4MTFmZGNiNjNkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1554,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0542994",
+                                     "displayName":  "Terrence Mann",
+                                     "alternativeNames":  [
+                                                              "Terrence V. Mann",
+                                                              "Ug"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU0MjMyNTQwNF5BMl5BanBnXkFtZTYwNjk2MjQ3._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  670
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8653960",
+                                     "displayName":  "Cassian Bilton",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzI3YTg4YmQtZTMzZi00OGY2LWE4YmEtMTJjY2JjYmFiMWM2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3373,
+                                                          "height":  3533
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "IE",
+                                               "name":  "Ireland"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  4
+                    }
+                ]
+}

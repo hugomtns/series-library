@@ -1,0 +1,267 @@
+﻿{
+    "id":  "tt0106057",
+    "detail":  {
+                   "id":  "tt0106057",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Lois \u0026 Clark: The New Adventures of Superman",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzhmYWEwMTUtZjExNS00MjgzLTllN2UtOGExNDM4NWIzMjVjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1107,
+                                        "height":  1500
+                                    },
+                   "startYear":  1993,
+                   "endYear":  1997,
+                   "runtimeSeconds":  2760,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Romance",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.7,
+                                  "voteCount":  28911
+                              },
+                   "plot":  "In addition to fighting evil, Superman has a burning romance with Lois Lane in both of his identities.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0004223",
+                                         "displayName":  "Philip Sgriccia",
+                                         "alternativeNames":  [
+                                                                  "Philip I. Sgriccia",
+                                                                  "Philip J. Sgriccia",
+                                                                  "Phillip J. Sgriccia",
+                                                                  "Phillip Sgriccia",
+                                                                  "Phil Sgriccia"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOWY5NTY2ZTYtMGY0ZC00NmE2LTg5ZjAtMDgwZDJmMzU1YTU0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  370,
+                                                              "height":  469
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0957198",
+                                         "displayName":  "Randy Zisk",
+                                         "alternativeNames":  [
+                                                                  "Randy Fisk",
+                                                                  "Randall Zisk"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTcxMjkyNzIyN15BMl5BanBnXkFtZTgwNDc0NzA4MDE@._V1_.jpg",
+                                                              "width":  652,
+                                                              "height":  850
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0505420",
+                                         "displayName":  "Alan J. Levi",
+                                         "alternativeNames":  [
+                                                                  "Alan Levi"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjEwNDczMjYwNF5BMl5BanBnXkFtZTcwODgwMzI2Nw@@._V1_.jpg",
+                                                              "width":  400,
+                                                              "height":  477
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0505788",
+                                       "displayName":  "Deborah Joy LeVine",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0795975",
+                                       "displayName":  "Joe Shuster",
+                                       "alternativeNames":  [
+                                                                "Joel Shuster",
+                                                                "Joseph Shuster"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNGY4N2Y4ZjEtMDgwOS00NDYwLWExN2UtMzU0NGMxNWJjYTk1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  488,
+                                                            "height":  608
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0796950",
+                                       "displayName":  "Jerry Siegel",
+                                       "alternativeNames":  [
+                                                                "Joe Carter",
+                                                                "Jerome Siegel"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMmMyMzgyYzUtZTI4OS00MjI1LTgxYjYtNWRkYzM2MmU2ZGIzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  488,
+                                                            "height":  598
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000159",
+                                     "displayName":  "Teri Hatcher",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAwODU5ODE3OV5BMl5BanBnXkFtZTcwNjY5MjEyNQ@@._V1_.jpg",
+                                                          "width":  1447,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001002",
+                                     "displayName":  "Dean Cain",
+                                     "alternativeNames":  [
+                                                              "Chief Patterson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg5MDEzNDQ4MF5BMl5BanBnXkFtZTcwNzgxODQzMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  569
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0130282",
+                                     "displayName":  "K Callan",
+                                     "alternativeNames":  [
+                                                              "K. Callan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWNmYTVlNGQtYjA4Yy00Yzg1LTg4ZDItODdkMmU2NmViNWQ5XkEyXkFqcGc@._V1_CR821,0,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0809031",
+                                     "displayName":  "Lane Smith",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDM4NDc0NjQwOV5BMl5BanBnXkFtZTgwMTMyNzQ2MjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000007",
+                                         "name":  "One-Person Army Action",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000151",
+                                         "name":  "Feel-Good Romance",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000153",
+                                         "name":  "Romantic Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  22
+                    }
+                ]
+}

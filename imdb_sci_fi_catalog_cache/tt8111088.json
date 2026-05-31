@@ -1,0 +1,284 @@
+﻿{
+    "id":  "tt8111088",
+    "detail":  {
+                   "id":  "tt8111088",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Mandalorian",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjgxZGM0OWUtZGY1MS00MWRmLTk2N2ItYjQyZTI1OThlZDliXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1688,
+                                        "height":  2500
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2023,
+                   "runtimeSeconds":  2400,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.6,
+                                  "voteCount":  657007
+                              },
+                   "plot":  "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0266622",
+                                         "displayName":  "Rick Famuyiwa",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTYxMzAxMDQyMV5BMl5BanBnXkFtZTcwNzIyMzgxMw@@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1365
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0397171",
+                                         "displayName":  "Bryce Dallas Howard",
+                                         "alternativeNames":  [
+                                                                  "Bryce Howard"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BY2YyOTZjZWQtY2I3NS00Y2YyLWJhNzctN2IxOWIwMzUzZTQ1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1892,
+                                                              "height":  2837
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1396048",
+                                         "displayName":  "Dave Filoni",
+                                         "alternativeNames":  [
+                                                                  "C1-10P a.k.a. \u0027Chopper\u0027",
+                                                                  "Chopper",
+                                                                  "David Filoni"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTQzMzAxMTg3NV5BMl5BanBnXkFtZTcwNzEyNTQ4MQ@@._V1_.jpg",
+                                                              "width":  267,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0269463",
+                                       "displayName":  "Jon Favreau",
+                                       "alternativeNames":  [
+                                                                "John Favreau"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzBiZGI5MmMtOWEzYi00ZDgwLTg4MGEtOTBjMmE1Y2ZiNDg5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1000,
+                                                            "height":  1333
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0000184",
+                                       "displayName":  "George Lucas",
+                                       "alternativeNames":  [
+                                                                "George",
+                                                                "George L.",
+                                                                "Lucas"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTA0Mjc0NzExNzBeQTJeQWpwZ15BbWU3MDEzMzQ3MDI@._V1_.jpg",
+                                                            "width":  271,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1396048",
+                                       "displayName":  "Dave Filoni",
+                                       "alternativeNames":  [
+                                                                "C1-10P a.k.a. \u0027Chopper\u0027",
+                                                                "Chopper",
+                                                                "David Filoni"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTQzMzAxMTg3NV5BMl5BanBnXkFtZTcwNzEyNTQ4MQ@@._V1_.jpg",
+                                                            "width":  267,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0050959",
+                                     "displayName":  "Pedro Pascal",
+                                     "alternativeNames":  [
+                                                              "Pedro Balmaceda",
+                                                              "Alexander Pascal"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWNlYmQ3MzctNTM4OC00Mjk5LTlmM2EtNTU4MjgxMjNiZGEyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1104,
+                                                          "height":  1354
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0755267",
+                                     "displayName":  "Katee Sackhoff",
+                                     "alternativeNames":  [
+                                                              "Katee Sachoff"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmJkZWMxZWYtY2E2Yi00NDg1LTkzZDEtMDZlMjY1OWNkZjdmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4000,
+                                                          "height":  6000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2322864",
+                                     "displayName":  "Chris Bartlett",
+                                     "alternativeNames":  [
+                                                              "Chris F. Bartlett",
+                                                              "Christopher Bartlett",
+                                                              "Logo Trooper"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODdjODA0YmYtMTM4Ni00MDkzLTg5YmEtZjQ2Yjk3NDk2MDY2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  964,
+                                                          "height":  1444
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "costume_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001835",
+                                     "displayName":  "Carl Weathers",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTE5ODkzODgtZGE0My00Nzg0LWJlYTAtYjNkNmQ1Mzk1ZGM5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3521,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000002",
+                                         "name":  "Action Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000007",
+                                         "name":  "One-Person Army Action",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000015",
+                                         "name":  "Adventure Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000096",
+                                         "name":  "Fantasy Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  1
+                    }
+                ]
+}

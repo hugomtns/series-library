@@ -1,0 +1,246 @@
+﻿{
+    "id":  "tt9174578",
+    "detail":  {
+                   "id":  "tt9174578",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Around the World in 80 Days",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNDk5ZTBhMmQtYTMxZC00NjNlLWJjZjgtNGVmMjZlNWU0NGIxXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  750,
+                                        "height":  1000
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2021,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "History"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  13546
+                              },
+                   "plot":  "Gentleman adventurer Phileas Fogg sets out on a quest to travel around the world and back home in a period of 80 days.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0006625",
+                                         "displayName":  "Steve Barron",
+                                         "alternativeNames":  [
+                                                                  "Steve Baron",
+                                                                  "Stephen Barron",
+                                                                  "Steven Barron"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTA0OWQ5ZTEtOWEzYi00NzVhLWE2NzktMzkwMzdmNDYyOWVkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1380,
+                                                              "height":  1642
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0446232",
+                                         "displayName":  "Brian Kelly",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0066596",
+                                         "displayName":  "Charles Beeson",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0679683",
+                                       "displayName":  "Ashley Pharoah",
+                                       "alternativeNames":  [
+                                                                "Ashley Pharaoh"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTYzNzc2MTk4MF5BMl5BanBnXkFtZTgwMjU1NDk4OTE@._V1_.jpg",
+                                                            "width":  1400,
+                                                            "height":  1284
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0710432",
+                                       "displayName":  "Caleb Ranson",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0894523",
+                                       "displayName":  "Jules Verne",
+                                       "alternativeNames":  [
+                                                                "Julio Verne",
+                                                                "JÃºlio Verne"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZjZjNmEzOGYtZDhhNy00MTUzLWFiYWEtYmRmOTczMjE3NWJkXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1508,
+                                                            "height":  2111
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0855039",
+                                     "displayName":  "David Tennant",
+                                     "alternativeNames":  [
+                                                              "David McDonald",
+                                                              "David John Tennant",
+                                                              "That F#!king Liar David Tennant"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2M2MWViYmUtODQxYi00YmQ0LThkOTMtZGQzZmEwMDE3MTNmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2121,
+                                                          "height":  2121
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2914059",
+                                     "displayName":  "Leonie Benesch",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmFjMWMxZDItNGQ5YS00MDM2LTk2Y2QtZWVhNjg3NTk3YWMzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2531,
+                                                          "height":  3543
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1035622",
+                                     "displayName":  "Ibrahim Koma",
+                                     "alternativeNames":  [
+                                                              "Ibrahim Koama"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2NhNjMzYzgtNGQyZS00ZGQ0LTk0NDgtYjVjMDQ0OTgzMGQ0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1600,
+                                                          "height":  899
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0914327",
+                                     "displayName":  "Jason Watkins",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzM5NjA2MjAtNmI2Zi00Mjc4LWJiNGUtOTRhN2I2YzQ0OGU3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  960,
+                                                          "height":  1200
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "FR",
+                                               "name":  "France"
+                                           },
+                                           {
+                                               "code":  "DE",
+                                               "name":  "Germany"
+                                           },
+                                           {
+                                               "code":  "IT",
+                                               "name":  "Italy"
+                                           },
+                                           {
+                                               "code":  "ZA",
+                                               "name":  "South Africa"
+                                           },
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           },
+                                           {
+                                               "code":  "ita",
+                                               "name":  "Italian"
+                                           },
+                                           {
+                                               "code":  "ara",
+                                               "name":  "Arabic"
+                                           },
+                                           {
+                                               "code":  "hin",
+                                               "name":  "Hindi"
+                                           },
+                                           {
+                                               "code":  "yue",
+                                               "name":  "Yue Chinese"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000016",
+                                         "name":  "Globetrotting Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000080",
+                                         "name":  "History"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    }
+                ]
+}

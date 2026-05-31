@@ -1,0 +1,244 @@
+﻿{
+    "id":  "tt0108903",
+    "detail":  {
+                   "id":  "tt0108903",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "ReBoot",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNTkwZTcwOWQtOGEzZS00ZGExLThiODEtZWM3YTI0ZTVhZDk5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1175,
+                                        "height":  1763
+                                    },
+                   "startYear":  1994,
+                   "endYear":  2001,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  6139
+                              },
+                   "plot":  "In the inner computer world of Mainframe, a guardian program sprite and his friends defend the system from threats from viruses and the User.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0957797",
+                                         "displayName":  "Dick Zondag",
+                                         "alternativeNames":  [
+                                                                  "Zondag Entertainment"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDIzZjBjOWEtYWM3NS00N2QzLTllNGUtZDIzMzJkZGExYmJjXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1278,
+                                                              "height":  947
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0050472",
+                                         "displayName":  "Steve Ball",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0759835",
+                                         "displayName":  "George Samilski",
+                                         "alternativeNames":  [
+                                                                  "George Roman Samilski"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "visual_effects"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0086250",
+                                       "displayName":  "Gavin Blair",
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1373941",
+                                       "displayName":  "John Grace",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "music_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0593661",
+                                       "displayName":  "Philip Mitchell",
+                                       "alternativeNames":  [
+                                                                "Phil Mitchell"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "production_manager",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0056532",
+                                     "displayName":  "Kathleen Barr",
+                                     "alternativeNames":  [
+                                                              "Kathleen Baar",
+                                                              "Kathleen Bar",
+                                                              "Katherine Barr"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDE0YTJmMzAtNmJlMC00MjQwLWFjMmMtMjQ1MzEzYmM3ODhkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  739
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0233036",
+                                     "displayName":  "Michael Donovan",
+                                     "alternativeNames":  [
+                                                              "Michael Danovan",
+                                                              "Michael David Donovan",
+                                                              "Mike Donovan",
+                                                              "Mike Donvan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzk5YTE0ZTQtNjQyMy00NGFkLWI3ZGItMDA4NDU0NDNiNTgzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  600,
+                                                          "height":  600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "casting_director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0149942",
+                                     "displayName":  "Garry Chalk",
+                                     "alternativeNames":  [
+                                                              "Gary Chalk",
+                                                              "Gerry Chalk",
+                                                              "Gary Chaulk"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDIyMzg3NDYwNF5BMl5BanBnXkFtZTYwNTkwNDA3._V1_.jpg",
+                                                          "width":  485,
+                                                          "height":  687
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0589826",
+                                     "displayName":  "Shirley Milliner",
+                                     "alternativeNames":  [
+                                                              "Shirley Miliner",
+                                                              "Shirley Millner",
+                                                              "Shirley Milner"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000159",
+                                         "name":  "Cyberpunk",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  8
+                    }
+                ]
+}

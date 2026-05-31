@@ -1,0 +1,373 @@
+﻿{
+    "id":  "tt10691770",
+    "detail":  {
+                   "id":  "tt10691770",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Helluva Boss",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BN2E1MGM3ZjEtYTQwMS00ZWUzLTk1NTctY2U4NzQzY2YwYWRmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2019,
+                   "runtimeSeconds":  1200,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Comedy",
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Music",
+                                  "Musical",
+                                  "Romance",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8,
+                                  "voteCount":  17438
+                              },
+                   "plot":  "This adult animated comedy follows the misadventures, hijinks, and relationships of the Immediate Murder Professionals (or I.M.P. for short)-- a band of demon assassins from Hell who kill people on Earth for a living.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm4870008",
+                                         "displayName":  "Vivienne Medrano",
+                                         "alternativeNames":  [
+                                                                  "Vivienne M.",
+                                                                  "Vivian Medrano",
+                                                                  "VivziePop",
+                                                                  "Vivziepop"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDJmM2NiMGEtOWYwOS00YTQwLTk3NTAtNTIzMzY5NjE4YTQxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3816,
+                                                              "height":  4888
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm4870008",
+                                       "displayName":  "Vivienne Medrano",
+                                       "alternativeNames":  [
+                                                                "Vivienne M.",
+                                                                "Vivian Medrano",
+                                                                "VivziePop",
+                                                                "Vivziepop"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDJmM2NiMGEtOWYwOS00YTQwLTk3NTAtNTIzMzY5NjE4YTQxXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3816,
+                                                            "height":  4888
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3531369",
+                                       "displayName":  "Brandon Rogers",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTg1NTE0NzUxNV5BMl5BanBnXkFtZTgwNjc4OTI0OTE@._V1_.jpg",
+                                                            "width":  960,
+                                                            "height":  959
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm6235640",
+                                       "displayName":  "Adam Neylan",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "visual_effects",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm3171272",
+                                     "displayName":  "Vivian Nixon",
+                                     "alternativeNames":  [
+                                                              "Vivian Nixon Williams"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzU3MzM1NzA1MF5BMl5BanBnXkFtZTgwMTg0MDUwNzE@._V1_.jpg",
+                                                          "width":  667,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3531369",
+                                     "displayName":  "Brandon Rogers",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg1NTE0NzUxNV5BMl5BanBnXkFtZTgwNjc4OTI0OTE@._V1_.jpg",
+                                                          "width":  960,
+                                                          "height":  959
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6949652",
+                                     "displayName":  "Erica Lindbeck",
+                                     "alternativeNames":  [
+                                                              "Erica L Lindbech"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzQzZmFhZTMtMzhlNS00NmIyLTk3M2QtMmY5MDgwOTM2OTZkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3169,
+                                                          "height":  4497
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0395777",
+                                     "displayName":  "Richard Steven Horvitz",
+                                     "alternativeNames":  [
+                                                              "\u0027Richard Horvitz\u0027",
+                                                              "Rico Bonet",
+                                                              "Richard Horovitz",
+                                                              "Richard Horowitz",
+                                                              "Richard Hortviz",
+                                                              "Richard Horvits",
+                                                              "RIchard Horvitz",
+                                                              "Richard S. Horvitz",
+                                                              "Richard Horvitz",
+                                                              "Rich Horvitz",
+                                                              "Steven Horvitz",
+                                                              "Richard",
+                                                              "Richard Stults",
+                                                              "Richard Wood",
+                                                              "Jake Cole Wyatt"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzM3NjAzMzk5MV5BMl5BanBnXkFtZTgwNzM0Njk1MDE@._V1_.jpg",
+                                                          "width":  3840,
+                                                          "height":  5760
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000004",
+                                         "name":  "Car Action",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000007",
+                                         "name":  "One-Person Army Action",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000016",
+                                         "name":  "Globetrotting Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000049",
+                                         "name":  "Teen Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000050",
+                                         "name":  "Caper",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000074",
+                                         "name":  "Costume Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000090",
+                                         "name":  "Tragedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000109",
+                                         "name":  "Body Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000129",
+                                         "name":  "Concert",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000130",
+                                         "name":  "Music"
+                                     },
+                                     {
+                                         "id":  "in0000132",
+                                         "name":  "Jukebox Musical",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000133",
+                                         "name":  "Musical"
+                                     },
+                                     {
+                                         "id":  "in0000134",
+                                         "name":  "Pop Musical",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000135",
+                                         "name":  "Rock Musical",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000184",
+                                         "name":  "Spy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000192",
+                                         "name":  "Holiday"
+                                     },
+                                     {
+                                         "id":  "in0000197",
+                                         "name":  "Gun Fu",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  1
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  1
+                    }
+                ]
+}

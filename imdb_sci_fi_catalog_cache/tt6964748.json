@@ -1,0 +1,228 @@
+﻿{
+    "id":  "tt6964748",
+    "detail":  {
+                   "id":  "tt6964748",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Alex Rider",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTgxMWM1YTktNzgwMy00NWY5LTgzMzgtY2ZlYzkxMGUwZTUzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2024,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  19680
+                              },
+                   "plot":  "Alex Rider is an ordinary teenager enlisted to work on behalf of MI6, where he uses skills he didn\u0027t know he had to become an extraordinary spy.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0698283",
+                                         "displayName":  "Andreas Prochaska",
+                                         "alternativeNames":  [
+                                                                  "Andi Prohaska",
+                                                                  "Andy Prohaska"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzU2N2U4NjctNzE3ZS00MzQ4LTlmY2YtZWMzZjY0ODU2N2UzXkEyXkFqcGc@._V1_CR612,0,2235,3352_.jpg",
+                                                              "width":  2235,
+                                                              "height":  3352
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1247462",
+                                         "displayName":  "Christopher Smith",
+                                         "alternativeNames":  [
+                                                                  "Chris Smith"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNGU3M2JhYTItNzBjYy00NDNhLTg0NmEtZTA1YjlhMzM5NDE1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2316,
+                                                              "height":  3088
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3217263",
+                                         "displayName":  "Rebecca Gatward",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODA3NzM4OTUtYmM0Mi00Y2UzLWExYWQtMzZjYTVhYjhjOTFmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2156,
+                                                              "height":  2876
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0123434",
+                                       "displayName":  "Guy Burt",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYzI1MGU1YzQtNmNlNy00YzU4LWEwOWEtZTkzN2Y4OTE3NmQ3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1738,
+                                                            "height":  2172
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0395275",
+                                       "displayName":  "Anthony Horowitz",
+                                       "alternativeNames":  [
+                                                                "Anthony Horowitz OBE"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BODM1MTM0OTUtNmMyMS00Mzk0LTlkNDctNzhlYmJhY2QzYTkzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  832,
+                                                            "height":  1089
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0566049",
+                                     "displayName":  "Vicky McClure",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTQ3MTk2NzUwOV5BMl5BanBnXkFtZTcwODkzMjcxOA@@._V1_.jpg",
+                                                          "width":  1425,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2590700",
+                                     "displayName":  "Otto Farrant",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGFhMDc2YzQtMTMwYi00MDlkLWJjYWMtMDY4NjhmMDQ2ZGJmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1200,
+                                                          "height":  900
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5282143",
+                                     "displayName":  "Brenock O\u0027Connor",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ3ODUxNTczMV5BMl5BanBnXkFtZTgwNTY3MTg5MTE@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1362
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0226820",
+                                     "displayName":  "Stephen Dillane",
+                                     "alternativeNames":  [
+                                                              "Stephen Dillon"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzQ5ODY1MDA0NF5BMl5BanBnXkFtZTgwNzM5MTg5ODE@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000023",
+                                         "name":  "Teen Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000089",
+                                         "name":  "Teen Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000184",
+                                         "name":  "Spy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    }
+                ]
+}

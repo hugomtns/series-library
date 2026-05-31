@@ -1,0 +1,221 @@
+﻿{
+    "id":  "tt1008108",
+    "detail":  {
+                   "id":  "tt1008108",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Ashes to Ashes",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYmZjODQzYTQtMjU0OC00NzY3LWFjN2QtZDg3NmU3NTc4NTQwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  989
+                                    },
+                   "startYear":  2008,
+                   "endYear":  2010,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  12195
+                              },
+                   "plot":  "After being shot in 2008 while investigating DCI Sam Tyler, DI Alex Drake wakes up to some familiar faces in 1980s London.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0607701",
+                                         "displayName":  "Catherine Morshead",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0132600",
+                                         "displayName":  "Jonny Campbell",
+                                         "alternativeNames":  [
+                                                                  "Jonathan Campbell"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMGZmOTk0NjEtOTgzNi00ZWQ2LTk1ZGYtOTZjY2ViM2FkMWU1XkEyXkFqcGc@._V1_CR2309,152,3333,5000_.jpg",
+                                                              "width":  3333,
+                                                              "height":  5000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0238621",
+                                         "displayName":  "David Drury",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0334213",
+                                       "displayName":  "Matthew Graham",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BY2Y4OTJhODQtMWVjNi00NjNlLTg2ZGEtMTJkZDA1NmFmNzk3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  204,
+                                                            "height":  160
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0679683",
+                                       "displayName":  "Ashley Pharoah",
+                                       "alternativeNames":  [
+                                                                "Ashley Pharaoh"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTYzNzc2MTk4MF5BMl5BanBnXkFtZTgwMjU1NDk4OTE@._V1_.jpg",
+                                                            "width":  1400,
+                                                            "height":  1284
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0752177",
+                                       "displayName":  "Julie Rutterford",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0322562",
+                                     "displayName":  "Philip Glenister",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk4NjgxMTM3NV5BMl5BanBnXkFtZTcwMjcxMTgzMg@@._V1_.jpg",
+                                                          "width":  1334,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0369954",
+                                     "displayName":  "Keeley Hawes",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODU2NDJjODItOWQ1ZS00NDY5LWI1M2UtZGU5NmU2MDUxN2IxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4480,
+                                                          "height":  6720
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1080214",
+                                     "displayName":  "Dean Andrews",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY4NDg2NDY3MF5BMl5BanBnXkFtZTcwODI0OTIzMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  665
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0484162",
+                                     "displayName":  "Marshall Lancaster",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg1NTg5OTUzMF5BMl5BanBnXkFtZTgwNDg2MDM0MjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000051",
+                                         "name":  "Cop Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000057",
+                                         "name":  "Police Procedural",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    }
+                ]
+}

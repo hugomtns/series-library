@@ -1,0 +1,218 @@
+﻿{
+    "id":  "tt19231492",
+    "detail":  {
+                   "id":  "tt19231492",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Dark Matter",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzQwNDI0NTAtN2JjOC00MmE3LTg1Y2EtOTdjZDNhMDhjMmNhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2024,
+                   "genres":  [
+                                  "Drama",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  74455
+                              },
+                   "plot":  "A man is abducted into an alternate version of his life. Amid the mind-bending landscape of lives he could\u0027ve lived, he embarks on a harrowing journey to get back to his true family and save them from a most terrifying foe: himself..",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1347708",
+                                         "displayName":  "Jakob Verbruggen",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTU3MTA4MjAyMl5BMl5BanBnXkFtZTgwNTc0MzY1NDM@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1365
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "casting_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0206259",
+                                         "displayName":  "Roxann Dawson",
+                                         "alternativeNames":  [
+                                                                  "Roxann Biggs",
+                                                                  "Roxann Biggs-Dawson",
+                                                                  "Roxanne Cabalero",
+                                                                  "Roxann Cabalero"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzQ2Y2JjYzctNGVkYi00YTg0LThjZWQtZDllNzA5ZGJlZDRlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1080,
+                                                              "height":  1440
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm5031882",
+                                         "displayName":  "Logan George",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYTM4MTMwYWEtZWEyZS00ZmY5LWEzNzUtYWExNTliYWZlZWJmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2506,
+                                                              "height":  1671
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm15225965",
+                                       "displayName":  "Jacquelyn Ben-Zekry",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BM2UyZTFmZWYtOWMxYS00MWQxLTk5YjItYmEwZWUwMDkwZDI0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2208,
+                                                            "height":  2944
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5458813",
+                                       "displayName":  "Blake Crouch",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjAyNTgyNTk4NV5BMl5BanBnXkFtZTgwOTc5NTM4OTE@._V1_.jpg",
+                                                            "width":  4267,
+                                                            "height":  6400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm6876585",
+                                       "displayName":  "Megan McDonnell",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZTBlNGQ3ZjMtMTljNS00N2YwLWFlM2MtODM3ODhmMWFlZDFhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1284,
+                                                            "height":  1590
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000124",
+                                     "displayName":  "Jennifer Connelly",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGMwYmU3MTAtYjcyOC00NGMzLTgzYzItMTc4YzQwNzNhYjRmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1814,
+                                                          "height":  2723
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "visual_effects"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0249291",
+                                     "displayName":  "Joel Edgerton",
+                                     "alternativeNames":  [
+                                                              "Joel"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA0ODI1ODk4NzdeQTJeQWpwZ15BbWU3MDkwNjkzOTY@._V1_.jpg",
+                                                          "width":  512,
+                                                          "height":  768
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0103797",
+                                     "displayName":  "Alice Braga",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWUwZmQ2MDktNThkOS00YjI1LWJmZjktNDgyNzdiNWE3OWQxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3110,
+                                                          "height":  2968
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0801051",
+                                     "displayName":  "Jimmi Simpson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjllNzcwMmYtOTAyZC00YzI1LTkwNjUtOGExNDI4YzEwYzY3XkEyXkFqcGc@._V1_CR227,68,520,780_.jpg",
+                                                          "width":  520,
+                                                          "height":  780
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    }
+                ]
+}

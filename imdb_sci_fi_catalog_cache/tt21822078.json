@@ -1,0 +1,108 @@
+﻿{
+    "id":  "tt21822078",
+    "detail":  {
+                   "id":  "tt21822078",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Mole",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYWM5NmY2YzEtNzc4Ni00YTc0LWExMjUtNzRlYjk4Yjk4YjAxXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  604,
+                                        "height":  755
+                                    },
+                   "startYear":  2022,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Adventure",
+                                  "Game-Show",
+                                  "Mystery",
+                                  "Reality-TV"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  5778
+                              },
+                   "plot":  "It follows twelve players as they work together in challenges to add money to a pot that only one of them will win.",
+                   "writers":  [
+                                   {
+                                       "id":  "nm0210916",
+                                       "displayName":  "Bart De Pauw",
+                                       "alternativeNames":  [
+                                                                "Willy De Pauw"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0222749",
+                                       "displayName":  "Michiel Devlieger",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0501675",
+                                       "displayName":  "Tom Lenaerts",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000105",
+                                         "name":  "Game Show"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000141",
+                                         "name":  "Whodunnit",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000148",
+                                         "name":  "Reality TV"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    }
+                ]
+}

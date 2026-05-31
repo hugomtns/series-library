@@ -1,0 +1,184 @@
+﻿{
+    "id":  "tt0108941",
+    "detail":  {
+                   "id":  "tt0108941",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "The Stand",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNGE3YWRjNjEtNDZiMS00NmM5LTkyNjEtNWQzZTU4ODliZjdmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2367,
+                                        "height":  3217
+                                    },
+                   "startYear":  1994,
+                   "endYear":  1994,
+                   "runtimeSeconds":  5400,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.1,
+                                  "voteCount":  41240
+                              },
+                   "plot":  "After a deadly plague kills most of the world\u0027s population, the remaining survivors split into two groups - one led by a benevolent elder and the other by a malevolent being - to face each other in a final battle between good and evil.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0308376",
+                                         "displayName":  "Mick Garris",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjE4MzQ2NDEyNl5BMl5BanBnXkFtZTYwMzY3MDU0._V1_.jpg",
+                                                              "width":  400,
+                                                              "height":  295
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0000175",
+                                       "displayName":  "Stephen King",
+                                       "alternativeNames":  [
+                                                                "Richard Bachman",
+                                                                "The Rock Bottom Remainders",
+                                                                "John Swithen"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjA2ODIxNDM4Nl5BMl5BanBnXkFtZTYwMjkzMzU1._V1_.jpg",
+                                                            "width":  257,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000208",
+                                     "displayName":  "Molly Ringwald",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjM4MzM1NTkxNF5BMl5BanBnXkFtZTgwMzA4NTk3MjE@._V1_.jpg",
+                                                          "width":  566,
+                                                          "height":  720
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000641",
+                                     "displayName":  "Gary Sinise",
+                                     "alternativeNames":  [
+                                                              "Gary Sinese",
+                                                              "Gary A. Sinise"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzE4NzcyMzU3OV5BMl5BanBnXkFtZTYwOTM2NDE2._V1_.jpg",
+                                                          "width":  287,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000624",
+                                     "displayName":  "Laura San Giacomo",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA0NDg4NjEwN15BMl5BanBnXkFtZTcwODgxNzQ2Mg@@._V1_.jpg",
+                                                          "width":  296,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0792177",
+                                     "displayName":  "Jamey Sheridan",
+                                     "alternativeNames":  [
+                                                              "James Sheridan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg1NjY3ODU1MF5BMl5BanBnXkFtZTYwNjU5MzYz._V1_.jpg",
+                                                          "width":  261,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  4
+                    }
+                ]
+}

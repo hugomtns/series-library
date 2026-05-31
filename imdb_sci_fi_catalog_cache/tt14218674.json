@@ -1,0 +1,225 @@
+﻿{
+    "id":  "tt14218674",
+    "detail":  {
+                   "id":  "tt14218674",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "NCIS: Hawai\u0027i",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjIyODE2NGUtMDc0NC00NTAwLThhNjYtNjI2OGIxNzlhOGE1XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1011,
+                                        "height":  1500
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2024,
+                   "runtimeSeconds":  2580,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.8,
+                                  "voteCount":  11688
+                              },
+                   "plot":  "Follows a team of Naval Criminal Investigative Service (NCIS) agents who Investigate crimes related to the military and national security on the Hawaiian islands.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0028542",
+                                         "displayName":  "Tim Andrew",
+                                         "alternativeNames":  [
+                                                                  "Tim Andrews"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDczMTkwZDEtM2Y3NS00Zjg5LTg2YzAtMGQ1ODI1ZDc1ODQ5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  864,
+                                                              "height":  1296
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1270350",
+                                         "displayName":  "Larry Teng",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDUxNjk1OTU1Nl5BMl5BanBnXkFtZTcwOTQ1NjgwOQ@@._V1_.jpg",
+                                                              "width":  618,
+                                                              "height":  864
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0000996",
+                                         "displayName":  "LeVar Burton",
+                                         "alternativeNames":  [
+                                                                  "Levar Burton"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZTc1ZDhlYzMtZWZlNS00YzA2LTljYjAtYTFmNzRhODAwOWNiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  700,
+                                                              "height":  1042
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm7648532",
+                                       "displayName":  "Matt Bosack",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1222879",
+                                       "displayName":  "Jan Nash",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1240333",
+                                       "displayName":  "Christopher Silber",
+                                       "alternativeNames":  [
+                                                                "Chris Silber"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0591373",
+                                     "displayName":  "Vanessa Lachey",
+                                     "alternativeNames":  [
+                                                              "Nick \u0026 Vanessa Lachey",
+                                                              "Vanessa J. Minnillo",
+                                                              "Vanessa Minnillo",
+                                                              "Vanessa"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTM0ODUzZWYtNDY2My00Yjc4LWI4YzUtYTkzNGQ4ZTgwNjdjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1200,
+                                                          "height":  1200
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7176413",
+                                     "displayName":  "Alex Tarrant",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTcxZjFmMGYtNDRjNC00YWQzLThlNjctYjJhNWNjMTdjOTMxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3870,
+                                                          "height":  5805
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3718062",
+                                     "displayName":  "Noah Mills",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDFmZGVhYWEtOTAyZi00Mzg0LWJlNjgtMjZlNmU4YWE1YzcwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  764,
+                                                          "height":  876
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0031529",
+                                     "displayName":  "Jason Antoon",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzk4MDdkMTQtOGM1NS00ZTk4LTk0OTQtOGUwMzVlZmM5ZTczXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3489,
+                                                          "height":  5233
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000057",
+                                         "name":  "Police Procedural",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    }
+                ]
+}

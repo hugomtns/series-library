@@ -1,0 +1,272 @@
+﻿{
+    "id":  "tt1622696",
+    "detail":  {
+                   "id":  "tt1622696",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Ben 10: Ultimate Alien",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNWIxMjZmNTQtNzkxZi00NTU5LThhOGYtODEyZGYyNDdkNTQxXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1920,
+                                        "height":  2400
+                                    },
+                   "startYear":  2010,
+                   "endYear":  2012,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  15230
+                              },
+                   "plot":  "With his secret identity now revealed to the world, Ben Tennyson continues to fight evil as a superhero with the help of the newly acquired Ultimatrix.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0722713",
+                                         "displayName":  "Dan Riba",
+                                         "alternativeNames":  [
+                                                                  "Daniel Riba"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0525665",
+                                         "displayName":  "Butch Lukic",
+                                         "alternativeNames":  [
+                                                                  "Momcilo Lucik",
+                                                                  "Momcilo Butch Lukic",
+                                                                  "Moncilo Butch Lukic"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1399631",
+                                         "displayName":  "Matt Youngberg",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2185413",
+                                       "displayName":  "Man of Action",
+                                       "alternativeNames":  [
+                                                                "Joe Kelly"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1424524",
+                                       "displayName":  "Joe Casey",
+                                       "alternativeNames":  [
+                                                                "Man Of Action",
+                                                                "Man of Action"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2399856",
+                                       "displayName":  "Joe Kelly",
+                                       "alternativeNames":  [
+                                                                "Man Of Action",
+                                                                "Man of Action",
+                                                                "Joseph Kelly"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0424534",
+                                     "displayName":  "Ashley Johnson",
+                                     "alternativeNames":  [
+                                                              "Ashly Stonejaw"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTk5Njc3NzgxOV5BMl5BanBnXkFtZTgwMzgyMjIzNzE@._V1_.jpg",
+                                                          "width":  1024,
+                                                          "height":  683
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0523180",
+                                     "displayName":  "Yuri Lowenthal",
+                                     "alternativeNames":  [
+                                                              "Jimmy Benedict",
+                                                              "Yello Lollicup",
+                                                              "Yello Lollicups",
+                                                              "Sean Roberts"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2YzZGYzMGMtMDI1MS00MGJlLWE4ODQtNjQ2M2RiNDc4ODZiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  589,
+                                                          "height":  625
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0048389",
+                                     "displayName":  "Dee Bradley Baker",
+                                     "alternativeNames":  [
+                                                              "Bradley D. Baker",
+                                                              "Bradley Dee Baker",
+                                                              "D. Bradley Baker",
+                                                              "D. Baker",
+                                                              "Dee B. Baker",
+                                                              "Dee Bradly Baker",
+                                                              "Dee Baker",
+                                                              "Dee Barker",
+                                                              "Di Bredli Beyker",
+                                                              "Olmec"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk4MzkzMzk0MF5BMl5BanBnXkFtZTcwNDIwMjM4NA@@._V1_.jpg",
+                                                          "width":  1024,
+                                                          "height":  1536
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0996651",
+                                     "displayName":  "Greg Cipes",
+                                     "alternativeNames":  [
+                                                              "Gregory Michael Cipes",
+                                                              "Gregory Micheal Cipes"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjU5MWFmMzctN2U0OS00MjI4LTlhODgtNDA0OTZjMzRiMjNhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1334,
+                                                          "height":  2000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  20
+                    }
+                ]
+}

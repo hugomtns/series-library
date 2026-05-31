@@ -1,0 +1,171 @@
+﻿{
+    "id":  "tt0130417",
+    "detail":  {
+                   "id":  "tt0130417",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The New Tom \u0026 Jerry Show",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BY2M1Mzc5NGItZmM0Yi00NDUzLWExYzUtMDlmZmFiM2Q0NDZmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  1000
+                                    },
+                   "startYear":  1975,
+                   "endYear":  1977,
+                   "runtimeSeconds":  5940,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  10911
+                              },
+                   "plot":  "A modern continuation of the original Tom and Jerry cartoon, where the cat-and-mouse duo are now close friends through a series of adventures and chaos.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0629363",
+                                         "displayName":  "Charles Nichols",
+                                         "alternativeNames":  [
+                                                                  "Charles",
+                                                                  "C. August Nichols",
+                                                                  "Charles A. Nichols",
+                                                                  "Nick Nichols"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0925526",
+                                       "displayName":  "Todd White",
+                                       "alternativeNames":  [
+                                                                "M. Todd White"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "art_department",
+                                                                  "production_department"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1095881",
+                                       "displayName":  "Sherm Cohen",
+                                       "alternativeNames":  [
+                                                                "Paul Sherman Cohen",
+                                                                "Sherman Cohen"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "art_department",
+                                                                  "director"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0009957",
+                                       "displayName":  "Bill Ackerman",
+                                       "alternativeNames":  [
+                                                                "Billy Ackerman"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "art_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0330927",
+                                     "displayName":  "Kathy Gori",
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "script_department",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm12369625",
+                                     "displayName":  "Keenon Douglas",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm15424566",
+                                     "displayName":  "Bob Deloes",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0179478",
+                                     "displayName":  "Henry Corden",
+                                     "alternativeNames":  [
+                                                              "Harry Corden",
+                                                              "Henry Cordon"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE2OTcxNTQ5NV5BMl5BanBnXkFtZTcwNTMwMTYxOA@@._V1_.jpg",
+                                                          "width":  668,
+                                                          "height":  853
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  16
+                    }
+                ]
+}

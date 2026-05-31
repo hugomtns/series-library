@@ -1,0 +1,275 @@
+﻿{
+    "id":  "tt0108906",
+    "detail":  {
+                   "id":  "tt0108906",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Kingdom",
+                   "originalTitle":  "Riget",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNGUxNzA4MTAtNzZhYy00YzM0LWE0MmYtM2FlOWM5ODZiMGFlXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2700,
+                                        "height":  4000
+                                    },
+                   "startYear":  1994,
+                   "endYear":  2022,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.2,
+                                  "voteCount":  21560
+                              },
+                   "plot":  "Doctors at an ultramodern hospital in Denmark become convinced, by way of weird, inexplicable happenings, that the place is haunted.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0001885",
+                                         "displayName":  "Lars von Trier",
+                                         "alternativeNames":  [
+                                                                  "Erik Nietzsche",
+                                                                  "Lars Trier",
+                                                                  "Lars Von Trier"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTk1MDY1NTQ0NF5BMl5BanBnXkFtZTcwOTcyMDczNg@@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1962
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0036272",
+                                         "displayName":  "Morten Arnfred",
+                                         "alternativeNames":  [
+                                                                  "Marten Arnfred",
+                                                                  "MÃ¥rten Arnfred"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTg5MDQ2OTY1OF5BMl5BanBnXkFtZTYwNzA5MDEz._V1_.jpg",
+                                                              "width":  150,
+                                                              "height":  184
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0001885",
+                                       "displayName":  "Lars von Trier",
+                                       "alternativeNames":  [
+                                                                "Erik Nietzsche",
+                                                                "Lars Trier",
+                                                                "Lars Von Trier"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTk1MDY1NTQ0NF5BMl5BanBnXkFtZTcwOTcyMDczNg@@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1962
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0905071",
+                                       "displayName":  "Niels VÃ¸rsel",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "camera_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0004612",
+                                       "displayName":  "TÃ³mas Gislason",
+                                       "alternativeNames":  [
+                                                                "Thomas Gislason",
+                                                                "Tomas Gislason",
+                                                                "TÃ³mas GÃ­slason"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "editor",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0639152",
+                                     "displayName":  "Ghita NÃ¸rby",
+                                     "alternativeNames":  [
+                                                              "Ghita Campeotto",
+                                                              "Githa NÃ¸rby",
+                                                              "Ghita NÃ¸rbye"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTBkMzRmNzgtOWJmNS00ZTg2LWE5M2EtMDk5Y2E2OGFiNzk5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1280,
+                                                          "height":  720
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0683587",
+                                     "displayName":  "SÃ¸ren Pilmark",
+                                     "alternativeNames":  [
+                                                              "Narrator",
+                                                              "Soren Pilmark",
+                                                              "Ãrkenens sÃ¸nner",
+                                                              "Ãrkenes sÃ¸nner"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE3NjE5NTE0N15BMl5BanBnXkFtZTgwNDQyOTIwMjE@._V1_.jpg",
+                                                          "width":  1907,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0433495",
+                                     "displayName":  "Ernst-Hugo JÃ¤regÃ¥rd",
+                                     "alternativeNames":  [
+                                                              "Ernst-Hugo",
+                                                              "Ernst Hugo Jardegard",
+                                                              "Ernst-Hugo Jardegard",
+                                                              "Ernst Hugo JÃ¤regÃ¥rd"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODczZjNkMDQtMmFlOC00NmYwLWJjNmMtNWNiYjQyNGQyNDE3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2000,
+                                                          "height":  2000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0738231",
+                                     "displayName":  "Kirsten Rolffes",
+                                     "alternativeNames":  [
+                                                              "Kirsten Rolffes Becker",
+                                                              "Kirsten Rolfes"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "DK",
+                                               "name":  "Denmark"
+                                           },
+                                           {
+                                               "code":  "IT",
+                                               "name":  "Italy"
+                                           },
+                                           {
+                                               "code":  "DE",
+                                               "name":  "Germany"
+                                           },
+                                           {
+                                               "code":  "FR",
+                                               "name":  "France"
+                                           },
+                                           {
+                                               "code":  "NO",
+                                               "name":  "Norway"
+                                           },
+                                           {
+                                               "code":  "SE",
+                                               "name":  "Sweden"
+                                           },
+                                           {
+                                               "code":  "NL",
+                                               "name":  "Netherlands"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "dan",
+                                               "name":  "Danish"
+                                           },
+                                           {
+                                               "code":  "swe",
+                                               "name":  "Swedish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000114",
+                                         "name":  "Psychological Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000242",
+                                         "name":  "Danish"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  4
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  4
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  5
+                    }
+                ]
+}

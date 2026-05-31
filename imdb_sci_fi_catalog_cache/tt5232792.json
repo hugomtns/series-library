@@ -1,0 +1,241 @@
+﻿{
+    "id":  "tt5232792",
+    "detail":  {
+                   "id":  "tt5232792",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Lost in Space",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTU1MzAwODM4OF5BMl5BanBnXkFtZTgwMjA4OTY5NDM@._V1_.jpg",
+                                        "width":  1382,
+                                        "height":  2048
+                                    },
+                   "startYear":  2018,
+                   "endYear":  2021,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Family",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  113481
+                              },
+                   "plot":  "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they\u0027re surrounded by hidden dangers.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0816074",
+                                         "displayName":  "Tim Southam",
+                                         "alternativeNames":  [
+                                                                  "Eda Holmes \u0026 Tim Southam"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BY2QzMDEzMmUtMzM2NC00Yjc0LTllZjYtNTE3Mzk1OTE0OGFiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1420,
+                                                              "height":  1171
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0839660",
+                                         "displayName":  "Stephen Surjik",
+                                         "alternativeNames":  [
+                                                                  "Stephen Surjic",
+                                                                  "Stephen D. Surjik",
+                                                                  "Steven Surjik",
+                                                                  "Steve Surjik"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjQzNDA1MjkzNl5BMl5BanBnXkFtZTgwNzU4MjQwOTE@._V1_.jpg",
+                                                              "width":  1242,
+                                                              "height":  1242
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0394012",
+                                         "displayName":  "Leslie Hope",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTg2NTgzNjMzMV5BMl5BanBnXkFtZTcwOTE2ODA3NA@@._V1_.jpg",
+                                                              "width":  2912,
+                                                              "height":  4368
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0000740",
+                                       "displayName":  "Irwin Allen",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTUyNzE0ODgzOF5BMl5BanBnXkFtZTgwODk4NjIwMjE@._V1_.jpg",
+                                                            "width":  6009,
+                                                            "height":  4825
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1948885",
+                                       "displayName":  "Matt Sazama",
+                                       "primaryProfessions":  [
+                                                                  "editorial_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2332952",
+                                       "displayName":  "Burk Sharpless",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0662504",
+                                     "displayName":  "Molly Parker",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY0NzQzNDQyNl5BMl5BanBnXkFtZTcwNTg5NTk3MQ@@._V1_.jpg",
+                                                          "width":  336,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0827170",
+                                     "displayName":  "Toby Stephens",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE4ZDAwZTEtOWE1Mi00YmRmLTkxZDgtZmU4YmUwNDYwZjgyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1170,
+                                                          "height":  1755
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3069420",
+                                     "displayName":  "Maxwell Jenkins",
+                                     "alternativeNames":  [
+                                                              "Max Jenkins"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjE0MWRiOWYtZjkxMC00YzhmLWFmZDItYjc2MGNhMTliNWYwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1024,
+                                                          "height":  1535
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5347988",
+                                     "displayName":  "Taylor Russell",
+                                     "alternativeNames":  [
+                                                              "Taylor Russell McKenzie",
+                                                              "Taylor McKenzie"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTQ5N2M1MDMtNzExNi00NzA5LTg3NWEtZjA1ZmJhMjE1ODA4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  852,
+                                                          "height":  1155
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    }
+                ]
+}

@@ -1,0 +1,239 @@
+﻿{
+    "id":  "tt8633062",
+    "detail":  {
+                   "id":  "tt8633062",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Wilds",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNWNlMTg4MGItOWNlZS00ODJiLWI3NDEtMTA1MjQ4YjU5ZTMxXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2022,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  27373
+                              },
+                   "plot":  "A group of teens must survive after a plane crash leaves them stranded on a deserted island. The girls tell their stories to investigators who slowly piece together what happened to them.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0533744",
+                                         "displayName":  "Alison Maclean",
+                                         "alternativeNames":  [
+                                                                  "Alison MacLean",
+                                                                  "Alison McLean"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BM2YxNmIzZmItZDc4MS00NmM5LTk2ODctMWRkYjJlMGZmODhlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1920,
+                                                              "height":  1280
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0689852",
+                                         "displayName":  "John Polson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjYxYzhjYzAtOGUyNy00MTdjLTgzNDYtNjQ3MGQxMjFkZWVhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  5504,
+                                                              "height":  8256
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2279930",
+                                         "displayName":  "Ben C. Lucas",
+                                         "alternativeNames":  [
+                                                                  "Ben Lucas"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZmVjYTVhNzctNDJlZi00MzFmLTlhYzYtYTYwMGMzNTAwY2M4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  5304,
+                                                              "height":  7952
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm4927551",
+                                       "displayName":  "Sarah Streicher",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "production_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1475647",
+                                       "displayName":  "Jai Tiggett",
+                                       "alternativeNames":  [
+                                                                "J.L. Tiggett",
+                                                                "Jasmin L. Tiggett",
+                                                                "Jasmin Tiggett"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm6233868",
+                                       "displayName":  "Leon Chills",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOWE3ZDBjMjQtNGNlMS00NTJmLTljMWUtMjVhNzVjZTZhMzYwXkEyXkFqcGc@._V1_CR83,1,969,1454_.jpg",
+                                                            "width":  969,
+                                                            "height":  1454
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1496115",
+                                     "displayName":  "Sophia Ali",
+                                     "alternativeNames":  [
+                                                              "Sophia Taylor Ali",
+                                                              "Sophia Ali Taylor",
+                                                              "Sophia Taylor"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTBjNmZmMjktMGNiNy00ZTA1LWE3NDctMzkxYmE5NjZmZTA4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1125,
+                                                          "height":  1117
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7318700",
+                                     "displayName":  "Shannon Berry",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGVkMDNiNDMtZjYxZS00MDM4LWI0MTYtYzg4NjY5YTc0OTc5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  984,
+                                                          "height":  1462
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6506460",
+                                     "displayName":  "Jenna Clause",
+                                     "alternativeNames":  [
+                                                              "Jenna Rose Clause"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmFlODJkNmUtZmZhNy00OTdmLWI4Y2MtZjk3MWFiOTUxOGZjXkEyXkFqcGc@._V1_CR0,0,1281,1922_.jpg",
+                                                          "width":  1281,
+                                                          "height":  1922
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0341737",
+                                     "displayName":  "Rachel Griffiths",
+                                     "alternativeNames":  [
+                                                              "Rachael Griffith",
+                                                              "Rachael Griffiths"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI3OTQzNzA0M15BMl5BanBnXkFtZTcwNTQ0ODkyMg@@._V1_.jpg",
+                                                          "width":  266,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000089",
+                                         "name":  "Teen Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000090",
+                                         "name":  "Tragedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000185",
+                                         "name":  "Survival",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    }
+                ]
+}

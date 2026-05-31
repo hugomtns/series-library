@@ -1,0 +1,268 @@
+﻿{
+    "id":  "tt2930604",
+    "detail":  {
+                   "id":  "tt2930604",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Star Wars: Rebels",
+                   "originalTitle":  "Star Wars Rebels",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZDc5YjgxNWUtYTE2Ni00NTI3LTkzZDctYzNjN2QxMzNiZmM2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1493
+                                    },
+                   "startYear":  2014,
+                   "endYear":  2018,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  69771
+                              },
+                   "plot":  "The crew of the spaceship Ghost defends those who cannot fight for themselves against the Empire, providing the spark for a rebellion.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1396048",
+                                         "displayName":  "Dave Filoni",
+                                         "alternativeNames":  [
+                                                                  "C1-10P a.k.a. \u0027Chopper\u0027",
+                                                                  "Chopper",
+                                                                  "David Filoni"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTQzMzAxMTg3NV5BMl5BanBnXkFtZTcwNzEyNTQ4MQ@@._V1_.jpg",
+                                                              "width":  267,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2198694",
+                                         "displayName":  "Justin Ridge",
+                                         "alternativeNames":  [
+                                                                  "Bucket"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2177723",
+                                         "displayName":  "Steward Lee",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1334526",
+                                       "displayName":  "Simon Kinberg",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTA4OTIzMzE4NzleQTJeQWpwZ15BbWU4MDYyMzkzNDUz._V1_.jpg",
+                                                            "width":  395,
+                                                            "height":  594
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2608366",
+                                       "displayName":  "Carrie Beck",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOGI2Y2Q5ODQtMmYyNy00YzkyLWIzOWEtMGUyMGM1YWU4MmQ2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  416,
+                                                            "height":  512
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1396048",
+                                       "displayName":  "Dave Filoni",
+                                       "alternativeNames":  [
+                                                                "C1-10P a.k.a. \u0027Chopper\u0027",
+                                                                "Chopper",
+                                                                "David Filoni"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTQzMzAxMTg3NV5BMl5BanBnXkFtZTcwNzEyNTQ4MQ@@._V1_.jpg",
+                                                            "width":  267,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0551223",
+                                     "displayName":  "Vanessa Marshall",
+                                     "alternativeNames":  [
+                                                              "Anessa Marshall"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc5MzcxODc5MF5BMl5BanBnXkFtZTgwMzkzMzM2MjE@._V1_.jpg",
+                                                          "width":  1280,
+                                                          "height":  1920
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1396048",
+                                     "displayName":  "Dave Filoni",
+                                     "alternativeNames":  [
+                                                              "C1-10P a.k.a. \u0027Chopper\u0027",
+                                                              "Chopper",
+                                                              "David Filoni"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQzMzAxMTg3NV5BMl5BanBnXkFtZTcwNzEyNTQ4MQ@@._V1_.jpg",
+                                                          "width":  267,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "director",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2342402",
+                                     "displayName":  "Taylor Gray",
+                                     "alternativeNames":  [
+                                                              "Taylor Arthur Gray"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTEwNDk0NzAtMDY1YS00MTdjLTk3NzEtMDNiMTVkYTA1ZjU3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005327",
+                                     "displayName":  "Freddie Prinze Jr.",
+                                     "alternativeNames":  [
+                                                              "Freddie Prinze Jr",
+                                                              "Freddy Prinze Jr."
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM2MjI2NzI3OV5BMl5BanBnXkFtZTcwNzYzMTIxMw@@._V1_.jpg",
+                                                          "width":  310,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000090",
+                                         "name":  "Tragedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  4
+                    }
+                ]
+}

@@ -1,0 +1,303 @@
+﻿{
+    "id":  "tt1844624",
+    "detail":  {
+                   "id":  "tt1844624",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "American Horror Story",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNzJjZTg0ZmMtMTg0Ny00NzYxLWFjMWMtMWFiYmNkMTNjZGMyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  592,
+                                        "height":  864
+                                    },
+                   "startYear":  2011,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Horror",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  362179
+                              },
+                   "plot":  "An anthology horror drama series centering on different characters and locations, showcasing different aspects of horror. Created and produced by Ryan Murphy and Brad Falchuk.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1267896",
+                                         "displayName":  "Bradley Buecker",
+                                         "alternativeNames":  [
+                                                                  "Brad Buecker"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0004234",
+                                         "displayName":  "Alfonso Gomez-Rejon",
+                                         "alternativeNames":  [
+                                                                  "Alfonso GÃ³mez-RejÃ³n",
+                                                                  "Alfonso Gomez Rejon"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTUyMjUyNTAwOV5BMl5BanBnXkFtZTgwNDY0MDgxNDE@._V1_.jpg",
+                                                              "width":  1363,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0528337",
+                                         "displayName":  "Jennifer Lynch",
+                                         "alternativeNames":  [
+                                                                  "Jennifer Chambers Lynch",
+                                                                  "Jen Lynch"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc0NTkzMzE5N15BMl5BanBnXkFtZTcwODQ0MjYzOA@@._V1_.jpg",
+                                                              "width":  1000,
+                                                              "height":  1500
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1004299",
+                                       "displayName":  "Brad Falchuk",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZTI5NWEzZmYtNTM3Zi00Y2I1LTlhODYtYzA0NTc3ZDk0MjMxXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  500,
+                                                            "height":  750
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0614682",
+                                       "displayName":  "Ryan Murphy",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOTk3NjE4MjA1MF5BMl5BanBnXkFtZTcwODE3OTM3Mw@@._V1_.jpg",
+                                                            "width":  266,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1259417",
+                                       "displayName":  "John J. Gray",
+                                       "alternativeNames":  [
+                                                                "John Gray"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTBjZGY5M2YtNTEzZi00OTgyLWFkMDQtOWExYWJmZGExMGM3XkEyXkFqcGc@._V1_CR229,55,761,1141_.jpg",
+                                                            "width":  761,
+                                                            "height":  1141
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0005299",
+                                     "displayName":  "Sarah Paulson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUzMTA3NjM4MV5BMl5BanBnXkFtZTcwNjk1NTAyMg@@._V1_.jpg",
+                                                          "width":  260,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000870",
+                                     "displayName":  "Kathy Bates",
+                                     "alternativeNames":  [
+                                                              "Bobo Bates",
+                                                              "Katherine Bates",
+                                                              "Kathy D. Bates"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTMxMmE5ZDctY2NmMC00ZDhjLWEzOTctOTczODQ1ZDM1NDRiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  976,
+                                                          "height":  946
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000291",
+                                     "displayName":  "Angela Bassett",
+                                     "alternativeNames":  [
+                                                              "Angela Basset"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWZkOTI1ZWQtMGY4NC00NTViLWI4NGMtMTEzY2JhNmIxYjk3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2424,
+                                                          "height":  3030
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3078932",
+                                     "displayName":  "Lady Gaga",
+                                     "alternativeNames":  [
+                                                              "Lady GaGa",
+                                                              "Stefani Germanotta",
+                                                              "Stefani"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg1NjQwMzU4MF5BMl5BanBnXkFtZTgwNTk5NjQ4NjE@._V1_.jpg",
+                                                          "width":  1359,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "composer",
+                                                                "music_artist"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000109",
+                                         "name":  "Body Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000111",
+                                         "name":  "Found Footage Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000114",
+                                         "name":  "Psychological Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000115",
+                                         "name":  "Slasher Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "13",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  9
+                    }
+                ]
+}

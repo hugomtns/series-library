@@ -1,0 +1,214 @@
+﻿{
+    "id":  "tt4839610",
+    "detail":  {
+                   "id":  "tt4839610",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "We Bare Bears",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjM2NDQ5ODMxOV5BMl5BanBnXkFtZTgwMzc5MDc0NjE@._V1_.jpg",
+                                        "width":  480,
+                                        "height":  720
+                                    },
+                   "startYear":  2014,
+                   "endYear":  2019,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  22679
+                              },
+                   "plot":  "Three bear brothers do whatever they can to be a part of human society by doing what everyone around them does.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm5373414",
+                                         "displayName":  "Manny Hernandez",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm5512802",
+                                       "displayName":  "Daniel Chong",
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4504288",
+                                       "displayName":  "Mikey Heller",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "art_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1590309",
+                                       "displayName":  "Kristi Korzec",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1468061",
+                                     "displayName":  "Eric Edelstein",
+                                     "alternativeNames":  [
+                                                              "Erick Edelstein"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjE0MDc3ODkxN15BMl5BanBnXkFtZTcwNzE5OTY0Mg@@._V1_.jpg",
+                                                          "width":  315,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1336595",
+                                     "displayName":  "Demetri Martin",
+                                     "alternativeNames":  [
+                                                              "Demetrius Martin",
+                                                              "Demitri Martin"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA3Nzg5MzM2Nl5BMl5BanBnXkFtZTcwODYzOTAzMg@@._V1_.jpg",
+                                                          "width":  1638,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1293885",
+                                     "displayName":  "Bobby Moynihan",
+                                     "alternativeNames":  [
+                                                              "Bobby Moynihan Jr.",
+                                                              "Eddie Sweet"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjE5NGJmODgtYTRjZi00MzAyLWIzMDktMjhjZDM2Y2EwMjFhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  303,
+                                                          "height":  423
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1584992",
+                                     "displayName":  "Keith Ferguson",
+                                     "alternativeNames":  [
+                                                              "Keith Fergusen",
+                                                              "Keith James Ferguson",
+                                                              "Kevin Ferguson",
+                                                              "Keith Furguson",
+                                                              "Jim Sullivan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmJiMGFiMDUtOGI1Zi00OTA2LThiNGEtMzA0MDc4ODZmZjU2XkEyXkFqcGc@._V1_CR137,0,1372,2058_.jpg",
+                                                          "width":  1372,
+                                                          "height":  2058
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  27
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  44
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  43
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  2
+                    }
+                ]
+}

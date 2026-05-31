@@ -1,0 +1,258 @@
+﻿{
+    "id":  "tt3960394",
+    "detail":  {
+                   "id":  "tt3960394",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Interview with the Vampire",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYmE0MjUzY2YtYTU3Yi00ZGUzLWE3MmQtM2M2Y2QyYWZmYjkwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  510,
+                                        "height":  755
+                                    },
+                   "startYear":  2022,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  39723
+                              },
+                   "plot":  "A vampire tells his epic story of love, blood, and the perils of immortality to a journalist.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2172605",
+                                         "displayName":  "Levan Akin",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDI0OTg1NDItYTUwMi00NzQ0LTg5NzItNjBmODFjZjA1YWIyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3000,
+                                                              "height":  2000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0957197",
+                                         "displayName":  "Craig Zisk",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjM1MDA5MTcwM15BMl5BanBnXkFtZTgwNTQyNTA1MjE@._V1_.jpg",
+                                                              "width":  739,
+                                                              "height":  800
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1349199",
+                                         "displayName":  "Keith Powell",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTdmNjU4M2EtNGVlYy00MzYyLWI2ODEtN2ExYjZjN2U3NmE5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  868,
+                                                              "height":  1300
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0148276",
+                                       "displayName":  "Jonathan Ceniceroz",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTEwMGRjMTktYjUyZC00OWViLWIzZTgtYmFlZjAxZDg4YTYyXkEyXkFqcGc@._V1_CR0,6,995,1493_.jpg",
+                                                            "width":  995,
+                                                            "height":  1493
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1289754",
+                                       "displayName":  "Rolin Jones",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYjUyZTQ3Y2ItZTMyMC00ZTBlLWJlZGYtODJhYmZlNzQ0OTBlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5000,
+                                                            "height":  3382
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0723351",
+                                       "displayName":  "Anne Rice",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTY2NzkxOTY2Ml5BMl5BanBnXkFtZTcwMjkwNzQ3OQ@@._V1_.jpg",
+                                                            "width":  1374,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm8814599",
+                                       "displayName":  "Shane Munson",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYWFhMmJkNTEtNTk2YS00MDkyLWIyYWUtYjczMTJhMjMxYTI2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  7952,
+                                                            "height":  5304
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2760664",
+                                     "displayName":  "Jacob Anderson",
+                                     "alternativeNames":  [
+                                                              "Raleigh Ritchie"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmI4ZmIyM2UtZTJiMy00NjlkLTg3NWItZWVjMjIzMjFkNDEzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  256,
+                                                          "height":  320
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2730580",
+                                     "displayName":  "Sam Reid",
+                                     "alternativeNames":  [
+                                                              "Sebastian Reid"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmFjMzAxMmUtNDI4ZS00NDc4LTliYmMtM2EwYTA3MWFlOGU0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3397,
+                                                          "height":  4881
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0091899",
+                                     "displayName":  "Eric Bogosian",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDUyODIxMDc1OF5BMl5BanBnXkFtZTgwNzYwMDcxMzE@._V1_.jpg",
+                                                          "width":  3162,
+                                                          "height":  2100
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7154281",
+                                     "displayName":  "Assad Zaman",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDJlZTUxOGYtMGU0My00OWY1LTg2MzAtOTg4MzJhYmRhYWE3XkEyXkFqcGc@._V1_CR218,21,2020,3031_.jpg",
+                                                          "width":  2020,
+                                                          "height":  3031
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000077",
+                                         "name":  "Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000083",
+                                         "name":  "Period Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000119",
+                                         "name":  "Vampire Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  7
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  7
+                    }
+                ]
+}

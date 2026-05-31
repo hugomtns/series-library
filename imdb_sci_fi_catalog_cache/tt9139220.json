@@ -1,0 +1,265 @@
+﻿{
+    "id":  "tt9139220",
+    "detail":  {
+                   "id":  "tt9139220",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Dracula",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZjFiNzI2ZjctOTQ3OS00OThhLWI3OWItZmJiMmY0NmU0MTEyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2025,
+                                        "height":  3000
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2020,
+                   "runtimeSeconds":  5400,
+                   "genres":  [
+                                  "Action",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.8,
+                                  "voteCount":  57844
+                              },
+                   "plot":  "In 1897 Transylvania, the blood-drinking Count draws his plans against Victorian London.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0132600",
+                                         "displayName":  "Jonny Campbell",
+                                         "alternativeNames":  [
+                                                                  "Jonathan Campbell"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMGZmOTk0NjEtOTgzNi00ZWQ2LTk1ZGYtOTZjY2ViM2FkMWU1XkEyXkFqcGc@._V1_CR2309,152,3333,5000_.jpg",
+                                                              "width":  3333,
+                                                              "height":  5000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0006476",
+                                         "displayName":  "Paul McGuigan",
+                                         "alternativeNames":  [
+                                                                  "Paul Mcguigan"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTQ3MTg0OTI5Nl5BMl5BanBnXkFtZTcwMjQyMjkyMg@@._V1_.jpg",
+                                                              "width":  281,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2270017",
+                                         "displayName":  "Damon Thomas",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZjA1YzNiNjgtNDM0MC00MDQ0LTgwMWEtODUyYTRhOGUyNGYxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3024,
+                                                              "height":  4032
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0309693",
+                                       "displayName":  "Mark Gatiss",
+                                       "alternativeNames":  [
+                                                                "The Cast",
+                                                                "Rondo Haxton",
+                                                                "The League of Gentlemen"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTYzNDIwNzg4NF5BMl5BanBnXkFtZTcwNTI0MTk4OQ@@._V1_.jpg",
+                                                            "width":  1572,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0595590",
+                                       "displayName":  "Steven Moffat",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTU5Mjk4NTIyM15BMl5BanBnXkFtZTcwMDA5MjIzNw@@._V1_.jpg",
+                                                            "width":  1365,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0831290",
+                                       "displayName":  "Bram Stoker",
+                                       "alternativeNames":  [
+                                                                "Abraham Stoker"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYjViNGI3NjAtM2Q1ZC00N2VjLWI4OGMtMWM0YTZlY2NiMmZjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  330,
+                                                            "height":  500
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0051903",
+                                     "displayName":  "Claes Bang",
+                                     "alternativeNames":  [
+                                                              "Claes Kaspar Bang",
+                                                              "Claes Kasper Bang",
+                                                              "Claes"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjkyM2FiNGItNWM5NS00ZDhhLWJjZDAtMzk3MjY5Y2I4NjM0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  862,
+                                                          "height":  920
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0920185",
+                                     "displayName":  "Dolly Wells",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk0MzI4NzYyN15BMl5BanBnXkFtZTgwMDEyNDI2MTE@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0034877",
+                                     "displayName":  "Jonathan Aris",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzhmZjI5MmItMjM0Ny00YjA5LTk4ZGMtOTM3NDgyOTA4NDA2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3045,
+                                                          "height":  3806
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6077056",
+                                     "displayName":  "Morfydd Clark",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc4OTMyNzMxNF5BMl5BanBnXkFtZTgwODUzMDExMzE@._V1_.jpg",
+                                                          "width":  461,
+                                                          "height":  576
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3467387",
+                                     "displayName":  "John Heffernan",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU3MjE2MjQ1NV5BMl5BanBnXkFtZTgwNjU0MDE4NTM@._V1_.jpg",
+                                                          "width":  1456,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000083",
+                                         "name":  "Period Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000113",
+                                         "name":  "Monster Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000119",
+                                         "name":  "Vampire Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  3
+                    }
+                ]
+}

@@ -1,0 +1,186 @@
+﻿{
+    "id":  "tt22754212",
+    "detail":  {
+                   "id":  "tt22754212",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Citadel: Diana",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTkxZGRlNmMtMWNkOC00MmQ0LWFiZjMtNWFmODExY2M0YjgzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1920
+                                    },
+                   "startYear":  2024,
+                   "endYear":  2024,
+                   "runtimeSeconds":  3000,
+                   "genres":  [
+                                  "Action",
+                                  "Drama",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.1,
+                                  "voteCount":  5100
+                              },
+                   "plot":  "In 2030 Milan, an undercover agent for the global spy agency Citadel is trapped behind enemy lines as a mole in the powerful enemy syndicate Manticore.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0146166",
+                                         "displayName":  "Arnaldo Catinari",
+                                         "alternativeNames":  [
+                                                                  "ÃrnÃ¡ldo CÃ¡tinÃ¡ri"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMDE2Yjg3N2YtODU2MC00NWUxLTg0YWEtMWFjYmYwYzMzMGMyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1328,
+                                                              "height":  1220
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1453153",
+                                       "displayName":  "Alessandro Fabbri",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmJmNDc2MGEtMTllNi00NjgwLTkyMjYtMTYzM2ZlMDQ2YjJhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1304,
+                                                            "height":  1526
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm11125690",
+                                       "displayName":  "Carlo Cosio",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2857216",
+                                       "displayName":  "Ilaria Bernardini",
+                                       "alternativeNames":  [
+                                                                "IB"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm11487267",
+                                     "displayName":  "Lorenzo Cervasio",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODI0ZDQxNTgtOWI2ZC00NDc2LWIyZTQtZGViMGU3MzBjN2NiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2000,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7006860",
+                                     "displayName":  "Matilda De Angelis",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzdkZjY5MWUtMmNiYS00NDE5LWFmMDktM2Q5MGUxZjJlNGZjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3334,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2362660",
+                                     "displayName":  "Julia Piaton",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGExZWM5MjQtZmM4OS00OGUwLWI1ZmUtMGQwOTJjOWQ1YWQzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  367,
+                                                          "height":  550
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4392084",
+                                     "displayName":  "Maurizio Lombardi",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWNjYjBhNzQtNjE4NS00NWQ0LTkxZDgtMjlmNmMwOGZlNjg5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1280,
+                                                          "height":  1600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "IT",
+                                               "name":  "Italy"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "ita",
+                                               "name":  "Italian"
+                                           },
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000184",
+                                         "name":  "Spy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     },
+                                     {
+                                         "id":  "in0000223",
+                                         "name":  "Italian"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    }
+                ]
+}

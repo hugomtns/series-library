@@ -1,0 +1,186 @@
+﻿{
+    "id":  "tt0135659",
+    "detail":  {
+                   "id":  "tt0135659",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Storm of the Century",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYzljZTBhYjItYTNlNi00OWU1LTkyZTYtZTkxZmUwOTQ4MGZkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1500
+                                    },
+                   "startYear":  1999,
+                   "endYear":  1999,
+                   "runtimeSeconds":  5160,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  27014
+                              },
+                   "plot":  "A dangerous blizzard hits an isolated town and brings along a mysterious stranger intent on terrorizing people for his own desires.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0062644",
+                                         "displayName":  "Craig R. Baxley",
+                                         "alternativeNames":  [
+                                                                  "Craig Baxley"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTg0MDc1NzgyNF5BMl5BanBnXkFtZTcwODQ5NjIyNQ@@._V1_.jpg",
+                                                              "width":  2928,
+                                                              "height":  2352
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "stunts"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0000175",
+                                       "displayName":  "Stephen King",
+                                       "alternativeNames":  [
+                                                                "Richard Bachman",
+                                                                "The Rock Bottom Remainders",
+                                                                "John Swithen"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjA2ODIxNDM4Nl5BMl5BanBnXkFtZTYwMjkzMzU1._V1_.jpg",
+                                                            "width":  257,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001198",
+                                     "displayName":  "Debrah Farentino",
+                                     "alternativeNames":  [
+                                                              "Debra Farentino",
+                                                              "Deborah Mullowney",
+                                                              "Debrah Mullowney",
+                                                              "Debra Mullowney"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM3NzM0NjUzMF5BMl5BanBnXkFtZTYwNzQzODY3._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0004857",
+                                     "displayName":  "Tim Daly",
+                                     "alternativeNames":  [
+                                                              "Timothy Daly"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTgyZjU2YTgtZDJmYS00MDIxLWI4ZjAtYWQ1MjE1N2U1NzhkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2925,
+                                                          "height":  3203
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0272173",
+                                     "displayName":  "Colm Feore",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY2MDYzNjA2MF5BMl5BanBnXkFtZTYwMzQxMjE2._V1_.jpg",
+                                                          "width":  254,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0218810",
+                                     "displayName":  "Jeffrey DeMunn",
+                                     "alternativeNames":  [
+                                                              "Jeffrey De Munn",
+                                                              "Jeff De Munn",
+                                                              "Jeff DeMunn",
+                                                              "Jeff Demunn"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ0Mjc3NDA1OV5BMl5BanBnXkFtZTcwMTg3MDEyOA@@._V1_.jpg",
+                                                          "width":  1615,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000113",
+                                         "name":  "Monster Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  3
+                    }
+                ]
+}

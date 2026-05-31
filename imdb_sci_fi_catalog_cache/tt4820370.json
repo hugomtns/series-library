@@ -1,0 +1,249 @@
+﻿{
+    "id":  "tt4820370",
+    "detail":  {
+                   "id":  "tt4820370",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Channel Zero",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjExMTMxNjMwNl5BMl5BanBnXkFtZTgwNDA2OTYzNjM@._V1_.jpg",
+                                        "width":  998,
+                                        "height":  1500
+                                    },
+                   "startYear":  2016,
+                   "endYear":  2018,
+                   "runtimeSeconds":  2640,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.1,
+                                  "voteCount":  13540
+                              },
+                   "plot":  "An anthology series based on creepypastas.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1646022",
+                                         "displayName":  "Craig William Macneill",
+                                         "alternativeNames":  [
+                                                                  "Craig Macneill"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjNhYTJkNzgtNTIzNi00MzJhLWFiNGEtOWU5YzMzMjU4NzM3XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1692,
+                                                              "height":  1958
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm5013702",
+                                         "displayName":  "Steven Piet",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjY1NDc3NTUwNl5BMl5BanBnXkFtZTgwMjk4ODkwNTE@._V1_.jpg",
+                                                              "width":  2521,
+                                                              "height":  2521
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1414810",
+                                         "displayName":  "E.L. Katz",
+                                         "alternativeNames":  [
+                                                                  "Evan Katz"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTUwMTQ5OTgyOF5BMl5BanBnXkFtZTgwNDgzMTQ3MjE@._V1_.jpg",
+                                                              "width":  2000,
+                                                              "height":  1333
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm4528537",
+                                       "displayName":  "Nick Antosca",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZjQ5MWViN2YtMTJiMS00MmE0LWI5NGYtYTU2NGIyYzU0ZWVmXkEyXkFqcGc@._V1_CR192,0,1999,2999_.jpg",
+                                                            "width":  1999,
+                                                            "height":  2999
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0679037",
+                                       "displayName":  "Harley Peyton",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2596907",
+                                       "displayName":  "Kris Straub",
+                                       "alternativeNames":  [
+                                                                "Kristofer Straub"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "animation_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1011431",
+                                     "displayName":  "Marina Stephenson Kerr",
+                                     "alternativeNames":  [
+                                                              "Maria Stephenson Kerr",
+                                                              "Marina Stephenson",
+                                                              "Marina Stephenson-Kerr"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGMyMTk3MmMtMGY3OS00ZDJmLThiNTUtYzRiOTZjOGYyNTQ1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2400,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "stunts"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1792900",
+                                     "displayName":  "Brandon Scott",
+                                     "alternativeNames":  [
+                                                              "Brandon O\u0027Neil Scott"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGZhYjViZmYtOTAxMy00YmZlLTgwOWItM2VjOGNmNGI2ZTFkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1179,
+                                                          "height":  789
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6786013",
+                                     "displayName":  "Abigail Pniowsky",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWExZjI0YjMtMjhjZC00ZGJkLWE3Y2MtYWNlODgyOWQxZDIxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1284,
+                                                          "height":  1903
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4627683",
+                                     "displayName":  "Diana Bentley",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzUxYTg4MTAtNGRlNC00ODRiLWI4MWItZjg4MTA3ODUyNThiXkEyXkFqcGc@._V1_CR552,1,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000113",
+                                         "name":  "Monster Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000114",
+                                         "name":  "Psychological Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000115",
+                                         "name":  "Slasher Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  6
+                    }
+                ]
+}

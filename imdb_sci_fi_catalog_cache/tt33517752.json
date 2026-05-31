@@ -1,0 +1,164 @@
+﻿{
+    "id":  "tt33517752",
+    "detail":  {
+                   "id":  "tt33517752",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Beauty",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNzZiYjMwM2EtYmE0NS00NTg5LThhNGUtMjU2ZjcwMjM3ZGJhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1350
+                                    },
+                   "startYear":  2026,
+                   "runtimeSeconds":  2520,
+                   "genres":  [
+                                  "Drama",
+                                  "Horror",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.6,
+                                  "voteCount":  12228
+                              },
+                   "plot":  "Partners Cooper Madsen and Jordan Bennett investigate \"the Beauty\" STD causing aesthetic effects but proving lethal, evading corrupt officials and a mercenary targeting them amidst a suspected government conspiracy.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0614682",
+                                         "displayName":  "Ryan Murphy",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTk3NjE4MjA1MF5BMl5BanBnXkFtZTcwODE3OTM3Mw@@._V1_.jpg",
+                                                              "width":  266,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "music_department",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3723185",
+                                       "displayName":  "Jeremy Haun",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3469928",
+                                       "displayName":  "Matthew Hodgson",
+                                       "alternativeNames":  [
+                                                                "Matt Hodgson"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0614682",
+                                       "displayName":  "Ryan Murphy",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOTk3NjE4MjA1MF5BMl5BanBnXkFtZTcwODE3OTM3Mw@@._V1_.jpg",
+                                                            "width":  266,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm7477844",
+                                     "displayName":  "Chanel Stewart",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTFlZDRmZTUtMzUyYi00OTE4LTlmZDAtZjM2OTE3MzI2NDE4XkEyXkFqcGc@._V1_CR124,2,838,1257_.jpg",
+                                                          "width":  838,
+                                                          "height":  1257
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2342888",
+                                     "displayName":  "Rob Yang",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzg5MjU5NjEtNWVhOC00NmYyLWI2YTktNTc1M2NjYjk3MWQ2XkEyXkFqcGc@._V1_CR244,119,343,514_.jpg",
+                                                          "width":  343,
+                                                          "height":  514
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9480833",
+                                     "displayName":  "Patrick Luwis",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTkzMGY1YTYtMTg2Ni00NmIxLTgwZTAtZDdkYmRjMjU4MjI3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2730,
+                                                          "height":  4096
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6644173",
+                                     "displayName":  "Chris Silcox",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTRjMzYwNTAtNTY0ZS00MmU1LWE4NjctY2YzY2ViNDdlNDUzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2401,
+                                                          "height":  3600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "stunts"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000109",
+                                         "name":  "Body Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000114",
+                                         "name":  "Psychological Horror",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  11
+                    }
+                ]
+}

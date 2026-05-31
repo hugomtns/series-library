@@ -1,0 +1,216 @@
+﻿{
+    "id":  "tt0086824",
+    "detail":  {
+                   "id":  "tt0086824",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Voltron: Defender of the Universe",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYTk0ZWI3NjMtMzhmYi00YzRiLWE0MzYtMWQyODY1ZTRmOTkyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1051,
+                                        "height":  1495
+                                    },
+                   "startYear":  1984,
+                   "endYear":  1985,
+                   "runtimeSeconds":  1440,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Family",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  5638
+                              },
+                   "plot":  "This series focuses on five lion robots and their pilots as they fight the evil forces of King Zarkon and Prince Lotor.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0168988",
+                                         "displayName":  "Franklin Cofod",
+                                         "alternativeNames":  [
+                                                                  "Franklin D. Cofod"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "editorial_department",
+                                                                    "producer",
+                                                                    "production_manager"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0016938",
+                                       "displayName":  "Howard Albrecht",
+                                       "alternativeNames":  [
+                                                                "Artie Phillips"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0108163",
+                                       "displayName":  "Jameson Brewer",
+                                       "alternativeNames":  [
+                                                                "James Brewer"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0424825",
+                                       "displayName":  "Coslough Johnson",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZWE0YTdlMmUtMzE4Yi00MmYzLTliOGItOWRkMDJmYmI3NmUxXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  525,
+                                                            "height":  404
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0191520",
+                                     "displayName":  "Peter Cullen",
+                                     "alternativeNames":  [
+                                                              "Peter Cullan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUxNzMwMTU0MF5BMl5BanBnXkFtZTcwMjI2OTU5Ng@@._V1_.jpg",
+                                                          "width":  1404,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0068407",
+                                     "displayName":  "Michael Bell",
+                                     "alternativeNames":  [
+                                                              "Pryce Ballard",
+                                                              "Pryde Ballard",
+                                                              "Mike Bell",
+                                                              "Michael \u0026 Marcia"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM2MDExNjI5NV5BMl5BanBnXkFtZTcwMTc5Mzk5Nw@@._V1_.jpg",
+                                                          "width":  488,
+                                                          "height":  724
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0029460",
+                                     "displayName":  "Jack Angel",
+                                     "alternativeNames":  [
+                                                              "Jack Angell"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTExMDI4MTMtZThhZS00ZDRiLTk5NGEtNTgzNjkwMzZiYTNjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  780,
+                                                          "height":  1170
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0918396",
+                                     "displayName":  "Lennie Weinrib",
+                                     "alternativeNames":  [
+                                                              "Lenny Weinrib",
+                                                              "Len Weinrib",
+                                                              "Leonard Weinrib"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDg3MTA5M2UtMTdkNS00YTVlLTg1OWItZTAxODQwN2U3N2JmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1600,
+                                                          "height":  1245
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000027",
+                                         "name":  "Anime"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000204",
+                                         "name":  "Mecha",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  52
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  52
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  20
+                    }
+                ]
+}

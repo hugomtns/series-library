@@ -1,0 +1,298 @@
+﻿{
+    "id":  "tt0090506",
+    "detail":  {
+                   "id":  "tt0090506",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Real Ghostbusters",
+                   "originalTitle":  "The Real Ghost Busters",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNWZhZGMwMmEtNWVmMC00ZGU2LWEwMWYtNmFlMTI2MmY2MjRlXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1066,
+                                        "height":  1600
+                                    },
+                   "startYear":  1986,
+                   "endYear":  1991,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  12063
+                              },
+                   "plot":  "The continuing adventures of the staff of the ghost removal service.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0582798",
+                                         "displayName":  "Will Meugniot",
+                                         "alternativeNames":  [
+                                                                  "Will Meuginot",
+                                                                  "William Meugniot",
+                                                                  "Will Meugnoit",
+                                                                  "Will Meunoit"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0713497",
+                                         "displayName":  "Richard Raynis",
+                                         "alternativeNames":  [
+                                                                  "Richard Grrrrraynis",
+                                                                  "A Producer",
+                                                                  "A Clone of Richard Raynis",
+                                                                  "Artificially Intelligent Raynis",
+                                                                  "Edgar Allen Raynis",
+                                                                  "Giblets Raynis",
+                                                                  "Heinous Richard Raynis",
+                                                                  "Icky Ricky Raynis",
+                                                                  "Old Dick the Top-Kick Raynis",
+                                                                  "Re-Animator Raynis",
+                                                                  "Really Unruly Richard Raynis",
+                                                                  "Remotely Raving Raynis",
+                                                                  "Richard \u0027Allen\u0027 Raynis",
+                                                                  "Richard \u0027Really Unruly\u0027 Raynis",
+                                                                  "Richard Bone Digger Raynis",
+                                                                  "Richard Really Unruly Raynis",
+                                                                  "Rich Raynis",
+                                                                  "Socially Distant Raynis",
+                                                                  "Virtually Real Raynis",
+                                                                  "Wretched Richard Raynis",
+                                                                  "Xray-Nis"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "producer",
+                                                                    "production_manager",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0680799",
+                                         "displayName":  "Stan Phillips",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0020176",
+                                       "displayName":  "Pat Allee",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0000101",
+                                       "displayName":  "Dan Aykroyd",
+                                       "alternativeNames":  [
+                                                                "Danny Aykroyd",
+                                                                "The Blues Brothers"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTI2MDA3NTg0NF5BMl5BanBnXkFtZTYwMzM5ODgz._V1_.jpg",
+                                                            "width":  261,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1005417",
+                                       "displayName":  "Steven Barnes",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0005606",
+                                     "displayName":  "Maurice LaMarche",
+                                     "alternativeNames":  [
+                                                              "Maurce La Marche",
+                                                              "Maurice La Marche",
+                                                              "Maurice La\u0027Marche",
+                                                              "Maurice \"The Funk of 40000 Voices\" LaMarche",
+                                                              "Maurice LaMarchee",
+                                                              "Maurice LaMarrrrghhh!!",
+                                                              "Maurice LaMarsh",
+                                                              "Maurice Lamarche",
+                                                              "Mo"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2UwY2MxODMtNmZhZi00NzI0LTg5YzMtY2MzZjg0YTZmNjczXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  667,
+                                                          "height":  838
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0919798",
+                                     "displayName":  "Frank Welker",
+                                     "alternativeNames":  [
+                                                              "Jack Beanstalk",
+                                                              "Dr. Frankenwelker",
+                                                              "Frank W. Welker",
+                                                              "Franklin Welker",
+                                                              "Tom Welker"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjM2MzU2ODYxMV5BMl5BanBnXkFtZTgwMzQ3MjcwMjE@._V1_.jpg",
+                                                          "width":  480,
+                                                          "height":  640
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0002119",
+                                     "displayName":  "Arsenio Hall",
+                                     "alternativeNames":  [
+                                                              "Arsenio"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTczMTE2MTk3MF5BMl5BanBnXkFtZTcwNjc0MjQyNw@@._V1_.jpg",
+                                                          "width":  1464,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0183417",
+                                     "displayName":  "Dave Coulier",
+                                     "alternativeNames":  [
+                                                              "Dave Couilier",
+                                                              "David Coulier",
+                                                              "David Couwlier"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTgwNDQ5MTYxNl5BMl5BanBnXkFtZTgwNzI4ODM0MDE@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1397
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           },
+                                           {
+                                               "code":  "FR",
+                                               "name":  "France"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  65
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  4
+                    }
+                ]
+}

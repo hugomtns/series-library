@@ -1,0 +1,227 @@
+﻿{
+    "id":  "tt0111987",
+    "detail":  {
+                   "id":  "tt0111987",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Goosebumps",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMmY0YzU1M2QtYjdiYy00M2QzLTk3OTEtNzI1YjAxNTA4ZmEyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1280,
+                                        "height":  1882
+                                    },
+                   "startYear":  1995,
+                   "endYear":  1998,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  16907
+                              },
+                   "plot":  "A series of scary anthology stories based on the children\u0027s books by R.L. Stine.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0296651",
+                                         "displayName":  "William Fruet",
+                                         "alternativeNames":  [
+                                                                  "William Fruete"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDI3YmIxYjQtZjU2YS00OTFjLWIzMzMtYjFkMTdiZWQ1YzdjXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  676,
+                                                              "height":  682
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0646987",
+                                         "displayName":  "Ron Oliver",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDU0ZjgxN2YtZDY4NS00Y2JjLTg4ZWItMTcwYjYyZDk1YWVlXkEyXkFqcGc@._V1_CR889,0,1360,2040_.jpg",
+                                                              "width":  1360,
+                                                              "height":  2040
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1053661",
+                                         "displayName":  "John Bell",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0830419",
+                                       "displayName":  "R.L. Stine",
+                                       "alternativeNames":  [
+                                                                "Eric Affabee",
+                                                                "Zachary Blue",
+                                                                "R.L. Stein",
+                                                                "Jovail Bob Stine",
+                                                                "Jovial Bob Stine"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjhjNWU0NjEtZjdhNC00MjNmLWE5NGEtMTYwNzQyMGZhZDRmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4446,
+                                                            "height":  4533
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0029445",
+                                       "displayName":  "Dan Angel",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDRlM2ZhNzctMWRmNC00YTA0LWIxNzEtNzRlN2YzMWU1ZmQ3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1200,
+                                                            "height":  1800
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0113126",
+                                       "displayName":  "Billy Brown",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0830419",
+                                     "displayName":  "R.L. Stine",
+                                     "alternativeNames":  [
+                                                              "Eric Affabee",
+                                                              "Zachary Blue",
+                                                              "R.L. Stein",
+                                                              "Jovail Bob Stine",
+                                                              "Jovial Bob Stine"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjhjNWU0NjEtZjdhNC00MjNmLWE5NGEtMTYwNzQyMGZhZDRmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4446,
+                                                          "height":  4533
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1368929",
+                                     "displayName":  "Kathryn Short",
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0427796",
+                                     "displayName":  "Cody Jones",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0927015",
+                                     "displayName":  "Scott Wickware",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzU4MDBhMWUtM2NkNC00NmVhLTkxOWYtMGNjNDMzMjM3YTE1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  720,
+                                                          "height":  540
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  19
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  8
+                    }
+                ]
+}

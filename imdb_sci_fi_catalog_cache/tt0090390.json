@@ -1,0 +1,236 @@
+﻿{
+    "id":  "tt0090390",
+    "detail":  {
+                   "id":  "tt0090390",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "ALF",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNDM5ZWQ1MmItMzk1My00NjhmLWE1NGMtN2E2ZmM4YmE3NWVkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1822,
+                                        "height":  2700
+                                    },
+                   "startYear":  1986,
+                   "endYear":  1990,
+                   "runtimeSeconds":  1500,
+                   "genres":  [
+                                  "Comedy",
+                                  "Family",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  42600
+                              },
+                   "plot":  "When an adorable, fuzzy creature, who loves eating cats, crash-lands into the Tanner family\u0027s garage, they treat him as a guest and allow him to live with them as he comments on the stupidity of mankind.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0369858",
+                                         "displayName":  "Nick Havinga",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0109455",
+                                         "displayName":  "Burt Brinckerhoff",
+                                         "alternativeNames":  [
+                                                                  "Burton Brinckerhoff",
+                                                                  "Burt Brinkerhoff"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZTgyMjVlNDctYmE5NS00NWE4LWE1YTEtMmZiZmUwMmZiZGZkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  689,
+                                                              "height":  530
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0793727",
+                                         "displayName":  "Gary Shimokawa",
+                                         "alternativeNames":  [
+                                                                  "Gary K. Shimokawa"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0665305",
+                                       "displayName":  "Tom Patchett",
+                                       "alternativeNames":  [
+                                                                "Patchett and Tarses"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0299319",
+                                       "displayName":  "Paul Fusco",
+                                       "alternativeNames":  [
+                                                                "ALF"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYWFmOGJjMjEtNjlkNS00NzdkLWJiMDUtOTVhZGM4YjZjZjM5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  500,
+                                                            "height":  375
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0839966",
+                                       "displayName":  "Stephen Sustarsic",
+                                       "alternativeNames":  [
+                                                                "Steve Sustarsic"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0299319",
+                                     "displayName":  "Paul Fusco",
+                                     "alternativeNames":  [
+                                                              "ALF"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWFmOGJjMjEtNjlkNS00NzdkLWJiMDUtOTVhZGM4YjZjZjM5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0770399",
+                                     "displayName":  "Anne Schedeen",
+                                     "alternativeNames":  [
+                                                              "Ann Schedeen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAxOTQzODUwN15BMl5BanBnXkFtZTcwOTY4MzcxOA@@._V1_.jpg",
+                                                          "width":  1322,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0942642",
+                                     "displayName":  "Max Wright",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTcyNTk2NjYzNl5BMl5BanBnXkFtZTcwNDg4MzcxOA@@._V1_.jpg",
+                                                          "width":  1336,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0582361",
+                                     "displayName":  "Mihaly \u0027Michu\u0027 Meszaros",
+                                     "alternativeNames":  [
+                                                              "Mihaly \u0027Michu\u0027 Mesza",
+                                                              "Michu Meszaros",
+                                                              "Mihaly Meszaros",
+                                                              "Michu",
+                                                              "MihÃ¡ly \u0027Michu\u0027 MÃ©szÃ¡ros"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYyMTk0MzQ2NV5BMl5BanBnXkFtZTgwOTkxOTYxOTE@._V1_.jpg",
+                                                          "width":  300,
+                                                          "height":  459
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "stunts"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000037",
+                                         "name":  "High-Concept Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  27
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  1
+                    }
+                ]
+}

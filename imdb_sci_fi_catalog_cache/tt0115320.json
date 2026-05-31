@@ -1,0 +1,246 @@
+﻿{
+    "id":  "tt0115320",
+    "detail":  {
+                   "id":  "tt0115320",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Pretender",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzk5MzQ0NDMtNjVkYS00YzAxLWExMTktYTc0NzYxYjI0Y2VjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1426
+                                    },
+                   "startYear":  1996,
+                   "endYear":  2000,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  18016
+                              },
+                   "plot":  "A specially gifted man, with the ability to instantly master any skill, escapes from a secret testing facility and travels the country taking on different jobs and helping strangers while hiding from his kidnappers.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0445631",
+                                         "displayName":  "Frederick King Keller",
+                                         "alternativeNames":  [
+                                                                  "Fred C. Keller",
+                                                                  "Fred K. Keller",
+                                                                  "Frederick K. Keller",
+                                                                  "Fredrick K. Keller",
+                                                                  "Fred Keller"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0926215",
+                                         "displayName":  "James Whitmore Jr.",
+                                         "alternativeNames":  [
+                                                                  "James Whitmore"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0641343",
+                                         "displayName":  "Terrence O\u0027Hara",
+                                         "alternativeNames":  [
+                                                                  "Terence O\u0027Hara"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTE0NmIwOTQtYmNjMy00MDZmLWIxMWQtZThkYzE0YmJhNDM5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  512,
+                                                              "height":  623
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0593749",
+                                       "displayName":  "Steven Long Mitchell",
+                                       "alternativeNames":  [
+                                                                "Steve Long Mitchell",
+                                                                "Steve Mitchell"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0887978",
+                                       "displayName":  "Craig W. Van Sickle",
+                                       "alternativeNames":  [
+                                                                "Craig Van Sickle"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0342057",
+                                       "displayName":  "Javier Grillo-Marxuach",
+                                       "alternativeNames":  [
+                                                                "written by"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmMwZGU1OTUtNDkyMC00NjhmLTg5ODUtODU2MmJjZGU0OGNlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  966,
+                                                            "height":  1351
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0662042",
+                                     "displayName":  "Andrea Parker",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTIzZDViNjctZDg1ZC00ZWFmLTg0NTEtNTExOTQ4Y2Q5NTBjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1920,
+                                                          "height":  2880
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0919117",
+                                     "displayName":  "Michael T. Weiss",
+                                     "alternativeNames":  [
+                                                              "Michael T. Wiess"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODJlZjRjNGItMGUwNi00OGFiLWJmY2UtY2Q3ODVlOThhMWVhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  763,
+                                                          "height":  1280
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000872",
+                                     "displayName":  "Patrick Bauchau",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjNmMzBhNzYtZmE0Ni00NTA1LTg3YzUtOTIwOGZiYTg2MzcyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  582,
+                                                          "height":  669
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0340973",
+                                     "displayName":  "Jon Gries",
+                                     "alternativeNames":  [
+                                                              "Jon Francis",
+                                                              "Johnathan Gries",
+                                                              "John Gries",
+                                                              "Jonathan Gries",
+                                                              "Jonathon Gries"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTMzMDk0Mzc0Nl5BMl5BanBnXkFtZTgwNjU4MzY5NTM@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1365
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000091",
+                                         "name":  "Workplace Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  20
+                    }
+                ]
+}

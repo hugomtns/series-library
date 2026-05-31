@@ -1,0 +1,175 @@
+﻿{
+    "id":  "tt4824056",
+    "detail":  {
+                   "id":  "tt4824056",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Bandits",
+                   "originalTitle":  "Ulan Istanbul",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNTJkYzc0YzItMjA2ZS00NDkwLTg1NDctMmEzYjY5NTEzMDJjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  405,
+                                        "height":  540
+                                    },
+                   "startYear":  2014,
+                   "endYear":  2015,
+                   "runtimeSeconds":  7200,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  7439
+                              },
+                   "plot":  "A group of thieves act like a family and help people by stealing in Istanbul.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm4724324",
+                                         "displayName":  "Murat Onbul",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm5919045",
+                                       "displayName":  "Ugras GÃ¼nes",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "soundtrack",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5493606",
+                                       "displayName":  "Isil Sonmez",
+                                       "alternativeNames":  [
+                                                                "Isil Sonmez Sarhan"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5919046",
+                                       "displayName":  "Can YÃ¼cel",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm3427444",
+                                     "displayName":  "Åebnem Bozoklu",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjY4MzMwOGYtYTgwZS00YjE5LTk4ZjItY2NlZDMzMGFhNjc4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1920,
+                                                          "height":  1080
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5331335",
+                                     "displayName":  "Erkan KolÃ§ak KÃ¶stendil",
+                                     "alternativeNames":  [
+                                                              "Erkan KÃ¶stendil"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzY2MjM2ZTQtYzYyYi00MjM3LWE3OWYtNjJhMDFkYTc3ZWIyXkEyXkFqcGc@._V1_CR121,1,2773,4159_.jpg",
+                                                          "width":  2773,
+                                                          "height":  4159
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6870289",
+                                     "displayName":  "Kaan Yildirim",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTdmNDVkNjQtNmVmZC00NDg5LTg5MTgtODNmY2Y5NWY1YzRmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4236,
+                                                          "height":  5648
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6338727",
+                                     "displayName":  "Can Bartu Aslan",
+                                     "alternativeNames":  [
+                                                              "Can Bartu Arslan",
+                                                              "Can Bartu"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGYzMzdiZWMtNWQzYS00ZTdjLWE2ZWQtYjM5ZTdhZjkzMmNjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1349,
+                                                          "height":  751
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "TR",
+                                               "name":  "Turkey"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "tur",
+                                               "name":  "Turkish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000056",
+                                         "name":  "Heist",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000238",
+                                         "name":  "Turkish"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  39
+                    }
+                ]
+}

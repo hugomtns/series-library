@@ -1,0 +1,227 @@
+﻿{
+    "id":  "tt0086730",
+    "detail":  {
+                   "id":  "tt0086730",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Highway to Heaven",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTM4ODM5NTMzOF5BMl5BanBnXkFtZTcwMTU1NDAzMQ@@._V1_.jpg",
+                                        "width":  354,
+                                        "height":  500
+                                    },
+                   "startYear":  1984,
+                   "endYear":  1989,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.9,
+                                  "voteCount":  7629
+                              },
+                   "plot":  "A probationary angel, sent back to Earth, teams with an ex-cop to help people.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0001446",
+                                         "displayName":  "Michael Landon",
+                                         "alternativeNames":  [
+                                                                  "Mike Landon",
+                                                                  "Michael \u0026 Marjorie"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzQ5Mjg5OGMtYTlhMy00YTliLTlkYjAtNDc2MjhkYWRjYmVmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2394,
+                                                              "height":  2993
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0294229",
+                                         "displayName":  "Victor French",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzAyMjQ2NDk0NF5BMl5BanBnXkFtZTcwNTMyNTcxOA@@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1378
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0330108",
+                                         "displayName":  "Dan Gordon",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjM5YmZjYTctNjgxYy00YTVjLTlmYTYtMDZhNjY0Y2JiOTIwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  375,
+                                                              "height":  550
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "miscellaneous",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0001446",
+                                       "displayName":  "Michael Landon",
+                                       "alternativeNames":  [
+                                                                "Mike Landon",
+                                                                "Michael \u0026 Marjorie"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzQ5Mjg5OGMtYTlhMy00YTliLTlkYjAtNDc2MjhkYWRjYmVmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2394,
+                                                            "height":  2993
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0330108",
+                                       "displayName":  "Dan Gordon",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYjM5YmZjYTctNjgxYy00YTVjLTlmYTYtMDZhNjY0Y2JiOTIwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  375,
+                                                            "height":  550
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0641548",
+                                       "displayName":  "Lan O\u0027Kun",
+                                       "primaryProfessions":  [
+                                                                  "composer",
+                                                                  "music_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001446",
+                                     "displayName":  "Michael Landon",
+                                     "alternativeNames":  [
+                                                              "Mike Landon",
+                                                              "Michael \u0026 Marjorie"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzQ5Mjg5OGMtYTlhMy00YTliLTlkYjAtNDc2MjhkYWRjYmVmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2394,
+                                                          "height":  2993
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0408286",
+                                     "displayName":  "Margie Impert",
+                                     "alternativeNames":  [
+                                                              "Margaret Impert"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0294229",
+                                     "displayName":  "Victor French",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzAyMjQ2NDk0NF5BMl5BanBnXkFtZTcwNTMyNTcxOA@@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1378
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0873299",
+                                     "displayName":  "James Troesh",
+                                     "alternativeNames":  [
+                                                              "James Troesch",
+                                                              "Jim Troesh"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAyNzI0OTMxOV5BMl5BanBnXkFtZTcwNjU1MzczMQ@@._V1_.jpg",
+                                                          "width":  300,
+                                                          "height":  454
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  13
+                    }
+                ]
+}

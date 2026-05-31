@@ -1,0 +1,241 @@
+﻿{
+    "id":  "tt0319969",
+    "detail":  {
+                   "id":  "tt0319969",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "CarnivÃ le",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjNkYTAwMjQtNjZlNC00MGZiLWE1YTYtNmNjMjE5ODAzY2U2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  500,
+                                        "height":  745
+                                    },
+                   "startYear":  2003,
+                   "endYear":  2005,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.4,
+                                  "voteCount":  49572
+                              },
+                   "plot":  "During the Great Depression, an Oklahoma farm boy and a charismatic minister learn that they are key players in a proxy war being fought between Heaven and Hell.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0006554",
+                                         "displayName":  "Rodrigo GarcÃ­a",
+                                         "alternativeNames":  [
+                                                                  "Rodrigo Garcia"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMmVlYzU2ODgtZTViMi00MDhiLWI1YzYtMzFjMzhiYzE1MzkyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  839,
+                                                              "height":  1068
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0687964",
+                                         "displayName":  "Jeremy Podeswa",
+                                         "alternativeNames":  [
+                                                                  "J.Podeswa",
+                                                                  "Jermey Podeswa",
+                                                                  "Jeremy Podoswa"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0070474",
+                                         "displayName":  "Jack Bender",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjEwNjMyMjIzNF5BMl5BanBnXkFtZTcwMzc0MzYwNg@@._V1_.jpg",
+                                                              "width":  562,
+                                                              "height":  749
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0460567",
+                                       "displayName":  "Daniel Knauf",
+                                       "alternativeNames":  [
+                                                                "Chris Neal",
+                                                                "Wilfred Schmidt"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMThiYTY1NmUtYWIwMC00NWM2LTk0OGItZDk4OThkMDRkYjUyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  638,
+                                                            "height":  843
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0696518",
+                                       "displayName":  "Dawn Prestwich",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0773251",
+                                       "displayName":  "William Schmidt",
+                                       "alternativeNames":  [
+                                                                "Bill Schmidt"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000105",
+                                     "displayName":  "Adrienne Barbeau",
+                                     "alternativeNames":  [
+                                                              "Michael \u0026 Adrienne",
+                                                              "Adrian Barbeau"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDlmMmM0MzYtODY0NS00OWM5LWEzOTAtMjViYzM2OTAzMTZjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3840,
+                                                          "height":  5760
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0027199",
+                                     "displayName":  "Michael J. Anderson",
+                                     "alternativeNames":  [
+                                                              "\u0027Little Mike\u0027 Anderson",
+                                                              "Little Mike Anderson",
+                                                              "Michael John Anderson",
+                                                              "Michael Anderson",
+                                                              "Mike Anderson",
+                                                              "as Michael Anderson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUyNDgwODE5MF5BMl5BanBnXkFtZTgwNTM0Nzc3MjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000317",
+                                     "displayName":  "Clancy Brown",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUxODY3NjAzMF5BMl5BanBnXkFtZTcwMTQ5MjYwNg@@._V1_.jpg",
+                                                          "width":  1418,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0160503",
+                                     "displayName":  "Debra Christofferson",
+                                     "alternativeNames":  [
+                                                              "Debbie Christoffersen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDE5OGI3MGUtOTVkZi00ZTc5LTljMTgtMGNhYTk4NzgyZmRlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2412,
+                                                          "height":  2383
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "rus",
+                                               "name":  "Russian"
+                                           },
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           },
+                                           {
+                                               "code":  "deu",
+                                               "name":  "German"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  12
+                    }
+                ]
+}

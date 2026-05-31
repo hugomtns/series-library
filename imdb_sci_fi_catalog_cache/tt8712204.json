@@ -1,0 +1,230 @@
+﻿{
+    "id":  "tt8712204",
+    "detail":  {
+                   "id":  "tt8712204",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Batwoman",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYWU5YWRmMDMtMzA2NC00YWUxLWE0N2MtMjU1OGYwNGQ2ZGYyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  503,
+                                        "height":  755
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2022,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  3.6,
+                                  "voteCount":  48412
+                              },
+                   "plot":  "Batwoman seeks justice for Gotham City.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0197700",
+                                         "displayName":  "Holly Dale",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWIxYWIwNmQtMzgwNC00MTg1LTlhNzAtZGM2YjRjYzIxYzQ0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1600,
+                                                              "height":  1200
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0780825",
+                                         "displayName":  "Carl Seaton",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0021592",
+                                         "displayName":  "Michael A. Allowitz",
+                                         "alternativeNames":  [
+                                                                  "Michael Allowitz",
+                                                                  "Micheal A. Allowitz",
+                                                                  "Mike Allowitz"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZGQxOWRkNDgtNzJiNS00ZmEyLTkzNTgtYmM3YWY2YzFkOWU4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  799,
+                                                              "height":  828
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1941358",
+                                       "displayName":  "Caroline Dries",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTgzMDc3MzM0NF5BMl5BanBnXkFtZTgwODEzMjQyNjE@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1366
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0277730",
+                                       "displayName":  "Bill Finger",
+                                       "alternativeNames":  [
+                                                                "DC",
+                                                                "William Finger"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZjlhMzBjYjQtMGRmZC00NGViLTk4ODAtOWU3ODE3Njc3NjczXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  780,
+                                                            "height":  971
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0004170",
+                                       "displayName":  "Bob Kane",
+                                       "alternativeNames":  [
+                                                                "DC"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTM2MDQ2MDAyOV5BMl5BanBnXkFtZTcwMDUyMjcxOA@@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0803896",
+                                     "displayName":  "Rachel Skarsten",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzY4MTdiODYtZGM3ZC00OGFkLWE0YjktYmZjZTU1NzIxNzU2XkEyXkFqcGc@._V1_CR29,0,682,1023_.jpg",
+                                                          "width":  682,
+                                                          "height":  1023
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5531487",
+                                     "displayName":  "Camrus Johnson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTIxMDUwZTktMzlhNi00ZmU2LWI0NjktNjdmMTc2NGQyMzJkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1105,
+                                                          "height":  1349
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3437115",
+                                     "displayName":  "Meagan Tandy",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWM3YjQyNmUtNmE4My00MjZhLTk0MjItOGIxMDU1NWQwNzQ2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2000,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9169007",
+                                     "displayName":  "Nicole Kang",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmFlMDgyMTQtYWZhZC00NmQ0LTg1MzYtYzAyYzRhMDAzNjkyXkEyXkFqcGc@._V1_CR1,1,997,1496_.jpg",
+                                                          "width":  997,
+                                                          "height":  1496
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    }
+                ]
+}

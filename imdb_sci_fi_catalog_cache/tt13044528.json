@@ -1,0 +1,199 @@
+﻿{
+    "id":  "tt13044528",
+    "detail":  {
+                   "id":  "tt13044528",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "La RÃ©volution",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOGQxMTkxMzQtYzcyYy00ZjhlLThmNmEtOWJlMzY2NmIwNDhjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  540,
+                                        "height":  794
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2020,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "History",
+                                  "Mystery",
+                                  "Thriller",
+                                  "War"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.6,
+                                  "voteCount":  7057
+                              },
+                   "plot":  "In a reimagined history of the French Revolution, the guillotine\u0027s future inventor uncovers a disease that drives the aristocracy to murder commoners.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm4662274",
+                                         "displayName":  "JÃ©rÃ©mie Rozan",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1919480",
+                                         "displayName":  "Edouard Salier",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm7978526",
+                                         "displayName":  "Julien Trousselier",
+                                         "alternativeNames":  [
+                                                                  "Julien Troussellier"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "visual_effects"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3540974",
+                                       "displayName":  "Sabine Dabadie",
+                                       "primaryProfessions":  [
+                                                                  "costume_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1615033",
+                                       "displayName":  "Gaia Guasti",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm7600946",
+                                       "displayName":  "Hamid Hlioua",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm5812965",
+                                     "displayName":  "Amir El Kacem",
+                                     "alternativeNames":  [
+                                                              "Amir Abou El Kacem"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8505773",
+                                     "displayName":  "Marilou Aussilloux",
+                                     "alternativeNames":  [
+                                                              "Marilou Aussiloux"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2JlOGEzZTMtNGQyZC00M2FiLTllMjctMDZmMzA2MTc3MjY2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  670,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4959308",
+                                     "displayName":  "Lionel Erdogan",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2486832",
+                                     "displayName":  "Julien Frison",
+                                     "alternativeNames":  [
+                                                              "Julien Frison de la ComÃ©die FranÃ§aise",
+                                                              "Julien Frison de la ComÃ©die-FranÃ§aise"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1816136",
+                                     "displayName":  "Doudou Masta",
+                                     "alternativeNames":  [
+                                                              "Mamadou Doumbia",
+                                                              "Masta"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6100887",
+                                     "displayName":  "Esra AÃ§ik"
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "FR",
+                                               "name":  "France"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000010",
+                                         "name":  "War"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000080",
+                                         "name":  "History"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

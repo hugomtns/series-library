@@ -1,0 +1,196 @@
+﻿{
+    "id":  "tt0424600",
+    "detail":  {
+                   "id":  "tt0424600",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "The Andromeda Strain",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTgwMDM0NzUyN15BMl5BanBnXkFtZTcwODk5MTE3MQ@@._V1_.jpg",
+                                        "width":  649,
+                                        "height":  845
+                                    },
+                   "startYear":  2008,
+                   "endYear":  2008,
+                   "runtimeSeconds":  2640,
+                   "genres":  [
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.1,
+                                  "voteCount":  15055
+                              },
+                   "plot":  "A crack team of top scientists work feverishly in a secret, state-of-the-art laboratory to discover what has killed the citizens of a small town and learn how this deadly contagion can be stopped.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0004121",
+                                         "displayName":  "Mikael Salomon",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BM2VjZWI2M2UtMTM3ZC00ZjY0LTk3MjctNTFmYWRjMDNlYjRiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3264,
+                                                              "height":  2448
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0000341",
+                                       "displayName":  "Michael Crichton",
+                                       "alternativeNames":  [
+                                                                "J. Michael Crichton",
+                                                                "Michael Douglas",
+                                                                "Jeffery Hudson",
+                                                                "John Lange"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTgwOTQ1NTAyM15BMl5BanBnXkFtZTgwMTk4NzU0MDI@._V1_.jpg",
+                                                            "width":  1402,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0770938",
+                                       "displayName":  "Robert Schenkkan",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZjk0MjE2NTItMjUyYi00NGU0LWI0MTQtZWE0MTQzNDFjNDU3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  500,
+                                                            "height":  749
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000973",
+                                     "displayName":  "Benjamin Bratt",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWI4NGRkOGYtZTk3Yi00MTRkLTk2ZTctNjNjMmQ3ZWE5ZTYzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  578,
+                                                          "height":  690
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0588096",
+                                     "displayName":  "Christa Miller",
+                                     "alternativeNames":  [
+                                                              "Christa Miller Lawrence"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ4NDI4Nzc5N15BMl5BanBnXkFtZTYwNDIyNTcz._V1_.jpg",
+                                                          "width":  267,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "location_management",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005401",
+                                     "displayName":  "Ricky Schroder",
+                                     "alternativeNames":  [
+                                                              "Rick Schroder",
+                                                              "Ricky Schroeder",
+                                                              "Rick Schroeder"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTkxOTAxNDA0NV5BMl5BanBnXkFtZTcwODA4MTU5MQ@@._V1_.jpg",
+                                                          "width":  267,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0274371",
+                                     "displayName":  "Louis Ferreira",
+                                     "alternativeNames":  [
+                                                              "Louis Ferriera",
+                                                              "Justin Lewis",
+                                                              "Justin Louis"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjRjY2YyYzktYmUyYy00ODU0LWJiMDEtODMxYWI0NjMzNDExXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1019,
+                                                          "height":  1345
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000082",
+                                         "name":  "Medical Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  4
+                    }
+                ]
+}

@@ -1,0 +1,205 @@
+﻿{
+    "id":  "tt13649396",
+    "detail":  {
+                   "id":  "tt13649396",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Bastard Son \u0026 The Devil Himself",
+                   "originalTitle":  "The Bastard Son \u0026 the Devil Himself",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzJhMzg4YTgtNDZhOS00NmMyLWFmMDQtMGUwYzJmZjQ2YTM0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1350
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2022,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  16567
+                              },
+                   "plot":  "Caught between two warring clans, the son of a notorious witch responsible for a deadly massacre tries to find his place in the world â and his powers.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1142073",
+                                         "displayName":  "Colm McCarthy",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTU2MTk4Njg5M15BMl5BanBnXkFtZTgwMzc5MTgwOTE@._V1_.jpg",
+                                                              "width":  815,
+                                                              "height":  815
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3008980",
+                                         "displayName":  "Debs Paterson",
+                                         "alternativeNames":  [
+                                                                  "Debs Gardner-Paterson"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjkxYzc0NmEtOGVlYi00M2YxLWIwZDQtMjkwYzUwZDdjMjdmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  670,
+                                                              "height":  377
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2222539",
+                                         "displayName":  "Rachna Suri",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3620967",
+                                       "displayName":  "Joe Barton",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3234857",
+                                       "displayName":  "Ryan J. Brown",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2588373",
+                                       "displayName":  "Emer Kenny",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNTlhZTRlYWMtNWQyZS00YmNlLThhYjctZDY5Nzg3NGY2ZDIzXkEyXkFqcGc@._V1_CR909,720,3333,5000_.jpg",
+                                                            "width":  3333,
+                                                            "height":  5000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm10649711",
+                                     "displayName":  "Jay Lycurgo",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWM2Y2FlMzUtMTFhNi00NWM1LTk0ZDItODA0OTIwN2E5ZDdkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3380,
+                                                          "height":  4568
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0713961",
+                                     "displayName":  "Paul Ready",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjQxMjM4MjEwN15BMl5BanBnXkFtZTgwMzAxMzgxODE@._V1_.jpg",
+                                                          "width":  2400,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm10405024",
+                                     "displayName":  "Nadia Parkes",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjRiMWU0NTItM2IyZS00MWI1LWEyYzktMDI3MzNmY2Y4MzI0XkEyXkFqcGc@._V1_CR1174,237,2357,3536_.jpg",
+                                                          "width":  2357,
+                                                          "height":  3536
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm13546304",
+                                     "displayName":  "Isobel Jesper Jones",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmQ1OTMyN2ItZDJhYy00Y2Q1LWIzYTUtYmIxY2E2NjU3YjUwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1170,
+                                                          "height":  1514
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

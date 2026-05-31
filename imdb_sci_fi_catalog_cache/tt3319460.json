@@ -1,0 +1,181 @@
+﻿{
+    "id":  "tt3319460",
+    "detail":  {
+                   "id":  "tt3319460",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Lisey\u0027s Story",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMGYxZmZkZGUtNmJmOS00NWEyLWJiNzItMjQ4MTU2NWRlYzI0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2021,
+                   "runtimeSeconds":  3000,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.9,
+                                  "voteCount":  7933
+                              },
+                   "plot":  "A widow becomes the object of a dangerous stalker, obsessed with her husband\u0027s work.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1883257",
+                                         "displayName":  "Pablo LarraÃ­n",
+                                         "alternativeNames":  [
+                                                                  "Pablo Larrain"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTQ1ODI4NjcyMl5BMl5BanBnXkFtZTgwOTIyNDY3ODE@._V1_.jpg",
+                                                              "width":  399,
+                                                              "height":  600
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0000175",
+                                       "displayName":  "Stephen King",
+                                       "alternativeNames":  [
+                                                                "Richard Bachman",
+                                                                "The Rock Bottom Remainders",
+                                                                "John Swithen"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjA2ODIxNDM4Nl5BMl5BanBnXkFtZTYwMjkzMzU1._V1_.jpg",
+                                                            "width":  257,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000194",
+                                     "displayName":  "Julianne Moore",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM5NDI1MjE2Ml5BMl5BanBnXkFtZTgwNDE0Nzk0MDE@._V1_.jpg",
+                                                          "width":  596,
+                                                          "height":  827
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0654110",
+                                     "displayName":  "Clive Owen",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA4MzAyOTc5Ml5BMl5BanBnXkFtZTcwOTQ5NzEzMg@@._V1_.jpg",
+                                                          "width":  303,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000492",
+                                     "displayName":  "Jennifer Jason Leigh",
+                                     "alternativeNames":  [
+                                                              "Jennifer Leigh"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU1MzU2NTg0Nl5BMl5BanBnXkFtZTcwMjcyNjY0MQ@@._V1_.jpg",
+                                                          "width":  463,
+                                                          "height":  600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2851530",
+                                     "displayName":  "Dane DeHaan",
+                                     "alternativeNames":  [
+                                                              "Dane Dehaan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDNlYjliMDQtOTJkNS00YzExLTg2ZDctMWMzNGZmMGM5MDgyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3478,
+                                                          "height":  4621
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

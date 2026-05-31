@@ -1,0 +1,266 @@
+﻿{
+    "id":  "tt0147746",
+    "detail":  {
+                   "id":  "tt0147746",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Batman Beyond",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMDExYjNiYTYtZDkwZC00NDcxLTk3YWYtMmIyN2ZlZGYyY2E0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  407,
+                                        "height":  597
+                                    },
+                   "startYear":  1999,
+                   "endYear":  2001,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  33319
+                              },
+                   "plot":  "Fuelled by remorse and vengeance, a high schooler named Terry McGinnis revives the mantle of Batman and fights crime in a futuristic Gotham under the supervision of an elderly Bruce Wayne.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0525665",
+                                         "displayName":  "Butch Lukic",
+                                         "alternativeNames":  [
+                                                                  "Momcilo Lucik",
+                                                                  "Momcilo Butch Lukic",
+                                                                  "Moncilo Butch Lukic"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0722713",
+                                         "displayName":  "Dan Riba",
+                                         "alternativeNames":  [
+                                                                  "Daniel Riba"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0311435",
+                                         "displayName":  "Curt Geda",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0122334",
+                                       "displayName":  "Alan Burnett",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BM2RlMjAzYzYtMzE0MS00MzI4LWI5NGUtODQ3YjM5OTJkMWEzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  720,
+                                                            "height":  576
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0227704",
+                                       "displayName":  "Paul Dini",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTgxNjUxNDAyNV5BMl5BanBnXkFtZTcwODQ2NTgwOA@@._V1_.jpg",
+                                                            "width":  1471,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0329213",
+                                       "displayName":  "Bob Goodman",
+                                       "alternativeNames":  [
+                                                                "Robert Goodman"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMGYxODBjMGMtMThjYS00NzkxLWFkMWEtZDcxNTdjNTU3YjZjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  266,
+                                                            "height":  266
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0295115",
+                                     "displayName":  "Will Friedle",
+                                     "alternativeNames":  [
+                                                              "William Friedle"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA1OGFkZGEtOTg5MC00ZWRiLWI4OGItOWQ4MTYzNmM3MTUyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2531,
+                                                          "height":  3164
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0866300",
+                                     "displayName":  "Lauren Tom",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTA4NDcxNTItY2Y0MS00NjE3LTk3NDEtYTY3YmUwMThiMWJmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3452,
+                                                          "height":  5174
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0175834",
+                                     "displayName":  "Kevin Conroy",
+                                     "alternativeNames":  [
+                                                              "Kevin"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM4MDcwMTU2NF5BMl5BanBnXkFtZTcwMzMyMjg0Nw@@._V1_.jpg",
+                                                          "width":  1420,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0838588",
+                                     "displayName":  "Cree Summer",
+                                     "alternativeNames":  [
+                                                              "Cree Summer Franck",
+                                                              "Cree Summers Francks",
+                                                              "Cree Summer Francks",
+                                                              "Cree Summer Franks",
+                                                              "Cree Summer-Franck",
+                                                              "Cree Summer-Francks",
+                                                              "Cree Summers"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmZmNjczNjYtMzBkMi00ZWRmLTliMTctY2U3OGQ0Nzg5MDQ1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  854,
+                                                          "height":  1280
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000159",
+                                         "name":  "Cyberpunk",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    }
+                ]
+}

@@ -1,0 +1,225 @@
+﻿{
+    "id":  "tt8421350",
+    "detail":  {
+                   "id":  "tt8421350",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Manifest",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTFlNjg0YjAtYzMwOC00Zjc0LTkwYjAtZmRiYzdjNjcyYjc2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2222
+                                    },
+                   "startYear":  2018,
+                   "endYear":  2023,
+                   "runtimeSeconds":  2580,
+                   "genres":  [
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  104941
+                              },
+                   "plot":  "When a commercial airliner suddenly reappears after being missing for five years, those aboard must reintegrate into society.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0864268",
+                                         "displayName":  "Romeo Tirone",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWZhNDdkOWYtYmQ3NS00ODY5LWIxNjEtZmY5ZmRlODA1NTJkXkEyXkFqcGc@._V1_CR505,0,719,1079_.jpg",
+                                                              "width":  719,
+                                                              "height":  1079
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1226492",
+                                         "displayName":  "Michael Smith",
+                                         "alternativeNames":  [
+                                                                  "Michael I. Smith",
+                                                                  "Mike Smith"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTM3NzA3OTEzNF5BMl5BanBnXkFtZTcwMDQyNTUyOA@@._V1_.jpg",
+                                                              "width":  800,
+                                                              "height":  600
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0924693",
+                                         "displayName":  "Dean White",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTIxMzQ2Mjk1Nl5BMl5BanBnXkFtZTgwMjE5MDQ1MjE@._V1_.jpg",
+                                                              "width":  852,
+                                                              "height":  1280
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "production_department"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0707517",
+                                       "displayName":  "Jeff Rake",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm9414385",
+                                       "displayName":  "MW Cartozian Wilson",
+                                       "alternativeNames":  [
+                                                                "M.W. Wilson"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2837457",
+                                       "displayName":  "Ezra W. Nachman",
+                                       "alternativeNames":  [
+                                                                "Ezra Nachman"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "camera_department",
+                                                                  "production_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2796047",
+                                     "displayName":  "Josh Dallas",
+                                     "alternativeNames":  [
+                                                              "Joshua Dallas"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTJmOTdlNTEtOTNkOS00NzNhLThlY2QtZjA2NTBjZjA2YTE0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  966,
+                                                          "height":  1309
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4612692",
+                                     "displayName":  "Melissa Roxburgh",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmRlOTYxNmUtYzBlYS00OWVkLWI3Y2MtMGZlMjVmYWNkYjQ5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1125,
+                                                          "height":  1687
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2399046",
+                                     "displayName":  "Luna Blaise",
+                                     "alternativeNames":  [
+                                                              "Luna Blaise Boyd"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzk2N2EyMWEtN2UzMS00YWMxLThmNzItMzYzYzBjZTk5ZDZkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4096,
+                                                          "height":  1716
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2824707",
+                                     "displayName":  "J.R. Ramirez",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmQ1ZWY2NTUtZjEwMi00ZmY0LWEyMjItNTMxZDEwMTA4MmM2XkEyXkFqcGc@._V1_CR359,1,489,733_.jpg",
+                                                          "width":  489,
+                                                          "height":  733
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000166",
+                                         "name":  "Time Travel",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  20
+                    }
+                ]
+}

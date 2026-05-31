@@ -1,0 +1,222 @@
+﻿{
+    "id":  "tt13361448",
+    "detail":  {
+                   "id":  "tt13361448",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Night Sky",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjRiMjdmODctZjI1NS00NmI3LWEyNDktMmM0ZjdmYThmMDlmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2318,
+                                        "height":  3000
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2022,
+                   "runtimeSeconds":  3300,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  26586
+                              },
+                   "plot":  "Follows Franklin and Irene York, a couple who years ago discovered a chamber buried in their backyard which inexplicably leads to a strange, deserted planet.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1530431",
+                                         "displayName":  "Philip Martin",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0002728",
+                                         "displayName":  "Juan JosÃ© Campanella",
+                                         "alternativeNames":  [
+                                                                  "Juan JosÃ© Campanela",
+                                                                  "Juan J. Campanella",
+                                                                  "Juan Jose Campanella",
+                                                                  "Juan Campanella"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTcxMDgwNDM0NF5BMl5BanBnXkFtZTcwMzczMjMyMw@@._V1_.jpg",
+                                                              "width":  400,
+                                                              "height":  600
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0075849",
+                                         "displayName":  "Shari Springer Berman",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTMwNDQyMTc5NV5BMl5BanBnXkFtZTcwNjIwNTI5NA@@._V1_.jpg",
+                                                              "width":  1420,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0588479",
+                                       "displayName":  "Holden Miller",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5121548",
+                                       "displayName":  "Daniel C. Connolly",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNmZkYWNkZmUtMDc2MC00OWRmLTg0MzctNThhNDNhNTI1ODk2XkEyXkFqcGc@._V1_CR187,197,1435,2153_.jpg",
+                                                            "width":  1435,
+                                                            "height":  2153
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2181238",
+                                       "displayName":  "Ezra Claytan Daniels",
+                                       "alternativeNames":  [
+                                                                "Ezra Daniels"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000651",
+                                     "displayName":  "Sissy Spacek",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODAwMTU4NTMwMF5BMl5BanBnXkFtZTgwMDMyMTg4MTE@._V1_.jpg",
+                                                          "width":  899,
+                                                          "height":  1214
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "art_department",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0799777",
+                                     "displayName":  "J.K. Simmons",
+                                     "alternativeNames":  [
+                                                              "J. K. Simmons",
+                                                              "JK Simmons",
+                                                              "Jonathan Simmons"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzg2NTI5NzQ1MV5BMl5BanBnXkFtZTgwNjI1NDEwMDI@._V1_.jpg",
+                                                          "width":  1679,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5098626",
+                                     "displayName":  "Chai Hansen",
+                                     "alternativeNames":  [
+                                                              "Chai Romruen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2I5NjFkNWUtYjkzOS00ZmY0LTkzODUtYWZjZWM5Y2RiNGUzXkEyXkFqcGc@._V1_CR138,0,717,1075_.jpg",
+                                                          "width":  717,
+                                                          "height":  1075
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7959175",
+                                     "displayName":  "Kiah McKirnan",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWE3ZTVmYjEtZDMwMS00ZGQ5LWJiZDktMmU5ODg5MTE0OWZiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  920,
+                                                          "height":  1376
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

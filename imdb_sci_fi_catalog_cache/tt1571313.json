@@ -1,0 +1,238 @@
+﻿{
+    "id":  "tt1571313",
+    "detail":  {
+                   "id":  "tt1571313",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Pair of Kings",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZDk3MjY2MmQtMTBlNi00N2NiLWI4OTMtOWFkYjc4YjE1NTEzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2250
+                                    },
+                   "startYear":  2010,
+                   "endYear":  2013,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.9,
+                                  "voteCount":  5271
+                              },
+                   "plot":  "Teenage twins from Chicago discover that they are the heirs to the throne of an island nation.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0579318",
+                                         "displayName":  "Linda Mendoza",
+                                         "alternativeNames":  [
+                                                                  "Linda Mendoza Kahle"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjE5ZDE4YzYtZDBhOC00NzIxLTk2ZmQtZDkwY2E0OWE4MDE2XkEyXkFqcGc@._V1_CR334,500,3333,5000_.jpg",
+                                                              "width":  3333,
+                                                              "height":  5000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "production_manager"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0327591",
+                                         "displayName":  "Victor Gonzalez",
+                                         "alternativeNames":  [
+                                                                  "Victor Gonzales"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYTQ3ZDVlNzQtNzYxZi00ZWM0LTg3ZTYtZTIzMzFjZDZjODEwXkEyXkFqcGc@._V1_CR95,1,613,920_.jpg",
+                                                              "width":  613,
+                                                              "height":  920
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "camera_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0447583",
+                                         "displayName":  "David Kendall",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0189137",
+                                       "displayName":  "Dan Cross",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0389668",
+                                       "displayName":  "David Hoge",
+                                       "alternativeNames":  [
+                                                                "Dave Hoge"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1280552",
+                                       "displayName":  "Lisa Muse Bryant",
+                                       "alternativeNames":  [
+                                                                "Lisa V. Muse",
+                                                                "Lisa Muse"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDRmODFjNGQtNjhiMi00YWQ3LThkZGQtODFkZWZkYWZhMTJkXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1152,
+                                                            "height":  1440
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2080328",
+                                     "displayName":  "Kelsey Asbille",
+                                     "alternativeNames":  [
+                                                              "Kelsey Chow"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzIzYmQzZTMtYTQ3Yy00NmNjLThiMzgtMzIzMWY3MzhkMjg2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1179,
+                                                          "height":  1208
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2480883",
+                                     "displayName":  "Larramie Doc Shaw",
+                                     "alternativeNames":  [
+                                                              "\u0027Doc\u0027 Shaw",
+                                                              "Doc Shaw",
+                                                              "Larrame \"Doc\" Shaw",
+                                                              "Larramie \"Doc\" Shaw",
+                                                              "Larramie \u0027Doc\u0027 Shaw",
+                                                              "credited only"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTEzOTYyMTA0NjdeQTJeQWpwZ15BbWU4MDA2MTI0NjIx._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2452327",
+                                     "displayName":  "Ryan Ochoa",
+                                     "alternativeNames":  [
+                                                              "The Ochoa Boyz"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2NiMjBlZDUtYjRkOS00NmE4LThhZGEtZWIxZTNlYTZiZTBlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3344,
+                                                          "height":  5016
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3732491",
+                                     "displayName":  "Geno Segers",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjg5Y2UxY2ItYTAyYi00ZWVmLTg2ZDktZmIzMzY5ODMxNmQ5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  979,
+                                                          "height":  1352
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000017",
+                                         "name":  "Jungle Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000049",
+                                         "name":  "Teen Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  22
+                    }
+                ]
+}

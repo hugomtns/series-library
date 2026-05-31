@@ -1,0 +1,270 @@
+﻿{
+    "id":  "tt0098763",
+    "detail":  {
+                   "id":  "tt0098763",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Captain Planet and the Planeteers",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzQxODk4YWEtOTNhYS00YzZlLWE0ZDktNDk3MzE4ODI4MzIyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  580,
+                                        "height":  824
+                                    },
+                   "startYear":  1990,
+                   "endYear":  1996,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.7,
+                                  "voteCount":  13553
+                              },
+                   "plot":  "Five teenagers from across the globe unite to fight pollution and protect the planet. With their elemental powers combined, they summon the Eco-hero Captain Planet to battle environmental disasters and villains threatening Earth\u0027s future.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0240548",
+                                         "displayName":  "Jim Duffy",
+                                         "alternativeNames":  [
+                                                                  "James Duffy"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0739605",
+                                         "displayName":  "Joanna Romersa",
+                                         "alternativeNames":  [
+                                                                  "Joanna Combellick",
+                                                                  "Joanna G. Romersa"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0582798",
+                                         "displayName":  "Will Meugniot",
+                                         "alternativeNames":  [
+                                                                  "Will Meuginot",
+                                                                  "William Meugniot",
+                                                                  "Will Meugnoit",
+                                                                  "Will Meunoit"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1028310",
+                                       "displayName":  "Nicholas Boxer",
+                                       "alternativeNames":  [
+                                                                "Nick Boxer"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "production_manager",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0877894",
+                                       "displayName":  "Ted Turner",
+                                       "alternativeNames":  [
+                                                                "R.E. Turner",
+                                                                "Turner"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTM0NzM3NzczN15BMl5BanBnXkFtZTcwNTkyODAwNA@@._V1_.jpg",
+                                                            "width":  283,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0995452",
+                                       "displayName":  "Thom Beers",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0167995",
+                                     "displayName":  "David Coburn",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA5OTE2MDA0ODNeQTJeQWpwZ15BbWU4MDMyNzg1NjIx._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000996",
+                                     "displayName":  "LeVar Burton",
+                                     "alternativeNames":  [
+                                                              "Levar Burton"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTc1ZDhlYzMtZWZlNS00YzA2LTljYjAtYTFmNzRhODAwOWNiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  700,
+                                                          "height":  1042
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0815718",
+                                     "displayName":  "Kath Soucie",
+                                     "alternativeNames":  [
+                                                              "Kath",
+                                                              "Kate Souci",
+                                                              "Kathi Souci",
+                                                              "Kathy Souci",
+                                                              "Kath Souci",
+                                                              "Cath Soucie",
+                                                              "Kath E. Soucie",
+                                                              "Kath E Soucie"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjNiZWIzYzktY2M5NS00MDMwLThiYmYtZTJmNGE5ZmMyYzJhXkEyXkFqcGc@._V1_CR232,166,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0214114",
+                                     "displayName":  "Joey Dedio",
+                                     "alternativeNames":  [
+                                                              "Joey De Dio",
+                                                              "Joe Dedio",
+                                                              "Joey Deidio",
+                                                              "Joey Diedo"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjgzOWI4ZjctZWU5ZS00MGQ1LThjZDAtZWQyNWMyMzk2ODM5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  582,
+                                                          "height":  821
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "FR",
+                                               "name":  "France"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  13
+                    }
+                ]
+}

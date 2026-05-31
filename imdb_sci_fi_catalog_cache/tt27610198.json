@@ -1,0 +1,273 @@
+﻿{
+    "id":  "tt27610198",
+    "detail":  {
+                   "id":  "tt27610198",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Amazing Digital Circus",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTlkY2NjODgtOWI5ZC00MjIzLWFiYjItN2ZiOTU5YzA2ODlmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1170,
+                                        "height":  2085
+                                    },
+                   "startYear":  2023,
+                   "endYear":  2026,
+                   "runtimeSeconds":  1500,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.3,
+                                  "voteCount":  14208
+                              },
+                   "plot":  "A woman finds herself trapped in a virtual circus where she and five other humans are subject to the whims of wacky AI. In this digital purgatory they must face frightening NPCs and cope with their own personal traumas.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm7971793",
+                                         "displayName":  "Gooseworx",
+                                         "alternativeNames":  [
+                                                                  "\u0027Gooseworx\u0027",
+                                                                  "Cooper Goodwin"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "composer",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm7971793",
+                                       "displayName":  "Gooseworx",
+                                       "alternativeNames":  [
+                                                                "\u0027Gooseworx\u0027",
+                                                                "Cooper Goodwin"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "composer",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm5213242",
+                                     "displayName":  "Lizzie Freeman",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmE0NjA4ZDItN2Y1OC00Mzg3LWE2NTEtNTkwOGQ3NjRjYzk3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  880,
+                                                          "height":  1100
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7693469",
+                                     "displayName":  "Michael Kovach",
+                                     "alternativeNames":  [
+                                                              "KoVox",
+                                                              "Michael Kovoch"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWNmZWI0NjQtZTg5OS00NmI2LWFhMDgtYzQ3ZWM0YjNlMTQzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  800,
+                                                          "height":  1027
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm10223465",
+                                     "displayName":  "Amanda Hufford",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA4Y2EzNzUtOTcwZS00ODFmLWFmYTQtNjc3ZGJmNGJmY2JkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1536,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "casting_director",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6564424",
+                                     "displayName":  "Alex Rochon",
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "editor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "AU",
+                                               "name":  "Australia"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "kor",
+                                               "name":  "Korean"
+                                           },
+                                           {
+                                               "code":  "fil",
+                                               "name":  "Filipino"
+                                           },
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           },
+                                           {
+                                               "code":  "jpn",
+                                               "name":  "Japanese"
+                                           },
+                                           {
+                                               "code":  "deu",
+                                               "name":  "German"
+                                           },
+                                           {
+                                               "code":  "ukr",
+                                               "name":  "Ukrainian"
+                                           },
+                                           {
+                                               "code":  "zho",
+                                               "name":  "Chinese"
+                                           },
+                                           {
+                                               "code":  "tha",
+                                               "name":  "Thai"
+                                           },
+                                           {
+                                               "code":  "rus",
+                                               "name":  "Russian"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000114",
+                                         "name":  "Psychological Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000158",
+                                         "name":  "Artificial Intelligence",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000182",
+                                         "name":  "Psychological Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  9
+                    }
+                ]
+}

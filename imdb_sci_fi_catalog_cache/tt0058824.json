@@ -1,0 +1,210 @@
+﻿{
+    "id":  "tt0058824",
+    "detail":  {
+                   "id":  "tt0058824",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Lost in Space",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjE2OTczMDI2M15BMl5BanBnXkFtZTcwMTA5MDgyMQ@@._V1_.jpg",
+                                        "width":  353,
+                                        "height":  500
+                                    },
+                   "startYear":  1965,
+                   "endYear":  1968,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  9839
+                              },
+                   "plot":  "A space colony family struggles to survive when a spy/accidental stowaway throws their ship hopelessly off course.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0724504",
+                                         "displayName":  "Don Richardson",
+                                         "alternativeNames":  [
+                                                                  "Donald Richardson"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0553077",
+                                         "displayName":  "Sobey Martin",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0432846",
+                                         "displayName":  "Nathan Juran",
+                                         "alternativeNames":  [
+                                                                  "Nathan Hertz",
+                                                                  "Jerry Juran",
+                                                                  "Nathan H. Juran",
+                                                                  "Nathan Hertz Juran"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_director",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0000740",
+                                       "displayName":  "Irwin Allen",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTUyNzE0ODgzOF5BMl5BanBnXkFtZTgwODk4NjIwMjE@._V1_.jpg",
+                                                            "width":  6009,
+                                                            "height":  4825
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0655499",
+                                       "displayName":  "Peter Packer",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0805340",
+                                       "displayName":  "Barney Slater",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001478",
+                                     "displayName":  "June Lockhart",
+                                     "alternativeNames":  [
+                                                              "June",
+                                                              "Miss June Lockhart"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTAyMmE4YWMtMTM3Mi00MTllLTkzYzUtNzA4NTc3YjEzZDc2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4465,
+                                                          "height":  5188
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0930713",
+                                     "displayName":  "Guy Williams",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA0NTY5MTg5OF5BMl5BanBnXkFtZTgwNDQxNjM0MjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0323813",
+                                     "displayName":  "Mark Goddard",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk0MTQ3NjA5NF5BMl5BanBnXkFtZTcwNzY4OTkwOA@@._V1_.jpg",
+                                                          "width":  1181,
+                                                          "height":  1803
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0471549",
+                                     "displayName":  "Marta Kristen",
+                                     "alternativeNames":  [
+                                                              "Marta Kristan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQxNTY2NTc4M15BMl5BanBnXkFtZTcwODAwODQwOA@@._V1_.jpg",
+                                                          "width":  1360,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  24
+                    }
+                ]
+}

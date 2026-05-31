@@ -1,0 +1,244 @@
+﻿{
+    "id":  "tt4898282",
+    "detail":  {
+                   "id":  "tt4898282",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Blood Drive",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMmEwOTJlYWMtZjcwMC00YTFlLThhOGYtMjEwNWYyNDE3OWMzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1500
+                                    },
+                   "startYear":  2017,
+                   "endYear":  2017,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  7399
+                              },
+                   "plot":  "In a dystopian alternate 1999, a former cop is forced to take part in a death race in which cars run on human blood as fuel.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0833191",
+                                         "displayName":  "David Straiton",
+                                         "primaryProfessions":  [
+                                                                    "art_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3652021",
+                                         "displayName":  "Meera Menon",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTQxNzc1ODgyOF5BMl5BanBnXkFtZTcwNTExMzM0OQ@@._V1_.jpg",
+                                                              "width":  1365,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0644204",
+                                         "displayName":  "Lin Oeding",
+                                         "alternativeNames":  [
+                                                                  "Lynn Oeding",
+                                                                  "Lyn Oeding",
+                                                                  "Steve Oeding",
+                                                                  "Stephen-Lin-Oeding"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTdkYTE5MTgtYjU0NC00YWY0LWFiMTgtMTk1OTQzMzg5NDlhXkEyXkFqcGc@._V1_CR251,152,1812,2718_.jpg",
+                                                              "width":  1812,
+                                                              "height":  2718
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1078938",
+                                       "displayName":  "James Roland",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1936920",
+                                       "displayName":  "Nina Fiore",
+                                       "alternativeNames":  [
+                                                                "Nina Fiora"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOTEzNmQ5OWYtMDUyYy00NWY4LWFjNTEtMzE3MzU1NWQ4ZWM4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2320,
+                                                            "height":  3088
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2118749",
+                                       "displayName":  "John Herrera",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmZmMmE4ODQtYTY1Yy00NjJkLTgxMWUtYzAxMTk5NDNlMWQ2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3024,
+                                                            "height":  4032
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2024927",
+                                     "displayName":  "Alan Ritchson",
+                                     "alternativeNames":  [
+                                                              "Raphael - Teenage Mutant Ninja Turtles"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDhiY2U4Y2YtODE3ZC00YjYwLWE4MWYtODA2MTlkMDc1N2FhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4408,
+                                                          "height":  6612
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3079593",
+                                     "displayName":  "Christina Ochoa",
+                                     "alternativeNames":  [
+                                                              "Christina Ochoa Lopez",
+                                                              "Christina Ochoa-Lopez"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGMxNGU5YmUtNTgwMC00OTI3LTk2ZjEtOWRkZDFlODk0YmM4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  659,
+                                                          "height":  945
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3744128",
+                                     "displayName":  "Marama Corlett",
+                                     "alternativeNames":  [
+                                                              "Corlett Marama"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWRlNDQ2YmQtMTc4Zi00ZjEwLWFlOTQtNTViYjc4ZGI4MGVjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1600,
+                                                          "height":  1066
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8025305",
+                                     "displayName":  "Thomas Dominique",
+                                     "alternativeNames":  [
+                                                              "Thomas Dominque"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzFlMWZlZDQtMTY3Yi00NTZhLWJiN2MtNWExNThmZDk0OWQ4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  563,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

@@ -1,0 +1,253 @@
+﻿{
+    "id":  "tt0220880",
+    "detail":  {
+                   "id":  "tt0220880",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Courage the Cowardly Dog",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzdiMWI4OGMtZDc2MC00NDllLTgyMWUtN2ZmZjVlYWFkYjQxXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  780,
+                                        "height":  1147
+                                    },
+                   "startYear":  1999,
+                   "endYear":  2002,
+                   "runtimeSeconds":  660,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Horror"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.3,
+                                  "voteCount":  57516
+                              },
+                   "plot":  "The offbeat adventures of Courage, a cowardly dog who must overcome his own fears to heroically defend his unknowing farmer owners from all kinds of dangers, paranormal events and menaces that appear around their land.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0227139",
+                                         "displayName":  "John Dilworth",
+                                         "alternativeNames":  [
+                                                                  "Pierre Delarue",
+                                                                  "John Dillworth",
+                                                                  "John R. Dilworth"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0061846",
+                                       "displayName":  "Irv Bauer",
+                                       "alternativeNames":  [
+                                                                "Irvin S. Bauer",
+                                                                "Irving S. Bauer",
+                                                                "Irvin S. Buaer"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0169325",
+                                       "displayName":  "David Steven Cohen",
+                                       "alternativeNames":  [
+                                                                "David S. Cohen",
+                                                                "David Cohen",
+                                                                "David S. Cohn"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNTY0MzA3MTU1OV5BMl5BanBnXkFtZTgwMTE3OTYzMjE@._V1_.jpg",
+                                                            "width":  1201,
+                                                            "height":  1629
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0227139",
+                                       "displayName":  "John Dilworth",
+                                       "alternativeNames":  [
+                                                                "Pierre Delarue",
+                                                                "John Dillworth",
+                                                                "John R. Dilworth"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0333304",
+                                     "displayName":  "Marty Grabstein",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzA5MDNmNTctMTFmZS00NWRhLWI1MDktNTA2MzdkZWU2NGJiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1406,
+                                                          "height":  1286
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0925508",
+                                     "displayName":  "Thea White",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWIxYzcwMzEtMWZiMS00ZjIwLWIxYzctNWRmNGUzMDFlMjZhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  550,
+                                                          "height":  779
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0273033",
+                                     "displayName":  "Peter Fernandez",
+                                     "alternativeNames":  [
+                                                              "Pierre Cache",
+                                                              "Jason K. Piatt"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY2NzkzNDI4NF5BMl5BanBnXkFtZTYwMDE2Nzgy._V1_.jpg",
+                                                          "width":  347,
+                                                          "height":  392
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0695669",
+                                     "displayName":  "Simon Prebble",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CN",
+                                               "name":  "China"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "TW",
+                                               "name":  "Taiwan (Province of China)"
+                                           },
+                                           {
+                                               "code":  "ES",
+                                               "name":  "Spain"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000036",
+                                         "name":  "Farce",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000110",
+                                         "name":  "Folk Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    }
+                ]
+}

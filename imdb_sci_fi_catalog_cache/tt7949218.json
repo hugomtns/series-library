@@ -1,0 +1,227 @@
+﻿{
+    "id":  "tt7949218",
+    "detail":  {
+                   "id":  "tt7949218",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "See",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMDEwYTg3MWQtZTNmMi00ZjU1LTkwNWQtZDFmODQ5NjcwMDc2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2022,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  110996
+                              },
+                   "plot":  "Far in a dystopian future, the human race has lost the sense of sight, and society has had to find new ways to interact, build, hunt, and to survive. All of that is challenged when a set of twins are born with sight.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0257775",
+                                         "displayName":  "Anders EngstrÃ¶m",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjgwOGQ3NjMtZjQwOC00ZWY5LThlNGEtYjM0ZDY1NzlmODQwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  5472,
+                                                              "height":  3648
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0870295",
+                                         "displayName":  "Frederick E.O. Toye",
+                                         "alternativeNames":  [
+                                                                  "Fred E.O. Toye",
+                                                                  "Frederick E. O. Toye",
+                                                                  "Frederick O.E. Toye",
+                                                                  "Frederick Toye",
+                                                                  "Fredrick E.O. Toye",
+                                                                  "Fred Toye"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZGYyYmEzZTktMDkwZC00MTgyLWIzY2EtN2NkZTMyYjQ2MWJmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4032,
+                                                              "height":  3024
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1349376",
+                                         "displayName":  "Francis Lawrence",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTI4Mjc4MTMzNF5BMl5BanBnXkFtZTYwNjkzNzc4._V1_.jpg",
+                                                              "width":  427,
+                                                              "height":  325
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1140275",
+                                       "displayName":  "Steven Knight",
+                                       "alternativeNames":  [
+                                                                "Steve Knight"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjE4ODQwODcxN15BMl5BanBnXkFtZTgwNjU0MzcxMDE@._V1_.jpg",
+                                                            "width":  1365,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm8705831",
+                                       "displayName":  "Hadi Nicholas Deeb",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm6554308",
+                                       "displayName":  "Kirsa Rein",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0597388",
+                                     "displayName":  "Jason Momoa",
+                                     "alternativeNames":  [
+                                                              "Jason Mamoa"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTBhMTQxZWMtYTE5ZC00NTk4LWEyYjItZTc0Nzg5YjZkMDI1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1800,
+                                                          "height":  1200
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1679778",
+                                     "displayName":  "Sylvia Hoeks",
+                                     "alternativeNames":  [
+                                                              "Sylvia Hoecks",
+                                                              "Sylvia Hoek"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWE3NWZlNmEtMmRhNC00OWJkLThjOWItN2YxMDc1NzcwNWM4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  404,
+                                                          "height":  571
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0131235",
+                                     "displayName":  "Christian Camargo",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDdjMzBhYmUtYjNiZi00MmFiLTllMGUtZmI0NjgwMGY5MTI3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  640,
+                                                          "height":  858
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2623492",
+                                     "displayName":  "Hera Hilmar",
+                                     "alternativeNames":  [
+                                                              "Hera HilmarsdÃ³ttir"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTMyM2JhMWUtZmU2YS00YWRjLWFmZWMtYWQ5NDVhZmVkMTgyXkEyXkFqcGc@._V1_CR13,1,927,1390_.jpg",
+                                                          "width":  927,
+                                                          "height":  1390
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "art_department",
+                                                                "miscellaneous"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    }
+                ]
+}

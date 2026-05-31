@@ -1,0 +1,223 @@
+﻿{
+    "id":  "tt3865236",
+    "detail":  {
+                   "id":  "tt3865236",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Into the Badlands",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOGQzMWI4OGMtNmE3ZC00ZGM0LWI0ZjEtN2I1YmUwNzhjNTdmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2015,
+                   "endYear":  2019,
+                   "runtimeSeconds":  2520,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  52920
+                              },
+                   "plot":  "A mighty warrior and a young boy with supernatural powers search for enlightenment in a ruthless post-apocalyptic United States controlled by feudal barons.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2161247",
+                                         "displayName":  "Paco Cabezas",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTQ2NzAxNmQtOTFhOS00NGI5LTk3YjAtYmI0MDI4ZmI1ZmE4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1024,
+                                                              "height":  717
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1089736",
+                                         "displayName":  "Toa Fraser",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMDExMWI0NWItNTI1My00ZTc5LTg5N2QtZTMxOTFkMDIwMDY2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  694,
+                                                              "height":  756
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0229694",
+                                         "displayName":  "David Dobkin",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTM4NTE1Nzk0OV5BMl5BanBnXkFtZTYwMTI0NzUz._V1_.jpg",
+                                                              "width":  309,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0332184",
+                                       "displayName":  "Alfred Gough",
+                                       "alternativeNames":  [
+                                                                "Al Gough"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0587692",
+                                       "displayName":  "Miles Millar",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1479457",
+                                       "displayName":  "Matt Lambert",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "production_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0103699",
+                                     "displayName":  "Orla Brady",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzIwMmY0ZmItNDAwYy00MGFlLWEyZTctNzZkMTQxOGUzMDhmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1440,
+                                                          "height":  1680
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0943079",
+                                     "displayName":  "Daniel Wu",
+                                     "alternativeNames":  [
+                                                              "Daniel Ng",
+                                                              "Yin-Cho Ng",
+                                                              "Yin-Jo Ng",
+                                                              "Daniel N. Wu",
+                                                              "Yan-zu Wu",
+                                                              "Yanzu Wu",
+                                                              "Daniel Wu Yan-zu",
+                                                              "Daniel Wu Yanzu",
+                                                              "Ng Yin-Jo"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTIzNTk3NTA2Ml5BMl5BanBnXkFtZTYwODI2MTY1._V1_.jpg",
+                                                          "width":  292,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2026536",
+                                     "displayName":  "Aramis Knight",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTliODJhMWQtYzNjZC00Mzg0LWE5NDAtOTdiNWY2ODFkMzU0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3941,
+                                                          "height":  5911
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2387806",
+                                     "displayName":  "Emily Beecham",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmI5MjliMzQtZmVlMS00ODQyLWJiN2ItNmIxYTFiNDk4M2NmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  6192,
+                                                          "height":  8256
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000002",
+                                         "name":  "Action Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000006",
+                                         "name":  "Martial Arts",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  16
+                    }
+                ]
+}

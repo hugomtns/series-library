@@ -1,0 +1,262 @@
+﻿{
+    "id":  "tt0055683",
+    "detail":  {
+                   "id":  "tt0055683",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Jetsons",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZTUwMGE1MDUtOWIwNi00ZGU3LTlmODEtMmU4ZDc1YmMzZTA0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  1962,
+                   "endYear":  1963,
+                   "runtimeSeconds":  1500,
+                   "genres":  [
+                                  "Animation",
+                                  "Comedy",
+                                  "Family",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  26394
+                              },
+                   "plot":  "The misadventures of a futuristic family.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0204190",
+                                         "displayName":  "Arthur Davis",
+                                         "alternativeNames":  [
+                                                                  "Arthur W. Davis",
+                                                                  "Artie Davis",
+                                                                  "Art Davis"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0240327",
+                                         "displayName":  "Oscar Dufau",
+                                         "alternativeNames":  [
+                                                                  "Oscar Dufaux"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0881662",
+                                         "displayName":  "Carl Urbano",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0053484",
+                                       "displayName":  "Joseph Barbera",
+                                       "alternativeNames":  [
+                                                                "Hanna Barbera",
+                                                                "Joe Barbera",
+                                                                "Joseph R. Barbera",
+                                                                "Hanna Barbera-Productions",
+                                                                "Hanna-Barbera",
+                                                                "Hanna-Barbera Prods Inc.",
+                                                                "Hanna Barbera Productions",
+                                                                "Hanna-Barbera Productions",
+                                                                "Joseph Roland"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjVjMDQwZjUtN2EzZC00ZTAyLTllNDgtMzkwZWU2MDUwNDhmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1081,
+                                                            "height":  1500
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0360253",
+                                       "displayName":  "William Hanna",
+                                       "alternativeNames":  [
+                                                                "Hanna Barbera",
+                                                                "Hanna Barbera-Productions",
+                                                                "Bill Hanna",
+                                                                "Hanna-Barbera",
+                                                                "Hanna-Barbera Prods Inc.",
+                                                                "Hanna Barbera Productions",
+                                                                "Hanna-Barbera Productions",
+                                                                "Denby Williams",
+                                                                "Hanna-Barbera productions"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYjgxZjViMmUtMzNmNS00ZTk3LWJmMGMtMzgwZjQ0ZWJhMGRlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  705,
+                                                            "height":  576
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0070824",
+                                       "displayName":  "Tony Benedict",
+                                       "alternativeNames":  [
+                                                                "Anthony Benedict"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0641197",
+                                     "displayName":  "George O\u0027Hanlon",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTUyMDcyNzEtNmYxNi00ZjcyLWFiYTctNDhjODljMmY5NGNhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  792,
+                                                          "height":  991
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0802325",
+                                     "displayName":  "Penny Singleton",
+                                     "alternativeNames":  [
+                                                              "Dorothy McNulty"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjY5NjdlYmYtODZlOC00YTA0LWJmYWYtZDQ3ZTI2ZDgzYzQyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  393,
+                                                          "height":  850
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0907228",
+                                     "displayName":  "Janet Waldo",
+                                     "alternativeNames":  [
+                                                              "Janet Waldo Lee",
+                                                              "Judy Waite"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzIzMzM5NjYzNV5BMl5BanBnXkFtZTgwMjM0OTYxOTE@._V1_.jpg",
+                                                          "width":  1398,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000305",
+                                     "displayName":  "Mel Blanc",
+                                     "alternativeNames":  [
+                                                              "M. Mel Blanc"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOGEzZGFiZmUtMDkwNi00ODk0LTkxNTUtNmY4ZTUyMDBkYjYxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4453,
+                                                          "height":  5509
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "jpn",
+                                               "name":  "Japanese"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  41
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    }
+                ]
+}

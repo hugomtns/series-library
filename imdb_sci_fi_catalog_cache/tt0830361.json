@@ -1,0 +1,212 @@
+﻿{
+    "id":  "tt0830361",
+    "detail":  {
+                   "id":  "tt0830361",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "The Lost Room",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYmU3YzhkY2MtMmM1Yy00Zjg0LWJhZTgtODM2MWVlYTM0YzljXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1545,
+                                        "height":  2161
+                                    },
+                   "startYear":  2006,
+                   "endYear":  2006,
+                   "runtimeSeconds":  5400,
+                   "genres":  [
+                                  "Action",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  35010
+                              },
+                   "plot":  "A detective investigates a mysterious motel room which acts as a portal to anywhere in the world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0062644",
+                                         "displayName":  "Craig R. Baxley",
+                                         "alternativeNames":  [
+                                                                  "Craig Baxley"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTg0MDc1NzgyNF5BMl5BanBnXkFtZTcwODQ5NjIyNQ@@._V1_.jpg",
+                                                              "width":  2928,
+                                                              "height":  2352
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "stunts"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0914368",
+                                         "displayName":  "Michael W. Watkins",
+                                         "alternativeNames":  [
+                                                                  "Michael Watkins"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOWFjMDFjNjMtNzQxZS00YzQ4LWJhMTctY2JjZTNkNWZkZDc0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  859,
+                                                              "height":  480
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1165047",
+                                       "displayName":  "Laura Harkcom",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDYyNWQzZDMtYWUyZS00MTMzLWIxMTgtZDY5NDJjMGE2OTlkXkEyXkFqcGc@._V1_CR67,1,1066,1599_.jpg",
+                                                            "width":  1066,
+                                                            "height":  1599
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0002814",
+                                       "displayName":  "Christopher Leone",
+                                       "alternativeNames":  [
+                                                                "Chris Leon",
+                                                                "Christopher M. Leone",
+                                                                "Chris Leone"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDRlYmMyNjUtNjc1Ni00ZTc3LTg0OTMtNmQxZTZlNmRlNDM0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3840,
+                                                            "height":  4561
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "visual_effects",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1170743",
+                                       "displayName":  "Paul Workman",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000523",
+                                     "displayName":  "Julianna Margulies",
+                                     "alternativeNames":  [
+                                                              "Julianna"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ2MTgxOTgxMl5BMl5BanBnXkFtZTgwMzIxOTAwMDE@._V1_.jpg",
+                                                          "width":  600,
+                                                          "height":  800
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "executive",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0470244",
+                                     "displayName":  "Peter Krause",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzk4NjA5NDY5MV5BMl5BanBnXkFtZTcwMjU4MjgxNQ@@._V1_.jpg",
+                                                          "width":  1399,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0414772",
+                                     "displayName":  "Peter Jacobson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2UwODk5NzgtNmU3Mi00MGE4LWEwZTAtYjhlYWQ3Mjg0YTVmXkEyXkFqcGc@._V1_CR63,0,533,799_.jpg",
+                                                          "width":  533,
+                                                          "height":  799
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1102577",
+                                     "displayName":  "Elle Fanning",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmY4ZTUxOTEtZWI4ZC00NDAzLTllZTgtMjQ4MDUwNWYyNTkxXkEyXkFqcGc@._V1_CR520,59,1221,1832_.jpg",
+                                                          "width":  1221,
+                                                          "height":  1832
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  4
+                    }
+                ]
+}

@@ -1,0 +1,227 @@
+﻿{
+    "id":  "tt0072564",
+    "detail":  {
+                   "id":  "tt0072564",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Space: 1999",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMmM0NjQwNzctNTI5Mi00MTlhLThhNTYtZmIwODUwNmVhMWFlXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1341,
+                                        "height":  1904
+                                    },
+                   "startYear":  1975,
+                   "endYear":  1977,
+                   "runtimeSeconds":  3000,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  10497
+                              },
+                   "plot":  "Follows the crew of Moonbase Alpha who struggle to survive when a massive explosion throws the Moon from Earths orbit and out into deep space.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0187769",
+                                         "displayName":  "Charles Crichton",
+                                         "alternativeNames":  [
+                                                                  "Charlie Crichton"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzc2M2FmYTYtMzg4Yy00ODJmLWE2YTYtMjI2NTgzOGU3N2Y4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  439,
+                                                              "height":  594
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0042500",
+                                         "displayName":  "Ray Austin",
+                                         "alternativeNames":  [
+                                                                  "Ray Austen",
+                                                                  "Raymond Austin",
+                                                                  "Raymond DeVere-Austin The Baron of Delvin"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNGE2ZjYzNGMtNGYxOC00Nzc0LThlMzYtMTBkYmE1ZjUwNzYxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  863,
+                                                              "height":  1150
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "stunts"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0165965",
+                                         "displayName":  "Tom Clegg",
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0026755",
+                                       "displayName":  "Gerry Anderson",
+                                       "alternativeNames":  [
+                                                                "G. Anderson",
+                                                                "Gerald Anderson"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjEyMzAyNzU5Nl5BMl5BanBnXkFtZTcwMjQxNjg4OA@@._V1_.jpg",
+                                                            "width":  1091,
+                                                            "height":  1501
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0027487",
+                                       "displayName":  "Sylvia Anderson",
+                                       "alternativeNames":  [
+                                                                "Sylvia Thamm"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BY2I5MGFmNGYtYTA0Mi00MjQ3LTljMWEtMjllZWM3ZWY2MGNjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1222,
+                                                            "height":  1592
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0126210",
+                                       "displayName":  "Johnny Byrne",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000828",
+                                     "displayName":  "Barbara Bain",
+                                     "alternativeNames":  [
+                                                              "Barbara Monker"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjNmMjhjNDgtOWQyOS00OGRkLWJmNDAtYzQwMTgwYzgzMTA2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2000,
+                                                          "height":  2823
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001445",
+                                     "displayName":  "Martin Landau",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI0MzkxNzg0OF5BMl5BanBnXkFtZTcwNDUzOTc5MQ@@._V1_.jpg",
+                                                          "width":  268,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0581617",
+                                     "displayName":  "Zienia Merton",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTkxMzQ0NzkzNV5BMl5BanBnXkFtZTgwMDc1MzI2NjM@._V1_.jpg",
+                                                          "width":  2034,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0851182",
+                                     "displayName":  "Nick Tate",
+                                     "alternativeNames":  [
+                                                              "Nicholas Tate",
+                                                              "Nicky Tate"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2IyNTVlNTQtY2YxNS00ODBhLTk5ZDgtNmIzZWU2NjgxMjJiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1014,
+                                                          "height":  754
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  24
+                    }
+                ]
+}

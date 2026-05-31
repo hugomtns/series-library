@@ -1,0 +1,191 @@
+﻿{
+    "id":  "tt14379784",
+    "detail":  {
+                   "id":  "tt14379784",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Devil\u0027s Hour",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYzA3OTA4ZjAtZWE1Zi00N2RjLWFkMDYtYWI1MzYzMDI5OWY5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  503,
+                                        "height":  755
+                                    },
+                   "startYear":  2022,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  33365
+                              },
+                   "plot":  "A woman wakes up every night at exactly 3.33AM, in the middle of the so-called devil\u0027s hour between 3AM and 4AM.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm12181762",
+                                         "displayName":  "Johnny Allan",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm7840865",
+                                         "displayName":  "Shaun James Grant",
+                                         "alternativeNames":  [
+                                                                  "Hesky Tucker"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjNiZjQ2MjYtY2M1NC00NDQ2LThlZjItNzBlYzZiYmIyNjIwXkEyXkFqcGc@._V1_CR61,0,853,1279_.jpg",
+                                                              "width":  853,
+                                                              "height":  1279
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm5321975",
+                                         "displayName":  "Isabelle Sieb",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNGY0NzU5ZTctYTNkNi00YThlLWE1ZmUtZGUwYmVmNzdlNjYzXkEyXkFqcGc@._V1_CR520,91,649,974_.jpg",
+                                                              "width":  649,
+                                                              "height":  974
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm10620428",
+                                       "displayName":  "Tom Moran",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTY0MzMyNzctNDA3OC00ZjFmLTllYzktNzFkZjU1MWUxODA0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5007,
+                                                            "height":  7510
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0134922",
+                                     "displayName":  "Peter Capaldi",
+                                     "alternativeNames":  [
+                                                              "Peter Capadli",
+                                                              "Dr Peter Capaldi",
+                                                              "Pete Capaldi",
+                                                              "Tony Lobotomy"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA0NTE0NDQ3OV5BMl5BanBnXkFtZTcwMjkwMjkxOA@@._V1_.jpg",
+                                                          "width":  1364,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3565962",
+                                     "displayName":  "Jessica Raine",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzU2N2VjZmItN2EzMS00MWExLWI0NGYtMWE3ZmRiMzAyZTQzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1128,
+                                                          "height":  1680
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4857296",
+                                     "displayName":  "Nikesh Patel",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGU1MGQ2NTItNmNmMi00YTFkLTg4NmUtMjk4ZTZmNzU5MDhmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3136,
+                                                          "height":  4704
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm12686326",
+                                     "displayName":  "Benjamin Chivers",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzcyNjRiMWYtNGRiYS00ODVjLWJmOWEtYTIzZGVmYmIxMWNlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1024,
+                                                          "height":  1536
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000182",
+                                         "name":  "Psychological Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  5
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  5
+                    }
+                ]
+}

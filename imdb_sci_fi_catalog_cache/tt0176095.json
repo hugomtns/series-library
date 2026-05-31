@@ -1,0 +1,312 @@
+﻿{
+    "id":  "tt0176095",
+    "detail":  {
+                   "id":  "tt0176095",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Challenge",
+                   "originalTitle":  "Real World/Road Rules Challenge",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZWE4YTliMjAtZGQ1MC00ZjRiLWJlY2YtMGZjNTg3M2I2ODIyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1920,
+                                        "height":  2880
+                                    },
+                   "startYear":  1998,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Game-Show",
+                                  "Reality-TV"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.2,
+                                  "voteCount":  5077
+                              },
+                   "plot":  "Alumni from reality TV and other forms of entertainment and first time cast members live together and compete against one another in physical and mental challenges for cash prizes.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0553685",
+                                         "displayName":  "Rico Martinez",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMWJkNzA1ZTItZDY0Mi00OGExLTk2OTUtNjhhMGYxNTI3YWU1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2400,
+                                                              "height":  1600
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0279567",
+                                         "displayName":  "Jeff Fisher",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzJlZWRhZTEtNzllMi00NGQyLWEwNTctMDMwZmUyNDY1YTAzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2001,
+                                                              "height":  3000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1597886",
+                                         "displayName":  "Joy Rillo Hryniewicz",
+                                         "alternativeNames":  [
+                                                                  "Joy Hryniewicz",
+                                                                  "Joy Rillo"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0615086",
+                                       "displayName":  "Jonathan Murray",
+                                       "alternativeNames":  [
+                                                                "Jon Murray"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BN2I3OTczOTYtNjYxNC00OTFmLWIxODctZjU0MGU4MjYzNjdlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  173,
+                                                            "height":  227
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0120455",
+                                       "displayName":  "Mary-Ellis Bunim",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1933659",
+                                       "displayName":  "Katty Biscone",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000105",
+                                         "name":  "Game Show"
+                                     },
+                                     {
+                                         "id":  "in0000106",
+                                         "name":  "Survival Competition",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000148",
+                                         "name":  "Reality TV"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  5
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  19
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "13",
+                        "episodeCount":  17
+                    },
+                    {
+                        "season":  "14",
+                        "episodeCount":  17
+                    },
+                    {
+                        "season":  "15",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "16",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "17",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "18",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "19",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "20",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "21",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "22",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "23",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "24",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "25",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "26",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "27",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "28",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "29",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "30",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "31",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "32",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "33",
+                        "episodeCount":  19
+                    },
+                    {
+                        "season":  "34",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "35",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "36",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "37",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "38",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "39",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "40",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "41",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "42",
+                        "episodeCount":  1
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  17
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  19
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  19
+                    }
+                ]
+}

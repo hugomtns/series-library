@@ -1,0 +1,272 @@
+﻿{
+    "id":  "tt0115243",
+    "detail":  {
+                   "id":  "tt0115243",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Lexx",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BY2RmYzIwMGEtNTRiNy00M2YwLWIwYzMtY2VmY2MzNjI3MThkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  1996,
+                   "endYear":  2002,
+                   "runtimeSeconds":  5400,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  9441
+                              },
+                   "plot":  "A group of disparate fugitives from an interplanetary tyranny find themselves in control of a massively powerful starship.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0099474",
+                                         "displayName":  "Chris Bould",
+                                         "alternativeNames":  [
+                                                                  "Christopher Bould"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzkxZGZmMDMtMjdlOS00NGJiLWExMTEtMzA2YjJmMmE3ZTA0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  359,
+                                                              "height":  604
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0233050",
+                                         "displayName":  "Paul Donovan",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0775358",
+                                         "displayName":  "Christoph Schrewe",
+                                         "alternativeNames":  [
+                                                                  "Carlos Maria Sanchez"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzkxZGZmMDMtMjdlOS00NGJiLWExMTEtMzA2YjJmMmE3ZTA0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  359,
+                                                              "height":  604
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0386601",
+                                       "displayName":  "Jeffrey Hirschfield",
+                                       "alternativeNames":  [
+                                                                "Jeff Hirschfield"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjMyMDM1NzgzNF5BMl5BanBnXkFtZTgwOTM4ODc3MjE@._V1_.jpg",
+                                                            "width":  500,
+                                                            "height":  375
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0233050",
+                                       "displayName":  "Paul Donovan",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0317596",
+                                       "displayName":  "Lex Gigeroff",
+                                       "alternativeNames":  [
+                                                                "Michael FitzGerald",
+                                                                "Lexx Gigeroff"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMGRiOTMwYTgtMzc3MS00MjEzLWI5MDctODBmNGUxYjRlNjVlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  282,
+                                                            "height":  376
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0235978",
+                                     "displayName":  "Brian Downey",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYxODI3OTM5Ml5BMl5BanBnXkFtZTgwMjM4ODc3MjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0781462",
+                                     "displayName":  "Xenia Seeberg",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk2MDQ4NzExOF5BMl5BanBnXkFtZTcwOTMyNzcyMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  666
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0573158",
+                                     "displayName":  "Michael McManus",
+                                     "alternativeNames":  [
+                                                              "A. Michael McManus",
+                                                              "Mike McManus"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY3MjQ4NzE0NV5BMl5BanBnXkFtZTgwNDE4ODc3MjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0386601",
+                                     "displayName":  "Jeffrey Hirschfield",
+                                     "alternativeNames":  [
+                                                              "Jeff Hirschfield"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjMyMDM1NzgzNF5BMl5BanBnXkFtZTgwOTM4ODc3MjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "DE",
+                                               "name":  "Germany"
+                                           },
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000166",
+                                         "name":  "Time Travel",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  4
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  24
+                    }
+                ]
+}

@@ -1,0 +1,255 @@
+﻿{
+    "id":  "tt0057733",
+    "detail":  {
+                   "id":  "tt0057733",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Bewitched",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMWU4ZTY1OTgtNDcxZS00ZWE2LWEwM2ItMGI1NTIxMzY0N2M0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  1964,
+                   "endYear":  1972,
+                   "runtimeSeconds":  1500,
+                   "genres":  [
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  27097
+                              },
+                   "plot":  "A witch marries an ordinary mortal man and vows to lead the life of a typical housewife.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0038906",
+                                         "displayName":  "William Asher",
+                                         "alternativeNames":  [
+                                                                  "Bill Asher"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjA1Mzg4NDE5NV5BMl5BanBnXkFtZTcwOTk4NTQxOA@@._V1_.jpg",
+                                                              "width":  1449,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0584474",
+                                         "displayName":  "Richard Michaels",
+                                         "alternativeNames":  [
+                                                                  "Richard M. Chaffee",
+                                                                  "Dick Michaels"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "script_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0742151",
+                                         "displayName":  "R. Robert Rosenbaum",
+                                         "alternativeNames":  [
+                                                                  "Robert R. Rosenbaum"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "production_manager"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0757268",
+                                       "displayName":  "Sol Saks",
+                                       "alternativeNames":  [
+                                                                "Sol Sachs"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0432973",
+                                       "displayName":  "Ed Jurist",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0046379",
+                                       "displayName":  "Richard Baer",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000548",
+                                     "displayName":  "Elizabeth Montgomery",
+                                     "alternativeNames":  [
+                                                              "Pandora Spocks"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjM3ODRmODEtZTU3YS00Y2RmLWFhMTgtOGU2ZTM2ZWI4YWI5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3600,
+                                                          "height":  4817
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001547",
+                                     "displayName":  "Agnes Moorehead",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk5YzdiOWItYjQ4My00NTBmLThmNmEtOTMxOWMwMGFmNzBmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3234,
+                                                          "height":  4156
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0948685",
+                                     "displayName":  "Dick York",
+                                     "alternativeNames":  [
+                                                              "Richard York"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTRjZTFkNGQtM2UyYy00NzE0LWE1YmUtZWU1MjFlNWIwMmZlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2731,
+                                                          "height":  3377
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0765102",
+                                     "displayName":  "Dick Sargent",
+                                     "alternativeNames":  [
+                                                              "Dick \u0026 Fannie",
+                                                              "Dick Sargeant",
+                                                              "Richard Sargeant",
+                                                              "Richard Sargent"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOGEzOGYwZjgtMzg5OS00M2Y5LTkyZGItYWNjZmMxZDU3Mjk1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2795,
+                                                          "height":  3452
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000037",
+                                         "name":  "High-Concept Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000151",
+                                         "name":  "Feel-Good Romance",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  36
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  38
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  33
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  33
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  28
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  26
+                    }
+                ]
+}

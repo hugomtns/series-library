@@ -1,0 +1,246 @@
+﻿{
+    "id":  "tt1608383",
+    "detail":  {
+                   "id":  "tt1608383",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Black Dynamite",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTQwNjY3NzI4Nl5BMl5BanBnXkFtZTcwODkwMzkwOA@@._V1_.jpg",
+                                        "width":  1609,
+                                        "height":  2048
+                                    },
+                   "startYear":  2011,
+                   "endYear":  2015,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Drama"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  5343
+                              },
+                   "plot":  "An ex-C. I. A. Agent and full-time ladies man, Black Dynamite, who\u0027s out to avenge the death of his brother against kung-fu masters, drug-dealing pimps, and The Man.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2103577",
+                                         "displayName":  "Lesean Thomas",
+                                         "alternativeNames":  [
+                                                                  "LeSean Thomas"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2092525",
+                                         "displayName":  "Carl Jones",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjRlZTZkMmMtNzJhNi00Y2IzLWJmNjAtNjAxMzI3MWQxODY1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  828,
+                                                              "height":  972
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm8618496",
+                                         "displayName":  "Won-Young Kang",
+                                         "alternativeNames":  [
+                                                                  "Won Young Kang",
+                                                                  "Wonyoung Kang"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2092525",
+                                       "displayName":  "Carl Jones",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYjRlZTZkMmMtNzJhNi00Y2IzLWJmNjAtNjAxMzI3MWQxODY1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  828,
+                                                            "height":  972
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0591528",
+                                       "displayName":  "Byron Minns",
+                                       "alternativeNames":  [
+                                                                "Byron Keith Minns"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0761715",
+                                       "displayName":  "Scott Sanders",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0005552",
+                                     "displayName":  "Kym Whitley",
+                                     "alternativeNames":  [
+                                                              "Kim Uitli",
+                                                              "Kim E. Whitley",
+                                                              "Kim Whitley",
+                                                              "Kym E. Whitley",
+                                                              "Kym J. Whitley"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDZjYjFmNzEtOGYyZC00YmNmLThmYzEtYTUyMTkyNTNhNjE0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  485,
+                                                          "height":  485
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0925220",
+                                     "displayName":  "Michael Jai White",
+                                     "alternativeNames":  [
+                                                              "Michael J. White",
+                                                              "Michael Jay White",
+                                                              "Michael White",
+                                                              "Micheal White"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGIwYWRmYTQtYWQzMC00NjY4LTk5NTktOWMyMjcwZmViMjZmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  630,
+                                                          "height":  1200
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0591528",
+                                     "displayName":  "Byron Minns",
+                                     "alternativeNames":  [
+                                                              "Byron Keith Minns"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0203508",
+                                     "displayName":  "Tommy Davidson",
+                                     "alternativeNames":  [
+                                                              "Tom Davidson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2EyZTdkODYtMzI1MS00YTA2LTllY2MtYjU3OGRjZWMzYTk4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1080,
+                                                          "height":  1492
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  9
+                    }
+                ]
+}

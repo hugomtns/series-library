@@ -1,0 +1,235 @@
+﻿{
+    "id":  "tt14449470",
+    "detail":  {
+                   "id":  "tt14449470",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "FBI: International",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMGU5NGExYjItYjJhMS00ZmMxLThmNmEtNmYyNzkwNDBkZWY0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1920,
+                                        "height":  2880
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2025,
+                   "runtimeSeconds":  2580,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Mystery",
+                                  "Romance",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.6,
+                                  "voteCount":  9189
+                              },
+                   "plot":  "Follows the elite team of operatives of the FBI\u0027s International Fly Team, as they travel across Europe to neutralize threats against American Interests.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0003150",
+                                         "displayName":  "Michael Katleman",
+                                         "alternativeNames":  [
+                                                                  "Mike Katleman"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjEwMTg0NjE0OF5BMl5BanBnXkFyZXN1bWU@._V1_.jpg",
+                                                              "width":  3504,
+                                                              "height":  2336
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0952352",
+                                         "displayName":  "Alex Zakrzewski",
+                                         "alternativeNames":  [
+                                                                  "Alexander Zakrzewski"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "cinematographer",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1143132",
+                                         "displayName":  "Avi Youabian",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTFhNTM1MDQtMjUzZS00NDA3LWE3ZDItYmVjY2M5M2I4ZWJiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2218,
+                                                              "height":  1485
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0351929",
+                                       "displayName":  "Derek Haas",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0937725",
+                                       "displayName":  "Dick Wolf",
+                                       "alternativeNames":  [
+                                                                "Richard A. Wolf",
+                                                                "Richard Wolf"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNTk4OTc1MDktOTE3My00MmNjLWFjNzEtNjE0ODEwNjI4MmVlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3278,
+                                                            "height":  4371
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2471793",
+                                       "displayName":  "Hussain Pirani",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm5048075",
+                                     "displayName":  "Carter Redwood",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWRjYWJhNGItYzEyMy00MzdiLWFmMjItNjNmNGE2YzVkY2Q5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3707,
+                                                          "height":  4721
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8154576",
+                                     "displayName":  "Vinessa Vidotto",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWE1MzgzZDMtM2UyMC00MDhjLTg4NWMtZWE0Nzc3NzNkZDFjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5504,
+                                                          "height":  6880
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3312554",
+                                     "displayName":  "Luke Kleintank",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODRkMWRkYTItN2RjOC00NDk3LTlmNzYtZDhkZjZjZTAzNTcxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3267,
+                                                          "height":  4524
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "cinematographer",
+                                                                "composer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5506405",
+                                     "displayName":  "Eva-Jane Willis",
+                                     "alternativeNames":  [
+                                                              "Eva Jane Willis"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGRhN2JhN2MtYTlmOC00NjVmLTg5MzItNTM5ZDc0Zjk5NmEyXkEyXkFqcGc@._V1_CR151,1,912,1368_.jpg",
+                                                          "width":  912,
+                                                          "height":  1368
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "assistant_director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000057",
+                                         "name":  "Police Procedural",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  22
+                    }
+                ]
+}

@@ -1,0 +1,219 @@
+﻿{
+    "id":  "tt2693776",
+    "detail":  {
+                   "id":  "tt2693776",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Intelligence",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTk4OTM0NDI0NV5BMl5BanBnXkFtZTgwOTY4NjQ3MDE@._V1_.jpg",
+                                        "width":  1365,
+                                        "height":  2048
+                                    },
+                   "startYear":  2014,
+                   "endYear":  2014,
+                   "genres":  [
+                                  "Action",
+                                  "Drama",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.8,
+                                  "voteCount":  20383
+                              },
+                   "plot":  "A high-tech intelligence operative, enhanced with a super-computer microchip in his brain, aids an elite government cyber-security agency in special missions.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0726975",
+                                         "displayName":  "Alrick Riley",
+                                         "alternativeNames":  [
+                                                                  "Alrick Reilly",
+                                                                  "Alrich Riley"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMDIyMDg4NzUtMjVjZC00MzU1LThiMDMtNGM0NzNlYjQ1YmE0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1024,
+                                                              "height":  603
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "script_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0931724",
+                                         "displayName":  "Stephen Williams",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0047458",
+                                         "displayName":  "Rob Bailey",
+                                         "alternativeNames":  [
+                                                                  "Robert Bailey"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMmIzNzRlMzMtNTc2NS00OWJjLWJjMDMtN2UwODAwYzBmNTU5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  427,
+                                                              "height":  640
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm6204194",
+                                       "displayName":  "John Dixon",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0782739",
+                                       "displayName":  "Michael Seitzman",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMGVkMGMxZWQtNDE2OS00MjAyLWI3ZTYtYjI5YmNmZWM0NGVjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5760,
+                                                            "height":  3840
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0205247",
+                                       "displayName":  "Pam Davis",
+                                       "alternativeNames":  [
+                                                                "Pamela David",
+                                                                "Pamela Davis"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0391326",
+                                     "displayName":  "Josh Holloway",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk5NTQ2NjMzNl5BMl5BanBnXkFtZTYwOTExMzY1._V1_.jpg",
+                                                          "width":  273,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0651441",
+                                     "displayName":  "Meghan Ory",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2ZhNWY5ZTgtOGMwYS00MDkxLWI3ZDUtN2YyYzFjZjM1NzY1XkEyXkFqcGc@._V1_CR247,24,267,400_.jpg",
+                                                          "width":  267,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0082517",
+                                     "displayName":  "John Billingsley",
+                                     "alternativeNames":  [
+                                                              "John A. Billingsley"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzYxYzFjYTktMmRmZC00MmZhLTg1ZTctYjEzOTY2YTFlYmY5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  675,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0126260",
+                                     "displayName":  "P.J. Byrne",
+                                     "alternativeNames":  [
+                                                              "PJ Byrne"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDUzNzFiMzMtNTllMy00ZWU5LTkyMjktNmMwZGFkMDg2ZGFmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1363
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000158",
+                                         "name":  "Artificial Intelligence",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

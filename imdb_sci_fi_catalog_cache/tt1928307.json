@@ -1,0 +1,240 @@
+﻿{
+    "id":  "tt1928307",
+    "detail":  {
+                   "id":  "tt1928307",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Time Bandits",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMWE0ZTdlMWEtYzIwOS00MzRlLWIwYzgtNjlkMWIxYTJiMTc2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2024,
+                   "endYear":  2024,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.1,
+                                  "voteCount":  7436
+                              },
+                   "plot":  "An unlikely alliance forms between a band of thieves and Kevin, an 11-year-old history buff, as they embark on a perilous mission to save Kevin\u0027s family and the world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1762961",
+                                         "displayName":  "Jeff Tomsic",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYTQ2ODFjMTUtNThlZC00ZTI3LTlhYzMtOGRhZjU2OGMxYjBhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2208,
+                                                              "height":  1472
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0169806",
+                                         "displayName":  "Taika Waititi",
+                                         "alternativeNames":  [
+                                                                  "T. Cohen",
+                                                                  "Taika Cohen",
+                                                                  "Count Viago"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzk4MDIzNjcwNV5BMl5BanBnXkFtZTgwMTIyMjgwNDI@._V1_.jpg",
+                                                              "width":  1638,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1055063",
+                                         "displayName":  "Armagan Ballantyne",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNGJmYjNmNmEtMzg5YS00N2NmLWE2NDAtYzRkMGU4NjM0ZWU5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1540,
+                                                              "height":  1500
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm7292200",
+                                       "displayName":  "Melanie Bracewell",
+                                       "alternativeNames":  [
+                                                                "Mel Bracewell",
+                                                                "Mel Bracewll"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjFiYjViMzktYjY5My00MDIyLTgyYzktODM4YTE1MmQwNjZhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1200,
+                                                            "height":  1800
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1318596",
+                                       "displayName":  "Jemaine Clement",
+                                       "alternativeNames":  [
+                                                                "Vulvus the Abhorrent",
+                                                                "J. Clement",
+                                                                "Flight of the Conchords"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjE4ODY4Njc5N15BMl5BanBnXkFtZTcwMjk1ODIyMw@@._V1_.jpg",
+                                                            "width":  411,
+                                                            "height":  600
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0000416",
+                                       "displayName":  "Terry Gilliam",
+                                       "alternativeNames":  [
+                                                                "Montypython Flyingcircus",
+                                                                "Terry Spam Sausage Spam Egg Gilliam",
+                                                                "Terry Terry Whicker Alan Gilliam",
+                                                                "Terry Whicker Gilliam",
+                                                                "Terry [Egg on Face] Gilliam",
+                                                                "Terry C. Gilliamberg",
+                                                                "Monty Python",
+                                                                "Marty Rigelli",
+                                                                "The Usual Lot"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BODAyMDM0NjEwOF5BMl5BanBnXkFtZTcwMTUyMDY5Mg@@._V1_.jpg",
+                                                            "width":  304,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001435",
+                                     "displayName":  "Lisa Kudrow",
+                                     "alternativeNames":  [
+                                                              "Lisa Kudrow Arquette"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU5OTA0ODcxNl5BMl5BanBnXkFtZTcwMjE3NjQxMw@@._V1_.jpg",
+                                                          "width":  291,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm11534084",
+                                     "displayName":  "Kal-El Tuck",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmRhNWM3NDUtNmZhNC00NGRhLTkxMjAtYWNhMjZiMjA2MDFlXkEyXkFqcGc@._V1_CR253,379,1494,2242_.jpg",
+                                                          "width":  1494,
+                                                          "height":  2242
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1752532",
+                                     "displayName":  "Tadhg Murphy",
+                                     "alternativeNames":  [
+                                                              "Tadgh Murphy"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTFmMjFjZmUtYTEyNi00MjZkLThiYTItNDJhMzFmMDA2ZTU4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5004,
+                                                          "height":  7502
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3788222",
+                                     "displayName":  "Roger Jean Nsengiyumva",
+                                     "alternativeNames":  [
+                                                              "Roger Nsengiyumva"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzZlMDAxODEtNGRhMy00NTMzLTk2YzUtMWViYjEzNWM5NTQ5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3219,
+                                                          "height":  4821
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    }
+                ]
+}

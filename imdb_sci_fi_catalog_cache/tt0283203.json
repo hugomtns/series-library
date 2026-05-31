@@ -1,0 +1,235 @@
+﻿{
+    "id":  "tt0283203",
+    "detail":  {
+                   "id":  "tt0283203",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Mutant X",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTNmNDc3ZTEtZWE4YS00ZGZmLWEyYzgtMjE4NTg1ODdiY2Y1XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  351,
+                                        "height":  500
+                                    },
+                   "startYear":  2001,
+                   "endYear":  2004,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.8,
+                                  "voteCount":  5554
+                              },
+                   "plot":  "A fugitive geneticist and four of his creations search for others of their kind while attempting to stay a step ahead of a morally ambiguous government agent.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0693225",
+                                         "displayName":  "Andrew Potter",
+                                         "alternativeNames":  [
+                                                                  "Drew Potter"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "cinematographer",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1053661",
+                                         "displayName":  "John Bell",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0599624",
+                                         "displayName":  "Jorge Montesi",
+                                         "alternativeNames":  [
+                                                                  "Jorge Monte",
+                                                                  "Jorge Montessi"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTU3NjQ2MjEzNF5BMl5BanBnXkFtZTgwMjQxNTEzMjE@._V1_.jpg",
+                                                              "width":  500,
+                                                              "height":  375
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "camera_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0032696",
+                                       "displayName":  "Avi Arad",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTg5OTQzNDY2Nl5BMl5BanBnXkFtZTYwMzg3NzY3._V1_.jpg",
+                                                            "width":  485,
+                                                            "height":  727
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0024169",
+                                       "displayName":  "Mark Amato",
+                                       "alternativeNames":  [
+                                                                "Mark A. Amato"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmQ4NDRhNzgtZTljMS00NjE2LWFmNmMtNTk0MmMyMDhhZjJhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1318,
+                                                            "height":  2145
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0450846",
+                                       "displayName":  "Elizabeth Keyishian",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYjU2ODExY2YtNjI3MC00NGRmLTg3ZTgtZGYwOWY0NTMxZWQ2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  960,
+                                                            "height":  1280
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0545296",
+                                     "displayName":  "Forbes March",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzIxMjEzMTE0OF5BMl5BanBnXkFtZTYwNjAxMDEz._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  563
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0695560",
+                                     "displayName":  "Victoria Pratt",
+                                     "alternativeNames":  [
+                                                              "Vicky Pratt",
+                                                              "Victoria"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzcyMTI1ODcxNV5BMl5BanBnXkFtZTYwNTE4MzAz._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  644
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005543",
+                                     "displayName":  "Victor Webster",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjRhMTIxN2UtOGE3Yi00OTY1LWFiMWYtMWMzZTZlMjNkMjI2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  640,
+                                                          "height":  457
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0790291",
+                                     "displayName":  "John Shea",
+                                     "alternativeNames":  [
+                                                              "John B. Shea",
+                                                              "John V. Shea"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjEzMGJiNmItZjBiYS00YThhLWIwYjEtMmY5ZDI3ZTNmYWQ3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1030,
+                                                          "height":  1751
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  22
+                    }
+                ]
+}

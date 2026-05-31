@@ -1,0 +1,153 @@
+﻿{
+    "id":  "tt11988676",
+    "detail":  {
+                   "id":  "tt11988676",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Hot Skull",
+                   "originalTitle":  "Sicak Kafa",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZjY2NzMwYjktOTQ4ZS00ZWVkLWI1NDYtMDYwZDQ0YjY1ZjhlXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1080
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2022,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.1,
+                                  "voteCount":  8544
+                              },
+                   "plot":  "In a dystopian world, as an epidemic spreads through verbal communication, a tyrannical institution pursues a linguist immune to the disease.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1729063",
+                                         "displayName":  "Mert Baykal",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0876834",
+                                         "displayName":  "Umur Turagay",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "cinematographer",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1729063",
+                                       "displayName":  "Mert Baykal",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm11430342",
+                                       "displayName":  "Afsin Kum",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm7025801",
+                                       "displayName":  "Zafer KÃ¼lÃ¼nk",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2183200",
+                                     "displayName":  "Osman Sonant",
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8464710",
+                                     "displayName":  "Hazal Subasi",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmNlY2NmN2YtZDY0Yy00M2E3LTkxNTQtMWNhNDk3NTk1ZmUxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  6720,
+                                                          "height":  4480
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1281872",
+                                     "displayName":  "Sevket Ãoruh",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2ZhOTM1ODItNGIzMy00OWRlLTg0MGUtNzA2YzNhZjhiZjgxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  555,
+                                                          "height":  778
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2131780",
+                                     "displayName":  "Kubilay TunÃ§er",
+                                     "alternativeNames":  [
+                                                              "Kubilay Qb TunÃ§er"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "TR",
+                                               "name":  "Turkey"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "tur",
+                                               "name":  "Turkish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000238",
+                                         "name":  "Turkish"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

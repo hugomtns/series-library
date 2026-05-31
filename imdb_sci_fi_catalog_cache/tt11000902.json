@@ -1,0 +1,245 @@
+﻿{
+    "id":  "tt11000902",
+    "detail":  {
+                   "id":  "tt11000902",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Our Flag Means Death",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjQ4Mzc5NDMtZjIwNi00ZDlkLTlkOGUtYWNhY2M2NjQzMTFiXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1296,
+                                        "height":  1920
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2023,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Biography",
+                                  "Comedy",
+                                  "History",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.7,
+                                  "voteCount":  47617
+                              },
+                   "plot":  "The year is 1717. Wealthy land-owner Stede Bonnet has a midlife crisis and decides to blow up his cushy life to become a pirate. It does not go well. Based on a true story.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm3305020",
+                                         "displayName":  "Fernando Frias",
+                                         "alternativeNames":  [
+                                                                  "Fernando Fronteras",
+                                                                  "Fernando FrÃ­as",
+                                                                  "Fernando FrÃ­as de la Parra"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2440581",
+                                         "displayName":  "Andrew DeYoung",
+                                         "alternativeNames":  [
+                                                                  "Andy DeYoung",
+                                                                  "Andrew Deyoung"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMmUyMmZjZGItMzVmMi00Yjg4LThiODAtZTc0Y2U3ZmVkZTM5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  864,
+                                                              "height":  1152
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1443023",
+                                         "displayName":  "Nacho Vigalondo",
+                                         "alternativeNames":  [
+                                                                  "Ignacio Vigalondo"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTcwNDUwNTMwMV5BMl5BanBnXkFtZTgwMzk3NjEzMTE@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1934840",
+                                       "displayName":  "David Jenkins",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMmZmMWVjNzgtZGYwOC00ZGY1LWE3YzQtMWRlOTlmYTI3ODliXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5792,
+                                                            "height":  8114
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3102104",
+                                       "displayName":  "Zayre Ferrer",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNTM0MjhlN2QtYWRjYi00ZGYyLTgxZmYtNzZkNGU1N2UxNTJhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3072,
+                                                            "height":  4096
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "casting_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm7712609",
+                                       "displayName":  "Eliza JimÃ©nez Cossio",
+                                       "alternativeNames":  [
+                                                                "Eliza Cossio"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZWNjMGZkNGEtYWJmOC00ZTIxLWE1ZjUtODQwZGM5YWY2OTcxXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  204,
+                                                            "height":  308
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1055302",
+                                     "displayName":  "Rhys Darby",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ1NzMxOTgwN15BMl5BanBnXkFtZTgwNDQ3NTk3NzE@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2181128",
+                                     "displayName":  "Joel Fry",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY2OTU0NzM1MV5BMl5BanBnXkFtZTgwMzM5ODU5NTE@._V1_.jpg",
+                                                          "width":  4945,
+                                                          "height":  3300
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4478685",
+                                     "displayName":  "Samson Kayo",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODZlNDgzNjktNDg1NC00ZjEyLWI1MzEtNTViZDY0NzcyZGU1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  585,
+                                                          "height":  877
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0536866",
+                                     "displayName":  "Matthew Maher",
+                                     "alternativeNames":  [
+                                                              "Matt Maher"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGEwYWMyMDctODU2ZS00Y2I1LWJiMmItN2MyZDcyYjRkNDA2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2400,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000022",
+                                         "name":  "Swashbuckler",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000072",
+                                         "name":  "Biography"
+                                     },
+                                     {
+                                         "id":  "in0000080",
+                                         "name":  "History"
+                                     },
+                                     {
+                                         "id":  "in0000151",
+                                         "name":  "Feel-Good Romance",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    }
+                ]
+}

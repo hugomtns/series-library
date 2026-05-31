@@ -1,0 +1,245 @@
+﻿{
+    "id":  "tt1181541",
+    "detail":  {
+                   "id":  "tt1181541",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Listener",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTg5MDk4Mzk1OV5BMl5BanBnXkFtZTcwNjYxMTAyOA@@._V1_.jpg",
+                                        "width":  8100,
+                                        "height":  11634
+                                    },
+                   "startYear":  2009,
+                   "endYear":  2014,
+                   "runtimeSeconds":  2520,
+                   "genres":  [
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.8,
+                                  "voteCount":  9142
+                              },
+                   "plot":  "A young paramedic discovers he has telepathic powers.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0899364",
+                                         "displayName":  "Clement Virgo",
+                                         "alternativeNames":  [
+                                                                  "Virgo Clement"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjIwMGRmZDUtMzdlOC00NWJhLWJkMmMtZDY2OWVlZjAzZGFlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2741,
+                                                              "height":  3280
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0804556",
+                                         "displayName":  "Kari Skogland",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzhmZTMwNDgtMDdkMS00NTlhLWJiODAtYWRlZDEwZGJmZDYyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  460,
+                                                              "height":  424
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0824220",
+                                         "displayName":  "Peter Stebbings",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTk2OTkwMzc4MF5BMl5BanBnXkFtZTcwNjAzMDkyMQ@@._V1_.jpg",
+                                                              "width":  450,
+                                                              "height":  300
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0025112",
+                                       "displayName":  "Michael Amo",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDQ0MWQ4NjgtNzJjYS00Mjg5LWExZWUtMmIyODM2ZTZkOGYwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2346,
+                                                            "height":  3385
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0250735",
+                                       "displayName":  "Sam Egan",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1436405",
+                                       "displayName":  "Matt MacLennan",
+                                       "alternativeNames":  [
+                                                                "Matthew MacLennan",
+                                                                "Matt McLennan"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0646241",
+                                     "displayName":  "Craig Olejnik",
+                                     "alternativeNames":  [
+                                                              "Craig Olojnik"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTc0ZWIyMmMtMzAzYi00NGVlLWI4ZTQtY2Y2MThhZDQ0YmVlXkEyXkFqcGc@._V1_CR1949,149,2395,3592_.jpg",
+                                                          "width":  2395,
+                                                          "height":  3592
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0809049",
+                                     "displayName":  "Lauren Lee Smith",
+                                     "alternativeNames":  [
+                                                              "Lauren Smith"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDUxZWY3NmItM2NjOS00MDhiLWJhOTctNzI2NTMzNTA4OGM4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2240,
+                                                          "height":  3360
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1338828",
+                                     "displayName":  "Ennis Esmer",
+                                     "alternativeNames":  [
+                                                              "Enis Esmer"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzdmYjdiYmEtNzc3Yy00N2MxLTkyM2ItY2VhNDIyZDEwZDlkXkEyXkFqcGc@._V1_CR841,0,1777,2666_.jpg",
+                                                          "width":  1777,
+                                                          "height":  2666
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0290478",
+                                     "displayName":  "Rainbow Sun Francks",
+                                     "alternativeNames":  [
+                                                              "Rainbow Son Francks",
+                                                              "Rainbow Francks",
+                                                              "Rainbow Sun"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjFmZmE4YmUtNTY5My00YjkzLWE5MWYtZjk2NDJmOWU1ODcwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1800,
+                                                          "height":  1200
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  13
+                    }
+                ]
+}

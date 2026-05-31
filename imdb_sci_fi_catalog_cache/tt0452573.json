@@ -1,0 +1,233 @@
+﻿{
+    "id":  "tt0452573",
+    "detail":  {
+                   "id":  "tt0452573",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "The Triangle",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjIyNjc0NTEtZTFhZC00Zjc2LTliZmMtNTBjYTllZmQ0OWViXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1048,
+                                        "height":  1500
+                                    },
+                   "startYear":  2005,
+                   "endYear":  2005,
+                   "runtimeSeconds":  5100,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.5,
+                                  "voteCount":  10474
+                              },
+                   "plot":  "A shipping magnate hires four experts from various fields to investigate what happened to his ships that went missing in the Bermuda Triangle. The team discovers a threat that might unravel time itself and cause the world to end.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0062644",
+                                         "displayName":  "Craig R. Baxley",
+                                         "alternativeNames":  [
+                                                                  "Craig Baxley"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTg0MDc1NzgyNF5BMl5BanBnXkFtZTcwODQ5NjIyNQ@@._V1_.jpg",
+                                                              "width":  2928,
+                                                              "height":  2352
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "stunts"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0002041",
+                                       "displayName":  "Dean Devlin",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjIyODg1NjE1NV5BMl5BanBnXkFtZTgwODUzMzQ4MDE@._V1_.jpg",
+                                                            "width":  1200,
+                                                            "height":  800
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0639328",
+                                       "displayName":  "Rockne S. O\u0027Bannon",
+                                       "alternativeNames":  [
+                                                                "Rockne O\u0027Bannon",
+                                                                "Steven Rae"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTRhMWE3MmEtMjZhNC00NGQ2LTlkYjYtM2Q5YzE1MmViZDJmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  831,
+                                                            "height":  1161
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0001741",
+                                       "displayName":  "Bryan Singer",
+                                       "alternativeNames":  [
+                                                                "Bryan"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTMwMzQ0OTgzNF5BMl5BanBnXkFtZTcwMjExNzAyMg@@._V1_.jpg",
+                                                            "width":  263,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "producer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000655",
+                                     "displayName":  "Eric Stoltz",
+                                     "alternativeNames":  [
+                                                              "Eric Stolitz"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc1Njc5MjQyOF5BMl5BanBnXkFtZTYwNzQzNzgz._V1_.jpg",
+                                                          "width":  285,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0004738",
+                                     "displayName":  "Catherine Bell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTMyMTYxMDk0OF5BMl5BanBnXkFtZTYwMjA1MzA2._V1_.jpg",
+                                                          "width":  268,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "script_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001617",
+                                     "displayName":  "Lou Diamond Phillips",
+                                     "alternativeNames":  [
+                                                              "Lou Diamond",
+                                                              "Louis Gem Phips"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU3NTgwMTQzMl5BMl5BanBnXkFtZTcwMjAzNTM4Nw@@._V1_.jpg",
+                                                          "width":  1536,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001117",
+                                     "displayName":  "Bruce Davison",
+                                     "alternativeNames":  [
+                                                              "Bruce Davidson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY4NDU5NjI1MF5BMl5BanBnXkFtZTcwNjA2NjMxOA@@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  389
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           },
+                                           {
+                                               "code":  "rus",
+                                               "name":  "Russian"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000166",
+                                         "name":  "Time Travel",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  3
+                    }
+                ]
+}

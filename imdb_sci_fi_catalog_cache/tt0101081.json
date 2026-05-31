@@ -1,0 +1,242 @@
+﻿{
+    "id":  "tt0101081",
+    "detail":  {
+                   "id":  "tt0101081",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Dinosaurs",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzlmYzRlZjUtZGM1NS00ODg3LWJhYjUtNzc5MGIyMGY3MjEwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  834,
+                                        "height":  1200
+                                    },
+                   "startYear":  1991,
+                   "endYear":  1994,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  23979
+                              },
+                   "plot":  "This show follows the life of a family of dinosaurs, living in a modern world. They have televisions, refrigerators, et cetera. The only humans around are cavemen, who are viewed as pets and wild animals.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0871541",
+                                         "displayName":  "Tom Trbovich",
+                                         "alternativeNames":  [
+                                                                  "Tom TrbÃ³vich"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0082676",
+                                         "displayName":  "Bruce Bilson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNmJjMTMyNDEtODUxMi00OTRiLTgzNzEtZWI1ZmFjOWY0NTYwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  943,
+                                                              "height":  1351
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0115883",
+                                         "displayName":  "Mark Brull",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0414551",
+                                       "displayName":  "Michael Jacobs",
+                                       "alternativeNames":  [
+                                                                "Jake Jacobs",
+                                                                "Michael D. Jacobs"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0949319",
+                                       "displayName":  "Bob Young",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0001345",
+                                       "displayName":  "Jim Henson",
+                                       "alternativeNames":  [
+                                                                "Jim Henson\u0027s Kermit the Frog",
+                                                                "Kermit the Frog",
+                                                                "Mr. Jim Henson",
+                                                                "Jim Henson \u0026 The Muppets",
+                                                                "Jim Henson\u0027s Muppets",
+                                                                "The Muppets",
+                                                                "Jim Henson and his Puppets",
+                                                                "Disney\u0027s Muppet properties and characters"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjMzMzI3MjAwM15BMl5BanBnXkFtZTcwODIzMDk1OA@@._V1_.jpg",
+                                                            "width":  1343,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0659573",
+                                     "displayName":  "Stuart Pankin",
+                                     "alternativeNames":  [
+                                                              "Stu Pankin"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYzMjQ3NDEwM15BMl5BanBnXkFtZTcwMTQxNjg0Nw@@._V1_.jpg",
+                                                          "width":  3744,
+                                                          "height":  5616
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0910055",
+                                     "displayName":  "Jessica Walter",
+                                     "alternativeNames":  [
+                                                              "Ross \u0026 Jessica",
+                                                              "Jessica Walters"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTkyNjA5NTA1NV5BMl5BanBnXkFtZTcwNjU0NjgyMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  649
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0871209",
+                                     "displayName":  "Allan Trautman",
+                                     "alternativeNames":  [
+                                                              "Alan Trautman"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWNiMjBlMGMtMmU1OC00ZDViLTgzNWItY2ZhZmUyNjliNDhiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2206,
+                                                          "height":  2758
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0863208",
+                                     "displayName":  "Leif Tilden",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWViNWZhZDEtYTE1NS00ZmQ0LTgwNDQtMTM5ZDhkZjNmOTExXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  496,
+                                                          "height":  804
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "location_management"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  5
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  14
+                    }
+                ]
+}

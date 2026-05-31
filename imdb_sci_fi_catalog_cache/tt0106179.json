@@ -1,0 +1,318 @@
+﻿{
+    "id":  "tt0106179",
+    "detail":  {
+                   "id":  "tt0106179",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The X-Files",
+                   "originalTitle":  "The X Files",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNzg3ODVhZWEtYmI0MC00NDQ0LWEyNGYtM2M0MTRhZTZmMjU3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1620,
+                                        "height":  2400
+                                    },
+                   "startYear":  1993,
+                   "endYear":  2018,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.6,
+                                  "voteCount":  273392
+                              },
+                   "plot":  "FBI Special Agents Fox Mulder and Dana Scully investigate unsolved unexplained cases known as X-Files.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0543129",
+                                         "displayName":  "Kim Manners",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTQyMzEzNzQzMF5BMl5BanBnXkFtZTYwMzYxMjgy._V1_.jpg",
+                                                              "width":  450,
+                                                              "height":  304
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "production_manager"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0101385",
+                                         "displayName":  "Rob Bowman",
+                                         "alternativeNames":  [
+                                                                  "Rob S. Bowman",
+                                                                  "Rob Stanton Bowman"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTQyMzEzNzQzMF5BMl5BanBnXkFtZTYwMzYxMjgy._V1_.jpg",
+                                                              "width":  450,
+                                                              "height":  304
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0638354",
+                                         "displayName":  "David Nutter",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjI4MDIyMDI5NF5BMl5BanBnXkFtZTgwNjE0ODQ4NjE@._V1_.jpg",
+                                                              "width":  1360,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0004810",
+                                       "displayName":  "Chris Carter",
+                                       "alternativeNames":  [
+                                                                "Chris C. Carter",
+                                                                "Christopher C. Carter"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzE0NjcyMjkyNF5BMl5BanBnXkFtZTcwMTUxMDA4MQ@@._V1_.jpg",
+                                                            "width":  285,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0819487",
+                                       "displayName":  "Frank Spotnitz",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYjA0MTVmY2EtZmI2Mi00ODQ0LTg1MDItMjY3YzI3NGI5ZGU0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  446,
+                                                            "height":  371
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0793062",
+                                       "displayName":  "John Shiban",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTE5Nzc0MjY2M15BMl5BanBnXkFtZTYwNzc5Mjk2._V1_.jpg",
+                                                            "width":  485,
+                                                            "height":  324
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0068272",
+                                       "displayName":  "Jeffrey Bell",
+                                       "alternativeNames":  [
+                                                                "Jeffery Bell",
+                                                                "Jeff Bell"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTQ4MDk2MjQzMl5BMl5BanBnXkFtZTcwNzcwOTk4OQ@@._V1_.jpg",
+                                                            "width":  1552,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000096",
+                                     "displayName":  "Gillian Anderson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE1NTVlZTUtNTE3Yi00ZTMzLWFkYjYtYjk1OGFiOWZlOWI3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1788,
+                                                          "height":  2236
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000141",
+                                     "displayName":  "David Duchovny",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDFiMmI0NWUtNTNlYi00MWNjLWIxMmItZDc5M2ZkNDUyZjE2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  240,
+                                                          "height":  280
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0683379",
+                                     "displayName":  "Mitch Pileggi",
+                                     "alternativeNames":  [
+                                                              "Mitchell Craig Pileggi"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWE1N2YxNTItNTQ3Yi00MDg2LTlkODMtZjg3NThjZjVkNGFlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  419,
+                                                          "height":  347
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0205657",
+                                     "displayName":  "William B. Davis",
+                                     "alternativeNames":  [
+                                                              "Bill Davis",
+                                                              "William Davis",
+                                                              "Wm B Davis"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY5ODk0MzQ1MF5BMl5BanBnXkFtZTcwMjg2NDQzMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  678
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000057",
+                                         "name":  "Police Procedural",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000157",
+                                         "name":  "Alien Invasion",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000176",
+                                         "name":  "Conspiracy Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000182",
+                                         "name":  "Psychological Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  20
+                    }
+                ]
+}

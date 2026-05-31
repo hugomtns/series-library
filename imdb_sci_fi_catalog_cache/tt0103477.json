@@ -1,0 +1,279 @@
+﻿{
+    "id":  "tt0103477",
+    "detail":  {
+                   "id":  "tt0103477",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Little Mermaid",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BY2IyMDJhODYtMTZjOS00YjI0LThiN2QtNGE3N2E3NTYzMTEwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  484,
+                                        "height":  687
+                                    },
+                   "startYear":  1992,
+                   "endYear":  1994,
+                   "runtimeSeconds":  1500,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.8,
+                                  "voteCount":  6945
+                              },
+                   "plot":  "The 1989 animated feature adapted by Disney for television in a prequel that leads up to the events of the movie.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0593420",
+                                         "displayName":  "Jamie Mitchell",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzg5Y2QwNjctMGJlYy00MTY0LWJiYmEtODIzMGE3ODE1NDY2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2000,
+                                                              "height":  3008
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0544191",
+                                         "displayName":  "Mircea Mantta",
+                                         "alternativeNames":  [
+                                                                  "Mircea Manta",
+                                                                  "Mircea Mantra",
+                                                                  "Mircea Kyle Mantta",
+                                                                  "Mircea Manttaa"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0026153",
+                                       "displayName":  "Hans Christian Andersen",
+                                       "alternativeNames":  [
+                                                                "H. C. Andersen",
+                                                                "H. Ch. Andersen",
+                                                                "H.C. Andersen",
+                                                                "Hans-Christian Andersen",
+                                                                "Hans Andersen",
+                                                                "Hans Christian Anderson",
+                                                                "H. Ch. Anderssen",
+                                                                "Hans Andesen",
+                                                                "G.Kh.Andersen"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOGViY2M3NTgtMTVlNy00MGMzLThiMmUtMmU5NTQ4ZGMyOTk1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  800,
+                                                            "height":  1155
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "music_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0063566",
+                                       "displayName":  "Peter S. Beagle",
+                                       "alternativeNames":  [
+                                                                "Peter Beagle"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTBjNWUwN2YtZGM2Ny00YjQwLTlhZWMtZTcwOGVlOTZlZmRhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  558,
+                                                            "height":  588
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0025726",
+                                       "displayName":  "Tedd Anasti",
+                                       "alternativeNames":  [
+                                                                "Ted Anasti",
+                                                                "Theodore Rudolph Anasti"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0072533",
+                                     "displayName":  "Jodi Benson",
+                                     "alternativeNames":  [
+                                                              "Suzetta MiÃ±et"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjM4MDU4MTkxMF5BMl5BanBnXkFtZTgwNjQxMzE5MjI@._V1_.jpg",
+                                                          "width":  1500,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0942787",
+                                     "displayName":  "Samuel E. Wright",
+                                     "alternativeNames":  [
+                                                              "Samuel Wright",
+                                                              "Sam Wright"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQxMzMzNTgzNl5BMl5BanBnXkFtZTcwMDU4NjAyOA@@._V1_.jpg",
+                                                          "width":  1559,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0343361",
+                                     "displayName":  "Edan Gross",
+                                     "alternativeNames":  [
+                                                              "Edon Gross"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOGI2MTMyM2MtZmEwMC00YTU0LWI5YWMtZDhlNTBhMGFiZDlhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2776,
+                                                          "height":  4168
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0550318",
+                                     "displayName":  "Kenneth Mars",
+                                     "alternativeNames":  [
+                                                              "Kennith Mars",
+                                                              "Kenny Mars",
+                                                              "Ken Mars",
+                                                              "Kenneth Moss"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWJhYzA3OTQtYTNkZC00MDNlLWI1ZmMtZmUwYWU0NTRjY2E3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2261,
+                                                          "height":  3414
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CN",
+                                               "name":  "China"
+                                           },
+                                           {
+                                               "code":  "HK",
+                                               "name":  "Hong Kong (Special Administrative Region of China)"
+                                           },
+                                           {
+                                               "code":  "TW",
+                                               "name":  "Taiwan (Province of China)"
+                                           },
+                                           {
+                                               "code":  "VN",
+                                               "name":  "Vietnam"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000021",
+                                         "name":  "Sea Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000097",
+                                         "name":  "Fairy Tale",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    }
+                ]
+}

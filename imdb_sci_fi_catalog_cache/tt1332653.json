@@ -1,0 +1,186 @@
+﻿{
+    "id":  "tt1332653",
+    "detail":  {
+                   "id":  "tt1332653",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "The Day of the Triffids",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTg1MTUwNjUyMV5BMl5BanBnXkFtZTcwNDQ4MzgxMw@@._V1_.jpg",
+                                        "width":  354,
+                                        "height":  500
+                                    },
+                   "startYear":  2009,
+                   "endYear":  2009,
+                   "runtimeSeconds":  5580,
+                   "genres":  [
+                                  "Action",
+                                  "Horror",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.6,
+                                  "voteCount":  5044
+                              },
+                   "plot":  "With most of the world blinded and the dangerous carnivorous Triffids set loose, it falls upon a band of scattered survivors to fight this plant invasion and the madness following.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0178944",
+                                         "displayName":  "Nick Copus",
+                                         "alternativeNames":  [
+                                                                  "Nicholas Copus"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjhiZDFmNmQtNmQ1NS00YTI4LTg5OWQtNjQ1NzIwZGQ1NzcxXkEyXkFqcGc@._V1_CR540,1,779,1169_.jpg",
+                                                              "width":  779,
+                                                              "height":  1169
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0361927",
+                                       "displayName":  "Patrick Harbinson",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0582943",
+                                       "displayName":  "Richard Mewis",
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "producer",
+                                                                  "script_department"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0943909",
+                                       "displayName":  "John Wyndham",
+                                       "alternativeNames":  [
+                                                                "John Benyon",
+                                                                "Lucas Benyon",
+                                                                "John Beynon",
+                                                                "Johnson Harris",
+                                                                "John Harris",
+                                                                "Lucas Parkes"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000613",
+                                     "displayName":  "Joely Richardson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODgwMjMwMzE2OV5BMl5BanBnXkFtZTcwOTAzMTgxMw@@._V1_.jpg",
+                                                          "width":  291,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0779084",
+                                     "displayName":  "Dougray Scott",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk0MTQ5NDU3OF5BMl5BanBnXkFtZTYwOTMxODc0._V1_.jpg",
+                                                          "width":  285,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0004051",
+                                     "displayName":  "Brian Cox",
+                                     "alternativeNames":  [
+                                                              "Brian Cox CBE"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTk2MTg1MjYtMmQ5Yy00OTI0LTkyYmQtMDVlNDQ5MTQyMzU3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2368,
+                                                          "height":  3553
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0412850",
+                                     "displayName":  "Eddie Izzard",
+                                     "alternativeNames":  [
+                                                              "Suzy Eddie Izzard",
+                                                              "Suzy Izzard"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDcwMzJhZWItODkyYS00NDkwLTg4MzEtYmYzYzAzYjUwZWQyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  526,
+                                                          "height":  790
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  2
+                    }
+                ]
+}

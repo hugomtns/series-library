@@ -1,0 +1,369 @@
+﻿{
+    "id":  "tt15599734",
+    "detail":  {
+                   "id":  "tt15599734",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Murder Drones",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZmIwNDhhMTgtMWIyYS00Yzg0LTlmZjUtYTczNTU5MGVkNjlhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2024,
+                   "runtimeSeconds":  1260,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Romance",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  5775
+                              },
+                   "plot":  "On a post-apocalyptic exoplanet, worker drones struggle to survive by hiding from rogue robots called Murder Drones.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm7145447",
+                                         "displayName":  "Liam Vickers",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm7145447",
+                                       "displayName":  "Liam Vickers",
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm4716053",
+                                     "displayName":  "Elsie Lovelock",
+                                     "alternativeNames":  [
+                                                              "Elsie Edgar"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDgyYWRjMzEtMzQwMy00OWQwLTk1MmQtNjM4NjNkNDI1M2E5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2656,
+                                                          "height":  3984
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7693469",
+                                     "displayName":  "Michael Kovach",
+                                     "alternativeNames":  [
+                                                              "KoVox",
+                                                              "Michael Kovoch"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWNmZWI0NjQtZTg5OS00NmI2LWFhMDgtYzQ3ZWM0YjNlMTQzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  800,
+                                                          "height":  1027
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2917120",
+                                     "displayName":  "Nola Klop",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGQ4YzA3OTEtYjk4Yi00NjBlLWFiMzQtNDNmNzFmNjdiNDVlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1638,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4408107",
+                                     "displayName":  "David Dixon",
+                                     "alternativeNames":  [
+                                                              "Shock Dingo",
+                                                              "D.J. Dixon",
+                                                              "Dave J. Dixon",
+                                                              "Dave Dixon",
+                                                              "David \u0027ShockDingo\u0027 Dixon",
+                                                              "David \u0027Shockdingo\u0027 Dixon",
+                                                              "David J. Dixon",
+                                                              "David Joseph Dixon",
+                                                              "ShockDingo"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGE1MTgxZjItYjc2OS00NTdjLWIxZDAtYzcwNzRkODIwYzFiXkEyXkFqcGc@._V1_CR0,3,1749,2624_.jpg",
+                                                          "width":  1749,
+                                                          "height":  2624
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "AU",
+                                               "name":  "Australia"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "rus",
+                                               "name":  "Russian"
+                                           },
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           },
+                                           {
+                                               "code":  "ind",
+                                               "name":  "Indonesian"
+                                           },
+                                           {
+                                               "code":  "jpn",
+                                               "name":  "Japanese"
+                                           },
+                                           {
+                                               "code":  "tur",
+                                               "name":  "Turkish"
+                                           },
+                                           {
+                                               "code":  "zho",
+                                               "name":  "Chinese"
+                                           },
+                                           {
+                                               "code":  "ukr",
+                                               "name":  "Ukrainian"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000002",
+                                         "name":  "Action Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000023",
+                                         "name":  "Teen Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000032",
+                                         "name":  "Buddy Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000036",
+                                         "name":  "Farce",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000049",
+                                         "name":  "Teen Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000077",
+                                         "name":  "Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000089",
+                                         "name":  "Teen Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000109",
+                                         "name":  "Body Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000115",
+                                         "name":  "Slasher Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000118",
+                                         "name":  "Teen Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000119",
+                                         "name":  "Vampire Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000153",
+                                         "name":  "Romantic Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000155",
+                                         "name":  "Teen Romance",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000158",
+                                         "name":  "Artificial Intelligence",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000159",
+                                         "name":  "Cyberpunk",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000177",
+                                         "name":  "Cyber Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

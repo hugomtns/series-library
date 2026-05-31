@@ -1,0 +1,250 @@
+﻿{
+    "id":  "tt16549788",
+    "detail":  {
+                   "id":  "tt16549788",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Guardians of Justice (Will Save You!)",
+                   "originalTitle":  "The Guardians of Justice",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTVlNmMxODQtZGFkYy00MzE0LTg4YjMtZDNhNDY1NWZkNjhjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  768,
+                                        "height":  1152
+                                    },
+                   "startYear":  2022,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.1,
+                                  "voteCount":  5776
+                              },
+                   "plot":  "When their seemingly fearless leader self-destructs, a team of troubled superheroes must confront festering evil in the world - and in themselves.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm5262498",
+                                         "displayName":  "Enol Junquera",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BY2Y5MDI2OTYtZDk1NC00OWMwLWIwM2QtNzcxNTIzMjMxMThlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  960,
+                                                              "height":  960
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1893974",
+                                         "displayName":  "Luis Pelayo Junquera",
+                                         "alternativeNames":  [
+                                                                  "Luis Junquera"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3021774",
+                                         "displayName":  "Adi Shankar",
+                                         "alternativeNames":  [
+                                                                  "Aditya Shankar"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODgxYzZkZTEtZGUzYy00NjllLWI4MGItNzlhMGNiMGJmMWE4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  5464,
+                                                              "height":  8192
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm6619317",
+                                       "displayName":  "Samuel Laskey",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3021774",
+                                       "displayName":  "Adi Shankar",
+                                       "alternativeNames":  [
+                                                                "Aditya Shankar"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BODgxYzZkZTEtZGUzYy00NjllLWI4MGItNzlhMGNiMGJmMWE4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5464,
+                                                            "height":  8192
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm6416756",
+                                       "displayName":  "Shawn deLoache",
+                                       "alternativeNames":  [
+                                                                "Shawn DeLoache"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzNjMzE0YzUtOGQ4OS00MGUwLTk1NmUtODIzMGQyNmJkODMyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1765,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0266261",
+                                     "displayName":  "Dallas Page",
+                                     "alternativeNames":  [
+                                                              "Diamond Dallas",
+                                                              "Page Falkinburg",
+                                                              "\u0027Diamond\u0027 Dallas Page",
+                                                              "Diamond Dallas Page"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjEzOTQ0NDIyMV5BMl5BanBnXkFtZTcwMTkzMTczMQ@@._V1_.jpg",
+                                                          "width":  425,
+                                                          "height":  623
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1801800",
+                                     "displayName":  "Sharni Vinson",
+                                     "alternativeNames":  [
+                                                              "Sharni"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTZhODkxYjEtNjIzYS00NjMwLTk4NTctZmE4YjZjYmM1MTdiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3024,
+                                                          "height":  4032
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000612",
+                                     "displayName":  "Denise Richards",
+                                     "alternativeNames":  [
+                                                              "Denise",
+                                                              "Denise Lee Richards"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQyNjYxNDU5OV5BMl5BanBnXkFtZTcwNTY5NDQwOA@@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "executive",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0117022",
+                                     "displayName":  "Zachery Ty Bryan",
+                                     "alternativeNames":  [
+                                                              "Zachery Bryan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYwMzE4NjcxMF5BMl5BanBnXkFtZTYwMjM4MTEz._V1_.jpg",
+                                                          "width":  405,
+                                                          "height":  596
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  7
+                    }
+                ]
+}

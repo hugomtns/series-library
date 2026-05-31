@@ -1,0 +1,221 @@
+﻿{
+    "id":  "tt11808942",
+    "detail":  {
+                   "id":  "tt11808942",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Schmigadoon!",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYjc2MTJlNWQtYTliNC00MjBiLTk5ZmItMDM2NzEzMzEzNjMzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  675,
+                                        "height":  1000
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2023,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Comedy",
+                                  "Fantasy",
+                                  "Musical",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  16281
+                              },
+                   "plot":  "A couple on a backpacking trip discovers a magical town in which everyone acts like they\u0027re in a classic musical.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0001756",
+                                         "displayName":  "Barry Sonnenfeld",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTYzNjY1NzY4MV5BMl5BanBnXkFtZTYwNjk3NDQ0._V1_.jpg",
+                                                              "width":  295,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3634291",
+                                         "displayName":  "Alice Mathias",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0525659",
+                                         "displayName":  "Robert Luketic",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTM1Njk2MTIyNF5BMl5BanBnXkFtZTYwNDQ4MjEz._V1_.jpg",
+                                                              "width":  325,
+                                                              "height":  592
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0202425",
+                                       "displayName":  "Ken Daurio",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjQ5MDQ3MDA5Nl5BMl5BanBnXkFtZTcwNDI3MjcyOA@@._V1_.jpg",
+                                                            "width":  1353,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0666791",
+                                       "displayName":  "Cinco Paul",
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm11880742",
+                                       "displayName":  "Raina Morris",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNmUwMGZiNzgtYmM5My00Yjc4LTg4ZWEtMzQ0MWQ5ODdjZWNlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1816,
+                                                            "height":  2101
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1221047",
+                                     "displayName":  "Keegan-Michael Key",
+                                     "alternativeNames":  [
+                                                              "Keegan Michael Key",
+                                                              "Key",
+                                                              "Key and Peele"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2UxYjk1YmQtMmUwNy00NjdiLWE2ODgtMmUwNjkwNzEzZmVhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  243,
+                                                          "height":  320
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5198446",
+                                     "displayName":  "Cecily Strong",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY1MTQ3MDIzOV5BMl5BanBnXkFtZTcwMTc1ODM4OA@@._V1_.jpg",
+                                                          "width":  1646,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4874651",
+                                     "displayName":  "Dove Cameron",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGViMThhM2ItZTJkMS00OWJlLWI0MzUtNzMzODIwMTY0ZjRhXkEyXkFqcGc@._V1_CR64,0,2266,3399_.jpg",
+                                                          "width":  2266,
+                                                          "height":  3399
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "composer",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0155693",
+                                     "displayName":  "Kristin Chenoweth",
+                                     "alternativeNames":  [
+                                                              "Kristen Chenowith",
+                                                              "Kristin Chenowith"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI4NzEyMTQ5MV5BMl5BanBnXkFtZTcwMzg3NTUyMg@@._V1_.jpg",
+                                                          "width":  331,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000133",
+                                         "name":  "Musical"
+                                     },
+                                     {
+                                         "id":  "in0000134",
+                                         "name":  "Pop Musical",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000151",
+                                         "name":  "Feel-Good Romance",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  6
+                    }
+                ]
+}

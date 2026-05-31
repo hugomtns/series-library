@@ -1,0 +1,288 @@
+﻿{
+    "id":  "tt2193021",
+    "detail":  {
+                   "id":  "tt2193021",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Arrow",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjRlNjNlY2YtYzQxNS00ZTUzLTkwMTQtMjM0YjZlOWQwZmFkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1350
+                                    },
+                   "startYear":  2012,
+                   "endYear":  2020,
+                   "runtimeSeconds":  2520,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  461136
+                              },
+                   "plot":  "Presumed-dead billionaire playboy Oliver Queen returns to Starling City and rights societal wrongs as Arrow.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0051466",
+                                         "displayName":  "James Bamford",
+                                         "alternativeNames":  [
+                                                                  "Bam Bam",
+                                                                  "James \u0027Bam Bam\u0027 Bamford",
+                                                                  "James \u0027Bam-Bam\u0027 Bamford",
+                                                                  "James Banford"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMDU5ZjYzNzktMTNjOC00ZTM4LWFlZmYtYTQzMmNmOGU4ZTUxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3360,
+                                                              "height":  5040
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "stunts"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0067090",
+                                         "displayName":  "John Behring",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BM2YyMjYxM2ItYTQwOC00MDUyLTgzZjMtMTE5ODBhODY5MDQzXkEyXkFqcGc@._V1_CR377,20,955,1432_.jpg",
+                                                              "width":  955,
+                                                              "height":  1432
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0935732",
+                                         "displayName":  "Glen Winter",
+                                         "alternativeNames":  [
+                                                                  "Glen \u0027Strategy\u0027 Winter",
+                                                                  "Glen Thomas Winter"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTAzNjE4ODc3NDNeQTJeQWpwZ15BbWU4MDM4MTI4NDMx._V1_.jpg",
+                                                              "width":  800,
+                                                              "height":  537
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0075528",
+                                       "displayName":  "Greg Berlanti",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTMwOTc4MDAyMF5BMl5BanBnXkFtZTcwNTY5MTY4NA@@._V1_.jpg",
+                                                            "width":  1600,
+                                                            "height":  1067
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0973233",
+                                       "displayName":  "Marc Guggenheim",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjIyMTgwOTI0OV5BMl5BanBnXkFtZTgwMDk4MDg0ODE@._V1_.jpg",
+                                                            "width":  1482,
+                                                            "height":  1482
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1132610",
+                                       "displayName":  "Andrew Kreisberg",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYmMxYjQwODUtMTkyZi00OTkzLWI2NWUtNjM3OTYzMjI1MTBlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  720,
+                                                            "height":  576
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0708981",
+                                     "displayName":  "David Ramsey",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUzNTQwMjk2NV5BMl5BanBnXkFtZTgwNjEzNTY5NTM@._V1_.jpg",
+                                                          "width":  1394,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1556320",
+                                     "displayName":  "Katie Cassidy",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTZhMGRlNmYtMjlmOS00NzQ5LThlODUtMzlkMWEyMGY1NDg3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1410,
+                                                          "height":  2250
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1854386",
+                                     "displayName":  "Stephen Amell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY0YTdmYjktZjIyYi00YzlkLWExMzUtZjA1MGI3ZDhhMDdlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1280,
+                                                          "height":  1920
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0860749",
+                                     "displayName":  "Susanna Thompson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzZmYjU0MGUtOTdmYy00OWFhLTk3NjEtODIwOWUwNzY5NjNiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2436,
+                                                          "height":  4268
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "ell",
+                                               "name":  "Modern Greek (1453-)"
+                                           },
+                                           {
+                                               "code":  "ara",
+                                               "name":  "Arabic"
+                                           },
+                                           {
+                                               "code":  "rus",
+                                               "name":  "Russian"
+                                           },
+                                           {
+                                               "code":  "zho",
+                                               "name":  "Chinese"
+                                           },
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           },
+                                           {
+                                               "code":  "jpn",
+                                               "name":  "Japanese"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  10
+                    }
+                ]
+}

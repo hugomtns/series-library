@@ -1,0 +1,208 @@
+﻿{
+    "id":  "tt0830900",
+    "detail":  {
+                   "id":  "tt0830900",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Saving Grace",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BY2ZjOTI0MzUtZGM4NC00YzEzLThmMDItNjMwMjVlMDU4NTc3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1462,
+                                        "height":  2193
+                                    },
+                   "startYear":  2007,
+                   "endYear":  2010,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  6161
+                              },
+                   "plot":  "An angel offers a jaded Oklahoma City police detective the chance to redeem her life.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0541703",
+                                         "displayName":  "Artie Mandelberg",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0110644",
+                                         "displayName":  "Tricia Brock",
+                                         "alternativeNames":  [
+                                                                  "Trisha Brock"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0272704",
+                                         "displayName":  "Guy Ferland",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0589043",
+                                       "displayName":  "Nancy Miller",
+                                       "alternativeNames":  [
+                                                                "Nancy Ann Miller"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0411469",
+                                       "displayName":  "Mark Israel",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1241675",
+                                       "displayName":  "Denitria Harris-Lawrence",
+                                       "alternativeNames":  [
+                                                                "Denitria Trinise Harris",
+                                                                "Denitria Harris",
+                                                                "Dee Harris-Lawrence"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000456",
+                                     "displayName":  "Holly Hunter",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjIzNzg1ODA1NF5BMl5BanBnXkFtZTcwNTI4NzQ4Mg@@._V1_.jpg",
+                                                          "width":  267,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0728132",
+                                     "displayName":  "Leon Rippy",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg4MzE3NDA5M15BMl5BanBnXkFtZTcwMDc4MDEzMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  563
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0425543",
+                                     "displayName":  "Kenny Johnson",
+                                     "alternativeNames":  [
+                                                              "Kenneth A. Johnson",
+                                                              "Kenneth Johnson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE1NDg2NTY0Ml5BMl5BanBnXkFtZTcwODI5MTAzMQ@@._V1_.jpg",
+                                                          "width":  350,
+                                                          "height":  440
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0003082",
+                                     "displayName":  "Bailey Chase",
+                                     "alternativeNames":  [
+                                                              "Bailey Luetgert",
+                                                              "Baily Luetgert"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQyODA3NTgxN15BMl5BanBnXkFtZTgwNTE1MDY2MDE@._V1_.jpg",
+                                                          "width":  3744,
+                                                          "height":  5616
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  19
+                    }
+                ]
+}

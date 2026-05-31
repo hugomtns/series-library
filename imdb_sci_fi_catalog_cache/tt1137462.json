@@ -1,0 +1,207 @@
+﻿{
+    "id":  "tt1137462",
+    "detail":  {
+                   "id":  "tt1137462",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Kings",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTcwNDQ4MDA1OF5BMl5BanBnXkFtZTcwMjYwOTQ3Mw@@._V1_.jpg",
+                                        "width":  356,
+                                        "height":  500
+                                    },
+                   "startYear":  2009,
+                   "endYear":  2009,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  8999
+                              },
+                   "plot":  "A modern day, alternate-reality drama about a hero who rises to become the King of his nation, based on the biblical story of King David.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1349376",
+                                         "displayName":  "Francis Lawrence",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTI4Mjc4MTMzNF5BMl5BanBnXkFtZTYwNjkzNzc4._V1_.jpg",
+                                                              "width":  427,
+                                                              "height":  325
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0080601",
+                                         "displayName":  "Ed Bianchi",
+                                         "alternativeNames":  [
+                                                                  "Edward Bianchi"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0003163",
+                                         "displayName":  "Tucker Gates",
+                                         "alternativeNames":  [
+                                                                  "Mark T. Gates III"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMDgzZjQzY2YtNDYzNC00NWU4LTg3N2YtMjIwNWUzODc1ZTc3XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1088,
+                                                              "height":  1458
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0338169",
+                                       "displayName":  "Michael Green",
+                                       "alternativeNames":  [
+                                                                "Michael J. Green"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzI0YTMzNjYtZmJjYS00NzZjLWJkYzYtM2FiYWE1ODI1NjQ2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5087,
+                                                            "height":  5181
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2870984",
+                                       "displayName":  "Seamus Kevin Fahey",
+                                       "alternativeNames":  [
+                                                                "Kevin Fahey",
+                                                                "Seamus Fahey"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0552588",
+                                       "displayName":  "Julie Martin",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0574534",
+                                     "displayName":  "Ian McShane",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmMyNDcwMDgtMmIxNC00NTcyLWIwMmItNDQzNmJjNmVhYjhhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3580,
+                                                          "height":  4774
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0860749",
+                                     "displayName":  "Susanna Thompson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzZmYjU0MGUtOTdmYy00OWFhLTk3NjEtODIwOWUwNzY5NjNiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2436,
+                                                          "height":  4268
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0250659",
+                                     "displayName":  "Christopher Egan",
+                                     "alternativeNames":  [
+                                                              "Chris Egan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjQ2YTFlNGEtOTY0NS00MTQwLTg2MTQtYjM3MmIyNGIyM2I4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1252,
+                                                          "height":  1556
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "assistant_director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1935292",
+                                     "displayName":  "Allison Miller",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjEzODQxNDMtNDE1ZS00YTM5LTgyN2QtOWNmZmE0NDBmNjAyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3840,
+                                                          "height":  5760
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000083",
+                                         "name":  "Period Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000084",
+                                         "name":  "Political Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

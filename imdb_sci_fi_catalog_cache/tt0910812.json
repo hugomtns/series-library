@@ -1,0 +1,218 @@
+﻿{
+    "id":  "tt0910812",
+    "detail":  {
+                   "id":  "tt0910812",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Tin Man",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjNjZWZiOTYtNGIzZC00ZGZiLWI4NjMtOTYzMTNlYWVhYmI0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  995,
+                                        "height":  1500
+                                    },
+                   "startYear":  2007,
+                   "endYear":  2007,
+                   "runtimeSeconds":  5400,
+                   "genres":  [
+                                  "Adventure",
+                                  "Fantasy",
+                                  "Sci-Fi",
+                                  "Western"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  15380
+                              },
+                   "plot":  "A waitress named DG journeys through a magical realm called the Outer Zone, accompanied by unique companions who help her confront an evil sorceress while uncovering secrets about her own identity.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0932216",
+                                         "displayName":  "Nick Willing",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWJmODEyM2ItOGExMy00ODQzLTg4ZTgtNGI1YjI2OTFlZDgxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2071,
+                                                              "height":  2070
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0000875",
+                                       "displayName":  "L. Frank Baum",
+                                       "alternativeNames":  [
+                                                                "Floyd Akers",
+                                                                "Anonymous",
+                                                                "Laura Bancroft",
+                                                                "Frank Baum",
+                                                                "Louis F. Baum",
+                                                                "George Brooks",
+                                                                "John Estes Cooke",
+                                                                "Captain Hugh Fitzgerald",
+                                                                "Suzanne Metcalf",
+                                                                "Schuyler Staunton",
+                                                                "Edith Van Dyne"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDhkYTUwNGEtZTZiNy00NTA2LWExZGEtZTRiOGI0YWU4MDMwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1143,
+                                                            "height":  1432
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0089369",
+                                       "displayName":  "Jill E. Blotevogel",
+                                       "alternativeNames":  [
+                                                                "Jill Blotevogel",
+                                                                "Jill Blotvogel"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0593749",
+                                       "displayName":  "Steven Long Mitchell",
+                                       "alternativeNames":  [
+                                                                "Steve Long Mitchell",
+                                                                "Steve Mitchell"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001086",
+                                     "displayName":  "Alan Cumming",
+                                     "alternativeNames":  [
+                                                              "Victor \u0026 Barry",
+                                                              "Victor and Barry",
+                                                              "Alan Cummings"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg4MjM0NDI5M15BMl5BanBnXkFtZTcwNDg1ODE0Mw@@._V1_.jpg",
+                                                          "width":  298,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0221046",
+                                     "displayName":  "Zooey Deschanel",
+                                     "alternativeNames":  [
+                                                              "She \u0026 Him"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTgzMjM2NDE1OF5BMl5BanBnXkFtZTcwMjA2NDU5OA@@._V1_.jpg",
+                                                          "width":  1538,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005370",
+                                     "displayName":  "Kathleen Robertson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTRiM2FiMjgtZDAxOC00YzE5LThhNjktZTI0Yjg4YzY2YTU2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  930,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0568180",
+                                     "displayName":  "Neal McDonough",
+                                     "alternativeNames":  [
+                                                              "Neil McDonough"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDcwN2M1MTctYWZmZS00ZDJkLTlkNmUtMTVmZTBmMmUzNmU3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1197,
+                                                          "height":  2511
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000096",
+                                         "name":  "Fantasy Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000097",
+                                         "name":  "Fairy Tale",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000165",
+                                         "name":  "Steampunk",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000191",
+                                         "name":  "Western"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  3
+                    }
+                ]
+}

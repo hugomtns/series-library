@@ -1,0 +1,344 @@
+﻿{
+    "id":  "tt0105935",
+    "detail":  {
+                   "id":  "tt0105935",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Aladdin",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNGUxYjFiNzAtNzMwMS00Y2M0LThkMDUtNDk2MDRjZjBkODM2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  800,
+                                        "height":  1141
+                                    },
+                   "startYear":  1994,
+                   "endYear":  1995,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  14311
+                              },
+                   "plot":  "Aladdin, the clever hero of Agrabah, continues his adventures with the help of his fiancee Princess Jasmine, his pet monkey Abu, Magic Carpet, Iago the greedy parrot, and of course his best friend the semi-cosmic Genie.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0953649",
+                                         "displayName":  "Alan Zaslove",
+                                         "alternativeNames":  [
+                                                                  "Alan Zazlove",
+                                                                  "Alan Zsalove"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0480349",
+                                         "displayName":  "Rob LaDuca",
+                                         "alternativeNames":  [
+                                                                  "Bob DeLuca",
+                                                                  "Rob La Duca",
+                                                                  "Robert LaDuca",
+                                                                  "Robert Laduca",
+                                                                  "Rob LeDuca"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0368906",
+                                         "displayName":  "Bob Hathcock",
+                                         "alternativeNames":  [
+                                                                  "Robert G. Hathcock Jr.",
+                                                                  "Robert Hathcock Jr.",
+                                                                  "Robert Hathcock",
+                                                                  "Bob Hathcockroach"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0132644",
+                                       "displayName":  "Kevin Campbell",
+                                       "alternativeNames":  [
+                                                                "Kevin D. Campbell"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0135184",
+                                       "displayName":  "Duane Capizzi",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzFlMTgyZDktNzQ1MC00ZDA2LTlhMmUtYmM1MTdkMTY4ODA5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1527,
+                                                            "height":  1589
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0166256",
+                                       "displayName":  "Ron Clements",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTM0MDAxMjU4N15BMl5BanBnXkFtZTcwMzQ1MjcxMw@@._V1_.jpg",
+                                                            "width":  1024,
+                                                            "height":  683
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0144657",
+                                     "displayName":  "Dan Castellaneta",
+                                     "alternativeNames":  [
+                                                              "?",
+                                                              "Dan Your Ad Here Aneta",
+                                                              "Dan Baste-Allaneta",
+                                                              "Dan Blackulaneta",
+                                                              "All Work and No Play Makes Dan a Dull Boy.",
+                                                              "The Cabinet of Dan Caligari-neta",
+                                                              "Dan Candyappleanetta",
+                                                              "Dan Candycorn-aneta",
+                                                              "Dan Casketaneta",
+                                                              "Damned Cast-In-Hell-Dead-Aaah!",
+                                                              "Dan \u0027The Worm\u0027 Castellaneta",
+                                                              "Decaying Dan Castellaneta",
+                                                              "Diabolical Dan Castellaneta",
+                                                              "Dysfunctional Dan Castellaneta",
+                                                              "I Was a Teenaged Dan Castellaneta",
+                                                              "Mad Castellaneta",
+                                                              "Ro-Dan Castellaneta",
+                                                              "Wolfdan Castellaneta",
+                                                              "Dan Castellanetta",
+                                                              "Dan Castellenetta",
+                                                              "Dan Catacomb-Neta",
+                                                              "Black Catstellaneta",
+                                                              "Dan Choculaneta",
+                                                              "Dan 57 Shopping Days \u0027Til Christmas",
+                                                              "Dan Circuspeanutsaneta",
+                                                              "Dad Clashin-with-Grandma",
+                                                              "Dan Crypt-Ellaneta",
+                                                              "Heeeere\u0027s DANNY!",
+                                                              "Who Was That Masked Dan?",
+                                                              "Village of the Danned",
+                                                              "Heeeere\u0027s Danny!",
+                                                              "Dan of the Dead",
+                                                              "Abbott \u0026 Costelloneta Meet Frankenstein",
+                                                              "Dan Funsize-aneta",
+                                                              "Dan Ghastlyaneta",
+                                                              "Dan High-Fructose-Corn-Syrup",
+                                                              "Dan CastellanetaarghaGAHEGGA {Smash} Gurgle Mr. Hyde",
+                                                              "The Invisible Dan Castellaneta",
+                                                              "28 Dans Later",
+                                                              "It Came From Elsie And Lou",
+                                                              "Dan\u0027s Macabre",
+                                                              "Atenalletsac Nad",
+                                                              "The Silence of the Dans",
+                                                              "Dan 9 From Outer Space-Eta",
+                                                              "Dan Splatteraneta",
+                                                              "Say Three Times",
+                                                              "Danny\u0027s Not Here Mrs. Torrence"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAyNDY5NDEwOV5BMl5BanBnXkFtZTcwMjY0ODYyMQ@@._V1_.jpg",
+                                                          "width":  224,
+                                                          "height":  314
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0488306",
+                                     "displayName":  "Linda Larkin",
+                                     "alternativeNames":  [
+                                                              "Linda Larkin-Vasquez"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY4MzIyMjcxNV5BMl5BanBnXkFtZTcwNTk5MjA5Nw@@._V1_.jpg",
+                                                          "width":  1376,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0918334",
+                                     "displayName":  "Scott Weinger",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzZmODQ5ZDAtYzg1ZC00ZDFkLTlhM2ItMzlkNjM0ODQ1ZGE4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5262,
+                                                          "height":  7070
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0919798",
+                                     "displayName":  "Frank Welker",
+                                     "alternativeNames":  [
+                                                              "Jack Beanstalk",
+                                                              "Dr. Frankenwelker",
+                                                              "Frank W. Welker",
+                                                              "Franklin Welker",
+                                                              "Tom Welker"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjM2MzU2ODYxMV5BMl5BanBnXkFtZTgwMzQ3MjcwMjE@._V1_.jpg",
+                                                          "width":  480,
+                                                          "height":  640
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "sound_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "AU",
+                                               "name":  "Australia"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           },
+                                           {
+                                               "code":  "PH",
+                                               "name":  "Philippines"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "BR",
+                                               "name":  "Brazil"
+                                           },
+                                           {
+                                               "code":  "TW",
+                                               "name":  "Taiwan (Province of China)"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000013",
+                                         "name":  "Desert Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000019",
+                                         "name":  "Quest",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000097",
+                                         "name":  "Fairy Tale",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  78
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    }
+                ]
+}

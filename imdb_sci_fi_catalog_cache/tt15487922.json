@@ -1,0 +1,228 @@
+﻿{
+    "id":  "tt15487922",
+    "detail":  {
+                   "id":  "tt15487922",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Wolf Pack",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BM2Q2NDE4MjYtOTBmYS00MTNmLTlhNmEtYTNjMGQzY2UzNTBmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2023,
+                   "endYear":  2023,
+                   "runtimeSeconds":  3180,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.5,
+                                  "voteCount":  10901
+                              },
+                   "plot":  "A teenage boy and girl get their lives changed forever when a California wildfire awakens a terrifying supernatural creature. As the full moon rises, all teens come together to unravel the secret that connects them.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0312856",
+                                         "displayName":  "Joseph Patrick Genier",
+                                         "alternativeNames":  [
+                                                                  "Joe Genier",
+                                                                  "Joseph P. Genier",
+                                                                  "Joseph Genier"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTkwNGVjYmEtMDlkZi00ODVmLTg1ZGItNDkyZDM4ZTUzOTc5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1280,
+                                                              "height":  1920
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "production_manager"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0995597",
+                                         "displayName":  "Christian Taylor",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTVlNDVhMjgtYWQwZi00MmY3LTlhOGUtMDdhMjBjMmI2OWJjXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3456,
+                                                              "height":  5184
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1471491",
+                                         "displayName":  "Jeff Davis",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDcyYjNlOGEtZWI4NC00MDRkLTkxMWItMTZmMWIzMDRjZDNhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3508,
+                                                              "height":  5000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1471491",
+                                       "displayName":  "Jeff Davis",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZDcyYjNlOGEtZWI4NC00MDRkLTkxMWItMTZmMWIzMDRjZDNhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3508,
+                                                            "height":  5000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm9310212",
+                                       "displayName":  "Emily Eslami",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3311653",
+                                       "displayName":  "Angela Harvey",
+                                       "alternativeNames":  [
+                                                                "Angela L. Harvey"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYmQzMjdmM2YtYzRmMC00OWVjLTk2MzgtYzliNTM3OWJlOTc1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  750,
+                                                            "height":  1125
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm4110566",
+                                     "displayName":  "Armani Jackson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzQ2MzRkNzItMGU4ZC00MDJjLWE4NTAtMWIxZmQ4NDlkOWFhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1651,
+                                                          "height":  2477
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "executive",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5678002",
+                                     "displayName":  "Bella Shepard",
+                                     "alternativeNames":  [
+                                                              "Isabella Shepard"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODQ4NjRmNTktZDIzZS00MGE1LTliYzctYzk5MWY4NjE0ZWQ4XkEyXkFqcGc@._V1_CR188,2,619,928_.jpg",
+                                                          "width":  619,
+                                                          "height":  928
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001264",
+                                     "displayName":  "Sarah Michelle Gellar",
+                                     "alternativeNames":  [
+                                                              "Sarah Gellar",
+                                                              "Sarah Michelle Prinze"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzA5MDA4MTEwOV5BMl5BanBnXkFtZTcwNzY2MjcyNw@@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "editorial_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0763928",
+                                     "displayName":  "Rodrigo Santoro",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY4NTQzMDcxMl5BMl5BanBnXkFtZTcwNTEwNTYyMg@@._V1_.jpg",
+                                                          "width":  277,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000118",
+                                         "name":  "Teen Horror",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  1
+                    }
+                ]
+}

@@ -1,0 +1,230 @@
+﻿{
+    "id":  "tt17043230",
+    "detail":  {
+                   "id":  "tt17043230",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Quantum Leap",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYmNjMWUzNjMtZjQzMi00ZDNmLWFhYTQtZjc0MTExMjQ0ZTY2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2024,
+                   "runtimeSeconds":  2520,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "History",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.3,
+                                  "voteCount":  14508
+                              },
+                   "plot":  "Set 30 years after Dr. Sam Beckett stepped into the Quantum Leap accelerator and vanished, follows a new team that must restart the project hoping to understand the mysteries behind the machine and its creator.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0342603",
+                                         "displayName":  "Chris Grismer",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWJiOWM4MGQtMWMxZC00N2RiLTk4MjQtY2I3MmY2NTAzYWQzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  900,
+                                                              "height":  900
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2408871",
+                                         "displayName":  "Pamela Romanowsky",
+                                         "alternativeNames":  [
+                                                                  "Pamela Romanosky"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjYzMjg2NjU2NV5BMl5BanBnXkFtZTgwNDM1NDM4MTE@._V1_.jpg",
+                                                              "width":  625,
+                                                              "height":  625
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1143132",
+                                         "displayName":  "Avi Youabian",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTFhNTM1MDQtMjUzZS00NDA3LWE3ZDItYmVjY2M5M2I4ZWJiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2218,
+                                                              "height":  1485
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0069074",
+                                       "displayName":  "Donald P. Bellisario",
+                                       "alternativeNames":  [
+                                                                "Donald Bellisario",
+                                                                "Don Bellisario"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTY2Mzc4MjMwNV5BMl5BanBnXkFtZTcwMDk0NTcxOA@@._V1_.jpg",
+                                                            "width":  1386,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1431939",
+                                       "displayName":  "Steven Lilien",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1674339",
+                                       "displayName":  "Bryan Wynbrandt",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZjYzNGM0MjAtNGU1My00MjQ1LTgzMmUtZDJmMTAzNjY2YTA3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  401,
+                                                            "height":  584
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm3100463",
+                                     "displayName":  "Raymond Lee",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjk5MWY4YWUtMjcwMi00ODJjLTg4NDUtMjQxNTEwNDA2Y2E5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2011,
+                                                          "height":  2450
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7000196",
+                                     "displayName":  "Caitlin Bassett",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGQ0ZWIzM2MtNTIzMi00YjY3LTk5NzMtOTFiODU2MmNlY2YyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  8306,
+                                                          "height":  10382
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2540440",
+                                     "displayName":  "Nanrisa Lee",
+                                     "alternativeNames":  [
+                                                              "Nanrisa Induk Lee"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDNhMjkwNzQtMTEzMS00YWNhLWIxMjMtM2U0YWRkZWY3YTQwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1648,
+                                                          "height":  2392
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4317622",
+                                     "displayName":  "Mason Alexander Park",
+                                     "alternativeNames":  [
+                                                              "Mason Alexander"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzJmYzZhMjYtNjc2My00MDc1LWI3M2UtNjRkNDcyYWU4ZjRhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3640,
+                                                          "height":  4550
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000080",
+                                         "name":  "History"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000166",
+                                         "name":  "Time Travel",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    }
+                ]
+}

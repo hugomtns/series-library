@@ -1,0 +1,200 @@
+﻿{
+    "id":  "tt14245846",
+    "detail":  {
+                   "id":  "tt14245846",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Midwich Cuckoos",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZDM3ZDhjYWEtM2NmNS00NjU3LTliYmEtZjhhNmE0YTUwY2U0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  1000
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2022,
+                   "runtimeSeconds":  3000,
+                   "genres":  [
+                                  "Drama",
+                                  "Horror",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.7,
+                                  "voteCount":  5735
+                              },
+                   "plot":  "A small village in England is completely subdued by an alien presence for an entire day. Upon waking, it is discovered that numerous women in the town are pregnant.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1360508",
+                                         "displayName":  "Jennifer Perrott",
+                                         "alternativeNames":  [
+                                                                  "Jenny Perrott"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzkyYWYyMDQtZDhiMy00YzZiLWJjZTUtNTBhZDhjNDBjOTExXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2592,
+                                                              "height":  3456
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editorial_department",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1156404",
+                                         "displayName":  "BÃ¶rkur SigÃ¾Ã³rsson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYmI4OTQ1NjEtYjE4Yy00MmQyLWI0YjctODk5ZGI4YzM1YzRhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1402,
+                                                              "height":  1981
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1488618",
+                                         "displayName":  "Alice Troughton",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZmNhYWQ3MTktNmM4YS00NDA3LTlkOWMtNzJmYmE4YTk0ZjAxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1668,
+                                                              "height":  2224
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1016333",
+                                       "displayName":  "David Farr",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjEyYjNkMTQtNjIxMS00ZGYxLTk3NGEtNGU3ZGE1ZDg5MzhjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2579,
+                                                            "height":  2579
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0354167",
+                                       "displayName":  "Sasha Hails",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm8939191",
+                                       "displayName":  "Namsi Khan",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0369954",
+                                     "displayName":  "Keeley Hawes",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODU2NDJjODItOWQ1ZS00NDY5LWI1M2UtZGU5NmU2MDUxN2IxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4480,
+                                                          "height":  6720
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3520933",
+                                     "displayName":  "Ukweli Roach",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGIyMzU2NzQtNWYyMC00MDFjLWExZjAtYTEyODM4NGIxYzU0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1026,
+                                                          "height":  1158
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1528026",
+                                     "displayName":  "Aisling Loftus",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDRkNGZjNDMtOGE3My00YjBmLTgzYjEtMzk3NjI5NTJkNDMwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  851,
+                                                          "height":  1008
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8357122",
+                                     "displayName":  "Synnove Karlsen",
+                                     "alternativeNames":  [
+                                                              "SynnÃ¸ve Karlsen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzFhYjc2NzUtZjVkZS00NTIyLWFjMzUtODljNDYyOWMwNDRhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1400,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  7
+                    }
+                ]
+}

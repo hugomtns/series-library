@@ -1,0 +1,247 @@
+﻿{
+    "id":  "tt2618986",
+    "detail":  {
+                   "id":  "tt2618986",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Wayward Pines",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjUwY2NmZDItZjdjNC00ZGQ3LTk2NTEtNjY5NTQxOGYwNGY4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1481
+                                    },
+                   "startYear":  2015,
+                   "endYear":  2016,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Horror",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  64890
+                              },
+                   "plot":  "A Secret Service agent goes to Wayward Pines, Idaho, in search of two federal agents who have gone missing in the bucolic town. He soon learns that he might never get out of Wayward Pines alive.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1926923",
+                                         "displayName":  "Jeff T. Thomas",
+                                         "alternativeNames":  [
+                                                                  "Jeff Thomas"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjAyNzU5NDE4MV5BMl5BanBnXkFtZTgwNDY1NzM5MTE@._V1_.jpg",
+                                                              "width":  949,
+                                                              "height":  633
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2610231",
+                                         "displayName":  "Zal Batmanglij",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BN2E5OTY3M2ItYmM2YS00YjAzLTkzYWEtYjU1NjQ5M2ZmOGQwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1170,
+                                                              "height":  2532
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0006853",
+                                         "displayName":  "Tim Hunter",
+                                         "alternativeNames":  [
+                                                                  "Lope deVargas"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMDlhODFmYjAtMGM2NS00ZjdhLTkzNmQtMDAzYzhlMTczNTY5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  395,
+                                                              "height":  594
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm5458813",
+                                       "displayName":  "Blake Crouch",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjAyNTgyNTk4NV5BMl5BanBnXkFtZTgwOTc5NTM4OTE@._V1_.jpg",
+                                                            "width":  4267,
+                                                            "height":  6400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1209925",
+                                       "displayName":  "Chad Hodge",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNWIzOWM2NTgtN2I3Zi00N2Y3LWJkZjMtNTc1ZDA1YzdiYzAyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  902,
+                                                            "height":  985
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3242689",
+                                       "displayName":  "Edward Ricourt",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYWY3NjUwMjgtYzVkYS00YzM0LWI4NGYtNjQxOGIwYzJlYjI4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  346,
+                                                            "height":  485
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0266441",
+                                     "displayName":  "Siobhan Fallon Hogan",
+                                     "alternativeNames":  [
+                                                              "Siobhan Fallan",
+                                                              "Siobahn Fallon",
+                                                              "Siobhan J. Fallon",
+                                                              "Siobhan Fallon",
+                                                              "Siobhan Fallon-Hogan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWRjNmEyOGUtM2NlNS00ZmZjLWFkMTUtYmZkZjgwYWYxMmQ1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3840,
+                                                          "height":  5760
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0429363",
+                                     "displayName":  "Toby Jones",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTgwMzc5NzM1MV5BMl5BanBnXkFtZTYwMzA0ODk0._V1_.jpg",
+                                                          "width":  284,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0815370",
+                                     "displayName":  "Shannyn Sossamon",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDcxMjk2NTEtZDA2ZC00MWI4LWJmZmQtODQ3YjJlOTJmNGQwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1000,
+                                                          "height":  1506
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0204706",
+                                     "displayName":  "Hope Davis",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTM4Mjk5MjAwNF5BMl5BanBnXkFtZTcwNzQ3MTk3Mw@@._V1_.jpg",
+                                                          "width":  1352,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000166",
+                                         "name":  "Time Travel",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000176",
+                                         "name":  "Conspiracy Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    }
+                ]
+}

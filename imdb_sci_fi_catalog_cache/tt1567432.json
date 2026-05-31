@@ -1,0 +1,272 @@
+﻿{
+    "id":  "tt1567432",
+    "detail":  {
+                   "id":  "tt1567432",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Teen Wolf",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjc2NGJkMzgtYzMxNy00YWZiLTk0MjUtNTRmNGU3NzA2NDc2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  720,
+                                        "height":  1082
+                                    },
+                   "startYear":  2011,
+                   "endYear":  2017,
+                   "runtimeSeconds":  2460,
+                   "genres":  [
+                                  "Action",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Romance",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.7,
+                                  "voteCount":  179312
+                              },
+                   "plot":  "An average high school student and his best friend get caught up in some trouble causing him to receive a werewolf bite. As a result they find themselves in the middle of all sorts of dramas in Beacon Hills.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0611683",
+                                         "displayName":  "Russell Mulcahy",
+                                         "alternativeNames":  [
+                                                                  "Russ Mulcahy"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzUzZTRhN2UtMTAyMi00MzU2LTllY2MtNjM1MGRkMzQ4YzAxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3529,
+                                                              "height":  3655
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0028542",
+                                         "displayName":  "Tim Andrew",
+                                         "alternativeNames":  [
+                                                                  "Tim Andrews"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDczMTkwZDEtM2Y3NS00Zjg5LTg2YzAtMGQ1ODI1ZDc1ODQ5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  864,
+                                                              "height":  1296
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0528337",
+                                         "displayName":  "Jennifer Lynch",
+                                         "alternativeNames":  [
+                                                                  "Jennifer Chambers Lynch",
+                                                                  "Jen Lynch"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc0NTkzMzE5N15BMl5BanBnXkFtZTcwODQ0MjYzOA@@._V1_.jpg",
+                                                              "width":  1000,
+                                                              "height":  1500
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1471491",
+                                       "displayName":  "Jeff Davis",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZDcyYjNlOGEtZWI4NC00MDRkLTkxMWItMTZmMWIzMDRjZDNhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3508,
+                                                            "height":  5000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3311653",
+                                       "displayName":  "Angela Harvey",
+                                       "alternativeNames":  [
+                                                                "Angela L. Harvey"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYmQzMjdmM2YtYzRmMC00OWVjLTk2MzgtYzliNTM3OWJlOTc1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  750,
+                                                            "height":  1125
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2687438",
+                                       "displayName":  "Andy Cochran",
+                                       "alternativeNames":  [
+                                                                "Andrew Adair",
+                                                                "Andrew Cochran"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0692677",
+                                     "displayName":  "Tyler Posey",
+                                     "alternativeNames":  [
+                                                              "Teen Wolf Cast",
+                                                              "Tyler Garcia Posey"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTBlZGE1NWUtNzllMC00NTgyLWFjMmUtNWVmZTFjYTRjNzg4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2912,
+                                                          "height":  4368
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1555699",
+                                     "displayName":  "Holland Roden",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjNmMzc0M2QtNzRhNS00OThhLTgyZWUtMTQ0YWRjNDc2OThmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1179,
+                                                          "height":  1557
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3729721",
+                                     "displayName":  "Dylan O\u0027Brien",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTFiNDQ1YWMtYjE4Ny00YzViLWJhMzgtNTA1ODdhYmMyMDcyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  863,
+                                                          "height":  1230
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000798",
+                                     "displayName":  "Linden Ashby",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjNmMDM1YTQtYTM4Ni00MGNhLWI2OWQtNmMzOWU5ZTM1OTJjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2400,
+                                                          "height":  3002
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000089",
+                                         "name":  "Teen Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000155",
+                                         "name":  "Teen Romance",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  20
+                    }
+                ]
+}

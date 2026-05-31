@@ -1,0 +1,236 @@
+﻿{
+    "id":  "tt4834206",
+    "detail":  {
+                   "id":  "tt4834206",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "A Series of Unfortunate Events",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTUxMjIzODI0NV5BMl5BanBnXkFtZTgwMDk3OTI2MDI@._V1_.jpg",
+                                        "width":  1442,
+                                        "height":  2048
+                                    },
+                   "startYear":  2017,
+                   "endYear":  2019,
+                   "runtimeSeconds":  3300,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.7,
+                                  "voteCount":  72575
+                              },
+                   "plot":  "After the loss of their parents in a mysterious fire, the three Baudelaire children face trials and tribulations attempting to uncover dark family secrets.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0001756",
+                                         "displayName":  "Barry Sonnenfeld",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTYzNjY1NzY4MV5BMl5BanBnXkFtZTYwNjk3NDQ0._V1_.jpg",
+                                                              "width":  295,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0919514",
+                                         "displayName":  "Bo Welch",
+                                         "alternativeNames":  [
+                                                                  "Robert W. Welch III",
+                                                                  "Robert \u0027Bo\u0027 Welch",
+                                                                  "Robert W. Welch",
+                                                                  "Robert Welch"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjAwMTIwNjg4MV5BMl5BanBnXkFtZTYwMTExNDQz._V1_.jpg",
+                                                              "width":  279,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "art_director",
+                                                                    "director",
+                                                                    "production_designer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0657372",
+                                         "displayName":  "Mark Palansky",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTg4NjMzOTA2OF5BMl5BanBnXkFtZTgwNjc2ODE5MDI@._V1_.jpg",
+                                                              "width":  1050,
+                                                              "height":  1300
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3321780",
+                                       "displayName":  "Joshua Conkel",
+                                       "alternativeNames":  [
+                                                                "Josh Conkel"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNGYzZmMwMWYtODIzZC00OTkyLTlmOTMtM2FjMWQxZmVkMjg4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1776,
+                                                            "height":  1184
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1428524",
+                                       "displayName":  "Emily Fox",
+                                       "primaryProfessions":  [
+                                                                  "editor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm6220567",
+                                       "displayName":  "Sigrid Gilmer",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000439",
+                                     "displayName":  "Neil Patrick Harris",
+                                     "alternativeNames":  [
+                                                              "Neal Patrick Harris",
+                                                              "Neal Harris",
+                                                              "Neil Harris"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUxNjQ4MjU5Ml5BMl5BanBnXkFtZTcwMTY5NzAzNw@@._V1_.jpg",
+                                                          "width":  1567,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5844090",
+                                     "displayName":  "Malina Pauli Weissman",
+                                     "alternativeNames":  [
+                                                              "Malina Weissman"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTMyMDIwY2UtY2I3Yy00ODZhLTkzOTMtODhkMWQ4MjlmZmUzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  800,
+                                                          "height":  826
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0911320",
+                                     "displayName":  "Patrick Warburton",
+                                     "alternativeNames":  [
+                                                              "Pat",
+                                                              "Patrick John Warburton",
+                                                              "Patrick Wharburton"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWE3ZDA0NDgtMDgxMC00NTI1LTkyYTMtMTAzZWZkYWViZTY1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1124,
+                                                          "height":  1361
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7881084",
+                                     "displayName":  "Louis Hynes",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGUzODYxNDEtYmQ0NC00ZTFjLWE5OGYtMjVmZjMyYTc0NDk0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1107,
+                                                          "height":  1600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  7
+                    }
+                ]
+}

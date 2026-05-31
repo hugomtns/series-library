@@ -1,0 +1,220 @@
+﻿{
+    "id":  "tt5531470",
+    "detail":  {
+                   "id":  "tt5531470",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Frequency",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTU0MTAxNTUzMl5BMl5BanBnXkFtZTgwMTE0NDg4OTE@._V1_.jpg",
+                                        "width":  900,
+                                        "height":  1283
+                                    },
+                   "startYear":  2016,
+                   "endYear":  2017,
+                   "runtimeSeconds":  2520,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  14973
+                              },
+                   "plot":  "A police detective in 2016 discovers that she is able to communicate with her father via a ham radio, despite the fact that he died in 1996.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0470971",
+                                         "displayName":  "John T. Kretchmer",
+                                         "alternativeNames":  [
+                                                                  "John Kretchmer"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0026442",
+                                         "displayName":  "Brad Anderson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTY3ODMyMDYxMV5BMl5BanBnXkFtZTcwNzkyNjY3MQ@@._V1_.jpg",
+                                                              "width":  600,
+                                                              "height":  399
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0276317",
+                                         "displayName":  "Michael Fields",
+                                         "alternativeNames":  [
+                                                                  "Michael David Fields"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzQ0ODgzMDYtODQ1Zi00YjdhLWJiZGMtMDk0NzEwYTQwZGJlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2715,
+                                                              "height":  2387
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0256497",
+                                       "displayName":  "Toby Emmerich",
+                                       "alternativeNames":  [
+                                                                "Tobias Emmerich",
+                                                                "Toby Emmerick"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZjliMWZjY2MtMjUzOS00NjdhLWI3NmUtNGNmYzU4MmM1MDdmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  600,
+                                                            "height":  600
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1912955",
+                                       "displayName":  "Jeremy Carver",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjI1MTUxOTA5OV5BMl5BanBnXkFtZTgwODk0MzAzMjE@._V1_.jpg",
+                                                            "width":  1523,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm7964001",
+                                       "displayName":  "Tom Farrell",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0514228",
+                                     "displayName":  "Peyton List",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTNhNTM4NWMtZGZiMC00OTM2LTkzMzQtMjAxZTZiZmQ1OWM5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  904,
+                                                          "height":  1211
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0809720",
+                                     "displayName":  "Riley Smith",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2VmODY5NGEtMTlkNi00N2ViLWIzNWItOWVjZGJkZjNkYTBjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  683,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001616",
+                                     "displayName":  "Mekhi Phifer",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTcwNTY1NzYwMl5BMl5BanBnXkFtZTYwNTk1MzU1._V1_.jpg",
+                                                          "width":  266,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3220170",
+                                     "displayName":  "Devin Kelley",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzA0YTA0N2UtYjc4MS00NjNlLWJiNDgtZTVkYTIxNTNjNDI2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  6123,
+                                                          "height":  4082
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000166",
+                                         "name":  "Time Travel",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  14
+                    }
+                ]
+}

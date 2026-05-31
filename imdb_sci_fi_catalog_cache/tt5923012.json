@@ -1,0 +1,208 @@
+﻿{
+    "id":  "tt5923012",
+    "detail":  {
+                   "id":  "tt5923012",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Here and Now",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTk2NDIwOTg4M15BMl5BanBnXkFtZTgwOTAxMzc1NDM@._V1_.jpg",
+                                        "width":  600,
+                                        "height":  875
+                                    },
+                   "startYear":  2018,
+                   "endYear":  2018,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.8,
+                                  "voteCount":  5325
+                              },
+                   "plot":  "A dark dramedy about a progressive Portlandian family made up of husband, wife, three adopted children from Liberia, Vietnam and Colombia, and one biological daughter, who find their sanity tested and values challenged in 2018 America.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0687964",
+                                         "displayName":  "Jeremy Podeswa",
+                                         "alternativeNames":  [
+                                                                  "J.Podeswa",
+                                                                  "Jermey Podeswa",
+                                                                  "Jeremy Podoswa"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0003802",
+                                         "displayName":  "Uta Briesewitz",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BM2VhNjBkNjktZjJkMS00YWVjLThkODctNTliOTNjNDhmMGQ0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  778,
+                                                              "height":  1071
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0158966",
+                                         "displayName":  "Lisa Cholodenko",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjA4NTY4MTgyNF5BMl5BanBnXkFtZTcwNTkyNDg1Mw@@._V1_.jpg",
+                                                              "width":  263,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0050332",
+                                       "displayName":  "Alan Ball",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjA5NDA4MzExMV5BMl5BanBnXkFtZTcwMzA4NDI5MQ@@._V1_.jpg",
+                                                            "width":  282,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0054497",
+                                       "displayName":  "Tanya Barfield",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYWRmODJkMDItZmI0OC00NTY2LThkNjUtYTk4YzY2MzllNmI5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  930,
+                                                            "height":  1125
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm8656706",
+                                       "displayName":  "J.R. Edwards",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000209",
+                                     "displayName":  "Tim Robbins",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_.jpg",
+                                                          "width":  311,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000456",
+                                     "displayName":  "Holly Hunter",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjIzNzg1ODA1NF5BMl5BanBnXkFtZTcwNTI4NzQ4Mg@@._V1_.jpg",
+                                                          "width":  267,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2056961",
+                                     "displayName":  "Jerrika Hinton",
+                                     "alternativeNames":  [
+                                                              "Jerrika D. Hinton"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTdiYTgzMjItNDQyMC00ODc3LWIxOGUtMDYwNTY2ZWU2OTFjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  7537,
+                                                          "height":  9122
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4683167",
+                                     "displayName":  "Daniel Zovatto",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTVmYjVkZWItNGVkMC00ZjM5LTg5ZmMtN2Y0OGFjZjg1ZTMwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  547,
+                                                          "height":  822
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    }
+                ]
+}

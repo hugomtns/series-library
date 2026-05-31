@@ -1,0 +1,232 @@
+﻿{
+    "id":  "tt8722888",
+    "detail":  {
+                   "id":  "tt8722888",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Stargirl",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BM2NmNWMzYjMtMTU2NS00ZDU3LThkMTgtZThlNzRjYmZlYTVlXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1350
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2022,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.1,
+                                  "voteCount":  22186
+                              },
+                   "plot":  "Teenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0035243",
+                                         "displayName":  "Andi Armaganian",
+                                         "alternativeNames":  [
+                                                                  "Andrea Armaganian"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BY2Y5MDdkZjMtZDYzYi00MmVjLTgwNDQtNTcyMzJhNzYzMzdmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3024,
+                                                              "height":  4032
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0000670",
+                                         "displayName":  "Lea Thompson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTgwNDE2MTY2MV5BMl5BanBnXkFtZTgwMzQxMDc2MjI@._V1_.jpg",
+                                                              "width":  1451,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0066439",
+                                         "displayName":  "Greg Beeman",
+                                         "alternativeNames":  [
+                                                                  "Gregg Beeman",
+                                                                  "Gregory Beeman"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODYwOTAzNjY2Ml5BMl5BanBnXkFtZTYwNDk1Nzcz._V1_.jpg",
+                                                              "width":  278,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0424315",
+                                       "displayName":  "Geoff Johns",
+                                       "alternativeNames":  [
+                                                                "Geoffrey Johns"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOGRhYjY4M2ItODkxOS00NDI1LWE1YzctZTA0YTBmZjNiZDYyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2174,
+                                                            "height":  3042
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm8788884",
+                                       "displayName":  "Lee Moder",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm11716871",
+                                       "displayName":  "Paula Sevenbergen",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm5561229",
+                                     "displayName":  "Brec Bassinger",
+                                     "alternativeNames":  [
+                                                              "Brec"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzNlYWZiZGMtM2JkMC00NjVlLWJhMGUtMTQ4ZWUwMmJmZmVkXkEyXkFqcGc@._V1_CR374,23,1509,2264_.jpg",
+                                                          "width":  1509,
+                                                          "height":  2264
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9288587",
+                                     "displayName":  "Trae Romano",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzQzN2ZjZjItYTE2ZS00NjE0LTg5NTctZjU0ODQ3YzFmMGNjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1135,
+                                                          "height":  1727
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005442",
+                                     "displayName":  "Amy Smart",
+                                     "alternativeNames":  [
+                                                              "A. Smart"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY2Njc4NDA2N15BMl5BanBnXkFtZTcwOTQ1NDUwMw@@._V1_.jpg",
+                                                          "width":  338,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005561",
+                                     "displayName":  "Luke Wilson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2FkNDc5YjktNTY2Yi00ZDljLTliNjUtNjQ5YmUxYTAzZDE4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1023,
+                                                          "height":  1332
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    }
+                ]
+}

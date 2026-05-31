@@ -1,0 +1,222 @@
+﻿{
+    "id":  "tt0149437",
+    "detail":  {
+                   "id":  "tt0149437",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Crusade",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMWRiMjA1MGYtMzAzZi00MThiLWJhMTgtYmE0MmVhNjQwMGY1XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1536,
+                                        "height":  2048
+                                    },
+                   "startYear":  1999,
+                   "endYear":  1999,
+                   "runtimeSeconds":  2640,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.7,
+                                  "voteCount":  5722
+                              },
+                   "plot":  "Set right after the events of Babylon 5: A Call to Arms (1999), a team of soldiers and scientists led by Capt. Matthew Gideon have five years to find a cure for an alien plague decimating Earth.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0892144",
+                                         "displayName":  "Michael Vejar",
+                                         "alternativeNames":  [
+                                                                  "Mike Laurence Vejar",
+                                                                  "Mike Vejar"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0235638",
+                                         "displayName":  "Tony Dow",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTk3ODg5OTE5OF5BMl5BanBnXkFtZTYwNzY2Nzcz._V1_.jpg",
+                                                              "width":  262,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "visual_effects"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0299122",
+                                         "displayName":  "Stephen Furst",
+                                         "alternativeNames":  [
+                                                                  "Steven Feuerstein",
+                                                                  "Louie Myman"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTUwNzU2OTgyMV5BMl5BanBnXkFtZTcwODg4NDcyMQ@@._V1_.jpg",
+                                                              "width":  300,
+                                                              "height":  407
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0833089",
+                                       "displayName":  "J. Michael Straczynski",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMmY1YWRiZDEtZDY1My00NTg3LThlNmItMDk4OGQ2NjFlZGFmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4342,
+                                                            "height":  6297
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0043036",
+                                       "displayName":  "Fiona Avery",
+                                       "alternativeNames":  [
+                                                                "Fiona Kai Avery"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0203035",
+                                       "displayName":  "Peter David",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTg3MjQxODIyM15BMl5BanBnXkFtZTcwMTg0OTExOA@@._V1_.jpg",
+                                                            "width":  1360,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001712",
+                                     "displayName":  "Tracy Scoggins",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTI1ZTE4YjAtZjJjMi00OGQ1LWFhOTYtOGRkZjVkZjVlMTA2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5504,
+                                                          "height":  8256
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0170550",
+                                     "displayName":  "Gary Cole",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQwODU5MTU3OF5BMl5BanBnXkFtZTcwMzk2NzMzMw@@._V1_.jpg",
+                                                          "width":  295,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0196654",
+                                     "displayName":  "Daniel Dae Kim",
+                                     "alternativeNames":  [
+                                                              "Daniel Day Kim",
+                                                              "Daniel Kim",
+                                                              "Daniel Day Kim also"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjhmODA1NDYtZDQyZC00ZDE1LTk4NDgtZTRkMjI4OWM3MGMyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1885,
+                                                          "height":  2003
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0111944",
+                                     "displayName":  "David Allen Brooks",
+                                     "alternativeNames":  [
+                                                              "David A. Brooks",
+                                                              "David Alan Brooks",
+                                                              "David Brooks"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI4Mjc0MDk1OV5BMl5BanBnXkFtZTYwMzkwMzY2._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  359
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

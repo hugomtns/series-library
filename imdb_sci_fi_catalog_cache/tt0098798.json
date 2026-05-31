@@ -1,0 +1,223 @@
+﻿{
+    "id":  "tt0098798",
+    "detail":  {
+                   "id":  "tt0098798",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Flash",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BN2E2OTViNGEtYjUzMi00MTg4LTkzOWEtMjkwZjhmM2UxM2Q4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  1000
+                                    },
+                   "startYear":  1990,
+                   "endYear":  1991,
+                   "runtimeSeconds":  2880,
+                   "genres":  [
+                                  "Action",
+                                  "Crime",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.1,
+                                  "voteCount":  8716
+                              },
+                   "plot":  "A police forensic scientist, Barry Allen, battles crimes as the super-fast superhero \"The Flash.\"",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0044524",
+                                         "displayName":  "Mario Azzopardi",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0082676",
+                                         "displayName":  "Bruce Bilson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNmJjMTMyNDEtODUxMi00OTRiLTgzNzEtZWI1ZmFjOWY0NTYwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  943,
+                                                              "height":  1351
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0082677",
+                                         "displayName":  "Danny Bilson",
+                                         "alternativeNames":  [
+                                                                  "Dan Bilson",
+                                                                  "Charlie Dolan"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZmVlNDYyNjMtMTI0Zi00YjhiLTk0ZTYtZDMyMWI3MDZlNGFmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1047,
+                                                              "height":  1572
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0082677",
+                                       "displayName":  "Danny Bilson",
+                                       "alternativeNames":  [
+                                                                "Dan Bilson",
+                                                                "Charlie Dolan"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmVlNDYyNjMtMTI0Zi00YjhiLTk0ZTYtZDMyMWI3MDZlNGFmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1047,
+                                                            "height":  1572
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0210290",
+                                       "displayName":  "Paul De Meo",
+                                       "alternativeNames":  [
+                                                                "Paul DeMeo",
+                                                                "Paul Demeo"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0154674",
+                                       "displayName":  "Howard Chaykin",
+                                       "alternativeNames":  [
+                                                                "Howard Victor Chaykin"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0005301",
+                                     "displayName":  "Amanda Pays",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY4MjEzMjkyMl5BMl5BanBnXkFtZTcwNTM1MjEyNw@@._V1_.jpg",
+                                                          "width":  1359,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0794128",
+                                     "displayName":  "John Wesley Shipp",
+                                     "alternativeNames":  [
+                                                              "John Shipp"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTliMTYxYmItOTUyYi00OTY1LWE0YmUtYThlYjNmNzU0NDI1XkEyXkFqcGc@._V1_CR254,0,811,1217_.jpg",
+                                                          "width":  811,
+                                                          "height":  1217
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0246373",
+                                     "displayName":  "Alex DÃ©sert",
+                                     "alternativeNames":  [
+                                                              "Alex-This Place Is Undead Anyway-DÃ©sert",
+                                                              "Alex Desert",
+                                                              "Alex DesÃ©rt",
+                                                              "Alex - Don\u0027t Look Now but He\u0027s Right Behind You - DÃ©sert",
+                                                              "Dr. Baron Von Frankendesertstein Esq"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY2Njc1ODctNjY4NS00NmJhLWIxNjgtNjQ5YmVjMjc5YzI4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5907,
+                                                          "height":  7388
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0195101",
+                                     "displayName":  "Vito D\u0027Ambrosio",
+                                     "alternativeNames":  [
+                                                              "Vito D\u0027Ambosio",
+                                                              "Vito D\u0027Ambrosia"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjI1ZWZjMjktMDQyMy00MGM0LTg3NGYtNjA0N2Q0NWU5NjBiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1112,
+                                                          "height":  850
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  22
+                    }
+                ]
+}

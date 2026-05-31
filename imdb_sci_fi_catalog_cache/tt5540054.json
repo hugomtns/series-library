@@ -1,0 +1,238 @@
+﻿{
+    "id":  "tt5540054",
+    "detail":  {
+                   "id":  "tt5540054",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Tick",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNTE5NmM4ODAtYTJjNS00YmRlLTljZGUtY2IyNmQzODQ4NTM0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1176,
+                                        "height":  1599
+                                    },
+                   "startYear":  2016,
+                   "endYear":  2019,
+                   "runtimeSeconds":  1740,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  21105
+                              },
+                   "plot":  "In a world where superheroes have been real for decades, an accountant with no superpowers comes to realize his city is owned by a super villain. As he struggles to uncover this conspiracy, he falls in league with a strange blue superhero.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0864268",
+                                         "displayName":  "Romeo Tirone",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWZhNDdkOWYtYmQ3NS00ODY5LWIxNjEtZmY5ZmRlODA1NTJkXkEyXkFqcGc@._V1_CR505,0,719,1079_.jpg",
+                                                              "width":  719,
+                                                              "height":  1079
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0219491",
+                                         "displayName":  "Kate Dennis",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTljM2YzMWItZDc2Zi00ZTcyLWE3NDktZDVmYWMyZDg2NmMxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  640,
+                                                              "height":  427
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0002892",
+                                         "displayName":  "Wally Pfister",
+                                         "alternativeNames":  [
+                                                                  "Walter Julian",
+                                                                  "Walter Pfister",
+                                                                  "William Pfister"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzBjMjcyY2YtZTExOC00MDlmLTk2YzktYzI0OTcxOTNjNTZiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  318,
+                                                              "height":  442
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "cinematographer",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0249421",
+                                       "displayName":  "Ben Edlund",
+                                       "alternativeNames":  [
+                                                                "Benjamin Edlund"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTcwMjYyNTA3NV5BMl5BanBnXkFtZTcwNTYxMTMxOA@@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1372
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3226922",
+                                       "displayName":  "Joe Piarulli",
+                                       "alternativeNames":  [
+                                                                "Joseph Piarulli"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3124354",
+                                       "displayName":  "Luan Thomas",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0784818",
+                                     "displayName":  "Peter Serafinowicz",
+                                     "alternativeNames":  [
+                                                              "Gelg",
+                                                              "Peter Serafinovic",
+                                                              "Peter Serafinowichz",
+                                                              "Pete Serafinowicz"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjFhNmIyYTQtOTI4ZC00ODQ0LWEyMTktOTdkYjhiZDU1YzMwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1036,
+                                                          "height":  1286
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2038170",
+                                     "displayName":  "Valorie Curry",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTM4Zjc0MzMtODAxZS00M2FjLWI4NDItMWM1MzE0ZTNjZTdhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1148,
+                                                          "height":  1370
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1969645",
+                                     "displayName":  "Griffin Newman",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTU3YTI4NWMtNWY3Ni00YmJkLWIyZjQtOGRmYmEzMzVlZWM5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2924,
+                                                          "height":  3900
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0385639",
+                                     "displayName":  "Brendan Hines",
+                                     "alternativeNames":  [
+                                                              "Brendan P. Hines"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDIxY2I4YjQtY2IzNi00Mzc1LWFjMWMtZTVkODI3NTU4YzVjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1284,
+                                                          "height":  801
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    }
+                ]
+}

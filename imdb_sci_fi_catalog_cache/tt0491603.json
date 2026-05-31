@@ -1,0 +1,224 @@
+﻿{
+    "id":  "tt0491603",
+    "detail":  {
+                   "id":  "tt0491603",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "H2O: Just Add Water",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTk5Y2FjZjktM2FjMy00MTFkLTg5MTktZDBmMGI0MzM5YjE2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  2006,
+                   "endYear":  2010,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  21616
+                              },
+                   "plot":  "Three girls become mermaids after a mysterious island transforms them and gives them special powers.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0907835",
+                                         "displayName":  "Jeffrey Walker",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYmI0NzBiMzItNmIzNy00ZGU3LThiNGMtMjY1ZjE0MmU3NTIxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  634,
+                                                              "height":  423
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0118959",
+                                         "displayName":  "Colin Budds",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "editor"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0793291",
+                                       "displayName":  "Jonathan M. Shiff",
+                                       "alternativeNames":  [
+                                                                "Jonathan M. Shiff Productions",
+                                                                "Jonathan M. SHIFF",
+                                                                "Jonathan M. Schiff",
+                                                                "Jonathan Shiff"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "assistant_director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1475934",
+                                       "displayName":  "Nova Weetman",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1383479",
+                                       "displayName":  "Jo Watson",
+                                       "alternativeNames":  [
+                                                                "Joanne Watson"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1146783",
+                                     "displayName":  "Angus McLaren",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTUxY2RhOTItNGZlZS00N2NlLTgxMDAtNmVkYzFkOTI1YzcyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  576,
+                                                          "height":  432
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2100998",
+                                     "displayName":  "Cariba Heine",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDI4ZWUwNDUtMWY3MS00MDNkLTg0Y2EtN2VlMWExYzY4MTQ1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  8192,
+                                                          "height":  5464
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2097685",
+                                     "displayName":  "Burgess Abernethy",
+                                     "alternativeNames":  [
+                                                              "Burgess Abernathy"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc2MDExODA3OF5BMl5BanBnXkFtZTgwNTA2NzczMjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2100081",
+                                     "displayName":  "Phoebe Tonkin",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjhjNmVkODgtNWQyMS00ZjExLThmY2ItMzEyYzdjMzY3ZTczXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  819,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "AU",
+                                               "name":  "Australia"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000049",
+                                         "name":  "Teen Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000089",
+                                         "name":  "Teen Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000155",
+                                         "name":  "Teen Romance",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  26
+                    }
+                ]
+}

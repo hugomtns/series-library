@@ -1,0 +1,196 @@
+﻿{
+    "id":  "tt1132124",
+    "detail":  {
+                   "id":  "tt1132124",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Xavier: Renegade Angel",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTg2OWFkNGItNzQ1MC00MzRjLTk2OWMtYTVjODJlNzEwMjY2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1051,
+                                        "height":  1500
+                                    },
+                   "startYear":  2007,
+                   "endYear":  2009,
+                   "runtimeSeconds":  720,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8,
+                                  "voteCount":  5609
+                              },
+                   "plot":  "Xavier is a faun-like wanderer who travels across the land to find about his mysterious origin. Facing rednecks, inflicting righteousness and preaching about the \u0027strong, silent types\u0027 and morality, this hero has his work cut out for him.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0154074",
+                                         "displayName":  "Vernon Chatman",
+                                         "alternativeNames":  [
+                                                                  "Clarence Towelstein"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0497563",
+                                         "displayName":  "John Lee",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1108492",
+                                         "displayName":  "Marco Bertoldo",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "visual_effects"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0154074",
+                                       "displayName":  "Vernon Chatman",
+                                       "alternativeNames":  [
+                                                                "Clarence Towelstein"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0497563",
+                                       "displayName":  "John Lee",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1899530",
+                                       "displayName":  "Alyson Levy",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTgxMDcxZTItMDVhMi00NGMyLTlkMDAtNWY5YzA5OWE4N2Y5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1700,
+                                                            "height":  2338
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0154074",
+                                     "displayName":  "Vernon Chatman",
+                                     "alternativeNames":  [
+                                                              "Clarence Towelstein"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1899530",
+                                     "displayName":  "Alyson Levy",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTgxMDcxZTItMDVhMi00NGMyLTlkMDAtNWY5YzA5OWE4N2Y5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1700,
+                                                          "height":  2338
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "director",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0497563",
+                                     "displayName":  "John Lee",
+                                     "primaryProfessions":  [
+                                                                "director",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1890822",
+                                     "displayName":  "Jim Tozzi",
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    }
+                ]
+}

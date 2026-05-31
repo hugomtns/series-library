@@ -1,0 +1,248 @@
+﻿{
+    "id":  "tt0407362",
+    "detail":  {
+                   "id":  "tt0407362",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Battlestar Galactica",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNmMzYzdmNWMtM2ZmMi00Y2E2LWI5ZTMtYWJlNmJiMDgyYWRiXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  1000
+                                    },
+                   "startYear":  2004,
+                   "endYear":  2009,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.7,
+                                  "voteCount":  187084
+                              },
+                   "plot":  "When an old enemy, the Cylons, resurface and obliterate the 12 colonies, the crew of the aged Galactica protect a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony, Earth.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0753382",
+                                         "displayName":  "Michael Rymer",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjE2ODAzNzc5OF5BMl5BanBnXkFtZTgwNzczMzU0MTE@._V1_.jpg",
+                                                              "width":  1261,
+                                                              "height":  1742
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0002749",
+                                         "displayName":  "Michael Nankin",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzZlZTVhMDAtM2UwMS00ZGZjLWE3MWQtNmZhNGZkN2QwMzQ1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  5149,
+                                                              "height":  7719
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0362738",
+                                         "displayName":  "Rod Hardy",
+                                         "alternativeNames":  [
+                                                                  "Rodney K. Hardy"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "music_department",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0488991",
+                                       "displayName":  "Glen A. Larson",
+                                       "alternativeNames":  [
+                                                                "The Four Preps - Glen",
+                                                                "The Four Preps",
+                                                                "Christopher Eric James",
+                                                                "Glen Larson"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTkxMzg5NzgwOV5BMl5BanBnXkFtZTgwNTg1NzM0MzE@._V1_.jpg",
+                                                            "width":  1361,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0601822",
+                                       "displayName":  "Ronald D. Moore",
+                                       "alternativeNames":  [
+                                                                "Ronald Moore",
+                                                                "Ron Moore"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTY3ODkwNzIzNF5BMl5BanBnXkFtZTcwMTc0MjEzNA@@._V1_.jpg",
+                                                            "width":  2400,
+                                                            "height":  3000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1625189",
+                                       "displayName":  "Carla Robinson",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001521",
+                                     "displayName":  "Mary McDonnell",
+                                     "alternativeNames":  [
+                                                              "Mary Mcdonnell"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDU3Yzk2MzItZTBhZC00ODUwLThlMTktNTM4ZWRkMTFhNWIyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  458,
+                                                          "height":  510
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001579",
+                                     "displayName":  "Edward James Olmos",
+                                     "alternativeNames":  [
+                                                              "Eddie Olmos",
+                                                              "Edward J. Olmos",
+                                                              "Edward Jamesl Olmos",
+                                                              "Edward Olmos",
+                                                              "Ed Olmos"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjEzODQzODQ4OF5BMl5BanBnXkFtZTcwMDczMTkxNw@@._V1_.jpg",
+                                                          "width":  1553,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0051397",
+                                     "displayName":  "Jamie Bamber",
+                                     "alternativeNames":  [
+                                                              "Jamie Barber"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGQxZDQ5Y2QtNTUwOS00NmIwLWI0NDItZTBkMmU1MDI1MzZkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  975,
+                                                          "height":  1300
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0130536",
+                                     "displayName":  "James Callis",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDFkNjU3ZTgtNjUxNC00NDk1LTlkZDgtYjNjMWM3NmZhZWEyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2000,
+                                                          "height":  1395
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000158",
+                                         "name":  "Artificial Intelligence",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  21
+                    }
+                ]
+}

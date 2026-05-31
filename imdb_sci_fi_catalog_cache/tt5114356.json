@@ -1,0 +1,236 @@
+﻿{
+    "id":  "tt5114356",
+    "detail":  {
+                   "id":  "tt5114356",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Legion",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYmM4NDNlYzctNDgxYi00OWU5LTg4NTctOWE2NzMyMjgxY2QwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1125,
+                                        "height":  1687
+                                    },
+                   "startYear":  2017,
+                   "endYear":  2019,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  103753
+                              },
+                   "plot":  "David Haller is a troubled young man diagnosed as schizophrenic, but after a strange encounter he discovers special powers that will change his life forever.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0131625",
+                                         "displayName":  "John Cameron",
+                                         "alternativeNames":  [
+                                                                  "Victor Malone"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMDAxYjc5MDItM2RiYi00YjdmLTkwMTUtNmMwNWI0ZTg1YmM2XkEyXkFqcGc@._V1_CR0,0,2286,3429_.jpg",
+                                                              "width":  2286,
+                                                              "height":  3429
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1279638",
+                                         "displayName":  "Noah Hawley",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzgyODUzNDMtM2EyZS00ZmFjLTlkZDYtZDc0Njk4YzZkM2VmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1047,
+                                                              "height":  1047
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "miscellaneous",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2139803",
+                                         "displayName":  "Tim Mielants",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzFkYjAyYzItZmZhZC00MWI4LWE4YzUtNTdiNDRkNzYyNzZmXkEyXkFqcGc@._V1_CR1632,454,1463,2194_.jpg",
+                                                              "width":  1463,
+                                                              "height":  2194
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1079208",
+                                       "displayName":  "Chris Claremont",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOGU0NTI0OTctMzI2Yi00M2Q3LTliYmMtMzBjZWI4N2E5Y2Y2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  697,
+                                                            "height":  536
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1279638",
+                                       "displayName":  "Noah Hawley",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYzgyODUzNDMtM2EyZS00ZmFjLTlkZDYtZDc0Njk4YzZkM2VmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1047,
+                                                            "height":  1047
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1277462",
+                                       "displayName":  "Bill Sienkiewicz",
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "art_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1405398",
+                                     "displayName":  "Dan Stevens",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY0NTY5OTI2MF5BMl5BanBnXkFtZTgwNDkzMzIxMzE@._V1_.jpg",
+                                                          "width":  428,
+                                                          "height":  594
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5043859",
+                                     "displayName":  "Rachel Keller",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTAyYWQ0NWQtNzFkNC00MGM5LWFmZmQtNTdkZTFhN2YxN2U2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2373,
+                                                          "height":  3539
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0410347",
+                                     "displayName":  "Bill Irwin",
+                                     "alternativeNames":  [
+                                                              "William Irwin",
+                                                              "Fool Moon"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU3NjI4MzM4NV5BMl5BanBnXkFtZTYwNzk4NTc4._V1_.jpg",
+                                                          "width":  273,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2201555",
+                                     "displayName":  "Aubrey Plaza",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjIyMzYyMjQ5OV5BMl5BanBnXkFtZTcwMTA0MTkxNw@@._V1_.jpg",
+                                                          "width":  1428,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000166",
+                                         "name":  "Time Travel",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000182",
+                                         "name":  "Psychological Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     },
+                                     {
+                                         "id":  "in0000248",
+                                         "name":  "Marvel"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    }
+                ]
+}

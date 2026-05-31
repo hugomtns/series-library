@@ -1,0 +1,230 @@
+﻿{
+    "id":  "tt6385540",
+    "detail":  {
+                   "id":  "tt6385540",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Hilda",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYmI2ZGE3ODQtYzk1ZC00ZDY3LWI3YzItNjhiOGE2OTM3NjVhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  426,
+                                        "height":  597
+                                    },
+                   "startYear":  2018,
+                   "endYear":  2023,
+                   "runtimeSeconds":  1440,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.6,
+                                  "voteCount":  16256
+                              },
+                   "plot":  "A fearless blue-haired girl named Hilda leaves the forest to go to town and find new friends, great adventures, magic and mysterious creatures who might be dangerous.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2998392",
+                                         "displayName":  "Andy Coyle",
+                                         "alternativeNames":  [
+                                                                  "Andrew Coyle"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm4001180",
+                                         "displayName":  "Megan Ferguson",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm8682002",
+                                       "displayName":  "Kurt Mueller",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "production_manager",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm6268918",
+                                       "displayName":  "Luke Pearson",
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0801215",
+                                       "displayName":  "Stephanie Simpson",
+                                       "alternativeNames":  [
+                                                                "Annie Denver"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm8165602",
+                                     "displayName":  "Bella Ramsey",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGY3YTk0MDItNDk0Zi00NDAzLTk1NjYtMzM4NTNlNjhhMmM1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1800,
+                                                          "height":  2250
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9566146",
+                                     "displayName":  "Oliver Nelson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGM4NTU4ODUtMDJiYi00ZGQ1LTgwNDYtZWEzZmIzMDBkMjlkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  989,
+                                                          "height":  1228
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7370587",
+                                     "displayName":  "Ameerah Falzon",
+                                     "alternativeNames":  [
+                                                              "Ameerah Falzon-Ojo"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWMwOGMyMDgtZThjYS00MWMzLTk4NzUtOTc4MzA5YzNmMGNjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1973,
+                                                          "height":  2466
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0353579",
+                                     "displayName":  "Daisy Haggard",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDAxNDEwOGQtOTMzOC00OWY5LWFiYWEtOTAyYzRhNTM5MGZhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000100",
+                                         "name":  "Sword \u0026 Sorcery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000110",
+                                         "name":  "Folk Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    }
+                ]
+}

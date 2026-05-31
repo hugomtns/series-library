@@ -1,0 +1,280 @@
+﻿{
+    "id":  "tt0069641",
+    "detail":  {
+                   "id":  "tt0069641",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Super Friends",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNWEwMDY3NTAtNmRiZS00MzM3LWEyNGUtYTFlYzUwMGQyMGZmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  798,
+                                        "height":  1344
+                                    },
+                   "startYear":  1973,
+                   "endYear":  1985,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  5131
+                              },
+                   "plot":  "The greatest of the DC Comics superheroes work together to uphold the good with the help of some young proteges.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0666362",
+                                         "displayName":  "Ray Patterson",
+                                         "alternativeNames":  [
+                                                                  "Grant-Ray",
+                                                                  "Raymond Patterson"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0629363",
+                                         "displayName":  "Charles Nichols",
+                                         "alternativeNames":  [
+                                                                  "Charles",
+                                                                  "C. August Nichols",
+                                                                  "Charles A. Nichols",
+                                                                  "Nick Nichols"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0881662",
+                                         "displayName":  "Carl Urbano",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0561026",
+                                       "displayName":  "Jeffrey Scott",
+                                       "alternativeNames":  [
+                                                                "Jeffrey Alan",
+                                                                "Jeffery Scott\u0027",
+                                                                "Jeff Maurer",
+                                                                "Jeffery Scott",
+                                                                "Jeffrey Alan Scott",
+                                                                "Jeff Scott"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0146902",
+                                       "displayName":  "Willie Gilbert",
+                                       "alternativeNames":  [
+                                                                "Matt Cavanaugh"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0730331",
+                                       "displayName":  "Dick Robbins",
+                                       "alternativeNames":  [
+                                                                "Richard Robbins",
+                                                                "Dick Robins"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0293750",
+                                       "displayName":  "Fred Freiberger",
+                                       "alternativeNames":  [
+                                                                "Fred Frieberger",
+                                                                "Fred Frieburger",
+                                                                "Charles Woodgrove"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNTFjNmQ4MjAtYTUwZi00YzQ2LTk2MTYtYmFmZWRlNWYwNzg0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  861,
+                                                            "height":  631
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0201282",
+                                     "displayName":  "Danny Dark",
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0267880",
+                                     "displayName":  "Shannon Farnon",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2FlNWNhZTAtODVjYi00NWE0LWJmZGEtMjRjNTU3YmY0MjRiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2400,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0440487",
+                                     "displayName":  "Casey Kasem",
+                                     "alternativeNames":  [
+                                                              "Casy Kasem"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODI2MzQ3OTcyOF5BMl5BanBnXkFtZTYwMzQ4NDMz._V1_.jpg",
+                                                          "width":  287,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0815814",
+                                     "displayName":  "Olan Soule",
+                                     "alternativeNames":  [
+                                                              "Olan Soule\u0027",
+                                                              "Alan Soule",
+                                                              "Olan E. Soule",
+                                                              "Olan SoulÃ©",
+                                                              "Olen SoulÃ©",
+                                                              "Olin SoulÃ©"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWEyYjUyZGItN2E3Ni00N2JlLWFjMGQtOWI3YTQyNzdhYTRmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  780,
+                                                          "height":  1016
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000244",
+                                         "name":  "DC"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  8
+                    }
+                ]
+}

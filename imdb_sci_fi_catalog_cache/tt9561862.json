@@ -1,0 +1,420 @@
+﻿{
+    "id":  "tt9561862",
+    "detail":  {
+                   "id":  "tt9561862",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Love, Death \u0026 Robots",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZDY3OTZiYzktN2U5My00MzRhLWJiZjItZjNlZmM3OGViZmFiXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2222
+                                    },
+                   "startYear":  2019,
+                   "runtimeSeconds":  900,
+                   "genres":  [
+                                  "Animation",
+                                  "Short",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.4,
+                                  "voteCount":  229750
+                              },
+                   "plot":  "A collection of animated short stories that span various genres including science fiction, fantasy, horror and comedy.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1166916",
+                                         "displayName":  "Gabriele Pennacchioli",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0950775",
+                                         "displayName":  "Jennifer Yuh Nelson",
+                                         "alternativeNames":  [
+                                                                  "Jennifer Nelson",
+                                                                  "Jen Nelson",
+                                                                  "Jennifer Yuh",
+                                                                  "Jennifer Yuh-Jenkins",
+                                                                  "Jennifer Yuh-Nelson"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTY4MzYyNDY4NF5BMl5BanBnXkFtZTcwMzIwNzkyMg@@._V1_.jpg",
+                                                              "width":  1257,
+                                                              "height":  1086
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "production_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm10549195",
+                                         "displayName":  "Jerome Denjean",
+                                         "primaryProfessions":  [
+                                                                    "miscellaneous",
+                                                                    "visual_effects"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1783265",
+                                         "displayName":  "Tim Miller",
+                                         "alternativeNames":  [
+                                                                  "Tim Miller and Blur"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTk4NjMyNzY3MV5BMl5BanBnXkFtZTgwNDY0Nzg0ODE@._V1_.jpg",
+                                                              "width":  1365,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1783265",
+                                       "displayName":  "Tim Miller",
+                                       "alternativeNames":  [
+                                                                "Tim Miller and Blur"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTk4NjMyNzY3MV5BMl5BanBnXkFtZTgwNDY0Nzg0ODE@._V1_.jpg",
+                                                            "width":  1365,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3664884",
+                                       "displayName":  "Philip Gelatt",
+                                       "alternativeNames":  [
+                                                                "Phil Gelatt"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMmE1YzNhYjAtMGVhMy00N2U0LWEyNDUtODI3NTRlZTNlYjczXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1371,
+                                                            "height":  1696
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3376496",
+                                       "displayName":  "John Scalzi",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOGYwYjM2MDYtNDM0Zi00YjA0LTlmZjMtZDQ2NjAxY2MyYzE2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2168,
+                                                            "height":  3252
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0487067",
+                                       "displayName":  "Joe R. Lansdale",
+                                       "alternativeNames":  [
+                                                                "Joe Lansdale"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0851317",
+                                     "displayName":  "Fred Tatasciore",
+                                     "alternativeNames":  [
+                                                              "Fred Tasciore",
+                                                              "Fred Tataciore",
+                                                              "Fred Tataschoire",
+                                                              "Fred Tatascione",
+                                                              "Fred Tatascoire",
+                                                              "Fred Tatasore",
+                                                              "Fred Tatiasciore",
+                                                              "Fred Tatisciore",
+                                                              "Fred Tatsciore",
+                                                              "Fred Tattasciore",
+                                                              "English version"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjU1MjE0MjAwNF5BMl5BanBnXkFtZTcwMDQ4ODUwOA@@._V1_.jpg",
+                                                          "width":  1394,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1386659",
+                                     "displayName":  "Emily O\u0027Brien",
+                                     "alternativeNames":  [
+                                                              "Emily Roya O\u0027Brien",
+                                                              "Emily Roya"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTc3ZDRkMmEtYzFlNy00ZWQ3LThmZDYtMTM4Y2IwMTQ1M2UwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2689,
+                                                          "height":  4032
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0926697",
+                                     "displayName":  "Scott Whyte",
+                                     "alternativeNames":  [
+                                                              "Scott Whyte Nberg",
+                                                              "Charger Tomlee",
+                                                              "Scott William"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0636046",
+                                     "displayName":  "Nolan North",
+                                     "alternativeNames":  [
+                                                              "Nolan Ramsay North",
+                                                              "Nolan Ramsey North",
+                                                              "Noland North",
+                                                              "Nollan Ramsay North",
+                                                              "Nollan Ramsey North",
+                                                              "Nollan North",
+                                                              "Zachary Samuels"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDE0M2UzZTItYmUwYS00ZDY0LTkxYTktMDI0NjlhNmE2ZDUxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  434,
+                                                          "height":  781
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000002",
+                                         "name":  "Action Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000109",
+                                         "name":  "Body Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000114",
+                                         "name":  "Psychological Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000116",
+                                         "name":  "Splatter Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000158",
+                                         "name":  "Artificial Intelligence",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000159",
+                                         "name":  "Cyberpunk",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000177",
+                                         "name":  "Cyber Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000182",
+                                         "name":  "Psychological Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     },
+                                     {
+                                         "id":  "in0000212",
+                                         "name":  "Short"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  10
+                    }
+                ]
+}

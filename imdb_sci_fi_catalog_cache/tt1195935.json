@@ -1,0 +1,266 @@
+﻿{
+    "id":  "tt1195935",
+    "detail":  {
+                   "id":  "tt1195935",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Cleveland Show",
+                   "originalTitle":  "ÃlÃ¨ve libre",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYTMwZWY3MWUtY2YwOS00ZTNmLWI2NzQtMzBiZjEwMzQ5OWZlXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1426
+                                    },
+                   "startYear":  2009,
+                   "endYear":  2013,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.6,
+                                  "voteCount":  44702
+                              },
+                   "plot":  "Cleveland Brown moves back to his hometown in Virginia with his son, where he finds his high school sweetheart and her two troublemaking kids.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1401737",
+                                         "displayName":  "Albert Calleros",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0513307",
+                                         "displayName":  "Anthony Lioi",
+                                         "alternativeNames":  [
+                                                                  "A. Lioi"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1147126",
+                                         "displayName":  "Anthony Agrusa",
+                                         "alternativeNames":  [
+                                                                  "Anthony T. Agrusa",
+                                                                  "Ynot Agrusa",
+                                                                  "Ynot Agrysa"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0032219",
+                                       "displayName":  "Richard Appel",
+                                       "alternativeNames":  [
+                                                                "Richard \u0027\u0027Former Attorney\u0027\u0027 Appel",
+                                                                "Richarred Appel",
+                                                                "Rich Appel",
+                                                                "Wretched Appel",
+                                                                "The Devil In Rich Appel"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTU0ODk3ODI0OF5BMl5BanBnXkFtZTcwNTMyMTMxOA@@._V1_.jpg",
+                                                            "width":  1361,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1396611",
+                                       "displayName":  "Mike Henry",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDliYjQzNjktOWFiMi00NWUyLTljYmItN2IyYjQ0NTQxNjdlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4032,
+                                                            "height":  3024
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0532235",
+                                       "displayName":  "Seth MacFarlane",
+                                       "alternativeNames":  [
+                                                                "Seth Macfarlane",
+                                                                "Peter",
+                                                                "Stewie"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTgyNDk3OTI2NF5BMl5BanBnXkFtZTcwMDA4NjU5OA@@._V1_.jpg",
+                                                            "width":  1391,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0005125",
+                                     "displayName":  "Sanaa Lathan",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjY5MjQyMDItYTM0OC00YjYwLTllMjgtZWM2NDQ2Y2Y4ZmNiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2316,
+                                                          "height":  2544
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1396611",
+                                     "displayName":  "Mike Henry",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDliYjQzNjktOWFiMi00NWUyLTljYmItN2IyYjQ0NTQxNjdlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4032,
+                                                          "height":  3024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0724656",
+                                     "displayName":  "Kevin Michael Richardson",
+                                     "alternativeNames":  [
+                                                              "K M Argghhhh",
+                                                              "Kevin Aint-Yo Bee-Och-Son",
+                                                              "Kevin Michael-Richardson",
+                                                              "Kevin Michael Puritan",
+                                                              "Kevin M. Richards",
+                                                              "Kevin Michael Richards",
+                                                              "\"Denim\" Michael Richardson",
+                                                              "Candy Man Richardson",
+                                                              "Crazy K.M. Richardson",
+                                                              "Kevin M. Richardson",
+                                                              "Kevin My-Kill Richardson",
+                                                              "Kevin M Richardson",
+                                                              "Kevin N. Richardson",
+                                                              "Kevin R. Richardson",
+                                                              "Kevin Richardson",
+                                                              "Scary Black Guy Richardson",
+                                                              "Keven M. Richerdson",
+                                                              "Keven Richerdson",
+                                                              "Victor Stone",
+                                                              "Kevin Chocolate Thunder-Son"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI0OTg2NDQyOV5BMl5BanBnXkFtZTcwMTAwNjkzMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  554
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0837177",
+                                     "displayName":  "Jason Sudeikis",
+                                     "alternativeNames":  [
+                                                              "Gene Dentler"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE3NTE4Nzg3Ml5BMl5BanBnXkFtZTgwODc5OTUxMTI@._V1_.jpg",
+                                                          "width":  1356,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  23
+                    }
+                ]
+}

@@ -1,0 +1,210 @@
+﻿{
+    "id":  "tt2403776",
+    "detail":  {
+                   "id":  "tt2403776",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Shadow and Bone",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZWM1NTJiNzUtYTJlYy00NWYyLTliNjUtN2FjNzdkOWQxNWRjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2223
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2023,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  124894
+                              },
+                   "plot":  "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0021772",
+                                         "displayName":  "Mairzee Almas",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZjhkNTM3M2UtNmY2OC00ZmY3LTg4OTItYWE4MTMzMWM0MWQwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1744,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1767218",
+                                         "displayName":  "Lee Toland Krieger",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTcyMTc1NjE2NF5BMl5BanBnXkFtZTcwMTMzMDMxNw@@._V1_.jpg",
+                                                              "width":  1365,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2364623",
+                                         "displayName":  "Dan Liu",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZTc1YWQ0NGYtZjY2Ny00NWU5LTljOWUtZDQxZGU1MmY1ODA2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  7008,
+                                                              "height":  4672
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1785723",
+                                       "displayName":  "Leigh Bardugo",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2104063",
+                                       "displayName":  "Eric Heisserer",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTUwNjU3NjU1MV5BMl5BanBnXkFtZTcwODc0MjA5Mw@@._V1_.jpg",
+                                                            "width":  312,
+                                                            "height":  396
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2504490",
+                                       "displayName":  "Vanya Asher",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm8850556",
+                                     "displayName":  "Archie Renaux",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGYzNGVhZjItODU1NS00YzBjLWJhMDEtYjA4Mjg2ZDRlNWQyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1169,
+                                                          "height":  1565
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9438171",
+                                     "displayName":  "Jessie Mei Li",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2NhNmY5NWQtYTAxYy00Mzc2LWJjMWMtZGVjYzVlOTUxNmNlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2668,
+                                                          "height":  4000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7767170",
+                                     "displayName":  "Freddy Carter",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDQ2NGJlODQtYjI1OS00ZWVkLTg5OGMtYTdhY2Y1YzRiZjliXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2560,
+                                                          "height":  3840
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1602660",
+                                     "displayName":  "Ben Barnes",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTAyNDY4NzgxMF5BMl5BanBnXkFtZTgwMTg2NTQxNDM@._V1_.jpg",
+                                                          "width":  749,
+                                                          "height":  871
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000100",
+                                         "name":  "Sword \u0026 Sorcery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    }
+                ]
+}

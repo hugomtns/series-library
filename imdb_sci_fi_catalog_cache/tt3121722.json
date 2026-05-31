@@ -1,0 +1,262 @@
+﻿{
+    "id":  "tt3121722",
+    "detail":  {
+                   "id":  "tt3121722",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "PAW Patrol",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BODg0NDY1MjktMzA5MS00OGQ2LTliMWItZTdmZjNlYzQ2MWM1XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1363,
+                                        "height":  1927
+                                    },
+                   "startYear":  2013,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.1,
+                                  "voteCount":  7907
+                              },
+                   "plot":  "Led by a boy named Ryder, a team of six playful rescue dogs use their individual talents to protect the seaside town of Adventure Bay.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0060505",
+                                         "displayName":  "Charles E. Bastien",
+                                         "alternativeNames":  [
+                                                                  "Charles Bastein",
+                                                                  "Charles Bastien",
+                                                                  "Ted Bastien"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "production_designer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1148009",
+                                         "displayName":  "Paul H. Brown",
+                                         "alternativeNames":  [
+                                                                  "Paul Brown",
+                                                                  "Charlie Tupperman"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0926306",
+                                         "displayName":  "Jamie Whitney",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3204073",
+                                       "displayName":  "Louise Moon",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1703661",
+                                       "displayName":  "James Backshall",
+                                       "alternativeNames":  [
+                                                                "James R. Backshall"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "production_manager",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1025916",
+                                       "displayName":  "Al Schwartz",
+                                       "alternativeNames":  [
+                                                                "Alan Schwartz"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0661132",
+                                     "displayName":  "Ron Pardo",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODhhOGU3MjctOWRjZC00NWU3LWExYTQtNmMwN2FhYjdhZjZjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3549,
+                                                          "height":  5006
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3961562",
+                                     "displayName":  "Kallan Holley",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODk3NTg2YjMtYWU2ZC00ZDY2LTg2ZjUtZmQ1OWJiYzAxZWI2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1512,
+                                                          "height":  2016
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9349439",
+                                     "displayName":  "Justin Paul Kelly",
+                                     "alternativeNames":  [
+                                                              "Justin Kelly"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzEzYzM4YWMtZDUwNC00MTIzLTg0ZTctZGIxZWQ3NDk5YmI0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2011,
+                                                          "height":  2682
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3932421",
+                                     "displayName":  "Devan Cohen",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDc4ZWM5M2QtMDljMC00NDgyLWE1YzktYWEyMjQ3OTc4ZWI1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  822,
+                                                          "height":  1096
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "13",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "14",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "15",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  27
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  27
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  28
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  2
+                    }
+                ]
+}

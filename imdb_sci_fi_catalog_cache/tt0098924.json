@@ -1,0 +1,267 @@
+﻿{
+    "id":  "tt0098924",
+    "detail":  {
+                   "id":  "tt0098924",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "TaleSpin",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZjc3YmZlODEtZTU3NS00MzcyLWExM2EtMzJhZDAzYmQyOTRlXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1426
+                                    },
+                   "startYear":  1990,
+                   "endYear":  1991,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  17150
+                              },
+                   "plot":  "Baloo the Bear from The Jungle Book (1967) is cast as a 1930s Pacific Islands bush pilot.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0593420",
+                                         "displayName":  "Jamie Mitchell",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzg5Y2QwNjctMGJlYy00MTY0LWJiYmEtODIzMGE3ODE1NDY2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2000,
+                                                              "height":  3008
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0853074",
+                                         "displayName":  "Robert Taylor",
+                                         "alternativeNames":  [
+                                                                  "Bob Taylor"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0490099",
+                                         "displayName":  "Larry Latham",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0122334",
+                                       "displayName":  "Alan Burnett",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BM2RlMjAzYzYtMzE0MS00MzI4LWI5NGUtODQ3YjM5OTJkMWEzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  720,
+                                                            "height":  576
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0188349",
+                                       "displayName":  "Carter Crocker",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "production_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2362423",
+                                       "displayName":  "Jeremy Cushner",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001783",
+                                     "displayName":  "Sally Struthers",
+                                     "alternativeNames":  [
+                                                              "Sally Ann Struthers"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDA4Y2I1Y2YtNGQ5Ni00ODMzLWE0OTItYTg4ZTZmNDIzMDFkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  786,
+                                                          "height":  1279
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0318027",
+                                     "displayName":  "Ed Gilbert",
+                                     "alternativeNames":  [
+                                                              "Edmund Gilber",
+                                                              "Edmund Gilbert",
+                                                              "Edmund Glibert"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzgyN2FkMTQtMDY1ZS00YzNhLWI4OGUtNzlmNjIzMWE5Y2FkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1012,
+                                                          "height":  761
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0191906",
+                                     "displayName":  "Jim Cummings",
+                                     "alternativeNames":  [
+                                                              "Jim Jonah Cumkings",
+                                                              "Jim Cumming",
+                                                              "J. Jonah Cummings",
+                                                              "James J. Cummings",
+                                                              "James Cummings",
+                                                              "Jim J. Cummings",
+                                                              "Jim Jonah Cummings",
+                                                              "Jimmy Cummings",
+                                                              "Jonah Cummings",
+                                                              "Tim Cummings"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWYyYjg3ODItODAyNC00MWFkLTliOWYtYTNmZDI3M2M4MDEwXkEyXkFqcGc@._V1_CR1190,58,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0931493",
+                                     "displayName":  "R.J. Williams",
+                                     "alternativeNames":  [
+                                                              "R. J. Williams",
+                                                              "Robert J. Williams"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTkwMDUzZjEtNjM4Ny00MzNkLTg1ZWMtODNlYjJmNzYwNzNkXkEyXkFqcGc@._V1_CR1,1,1365,2047_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2047
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "FR",
+                                               "name":  "France"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           },
+                                           {
+                                               "code":  "TW",
+                                               "name":  "Taiwan (Province of China)"
+                                           },
+                                           {
+                                               "code":  "HK",
+                                               "name":  "Hong Kong (Special Administrative Region of China)"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  66
+                    }
+                ]
+}

@@ -1,0 +1,320 @@
+﻿{
+    "id":  "tt0062588",
+    "detail":  {
+                   "id":  "tt0062588",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Mister Rogers\u0027 Neighborhood",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNGQ3ZWFkZDMtNjlmNC00NWNmLWJlYzctMDlkZDdiNDBiZTgxXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  1968,
+                   "endYear":  2001,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Family",
+                                  "Fantasy",
+                                  "Music"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.8,
+                                  "voteCount":  10518
+                              },
+                   "plot":  "Fred Rogers explores various topics for young viewers through presentations and music, both in his world and in the Neighborhood of Make-Believe.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0909564",
+                                         "displayName":  "Bob Walsh",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0155204",
+                                         "displayName":  "David F. Chen",
+                                         "alternativeNames":  [
+                                                                  "David Fu-Ying Chen"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1717937",
+                                         "displayName":  "Bill Moates",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0736872",
+                                       "displayName":  "Fred Rogers",
+                                       "alternativeNames":  [
+                                                                "Fred \u0026 Joanne",
+                                                                "Fred M. Rogers",
+                                                                "Mr. Rogers"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjAxOTk4MjUyOV5BMl5BanBnXkFtZTcwOTI5MDQyOA@@._V1_.jpg",
+                                                            "width":  1049,
+                                                            "height":  1442
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0618771",
+                                       "displayName":  "Betty Seamans",
+                                       "alternativeNames":  [
+                                                                "Betsy Nadas",
+                                                                "Betsy Seamans",
+                                                                "Elizabeth Seamans"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjNkNjE4YWEtZDA0MC00NGM3LTk3ODQtYWM4MDcwN2Q2OGJlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1355,
+                                                            "height":  730
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1720908",
+                                       "displayName":  "Guy Urban",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0008640",
+                                     "displayName":  "Betty Aberlin",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDhkOTY4MjUtZjM4Yi00NDUzLWE2MjMtMjE2MDM2OTU3OThlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2987,
+                                                          "height":  1920
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0736872",
+                                     "displayName":  "Fred Rogers",
+                                     "alternativeNames":  [
+                                                              "Fred \u0026 Joanne",
+                                                              "Fred M. Rogers",
+                                                              "Mr. Rogers"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAxOTk4MjUyOV5BMl5BanBnXkFtZTcwOTI5MDQyOA@@._V1_.jpg",
+                                                          "width":  1049,
+                                                          "height":  1442
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0627791",
+                                     "displayName":  "David Newell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjMzNzg0OTY1N15BMl5BanBnXkFtZTgwNzIwMzY2MjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0624458",
+                                     "displayName":  "Joe Negri",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA2MzgxMTkwNzReQTJeQWpwZ15BbWU4MDg4MjI2NjIx._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "composer",
+                                                                "music_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000130",
+                                         "name":  "Music"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  130
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "13",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "14",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "15",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "16",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "17",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "18",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "19",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  65
+                    },
+                    {
+                        "season":  "20",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "21",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "22",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "23",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "24",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "25",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "26",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "27",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "28",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "29",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  65
+                    },
+                    {
+                        "season":  "30",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "31",
+                        "episodeCount":  5
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  65
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  65
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  65
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  65
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  65
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  5
+                    }
+                ]
+}

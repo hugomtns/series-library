@@ -1,0 +1,250 @@
+﻿{
+    "id":  "tt11981568",
+    "detail":  {
+                   "id":  "tt11981568",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Cars on the Road",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYzc3YWViOTQtNTkzNy00OTg3LWE5MDktYWNjYWRmM2JhNGI5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  4050,
+                                        "height":  6000
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2022,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Sport"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.9,
+                                  "voteCount":  5181
+                              },
+                   "plot":  "Lightning McQueen and Mater go on a cross-country road trip to see Mater\u0027s sister.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0270263",
+                                         "displayName":  "Brian Fee",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjE1MjUyODI1MF5BMl5BanBnXkFtZTgwNzg0NDI5MDI@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1365
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0687954",
+                                         "displayName":  "Bobby Podesta",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0700760",
+                                         "displayName":  "Steve Purcell",
+                                         "alternativeNames":  [
+                                                                  "Uncredited"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjM3NTBmYWMtYzI1Yi00ZGUzLTg0NjMtNzYxNTAzYWNkOTA0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  847,
+                                                              "height":  1248
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "miscellaneous",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0005124",
+                                       "displayName":  "John Lasseter",
+                                       "alternativeNames":  [
+                                                                "Lasseter"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTQ5NTczNjE5MV5BMl5BanBnXkFtZTcwMTA1MTQ3Mg@@._V1_.jpg",
+                                                            "width":  312,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0700760",
+                                       "displayName":  "Steve Purcell",
+                                       "alternativeNames":  [
+                                                                "Uncredited"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjM3NTBmYWMtYzI1Yi00ZGUzLTg0NjMtNzYxNTAzYWNkOTA0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  847,
+                                                            "height":  1248
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0710020",
+                                       "displayName":  "Joe Ranft",
+                                       "alternativeNames":  [
+                                                                "Joseph Ranft"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDY2NDY2ODM5N15BMl5BanBnXkFtZTcwMzU4MDM5OA@@._V1_.jpg",
+                                                            "width":  1334,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0005562",
+                                     "displayName":  "Owen Wilson",
+                                     "alternativeNames":  [
+                                                              "Owen C. Wilson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTgwMzQ4ODYxMV5BMl5BanBnXkFtZTcwNDAwMTc2NQ@@._V1_.jpg",
+                                                          "width":  1285,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1252685",
+                                     "displayName":  "Toks Olagundoye",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY2NzM2NTMzNF5BMl5BanBnXkFtZTcwOTc2ODAzOQ@@._V1_.jpg",
+                                                          "width":  1588,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1249256",
+                                     "displayName":  "Larry the Cable Guy",
+                                     "alternativeNames":  [
+                                                              "Larry",
+                                                              "Dan Whitney"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY5MjA0MjQ4Ml5BMl5BanBnXkFtZTcwNTIwMTc2NQ@@._V1_.jpg",
+                                                          "width":  1514,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0235960",
+                                     "displayName":  "Robin Atkin Downes",
+                                     "alternativeNames":  [
+                                                              "Robin S. Atkin",
+                                                              "Robin Atkin",
+                                                              "Robin Atkin-Downes",
+                                                              "Robin Atkins Down",
+                                                              "Robert Atkin Downes",
+                                                              "Robin A. Downes",
+                                                              "Robin Atkins Downes",
+                                                              "Robin Downes",
+                                                              "Robin Adkins Downs",
+                                                              "Robin Adkin Downs",
+                                                              "Robin Atkin Downs",
+                                                              "Robin Downs",
+                                                              "RobinAtkinDownes",
+                                                              "English version"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzI1MWE1YTQtZDMxNi00MjlhLTlkYmEtNDcyZDNiNzhiOTIzXkEyXkFqcGc@._V1_CR494,12,2788,4182_.jpg",
+                                                          "width":  2788,
+                                                          "height":  4182
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000174",
+                                         "name":  "Sport"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  9
+                    }
+                ]
+}

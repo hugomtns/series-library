@@ -1,0 +1,189 @@
+﻿{
+    "id":  "tt8332130",
+    "detail":  {
+                   "id":  "tt8332130",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Beforeigners",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BODgxNmRkY2ItOTQxMS00MzkyLWJjMTMtN2RlZjk3OTZlYzYzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  360,
+                                        "height":  520
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2022,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Crime",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.7,
+                                  "voteCount":  13204
+                              },
+                   "plot":  "HBO Nordic\u0027s first original series from Norway, Beforeigners is about two persons who mysteriously appear in Oslo. They are the first of many from the past to seek refuge in present time. Seven years later the community is transformed.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0509633",
+                                         "displayName":  "Jens Lien",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjg4OTU0YjItZDYzNC00ZjJlLWE2MDUtZTM0Y2VmNTAzMGIwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3934,
+                                                              "height":  5893
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0085088",
+                                       "displayName":  "Anne BjÃ¸rnstad",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNWFiNjJjYTctYzllMi00ODg5LTgwMTctM2ZkOTY0MjAyYTg0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  808,
+                                                            "height":  1034
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1100186",
+                                       "displayName":  "Eilif Skodvin",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZWY2YzM1OWUtN2ZkOC00N2NlLTkwNDEtY2VlYzcxMDRkOGVmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  696,
+                                                            "height":  945
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2872541",
+                                       "displayName":  "Christian LÃ¸chstÃ¸er",
+                                       "primaryProfessions":  [
+                                                                  "cinematographer",
+                                                                  "composer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0110491",
+                                     "displayName":  "Nicolai Cleve Broch",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2IzZDIyNjItY2ZhYy00ZTE0LTkzNmMtOTI3ODBhY2VmNzcxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  750,
+                                                          "height":  1109
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "assistant_director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1279980",
+                                     "displayName":  "Krista Kosonen",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTJiM2QzMTMtM2RmNC00YmM0LWI1NWYtN2YwYzgzODM5OGFlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1868,
+                                                          "height":  2800
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "production_designer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0024492",
+                                     "displayName":  "Stig R. Amdam",
+                                     "alternativeNames":  [
+                                                              "Stig Ryste Amdam",
+                                                              "Stig Amdam",
+                                                              "Stig Amdam Ryste"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2949117",
+                                     "displayName":  "Ragnhild Gudbrandsen",
+                                     "alternativeNames":  [
+                                                              "Ragnhild M. Gudbrandsen",
+                                                              "Ragnhild Gudbransen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTJhMWZhMzctOGY4MC00NGIxLTk2NGEtYzFkZTI0ZDFhYWEzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "NO",
+                                               "name":  "Norway"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "nor",
+                                               "name":  "Norwegian"
+                                           },
+                                           {
+                                               "code":  "non",
+                                               "name":  "Old Norse"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000057",
+                                         "name":  "Police Procedural",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000166",
+                                         "name":  "Time Travel",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  6
+                    }
+                ]
+}

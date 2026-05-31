@@ -1,0 +1,207 @@
+﻿{
+    "id":  "tt0348913",
+    "detail":  {
+                   "id":  "tt0348913",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Dead Like Me",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTE5OTM0NTIzN15BMl5BanBnXkFtZTcwOTQ4MTAwMQ@@._V1_.jpg",
+                                        "width":  647,
+                                        "height":  888
+                                    },
+                   "startYear":  2003,
+                   "endYear":  2004,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  46942
+                              },
+                   "plot":  "Georgia Lass is surprised to discover that an afterlife does exist, and that she\u0027s already been assigned a job. Her new boss is Rube, a \"reaper\" -- one of the many who pluck the souls of the living and escort them to their eternal reward.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0343622",
+                                         "displayName":  "David Grossman",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0926215",
+                                         "displayName":  "James Whitmore Jr.",
+                                         "alternativeNames":  [
+                                                                  "James Whitmore"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0490792",
+                                         "displayName":  "Peter Lauer",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0298188",
+                                       "displayName":  "Bryan Fuller",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BODkwMDg5MTE1Ml5BMl5BanBnXkFtZTYwMzQ3MTg3._V1_.jpg",
+                                                            "width":  485,
+                                                            "height":  724
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0323752",
+                                       "displayName":  "Stephen Godchaux",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZjc3ZTgyYTItYmIxZC00NGQ5LWE2ZjItOGY0NzBiZjNlNDY1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1526,
+                                                            "height":  2037
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0556435",
+                                       "displayName":  "John Masius",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0089485",
+                                     "displayName":  "Callum Blue",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc2MzM4NDk5MV5BMl5BanBnXkFtZTcwNjg2NTg1MQ@@._V1_.jpg",
+                                                          "width":  264,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0616091",
+                                     "displayName":  "Ellen Muth",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjEyMTE0NDgwN15BMl5BanBnXkFtZTcwMTk0NjYyMQ@@._V1_.jpg",
+                                                          "width":  300,
+                                                          "height":  420
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001597",
+                                     "displayName":  "Mandy Patinkin",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAzNjU1NTE3NF5BMl5BanBnXkFtZTcwNjIyMzcyNw@@._V1_.jpg",
+                                                          "width":  1496,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0004982",
+                                     "displayName":  "Jasmine Guy",
+                                     "alternativeNames":  [
+                                                              "Jasmine"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY1OTgwNDc3NV5BMl5BanBnXkFtZTYwNDM3MTg3._V1_.jpg",
+                                                          "width":  485,
+                                                          "height":  661
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000037",
+                                         "name":  "High-Concept Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  15
+                    }
+                ]
+}

@@ -1,0 +1,240 @@
+﻿{
+    "id":  "tt11280740",
+    "detail":  {
+                   "id":  "tt11280740",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Severance",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2022,
+                   "runtimeSeconds":  3000,
+                   "genres":  [
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.6,
+                                  "voteCount":  390692
+                              },
+                   "plot":  "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0001774",
+                                         "displayName":  "Ben Stiller",
+                                         "alternativeNames":  [
+                                                                  "Benjamin Stiller",
+                                                                  "Benji Stiller"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjc4NDc3NDkzMl5BMl5BanBnXkFtZTcwMTAyNTQwMw@@._V1_.jpg",
+                                                              "width":  302,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm5685519",
+                                         "displayName":  "Aoife McArdle",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjdjYTA3MjYtODc4Zi00MjM0LTk5YTgtMTlmNTkyY2MyMTRlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1321,
+                                                              "height":  1981
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0003802",
+                                         "displayName":  "Uta Briesewitz",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BM2VhNjBkNjktZjJkMS00YWVjLThkODctNTliOTNjNDhmMGQ0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  778,
+                                                              "height":  1071
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm9772311",
+                                       "displayName":  "Dan Erickson",
+                                       "alternativeNames":  [
+                                                                "Dan E. Erickson"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTg0OGYxZTgtZjAxNy00YmY0LTk1YmEtMGVlZmQ4YThhODEwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2354,
+                                                            "height":  3532
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm13419527",
+                                       "displayName":  "Anna Ouyang Moench",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOGNmMGE1ZjUtZDI1Yy00YWJlLThmNzUtZTA0MmE0YTI0Zjk2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  720,
+                                                            "height":  1080
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0085220",
+                                       "displayName":  "Chris Black",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0004395",
+                                     "displayName":  "Adam Scott",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWVhOGE3NjYtZDlmMC00NTdhLTkzZmMtMjBlOGRmYWE0MGY5XkEyXkFqcGc@._V1_CR198,0,1375,2063_.jpg",
+                                                          "width":  1375,
+                                                          "height":  2063
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3138882",
+                                     "displayName":  "Britt Lower",
+                                     "alternativeNames":  [
+                                                              "Brittney Lower"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWRjYjdkNDgtZjUzOC00ZTBhLWEyODgtNmQyN2UwYTRiMTFmXkEyXkFqcGc@._V1_CR249,1,1981,2971_.jpg",
+                                                          "width":  1981,
+                                                          "height":  2971
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7100086",
+                                     "displayName":  "Zach Cherry",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTk1YzhmYWYtZTUwNC00ODc4LTgwNWItMzYxNWFlYmFiNGZjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7436993",
+                                     "displayName":  "Tramell Tillman",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGI1ODNiOWUtYmJmZS00YmIyLTg0YmMtNDQ3OTQ1NmE5NGM5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3150,
+                                                          "height":  4200
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000091",
+                                         "name":  "Workplace Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000176",
+                                         "name":  "Conspiracy Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000182",
+                                         "name":  "Psychological Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  6
+                    }
+                ]
+}

@@ -1,0 +1,199 @@
+﻿{
+    "id":  "tt3579018",
+    "detail":  {
+                   "id":  "tt3579018",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Emerald City",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTk5NTA1NzkyNV5BMl5BanBnXkFtZTgwNzk1MDM3MDI@._V1_.jpg",
+                                        "width":  625,
+                                        "height":  1000
+                                    },
+                   "startYear":  2017,
+                   "endYear":  2017,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.1,
+                                  "voteCount":  14531
+                              },
+                   "plot":  "A modern reimagining of the stories that led to \u0027The Wizard of Oz\u0027.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0802248",
+                                         "displayName":  "Tarsem Singh",
+                                         "alternativeNames":  [
+                                                                  "Tarsem Singh Dhandwar",
+                                                                  "Tarsem"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTY3MjcyNjgyNl5BMl5BanBnXkFtZTcwMDU4NTIwNw@@._V1_.jpg",
+                                                              "width":  1501,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0036559",
+                                       "displayName":  "Matthew Arnold",
+                                       "alternativeNames":  [
+                                                                "Matt"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjlhYzY1ZGItNjQ0OC00ZjM0LTkxNWEtYzI1MzY0YjMzNDJlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2849,
+                                                            "height":  2706
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0000875",
+                                       "displayName":  "L. Frank Baum",
+                                       "alternativeNames":  [
+                                                                "Floyd Akers",
+                                                                "Anonymous",
+                                                                "Laura Bancroft",
+                                                                "Frank Baum",
+                                                                "Louis F. Baum",
+                                                                "George Brooks",
+                                                                "John Estes Cooke",
+                                                                "Captain Hugh Fitzgerald",
+                                                                "Suzanne Metcalf",
+                                                                "Schuyler Staunton",
+                                                                "Edith Van Dyne"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDhkYTUwNGEtZTZiNy00NTA2LWExZGEtZTRiOGI0YWU4MDMwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1143,
+                                                            "height":  1432
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0295264",
+                                       "displayName":  "Josh Friedman",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2719825",
+                                     "displayName":  "Oliver Jackson-Cohen",
+                                     "alternativeNames":  [
+                                                              "Oliver Jackson Cohen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg3OTI0NDA2MF5BMl5BanBnXkFtZTcwNDAyMDYzNw@@._V1_.jpg",
+                                                          "width":  441,
+                                                          "height":  621
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5245722",
+                                     "displayName":  "Adria Arjona",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOGU1ZGViNjUtMGM1NS00MWM5LWExNWQtM2JjY2YzYzZhY2U0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1452,
+                                                          "height":  1582
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0880367",
+                                     "displayName":  "Ana Ularu",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDU5NGJhMTktNDBmYS00ZWQ3LTgyNTUtODQwMzlmZmM5MDk5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5999,
+                                                          "height":  4001
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2228294",
+                                     "displayName":  "Gerran Howell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGY2OGU4YTktYzE1Zi00MGI1LWI1OGEtNGQzZjczYjdmYjkyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3057,
+                                                          "height":  3821
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000096",
+                                         "name":  "Fantasy Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000097",
+                                         "name":  "Fairy Tale",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    }
+                ]
+}

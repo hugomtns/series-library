@@ -1,0 +1,161 @@
+﻿{
+    "id":  "tt0389701",
+    "detail":  {
+                   "id":  "tt0389701",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Wildboyz",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjc5YTk4Y2UtMGUyZS00YTUwLWE1MmMtYjQ0ODg0ZjNlNGExXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1422
+                                    },
+                   "startYear":  2003,
+                   "endYear":  2006,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Documentary",
+                                  "Adventure",
+                                  "Comedy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  5400
+                              },
+                   "plot":  "The \"Wildboyz\", Steve-O and Chris Pontius, interact with different animals and travel around the globe.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0871860",
+                                         "displayName":  "Jeff Tremaine",
+                                         "alternativeNames":  [
+                                                                  "Jeff Trem Aine"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMWE1MzI1MTItNzEzZS00NDY0LWJjODgtOGZkZDg2MTNkOTk0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1168,
+                                                              "height":  1327
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1029269",
+                                         "displayName":  "Dimitry Elyashkevich",
+                                         "alternativeNames":  [
+                                                                  "Dameech",
+                                                                  "Dimitry Elayshkevich",
+                                                                  "Dimitri Elyashkevich"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMDU1N2U3NjctYzZlZi00M2YzLTllNzYtMjQ1ZGZiMTE1ZGRiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1116,
+                                                              "height":  1327
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "cinematographer",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1079524",
+                                       "displayName":  "Sean Cliver",
+                                       "alternativeNames":  [
+                                                                "Shari Cliver",
+                                                                "Cliver"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNWRkYTVmNGQtYzNiMS00YzBjLWE4OWEtOTdhODRhYTY2OTgwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1169,
+                                                            "height":  1329
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "camera_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1029269",
+                                       "displayName":  "Dimitry Elyashkevich",
+                                       "alternativeNames":  [
+                                                                "Dameech",
+                                                                "Dimitry Elayshkevich",
+                                                                "Dimitri Elyashkevich"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDU1N2U3NjctYzZlZi00M2YzLTllNzYtMjQ1ZGZiMTE1ZGRiXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1116,
+                                                            "height":  1327
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "camera_department",
+                                                                  "cinematographer",
+                                                                  "producer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0690686",
+                                       "displayName":  "Chris Pontius",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMWM3ZTRiMjAtZjY1OS00YTVjLTlkMzMtNGZkYzE0YjRiYzc1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2035,
+                                                            "height":  2351
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000060",
+                                         "name":  "Documentary"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  8
+                    }
+                ]
+}

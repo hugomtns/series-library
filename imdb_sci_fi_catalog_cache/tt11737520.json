@@ -1,0 +1,268 @@
+﻿{
+    "id":  "tt11737520",
+    "detail":  {
+                   "id":  "tt11737520",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "One Piece",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNDk5MDFlYjYtZjQ5ZS00ZjhkLWJkYmMtYzhmZjkyOWExY2M3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2222
+                                    },
+                   "startYear":  2023,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.3,
+                                  "voteCount":  207398
+                              },
+                   "plot":  "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2827467",
+                                         "displayName":  "Emma Sullivan",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDliNmQ2NTctMjYzNi00ZDZhLTk1MGMtMDU3Y2U3NmUzNzZhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1417,
+                                                              "height":  1421
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1305344",
+                                         "displayName":  "Marc Jobst",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzc1OGNlYjItYjIyMy00MDZjLWE2MmItYzE4MGZjODU3ZjQ0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  804,
+                                                              "height":  976
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0816074",
+                                         "displayName":  "Tim Southam",
+                                         "alternativeNames":  [
+                                                                  "Eda Holmes \u0026 Tim Southam"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BY2QzMDEzMmUtMzM2NC00Yjc0LTllZjYtNTE3Mzk1OTE0OGFiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1420,
+                                                              "height":  1171
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm8473934",
+                                       "displayName":  "Matt Owens",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZDhkMGMyODYtYTdkMi00Nzk5LTkxNDItNjVmODk4MjgyYTdjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2668,
+                                                            "height":  4000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1598169",
+                                       "displayName":  "Lindsay Gelfand",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4914154",
+                                       "displayName":  "Tom Hyndman",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm6185683",
+                                     "displayName":  "Emily Rudd",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjdjMDgyM2YtYzcyMy00YzI4LTgzNTUtZDViZmMzNTNkNjVmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1871,
+                                                          "height":  1500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7838852",
+                                     "displayName":  "IÃ±aki Godoy",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjExNzQzZDctZTlhMy00Njk2LWJiMDEtZjc1YzNiNTFiNDNkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  667,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5018289",
+                                     "displayName":  "Mackenyu",
+                                     "alternativeNames":  [
+                                                              "Mackenyu Arata",
+                                                              "Mackenyu Nitta"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTA2ZjkxZjEtMjU5My00ZTc2LWE4MWYtYjg3N2I4MzFkMjY1XkEyXkFqcGc@._V1_CR123,0,1510,2265_.jpg",
+                                                          "width":  1510,
+                                                          "height":  2265
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0716490",
+                                     "displayName":  "Vincent Regan",
+                                     "alternativeNames":  [
+                                                              "Vince Regan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTIyNTA3NDc2OV5BMl5BanBnXkFtZTcwMjIwMDAzMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  569
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "ZA",
+                                               "name":  "South Africa"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000002",
+                                         "name":  "Action Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000006",
+                                         "name":  "Martial Arts",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000015",
+                                         "name":  "Adventure Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000016",
+                                         "name":  "Globetrotting Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000019",
+                                         "name":  "Quest",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000021",
+                                         "name":  "Sea Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000022",
+                                         "name":  "Swashbuckler",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000096",
+                                         "name":  "Fantasy Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  1
+                    }
+                ]
+}

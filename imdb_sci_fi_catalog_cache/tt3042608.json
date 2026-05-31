@@ -1,0 +1,246 @@
+﻿{
+    "id":  "tt3042608",
+    "detail":  {
+                   "id":  "tt3042608",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Uncle Grandpa",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BY2FiZjg3YzgtNDk4Ny00MjAyLWI2ODctNzdhZmRmYTg5N2ZlXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  421,
+                                        "height":  631
+                                    },
+                   "startYear":  2010,
+                   "endYear":  2017,
+                   "runtimeSeconds":  900,
+                   "genres":  [
+                                  "Animation",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  4.7,
+                                  "voteCount":  8730
+                              },
+                   "plot":  "The misadventures of a magical uncle and grandpa to everyone in the world and his friends.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2284630",
+                                         "displayName":  "Casey Alexander",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1350566",
+                                         "displayName":  "Audie Harrison",
+                                         "primaryProfessions":  [
+                                                                    "miscellaneous",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2744789",
+                                         "displayName":  "Ryan Kramer",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1349864",
+                                       "displayName":  "Peter Browngardt",
+                                       "alternativeNames":  [
+                                                                "Pete Browngardt"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1350566",
+                                       "displayName":  "Audie Harrison",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2284630",
+                                       "displayName":  "Casey Alexander",
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1349864",
+                                     "displayName":  "Peter Browngardt",
+                                     "alternativeNames":  [
+                                                              "Pete Browngardt"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0724656",
+                                     "displayName":  "Kevin Michael Richardson",
+                                     "alternativeNames":  [
+                                                              "K M Argghhhh",
+                                                              "Kevin Aint-Yo Bee-Och-Son",
+                                                              "Kevin Michael-Richardson",
+                                                              "Kevin Michael Puritan",
+                                                              "Kevin M. Richards",
+                                                              "Kevin Michael Richards",
+                                                              "\"Denim\" Michael Richardson",
+                                                              "Candy Man Richardson",
+                                                              "Crazy K.M. Richardson",
+                                                              "Kevin M. Richardson",
+                                                              "Kevin My-Kill Richardson",
+                                                              "Kevin M Richardson",
+                                                              "Kevin N. Richardson",
+                                                              "Kevin R. Richardson",
+                                                              "Kevin Richardson",
+                                                              "Scary Black Guy Richardson",
+                                                              "Keven M. Richerdson",
+                                                              "Keven Richerdson",
+                                                              "Victor Stone",
+                                                              "Kevin Chocolate Thunder-Son"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI0OTg2NDQyOV5BMl5BanBnXkFtZTcwMTAwNjkzMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  554
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1082823",
+                                     "displayName":  "Eric Bauza",
+                                     "alternativeNames":  [
+                                                              "Daffy Duck",
+                                                              "Gerald Ryley"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTU0NTA0ZDktOTZlYy00ZDRjLWI1YWItZjYxODk2ZTdhMThjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  490,
+                                                          "height":  490
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "animation_department",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2796745",
+                                     "displayName":  "Adam Devine",
+                                     "alternativeNames":  [
+                                                              "Mail Order Comedy",
+                                                              "Adam DeVine",
+                                                              "Wizards"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU2MzI2NTc5NF5BMl5BanBnXkFtZTgwMzkzNTY4NjE@._V1_.jpg",
+                                                          "width":  653,
+                                                          "height":  980
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  53
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  23
+                    }
+                ]
+}

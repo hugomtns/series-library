@@ -1,0 +1,203 @@
+﻿{
+    "id":  "tt9446688",
+    "detail":  {
+                   "id":  "tt9446688",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "I Am Not Okay with This",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTVkYzBlNjMtNmMyMi00ZDM3LWFlMDctZmMxOWU5NWM2MmRhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2227
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2020,
+                   "runtimeSeconds":  1200,
+                   "genres":  [
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  83072
+                              },
+                   "plot":  "Sydney is a teenage girl navigating the trials and tribulations of high school while dealing with the complexities of her family, her budding sexuality, and mysterious superpowers just beginning to awaken deep within her.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm3536642",
+                                         "displayName":  "Jonathan Entwistle",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMDRlNjI5MTItZjRmYi00MjhkLTlhNTMtMzY0NWIwNDMzN2M0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1502,
+                                                              "height":  1874
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3536642",
+                                       "displayName":  "Jonathan Entwistle",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDRlNjI5MTItZjRmYi00MjhkLTlhNTMtMzY0NWIwNDMzN2M0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1502,
+                                                            "height":  1874
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm6981033",
+                                       "displayName":  "Charles S. Forsman",
+                                       "alternativeNames":  [
+                                                                "Charles Forsman",
+                                                                "Chuck Forsman"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOWJiMGU0MGYtZGVlNy00ZmYzLWEyMTEtNDJmMTFhYzc0OTFmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3024,
+                                                            "height":  4032
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm8631159",
+                                       "displayName":  "Christy Hall",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNmRiY2E4MjMtN2Y3NC00OWRlLTgwMjctZTM4NTljODczZWE1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1800,
+                                                            "height":  2700
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm5200476",
+                                     "displayName":  "Wyatt Oleff",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzNkYWI5NmItMDhhNy00ODMxLWFmZTgtNWU3NDM3MTc3MmU4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1327,
+                                                          "height":  1720
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "assistant_director",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6096118",
+                                     "displayName":  "Sophia Lillis",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTVjMWI2MzYtM2FmNS00N2ZmLThlZTktMjhjOGNlOGNhM2FiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5200,
+                                                          "height":  6500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8012842",
+                                     "displayName":  "Sofia Bryant",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzg3MjM2Y2UtNzc1NS00YTk3LWI5MjQtMmVlNTkyYTc5ODY2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1332,
+                                                          "height":  1306
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1137659",
+                                     "displayName":  "Kathleen Rose Perkins",
+                                     "alternativeNames":  [
+                                                              "Kathleen-Rose-Perkins"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTM4NzQxNTE4Nl5BMl5BanBnXkFtZTcwODUxMDk5Nw@@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000049",
+                                         "name":  "Teen Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000089",
+                                         "name":  "Teen Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  7
+                    }
+                ]
+}

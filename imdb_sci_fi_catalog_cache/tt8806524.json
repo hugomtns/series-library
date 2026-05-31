@@ -1,0 +1,237 @@
+﻿{
+    "id":  "tt8806524",
+    "detail":  {
+                   "id":  "tt8806524",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Star Trek: Picard",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BODEzZWRiYWQtYjMwYi00YThhLWE4OWEtMzY2MWMxNWNhYzY5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1013,
+                                        "height":  1500
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2023,
+                   "runtimeSeconds":  2760,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  101632
+                              },
+                   "plot":  "Follow-up to Star Trek: The Next Generation (1987) that centers on Jean-Luc Picard in the next chapter of his life.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0000408",
+                                         "displayName":  "Jonathan Frakes",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTM2MDIxOTE3Nl5BMl5BanBnXkFtZTcwMDQxNjcxNw@@._V1_.jpg",
+                                                              "width":  1892,
+                                                              "height":  2848
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0007439",
+                                         "displayName":  "Doug Aarniokoski",
+                                         "alternativeNames":  [
+                                                                  "Doug T. Aarniokoski",
+                                                                  "Douglas Aarniokoski",
+                                                                  "Doug Aarniokowski",
+                                                                  "Arnold Cassius"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODkyODQxMDYzMl5BMl5BanBnXkFtZTcwODQ3MzMxOA@@._V1_.jpg",
+                                                              "width":  708,
+                                                              "height":  849
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0191697",
+                                         "displayName":  "Hanelle M. Culpepper",
+                                         "alternativeNames":  [
+                                                                  "Hanelle Culpepper"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMThmZTAwZGEtNGYzNC00NDU4LTkzZjgtZjM1MmZjOTNlNzgwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4912,
+                                                              "height":  7006
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm8681530",
+                                       "displayName":  "Kirsten Beyer",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0149290",
+                                       "displayName":  "Michael Chabon",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjI3NzYzOTA4N15BMl5BanBnXkFtZTcwMDYzNjQ0Nw@@._V1_.jpg",
+                                                            "width":  1744,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0326040",
+                                       "displayName":  "Akiva Goldsman",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTI0Mjg1MTY4NV5BMl5BanBnXkFtZTYwMDM3NDQ1._V1_.jpg",
+                                                            "width":  265,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001772",
+                                     "displayName":  "Patrick Stewart",
+                                     "alternativeNames":  [
+                                                              "Sir Patrick Stewart"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc0MzU5ODQ5OF5BMl5BanBnXkFtZTYwODIwODk1._V1_.jpg",
+                                                          "width":  282,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0403335",
+                                     "displayName":  "Michelle Hurd",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzJkNjRiODUtOGJhYS00NDQxLWEzNTctZjgyM2MwZWZlNWU3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  6712,
+                                                          "height":  4902
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005394",
+                                     "displayName":  "Jeri Ryan",
+                                     "alternativeNames":  [
+                                                              "Jeri Lynn",
+                                                              "Jeri Lynn Ryan",
+                                                              "Jeri-Lynn Ryan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTAxZTIyNDQtNzhiMC00MmJjLTg5YzktMDNjNzA4ZDBlYjlkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  675,
+                                                          "height":  900
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0683467",
+                                     "displayName":  "Alison Pill",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzlmYmE0NzYtYzY1My00ZmQ5LTgyNDEtNzQ2ZGU3MTA2OGM4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2641,
+                                                          "height":  3225
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    }
+                ]
+}

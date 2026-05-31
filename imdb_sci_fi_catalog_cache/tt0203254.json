@@ -1,0 +1,250 @@
+﻿{
+    "id":  "tt0203254",
+    "detail":  {
+                   "id":  "tt0203254",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Franklin",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZTc5OTE3NjYtYzkzZC00NmM4LTgwNjMtNDAyNjMwYzk0MzExXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  1997,
+                   "endYear":  2006,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.5,
+                                  "voteCount":  6055
+                              },
+                   "plot":  "A young turtle named Franklin learns social lessons as he grows up with his family and friends.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0403597",
+                                         "displayName":  "Gary Hurst",
+                                         "alternativeNames":  [
+                                                                  "Gary Hearst",
+                                                                  "Garry Hurst"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0885795",
+                                         "displayName":  "John Van Bruggen",
+                                         "alternativeNames":  [
+                                                                  "John VanBruggen",
+                                                                  "John van Bruggen"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0909924",
+                                         "displayName":  "Dermot Walshe",
+                                         "alternativeNames":  [
+                                                                  "Dermot Walsh",
+                                                                  "Dermont Walshe"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2306830",
+                                       "displayName":  "Paulette Bourgeois",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2429026",
+                                       "displayName":  "Brenda Clark",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1380670",
+                                       "displayName":  "Brian Lasenby",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0717383",
+                                     "displayName":  "Noah Reid",
+                                     "alternativeNames":  [
+                                                              "Noah Reed"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2Y4MWIwNWQtOTU5Yi00YWNiLWE5YTAtZWMzNzEzMGIyNzJmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3000,
+                                                          "height":  4350
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1065012",
+                                     "displayName":  "Leah Renee",
+                                     "alternativeNames":  [
+                                                              "Leah Renee Cudmore",
+                                                              "Leah Cudmore",
+                                                              "Lean Cudmore"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjU2MTI0MDc2M15BMl5BanBnXkFtZTcwODI2NTcxNg@@._V1_.jpg",
+                                                          "width":  1369,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0113508",
+                                     "displayName":  "Elizabeth Saunders",
+                                     "alternativeNames":  [
+                                                              "Elizabeth Brown",
+                                                              "Liz Brown",
+                                                              "Liz Saunders"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmJiNzVhMjgtMjlhYS00YjVjLTlmMjYtZjNkMzFkNDZmNDM4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3282,
+                                                          "height":  3282
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "script_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0628236",
+                                     "displayName":  "Richard Newman",
+                                     "alternativeNames":  [
+                                                              "Richard Newmann"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY4NjkxMTM2Ml5BMl5BanBnXkFtZTgwMzU0OTIxNTE@._V1_.jpg",
+                                                          "width":  800,
+                                                          "height":  532
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "assistant_director",
+                                                                "miscellaneous"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "FR",
+                                               "name":  "France"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "LU",
+                                               "name":  "Luxembourg"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  8
+                    }
+                ]
+}

@@ -1,0 +1,223 @@
+﻿{
+    "id":  "tt9814116",
+    "detail":  {
+                   "id":  "tt9814116",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Brave New World",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMGZiZGM3ZjktZmRiMC00ODEwLWIyY2EtYmQ2NzM2OTUwMzU0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  900,
+                                        "height":  1335
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2020,
+                   "genres":  [
+                                  "Drama",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  19210
+                              },
+                   "plot":  "In a utopia whose perfection hinges upon control of monogamy and privacy, members of the collective begin to question the rules, putting their regimented society on a collision course with forbidden love and revolution.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2787176",
+                                         "displayName":  "Owen Harris",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc5MTAwMDU4OV5BMl5BanBnXkFtZTgwMDI4MDE4MDI@._V1_.jpg",
+                                                              "width":  1363,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm5685519",
+                                         "displayName":  "Aoife McArdle",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjdjYTA3MjYtODc4Zi00MjM0LTk5YTgtMTlmNTkyY2MyMTRlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1321,
+                                                              "height":  1981
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0661238",
+                                         "displayName":  "Andrij Parekh",
+                                         "alternativeNames":  [
+                                                                  "Andrew Parekh"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODRhZjZlM2EtMjhhNy00OGQ1LWEyMzAtNGJiMGNiOGQyNGUyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3566,
+                                                              "height":  4000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "cinematographer",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3176830",
+                                       "displayName":  "Nina Braddock",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTJlZmQ5ODEtYWQ4MC00ZTA4LTgyYzYtOWVlYWQ3YWRiM2E4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  335,
+                                                            "height":  504
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0404717",
+                                       "displayName":  "Aldous Huxley",
+                                       "alternativeNames":  [
+                                                                "Aldous Leonard Huxley"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTUzMDM2NzM3OV5BMl5BanBnXkFtZTcwNTc5NjAzNA@@._V1_.jpg",
+                                                            "width":  385,
+                                                            "height":  500
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1634601",
+                                       "displayName":  "Grant Morrison",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTY0NzkyNjMxOV5BMl5BanBnXkFtZTcwNTA3MTI5Mw@@._V1_.jpg",
+                                                            "width":  2569,
+                                                            "height":  3425
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2403277",
+                                     "displayName":  "Alden Ehrenreich",
+                                     "alternativeNames":  [
+                                                              "Alden Caleb Ehrenreich"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjY5ODY0MDE5Nl5BMl5BanBnXkFtZTgwODg2NDM4ODE@._V1_.jpg",
+                                                          "width":  1024,
+                                                          "height":  1535
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3726887",
+                                     "displayName":  "Jessica Brown Findlay",
+                                     "alternativeNames":  [
+                                                              "Jessica Brown-Findlay"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzNjODIwYzctNDFkNS00NzUyLWE0NzgtZTFmOWM1MGU4M2ExXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  900,
+                                                          "height":  1350
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0516003",
+                                     "displayName":  "Harry Lloyd",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE2OTkyOTkzMl5BMl5BanBnXkFtZTcwODYxMTUwOA@@._V1_.jpg",
+                                                          "width":  1638,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0815317",
+                                     "displayName":  "Nina Sosanya",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc4NTEyOTY4M15BMl5BanBnXkFtZTcwMDQwNzEzMQ@@._V1_.jpg",
+                                                          "width":  371,
+                                                          "height":  529
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  9
+                    }
+                ]
+}

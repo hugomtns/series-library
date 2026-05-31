@@ -1,0 +1,235 @@
+﻿{
+    "id":  "tt4254242",
+    "detail":  {
+                   "id":  "tt4254242",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Magicians",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzVjZDg1YzctMTZhNi00OWVjLTg3OGEtMjdhNWE2MmEyODA5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  7180,
+                                        "height":  8975
+                                    },
+                   "startYear":  2015,
+                   "endYear":  2020,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  60216
+                              },
+                   "plot":  "After being recruited to a secretive academy, a group of students discovers that the magic they read about as children is very real--and more dangerous than they ever imagined.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1084723",
+                                         "displayName":  "Chris Fisher",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZTdlNGI3YmItMjJkMi00ZjFlLWJmNjAtZWUzZjM2NTBjNWJmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  960,
+                                                              "height":  637
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0176702",
+                                         "displayName":  "James L. Conway",
+                                         "alternativeNames":  [
+                                                                  "James Conway"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODEwMzIwODA3N15BMl5BanBnXkFtZTcwODUzMjIyOA@@._V1_.jpg",
+                                                              "width":  300,
+                                                              "height":  401
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0779350",
+                                         "displayName":  "John Scott",
+                                         "alternativeNames":  [
+                                                                  "John S. Scott",
+                                                                  "John Stuart Scott"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BY2U1MWY0ODktZjMzYi00MGYxLTkwMzMtOWUxMTYzOGZkMWVkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1721,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1571148",
+                                       "displayName":  "Sera Gamble",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzVmYTI1ZDYtNWM4NS00N2I1LWFlN2EtZWNiMDk3NzE0ZGEwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1280,
+                                                            "height":  1920
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5107819",
+                                       "displayName":  "Lev Grossman",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0573695",
+                                       "displayName":  "John McNamara",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzQyZjQ4YTMtMDhiMi00NTFkLTk1N2ItZWY3MjE3ZTQ5NmIxXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1440,
+                                                            "height":  960
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1886524",
+                                     "displayName":  "Stella Maeve",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDkxZjEyZWEtMjViMy00Y2UxLWJlY2QtNjkwYzY1MDRlYWJlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1242,
+                                                          "height":  2208
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack",
+                                                                "stunts"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2082776",
+                                     "displayName":  "Hale Appleman",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjNmYWJkNTQtYzc1Zi00YjdiLWJkNGItY2ExYTQyZmQ5Njk3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  645,
+                                                          "height":  788
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1974397",
+                                     "displayName":  "Summer Bishil",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmNhNWI3ODMtNGY5Ny00ZWUyLTliMjItOThkYjdhYTkwNDk3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1280,
+                                                          "height":  1920
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3231715",
+                                     "displayName":  "Arjun Gupta",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTQxN2M1NzUtNmQ4MC00ZDQ3LTlhM2EtYzIwM2E4OTMyNjU3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1213,
+                                                          "height":  1648
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "cinematographer",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000089",
+                                         "name":  "Teen Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  13
+                    }
+                ]
+}

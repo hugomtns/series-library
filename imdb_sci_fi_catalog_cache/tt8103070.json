@@ -1,0 +1,244 @@
+﻿{
+    "id":  "tt8103070",
+    "detail":  {
+                   "id":  "tt8103070",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Legacies",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZmMzYzYwMjItOWRiNi00NmU3LWI2ZjktOWFjYzI5ZmI4ZDI0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  800,
+                                        "height":  1200
+                                    },
+                   "startYear":  2018,
+                   "endYear":  2022,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  42169
+                              },
+                   "plot":  "Hope Mikaelson, a tribrid daughter of a Vampire/Werewolf hybrid, makes her way in the world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0402493",
+                                         "displayName":  "Jeffrey G. Hunt",
+                                         "alternativeNames":  [
+                                                                  "Jeffrey Glen Hunt",
+                                                                  "Jeffrey Hunt",
+                                                                  "Jeff Hunt"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZGE1NzQ4MWUtMjQwNS00ZGRiLTk1NDMtODBlMDI2MGUxNDQ4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1882,
+                                                              "height":  1942
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2022694",
+                                         "displayName":  "Lauren Petzke",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTliYzU3MjYtZWU1NC00ZWZiLWE2YWItYmM0NGI5MTk3YWJhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4032,
+                                                              "height":  3024
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0021592",
+                                         "displayName":  "Michael A. Allowitz",
+                                         "alternativeNames":  [
+                                                                  "Michael Allowitz",
+                                                                  "Micheal A. Allowitz",
+                                                                  "Mike Allowitz"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZGQxOWRkNDgtNzJiNS00ZmEyLTkzNTgtYmM3YWY2YzFkOWU4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  799,
+                                                              "height":  828
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0687096",
+                                       "displayName":  "Julie Plec",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3468606",
+                                       "displayName":  "L.J. Smith",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4042419",
+                                       "displayName":  "Penny Cox",
+                                       "alternativeNames":  [
+                                                                "Penelope Cox"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "production_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm5994559",
+                                     "displayName":  "Danielle Rose Russell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzYyZDM5MmEtZmRjMi00MGM4LWFjY2UtNzY2YzYxZTQ3NjgzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1881,
+                                                          "height":  2821
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7263948",
+                                     "displayName":  "Aria Shahghasemi",
+                                     "alternativeNames":  [
+                                                              "Aria Shaghasemi"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGU2ZGU4YjMtNDIxZS00NDUzLTk3YWUtZDU1M2FiMzUzODYyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3292,
+                                                          "height":  4938
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7875835",
+                                     "displayName":  "Quincy Fouse",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTA2ZTIyMTctMDAzNS00OTk4LWJjZmItZmJlN2FkMmU2Yjk5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2640,
+                                                          "height":  1111
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0205127",
+                                     "displayName":  "Matthew Davis",
+                                     "alternativeNames":  [
+                                                              "Matt Davis"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU0NzE2MTY3M15BMl5BanBnXkFtZTcwOTAyMzc0Mw@@._V1_.jpg",
+                                                          "width":  309,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000089",
+                                         "name":  "Teen Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000119",
+                                         "name":  "Vampire Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000120",
+                                         "name":  "Werewolf Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  20
+                    }
+                ]
+}

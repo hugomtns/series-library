@@ -1,0 +1,211 @@
+﻿{
+    "id":  "tt1402376",
+    "detail":  {
+                   "id":  "tt1402376",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Eastwick",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTI3OTYyNDI4MF5BMl5BanBnXkFtZTcwMzc2NTk4Mg@@._V1_.jpg",
+                                        "width":  535,
+                                        "height":  713
+                                    },
+                   "startYear":  2009,
+                   "endYear":  2010,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.5,
+                                  "voteCount":  9242
+                              },
+                   "plot":  "A mysterious man bestows unique powers to three women.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0003150",
+                                         "displayName":  "Michael Katleman",
+                                         "alternativeNames":  [
+                                                                  "Mike Katleman"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjEwMTg0NjE0OF5BMl5BanBnXkFyZXN1bWU@._V1_.jpg",
+                                                              "width":  3504,
+                                                              "height":  2336
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0638354",
+                                         "displayName":  "David Nutter",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjI4MDIyMDI5NF5BMl5BanBnXkFtZTgwNjE0ODQ4NjE@._V1_.jpg",
+                                                              "width":  1360,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0002704",
+                                         "displayName":  "Bill D\u0027Elia",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTY1NTkwNjI0NF5BMl5BanBnXkFtZTcwNTIzNTYzNw@@._V1_.jpg",
+                                                              "width":  1000,
+                                                              "height":  667
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0881433",
+                                       "displayName":  "John Updike",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjMwNDk3Mzk2MF5BMl5BanBnXkFtZTgwNzUwNTU1MjE@._V1_.jpg",
+                                                            "width":  500,
+                                                            "height":  375
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1212932",
+                                       "displayName":  "Maggie Friedman",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1119038",
+                                       "displayName":  "Rina Mimoun",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOWRmODYyMjgtN2Q0OC00MzM5LWFjOGMtNzY5ZTM3ODMxMzNlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  777,
+                                                            "height":  874
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0628120",
+                                     "displayName":  "Jaime Ray Newman",
+                                     "alternativeNames":  [
+                                                              "Jamie Ray Newman",
+                                                              "Jaime Ray"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTk5ZWY4NWQtMmJmMC00ZTg2LWJmMzctZjI3YTZmYWI4MGFlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  525,
+                                                          "height":  787
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0697010",
+                                     "displayName":  "Lindsay Price",
+                                     "alternativeNames":  [
+                                                              "Lindsay Price Stone"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2Y5NzA1OTItOWRkZS00Mjc3LTk4ZWEtM2ZmMzM0OWQxMmY0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1242,
+                                                          "height":  1698
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005381",
+                                     "displayName":  "Rebecca Romijn",
+                                     "alternativeNames":  [
+                                                              "Rebecca Romijn-Stamos",
+                                                              "Rebecca Romjin-Stamos",
+                                                              "Rebecca Romijn Stamos"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUyMjM3MDg3Nl5BMl5BanBnXkFtZTcwMTIwNTExMw@@._V1_.jpg",
+                                                          "width":  302,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0749081",
+                                     "displayName":  "Sara Rue",
+                                     "alternativeNames":  [
+                                                              "Sue Rue"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ3Mjc3NTAxMl5BMl5BanBnXkFtZTgwNTY4ODIwMDE@._V1_.jpg",
+                                                          "width":  640,
+                                                          "height":  725
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

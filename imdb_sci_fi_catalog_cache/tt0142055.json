@@ -1,0 +1,201 @@
+﻿{
+    "id":  "tt0142055",
+    "detail":  {
+                   "id":  "tt0142055",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Teletubbies",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZWM5ZjNkOWItNmU0Zi00YzdiLTg0MTAtMzkxMTZmZGI4NmQ2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  1997,
+                   "endYear":  2001,
+                   "runtimeSeconds":  1680,
+                   "genres":  [
+                                  "Family",
+                                  "Fantasy",
+                                  "Musical"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  3.9,
+                                  "voteCount":  9655
+                              },
+                   "plot":  "Four creatures with televisions in their stomachs have fun in their magical world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2736117",
+                                         "displayName":  "Nigel P. Harris",
+                                         "alternativeNames":  [
+                                                                  "Nigel P Harris",
+                                                                  "Nigel Harris"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWJlODM4YjgtNTkzZS00Njc1LWEwNjQtNDI2ODU4YWY1ODBlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2316,
+                                                              "height":  3088
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "location_management",
+                                                                    "production_manager"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0277467",
+                                         "displayName":  "Vic Finch",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "sound_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0384987",
+                                         "displayName":  "David G. Hillier",
+                                         "alternativeNames":  [
+                                                                  "David Hillier"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "production_department"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1096087",
+                                       "displayName":  "Andrew Davenport",
+                                       "primaryProfessions":  [
+                                                                  "composer",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1094701",
+                                       "displayName":  "Anne Wood",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0799619",
+                                     "displayName":  "John Simmit",
+                                     "alternativeNames":  [
+                                                              "Dipsy"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjIzMTk5MjY2MV5BMl5BanBnXkFtZTgwOTYwMjk0MjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0808709",
+                                     "displayName":  "Jessica Smith",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDU2M2I2NzEtYzY5My00MjdjLTg3ZTItMzVlYmQxZTFkMGUwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  541,
+                                                          "height":  333
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0806760",
+                                     "displayName":  "Nikky Smedley",
+                                     "alternativeNames":  [
+                                                              "Laa-Laa",
+                                                              "Nicola Jane Smedley",
+                                                              "Nikki Smedley",
+                                                              "Niky Smedley",
+                                                              "Nikky Smedly"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTQwNDc3NzY3Nl5BMl5BanBnXkFtZTgwNTgwMjk0MjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0768350",
+                                     "displayName":  "Rolf Saxon",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTIzYzc0NmItMzhlNi00YmYyLTkwYTctZGJhNjg1MzIxNGYzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1600,
+                                                          "height":  1067
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "pol",
+                                               "name":  "Polish"
+                                           },
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000133",
+                                         "name":  "Musical"
+                                     },
+                                     {
+                                         "id":  "in0000195",
+                                         "name":  "Holiday Family",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  365
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  24
+                    }
+                ]
+}

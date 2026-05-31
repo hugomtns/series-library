@@ -1,0 +1,245 @@
+﻿{
+    "id":  "tt1722512",
+    "detail":  {
+                   "id":  "tt1722512",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Ultimate Spider-Man",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjFmOGZkYWQtMGQ4MC00NzRiLWI4ZTMtNDEwZDZiMDMyMzNmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  2012,
+                   "endYear":  2017,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  16564
+                              },
+                   "plot":  "Spider-Man battles evil with a new team of teen colleagues and training from S.H.I.E.L.D.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1444731",
+                                         "displayName":  "Alex Soto",
+                                         "alternativeNames":  [
+                                                                  "Alex N. Soto"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2424570",
+                                         "displayName":  "Roy Burdine",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0683094",
+                                         "displayName":  "Philip Pignotti",
+                                         "alternativeNames":  [
+                                                                  "Philip L. Pignotti",
+                                                                  "Phillip Pignotti",
+                                                                  "Phil Pignotti"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1424524",
+                                       "displayName":  "Joe Casey",
+                                       "alternativeNames":  [
+                                                                "Man Of Action",
+                                                                "Man of Action"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2399856",
+                                       "displayName":  "Joe Kelly",
+                                       "alternativeNames":  [
+                                                                "Man Of Action",
+                                                                "Man of Action",
+                                                                "Joseph Kelly"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0745691",
+                                       "displayName":  "Duncan Rouleau",
+                                       "alternativeNames":  [
+                                                                "Man Of Action",
+                                                                "Man of Action",
+                                                                "Ducan Rouleau"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0068166",
+                                     "displayName":  "Drake Bell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODkyYjI5NDAtYzEyZi00Y2QyLWEyODYtMjAyZTQzMGMxNGZlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  736,
+                                                          "height":  1100
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1014417",
+                                     "displayName":  "Ogie Banks",
+                                     "alternativeNames":  [
+                                                              "Ogie Banks III",
+                                                              "Hank Banks",
+                                                              "Henry Banks",
+                                                              "O.G. Banks",
+                                                              "Henry Futterman",
+                                                              "Ogie Banks lll"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWNmNWEzNzYtZTM5Ny00NzA3LTk3MGItNTFiN2FiYzQ4OWM3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1200,
+                                                          "height":  1800
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0564277",
+                                     "displayName":  "Chi McBride",
+                                     "alternativeNames":  [
+                                                              "Chi",
+                                                              "Chi Mcbride"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY2NDcyNTI1Ml5BMl5BanBnXkFtZTcwNTYyOTI4Mw@@._V1_.jpg",
+                                                          "width":  490,
+                                                          "height":  653
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2383250",
+                                     "displayName":  "Logan Miller",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWRhZmZmZjktNmY2Ny00ZTE0LWE2NDQtOWEzNzdhNGNkZDk0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1228,
+                                                          "height":  1814
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  26
+                    }
+                ]
+}

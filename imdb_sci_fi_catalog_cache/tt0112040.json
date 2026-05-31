@@ -1,0 +1,218 @@
+﻿{
+    "id":  "tt0112040",
+    "detail":  {
+                   "id":  "tt0112040",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "The Langoliers",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYWQ3MzI3ZGEtNjJhOC00ZmFhLWJmNTUtYWQyNTFiNTlhNTEyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  520,
+                                        "height":  690
+                                    },
+                   "startYear":  1995,
+                   "endYear":  1995,
+                   "runtimeSeconds":  10800,
+                   "genres":  [
+                                  "Horror",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.1,
+                                  "voteCount":  33424
+                              },
+                   "plot":  "Most of the passengers on an airplane disappear, and the remainder land the plane in a mysteriously barren airport.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0276169",
+                                         "displayName":  "Tom Holland",
+                                         "alternativeNames":  [
+                                                                  "Tom Fielding",
+                                                                  "Thomas Holland",
+                                                                  "Tom Lee Holland",
+                                                                  "Tommy Lee Holland",
+                                                                  "Alan Smithee"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYWZhMWU0OWQtNDJmYi00MTE1LTgzMzItM2ZiZGVmOGEyYzFkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1536
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0276169",
+                                       "displayName":  "Tom Holland",
+                                       "alternativeNames":  [
+                                                                "Tom Fielding",
+                                                                "Thomas Holland",
+                                                                "Tom Lee Holland",
+                                                                "Tommy Lee Holland",
+                                                                "Alan Smithee"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYWZhMWU0OWQtNDJmYi00MTE1LTgzMzItM2ZiZGVmOGEyYzFkXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1536
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0000175",
+                                       "displayName":  "Stephen King",
+                                       "alternativeNames":  [
+                                                                "Richard Bachman",
+                                                                "The Rock Bottom Remainders",
+                                                                "John Swithen"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjA2ODIxNDM4Nl5BMl5BanBnXkFtZTYwMjkzMzU1._V1_.jpg",
+                                                            "width":  257,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0276169",
+                                     "displayName":  "Tom Holland",
+                                     "alternativeNames":  [
+                                                              "Tom Fielding",
+                                                              "Thomas Holland",
+                                                              "Tom Lee Holland",
+                                                              "Tommy Lee Holland",
+                                                              "Alan Smithee"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWZhMWU0OWQtNDJmYi00MTE1LTgzMzItM2ZiZGVmOGEyYzFkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1536
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0923210",
+                                     "displayName":  "Patricia Wettig",
+                                     "alternativeNames":  [
+                                                              "Ken Olin and Patricia Wettig"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc1OTg5MDM5Ml5BMl5BanBnXkFtZTcwMDc1Mjc1MQ@@._V1_.jpg",
+                                                          "width":  266,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0531069",
+                                     "displayName":  "Kate Maberly",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmE2YTM1ZWUtYzNmMy00YzdhLTliMWUtYmVkNjM1NTc1OTYwXkEyXkFqcGc@._V1_CR210,0,1999,2999_.jpg",
+                                                          "width":  1999,
+                                                          "height":  2999
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001777",
+                                     "displayName":  "Dean Stockwell",
+                                     "alternativeNames":  [
+                                                              "Robert Dean Stockwell"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjM3NTk3OTcwOV5BMl5BanBnXkFtZTcwNTUzNzgwMw@@._V1_.jpg",
+                                                          "width":  1794,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000002",
+                                         "name":  "Action Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  2
+                    }
+                ]
+}

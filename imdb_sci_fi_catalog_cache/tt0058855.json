@@ -1,0 +1,216 @@
+﻿{
+    "id":  "tt0058855",
+    "detail":  {
+                   "id":  "tt0058855",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Wild Wild West",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTAxMTE0MTQ4MF5BMl5BanBnXkFtZTcwMzU1MzE1MQ@@._V1_.jpg",
+                                        "width":  350,
+                                        "height":  500
+                                    },
+                   "startYear":  1965,
+                   "endYear":  1969,
+                   "runtimeSeconds":  3000,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Western"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  7385
+                              },
+                   "plot":  "Undercover government agents Jim West and Artemus Gordon battle crime in the 1870s.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0601293",
+                                         "displayName":  "Irving J. Moore",
+                                         "alternativeNames":  [
+                                                                  "Irving Moore"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0189075",
+                                         "displayName":  "Alan Crosland Jr.",
+                                         "alternativeNames":  [
+                                                                  "Alan Crosland",
+                                                                  "Allen Crosland"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "editor"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0159007",
+                                         "displayName":  "Marvin J. Chomsky",
+                                         "alternativeNames":  [
+                                                                  "Marvin Chomsky"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0308445",
+                                       "displayName":  "Michael Garrison",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0789051",
+                                       "displayName":  "Henry Sharp",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0460711",
+                                       "displayName":  "John Kneubuhl",
+                                       "alternativeNames":  [
+                                                                "John A. Kneubuhl",
+                                                                "John H. Kneubuhl",
+                                                                "John Neubuhl"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001066",
+                                     "displayName":  "Robert Conrad",
+                                     "alternativeNames":  [
+                                                              "Bob Conrad"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTU4MTQyYmYtYTU2MC00NDZhLWFmOTAtN2UxZWY3ZGE3ZWY2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3000,
+                                                          "height":  2400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0553014",
+                                     "displayName":  "Ross Martin",
+                                     "alternativeNames":  [
+                                                              "Ross \u0026 Olavee"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg0ODMzMzY4MF5BMl5BanBnXkFtZTcwNDM4MDIyOA@@._V1_.jpg",
+                                                          "width":  1439,
+                                                          "height":  1079
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0133961",
+                                     "displayName":  "Dick Cangey",
+                                     "alternativeNames":  [
+                                                              "Richard Cangey"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzA3NmE5YmMtYWMyMC00NjM1LTg3NzgtZDU2YzQzMDJjMTUzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  400,
+                                                          "height":  476
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "stunts"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0401000",
+                                     "displayName":  "Whitey Hughes",
+                                     "alternativeNames":  [
+                                                              "Robert \u0027Whitey\u0027 Hughes",
+                                                              "Robert Hughes",
+                                                              "Whitey Hughs"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjg2ZmE1N2ItZDc5OS00M2ZhLTk0MzctYmFkMGZmYjhkOWJjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1280,
+                                                          "height":  896
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "stunts"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000187",
+                                         "name":  "Classical Western",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000191",
+                                         "name":  "Western"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  28
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  28
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  24
+                    }
+                ]
+}

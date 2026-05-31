@@ -1,0 +1,256 @@
+﻿{
+    "id":  "tt11247158",
+    "detail":  {
+                   "id":  "tt11247158",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Legend of Vox Machina",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjI0ZjE2NDgtM2IxMy00NTk3LWFhMTEtMWNhOWJiYjIzYzY2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1944,
+                                        "height":  2880
+                                    },
+                   "startYear":  2022,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.4,
+                                  "voteCount":  54005
+                              },
+                   "plot":  "After saving the realm from evil and destruction at the hands of the most terrifying power couple in Exandria, Vox Machina is faced with saving the world once again-this time, from a sinister group of dragons known as the Chroma Conclave.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm9715186",
+                                         "displayName":  "Young Heller",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2996471",
+                                         "displayName":  "Sung Jin Ahn",
+                                         "alternativeNames":  [
+                                                                  "SungJin Ahn",
+                                                                  "Sungjin Ahn"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3010352",
+                                         "displayName":  "Alicia Chan",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0699372",
+                                       "displayName":  "Chris Prynoski",
+                                       "alternativeNames":  [
+                                                                "Chris Prynos",
+                                                                "Chris \u0026 Shannon Prynoski",
+                                                                "Chris Prynosky",
+                                                                "Chris Prynowski",
+                                                                "Chris Pryonski"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZWFlZDk4ZGQtZDI2MS00NGUxLWE4MzQtMTUxNGI4YWNmOTk5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1008,
+                                                            "height":  1323
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm14296771",
+                                       "displayName":  "Critical Role",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4713425",
+                                       "displayName":  "Meredith Kecskemety",
+                                       "primaryProfessions":  [
+                                                                  "casting_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0043552",
+                                     "displayName":  "Taliesin Jaffe",
+                                     "alternativeNames":  [
+                                                              "T. Axelrod",
+                                                              "Talis Axelrod",
+                                                              "T Axelrod",
+                                                              "T. Axlerod",
+                                                              "Talis Axlerod",
+                                                              "Tollison Gaffy",
+                                                              "T. Axelrod/Taliesin Jaffe",
+                                                              "Taliesen Jaffe",
+                                                              "Taliesian Jaffe",
+                                                              "Talisen Jaffe",
+                                                              "Talleen Jaffe",
+                                                              "Chris Nelson",
+                                                              "Morphogenetic Field Voice"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzc4NWE4NjMtN2RjYi00ZDE5LTk2Y2EtM2UzZjEyMTcyMDMzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  970,
+                                                          "height":  1044
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1154161",
+                                     "displayName":  "Laura Bailey",
+                                     "alternativeNames":  [
+                                                              "Elle Deets"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmZkOGUxOTktNTYzZS00YTAyLTgxYWItNTg1OTZlMDRkMjEwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  853,
+                                                          "height":  1280
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0424534",
+                                     "displayName":  "Ashley Johnson",
+                                     "alternativeNames":  [
+                                                              "Ashly Stonejaw"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTk5Njc3NzgxOV5BMl5BanBnXkFtZTgwMzgyMjIzNzE@._V1_.jpg",
+                                                          "width":  1024,
+                                                          "height":  683
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2233310",
+                                     "displayName":  "Matthew Mercer",
+                                     "alternativeNames":  [
+                                                              "Matt Maercer",
+                                                              "Mark Mercer",
+                                                              "Mathew Mercer",
+                                                              "Matt Mercer/Matthew Mercer",
+                                                              "Matt Mercer",
+                                                              "Metthew Mercer",
+                                                              "Masamune Miller",
+                                                              "Matt \u0027Masamune\u0027 Miller",
+                                                              "Matthew C Miller",
+                                                              "Matthew Miller",
+                                                              "Matt Miller"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDY2MWQwNGMtYTU2Yi00Y2EwLWE4YjctZWFhZjc3MDlmNjliXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  840,
+                                                          "height":  1260
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  1
+                    }
+                ]
+}

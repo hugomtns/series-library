@@ -1,0 +1,237 @@
+﻿{
+    "id":  "tt0077031",
+    "detail":  {
+                   "id":  "tt0077031",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Incredible Hulk",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYjI5NzkxNDItYmYyNi00NGYzLWJiNmEtY2Q3OGUwYWE0YWJjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  780,
+                                        "height":  1147
+                                    },
+                   "startYear":  1977,
+                   "endYear":  1982,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  18058
+                              },
+                   "plot":  "A fugitive scientist has the curse of becoming a powerful green monster under extreme emotional stress.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0650685",
+                                         "displayName":  "Frank Orsatti",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "stunts"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0046172",
+                                         "displayName":  "Reza Badiyi",
+                                         "alternativeNames":  [
+                                                                  "Reza Badigi",
+                                                                  "Raza Badiyi",
+                                                                  "Reza S. Badiyi"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDlhYWIwZjEtMzZhZS00YjdlLWI0YmYtMzZkZjM4YTZjODFlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  383,
+                                                              "height":  510
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0574238",
+                                         "displayName":  "John McPherson",
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0425540",
+                                       "displayName":  "Kenneth Johnson",
+                                       "alternativeNames":  [
+                                                                "Kenny Johnson",
+                                                                "Ken Johnson",
+                                                                "Lillian Weezer"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTM0NTQ1ODY5NV5BMl5BanBnXkFtZTcwOTc5OTgwMw@@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1209
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0179709",
+                                       "displayName":  "Nicholas Corea",
+                                       "alternativeNames":  [
+                                                                "Nicholas J. Corea",
+                                                                "Nick Corea"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0232803",
+                                       "displayName":  "Jill Donner",
+                                       "alternativeNames":  [
+                                                                "Jill Sherman Donner",
+                                                                "Jill Sherman"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0084642",
+                                     "displayName":  "Bill Bixby",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTUzYzY1MzctM2U5YS00NTk5LWI0ZTUtMjAwNmFmZjY1NTNkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5850,
+                                                          "height":  6152
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0173438",
+                                     "displayName":  "Jack Colvin",
+                                     "alternativeNames":  [
+                                                              "Colvin \u0026 Wilder",
+                                                              "Colvin and Wilder"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTYwNjk5ODgxMl5BMl5BanBnXkFtZTgwNTAwODU0NDE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0002073",
+                                     "displayName":  "Lou Ferrigno",
+                                     "alternativeNames":  [
+                                                              "Louis Ferrigno"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmMzMWNjZjktMTJlYi00NjNlLWFlNjMtYWJhZDEyNzUwNmVlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1290,
+                                                          "height":  2796
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0621008",
+                                     "displayName":  "Charles Napier",
+                                     "alternativeNames":  [
+                                                              "Chuck Napier"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTMyODc4NjY0OF5BMl5BanBnXkFtZTcwNzk1NTg4Ng@@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  7
+                    }
+                ]
+}

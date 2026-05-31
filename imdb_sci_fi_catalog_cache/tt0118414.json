@@ -1,0 +1,251 @@
+﻿{
+    "id":  "tt0118414",
+    "detail":  {
+                   "id":  "tt0118414",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "The Odyssey",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BN2M2MTkwNTEtZTU1Mi00YmVmLTg4YjgtOTM5MTk4Y2Q5OTgwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  520,
+                                        "height":  774
+                                    },
+                   "startYear":  1997,
+                   "endYear":  1997,
+                   "runtimeSeconds":  5460,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "History"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  18510
+                              },
+                   "plot":  "Follows Odysseus on his wanderings back to Ithaca following the Trojan War.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0464846",
+                                         "displayName":  "Andrei Konchalovsky",
+                                         "alternativeNames":  [
+                                                                  "AndreÃ¯ KonchalovskI",
+                                                                  "Andrei Konchalovski",
+                                                                  "A. Konchalovskiy",
+                                                                  "Andrey Konchalovskiy",
+                                                                  "Andrei Mikhalov Kontchalovski",
+                                                                  "A. Mikhalkov-Konchalovskiy",
+                                                                  "Andrey Mikhalkov-Konchalovskiy"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTI5NDc2OTg3MF5BMl5BanBnXkFtZTcwNDQyNTMyNA@@._V1_.jpg",
+                                                              "width":  1411,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0392955",
+                                       "displayName":  "Homer",
+                                       "alternativeNames":  [
+                                                                "Homero"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTZlNDY2YjYtYTgzNi00Y2M2LTgzOWQtNDRmOTUzYWRhNjUzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  383,
+                                                            "height":  500
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0464846",
+                                       "displayName":  "Andrei Konchalovsky",
+                                       "alternativeNames":  [
+                                                                "AndreÃ¯ KonchalovskI",
+                                                                "Andrei Konchalovski",
+                                                                "A. Konchalovskiy",
+                                                                "Andrey Konchalovskiy",
+                                                                "Andrei Mikhalov Kontchalovski",
+                                                                "A. Mikhalkov-Konchalovskiy",
+                                                                "Andrey Mikhalkov-Konchalovskiy"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTI5NDc2OTg3MF5BMl5BanBnXkFtZTcwNDQyNTMyNA@@._V1_.jpg",
+                                                            "width":  1411,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0813068",
+                                       "displayName":  "Chris Solimine",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOTQzODMzYWMtNmFiNC00Y2QyLTk3MjgtMDRiNDBkMjM2MzNjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1600,
+                                                            "height":  1200
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000627",
+                                     "displayName":  "Greta Scacchi",
+                                     "alternativeNames":  [
+                                                              "Greta Scaachi"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYzOTQzMDM4OF5BMl5BanBnXkFtZTcwOTcxNzgwNA@@._V1_.jpg",
+                                                          "width":  267,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000800",
+                                     "displayName":  "Armand Assante",
+                                     "alternativeNames":  [
+                                                              "Armand Assanti",
+                                                              "The Phantom"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDM4OTQyYzItMGM2ZC00YzkxLTlkZDUtY2MzNWQ0MThhZDdmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1106,
+                                                          "height":  1696
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000618",
+                                     "displayName":  "Isabella Rossellini",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjg0MjczMzg2NV5BMl5BanBnXkFtZTcwOTM1MjA1NA@@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001613",
+                                     "displayName":  "Bernadette Peters",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI3MTcyMjc3MV5BMl5BanBnXkFtZTcwNzQ1OTkyMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  675
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "IT",
+                                               "name":  "Italy"
+                                           },
+                                           {
+                                               "code":  "DE",
+                                               "name":  "Germany"
+                                           },
+                                           {
+                                               "code":  "TR",
+                                               "name":  "Turkey"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000009",
+                                         "name":  "Sword \u0026 Sandal",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000015",
+                                         "name":  "Adventure Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000019",
+                                         "name":  "Quest",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000079",
+                                         "name":  "Historical Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000080",
+                                         "name":  "History"
+                                     },
+                                     {
+                                         "id":  "in0000096",
+                                         "name":  "Fantasy Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000100",
+                                         "name":  "Sword \u0026 Sorcery",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  2
+                    }
+                ]
+}

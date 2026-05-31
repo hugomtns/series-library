@@ -1,0 +1,246 @@
+﻿{
+    "id":  "tt2431438",
+    "detail":  {
+                   "id":  "tt2431438",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Sense8",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjA4MTEyMzcwMl5BMl5BanBnXkFtZTgwMTIwODczNTM@._V1_.jpg",
+                                        "width":  1382,
+                                        "height":  2048
+                                    },
+                   "startYear":  2015,
+                   "endYear":  2018,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.2,
+                                  "voteCount":  171659
+                              },
+                   "plot":  "A group of people around the world are suddenly linked mentally, and must find a way to survive being hunted by those who see them as a threat to the world\u0027s order.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0905154",
+                                         "displayName":  "Lana Wachowski",
+                                         "alternativeNames":  [
+                                                                  "Lana \u0026 Andy",
+                                                                  "The Wachowski Brothers",
+                                                                  "Larry Wachowski",
+                                                                  "The Wachowskis",
+                                                                  "the Wachowskis"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjEzMTc2MDQ5OV5BMl5BanBnXkFtZTcwNjkzNDY0OA@@._V1_.jpg",
+                                                              "width":  1365,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0905152",
+                                         "displayName":  "Lilly Wachowski",
+                                         "alternativeNames":  [
+                                                                  "Lana \u0026 Andy",
+                                                                  "The Wachowski Brothers",
+                                                                  "Andy Wachowski",
+                                                                  "The Wachowskis"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTZmMjM5MDQtNTM5Yy00YmYzLWFmZTctZTJmODllN2Q3OTMwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2500,
+                                                              "height":  3750
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0574625",
+                                         "displayName":  "James McTeigue",
+                                         "alternativeNames":  [
+                                                                  "James McTiegue"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTUxNTQwNDQ1MV5BMl5BanBnXkFtZTcwOTI2MDUwNg@@._V1_.jpg",
+                                                              "width":  1634,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0833089",
+                                       "displayName":  "J. Michael Straczynski",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMmY1YWRiZDEtZDY1My00NTg3LThlNmItMDk4OGQ2NjFlZGFmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4342,
+                                                            "height":  6297
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0905154",
+                                       "displayName":  "Lana Wachowski",
+                                       "alternativeNames":  [
+                                                                "Lana \u0026 Andy",
+                                                                "The Wachowski Brothers",
+                                                                "Larry Wachowski",
+                                                                "The Wachowskis",
+                                                                "the Wachowskis"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjEzMTc2MDQ5OV5BMl5BanBnXkFtZTcwNjkzNDY0OA@@._V1_.jpg",
+                                                            "width":  1365,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0905152",
+                                       "displayName":  "Lilly Wachowski",
+                                       "alternativeNames":  [
+                                                                "Lana \u0026 Andy",
+                                                                "The Wachowski Brothers",
+                                                                "Andy Wachowski",
+                                                                "The Wachowskis"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNTZmMjM5MDQtNTM5Yy00YmYzLWFmZTctZTJmODllN2Q3OTMwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2500,
+                                                            "height":  3750
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0046277",
+                                     "displayName":  "Bae Doona",
+                                     "alternativeNames":  [
+                                                              "Doo Na Bae",
+                                                              "Doona Bae",
+                                                              "Bae Doo-na"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDA3Njc0MzQ4Ml5BMl5BanBnXkFtZTcwMjM4MTA2OA@@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1362
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3911870",
+                                     "displayName":  "Jamie Clayton",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGY3OTI4OTItYjZlYS00N2MxLWFmZWYtNTFhNWRlYzU4M2E3XkEyXkFqcGc@._V1_PT-5.0_CR675,341,540,810_.jpg",
+                                                          "width":  540,
+                                                          "height":  810
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3867591",
+                                     "displayName":  "Tina Desai",
+                                     "alternativeNames":  [
+                                                              "Tena Desae"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQzNDA2NDkxMF5BMl5BanBnXkFtZTcwMjc5OTczNw@@._V1_.jpg",
+                                                          "width":  1401,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3095562",
+                                     "displayName":  "Tuppence Middleton",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODBiNTAwNGYtZTY4Yi00YjY2LThlOWMtNjI3NTY3NjFmNmRiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1626,
+                                                          "height":  2033
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  12
+                    }
+                ]
+}

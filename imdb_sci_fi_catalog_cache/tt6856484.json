@@ -1,0 +1,222 @@
+﻿{
+    "id":  "tt6856484",
+    "detail":  {
+                   "id":  "tt6856484",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Ghost Wars",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNGFlNzI3MDMtMDZhMC00YTA2LThhZmMtNjM1NWRkZmEzYWYyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1459,
+                                        "height":  2193
+                                    },
+                   "startYear":  2017,
+                   "endYear":  2018,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.2,
+                                  "voteCount":  6060
+                              },
+                   "plot":  "A remote Alaskan town that has been overrun by paranormal forces. Local outcast Roman Mercer must overcome the town\u0027s prejudices and his own personal demons if he\u0027s to harness his repressed psychic powers and save everyone.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0058164",
+                                         "displayName":  "Simon Barry",
+                                         "alternativeNames":  [
+                                                                  "Simon Davis Barry"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTcyMjFjMmQtOGUyOC00OTM3LTliOTMtNDNjNmEwOTIyMDI3XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2656,
+                                                              "height":  3115
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1018148",
+                                         "displayName":  "Mathias Herndl",
+                                         "alternativeNames":  [
+                                                                  "Mathias Hernol"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "cinematographer",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0394012",
+                                         "displayName":  "Leslie Hope",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTg2NTgzNjMzMV5BMl5BanBnXkFtZTcwOTE2ODA3NA@@._V1_.jpg",
+                                                              "width":  2912,
+                                                              "height":  4368
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0058164",
+                                       "displayName":  "Simon Barry",
+                                       "alternativeNames":  [
+                                                                "Simon Davis Barry"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNTcyMjFjMmQtOGUyOC00OTM3LTliOTMtNDNjNmEwOTIyMDI3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2656,
+                                                            "height":  3115
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5949587",
+                                       "displayName":  "Gemma Holdway",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2233057",
+                                       "displayName":  "Karen Lam",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZTkzYjFlNmMtMTdmMi00ODZkLTk5OWQtYzdjOTZkNzJjZWI5XkEyXkFqcGc@._V1_CR32,0,3333,5000_.jpg",
+                                                            "width":  3333,
+                                                            "height":  5000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1586595",
+                                     "displayName":  "Luvia Petersen",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDYyN2M3NmMtZWM4NS00ZTIzLTkwZDQtMjkxNjVmODE4MGY5XkEyXkFqcGc@._V1_CR605,131,769,1153_.jpg",
+                                                          "width":  769,
+                                                          "height":  1153
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2240326",
+                                     "displayName":  "Avan Jogia",
+                                     "alternativeNames":  [
+                                                              "Avan Tudor Jogia"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzRmMjZhYmItZjZkMi00ZGY0LWI0ZGEtMTZjYjhjMTM3Yjc5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  827,
+                                                          "height":  1030
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0167649",
+                                     "displayName":  "Kim Coates",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjM5NjU3NjcxNF5BMl5BanBnXkFtZTgwODAwNjkwMjE@._V1_.jpg",
+                                                          "width":  640,
+                                                          "height":  1136
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1536605",
+                                     "displayName":  "Jesse Moss",
+                                     "alternativeNames":  [
+                                                              "Jesse Mosse"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmViMDFlOGItNjdhMS00N2JkLTkxMmUtYmVlNjY4YjAyYTlmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3840,
+                                                          "height":  5760
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

@@ -1,0 +1,273 @@
+﻿{
+    "id":  "tt2306299",
+    "detail":  {
+                   "id":  "tt2306299",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Vikings",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTFmZmExYTEtYmE0Mi00MzRmLWE4ZDYtOThiNzNlOTIyODljXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2013,
+                   "endYear":  2020,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "History",
+                                  "Romance",
+                                  "War"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.5,
+                                  "voteCount":  642608
+                              },
+                   "plot":  "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1012772",
+                                         "displayName":  "Ciaran Donnelly",
+                                         "alternativeNames":  [
+                                                                  "CiarÃ¡n Donnelly"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDAzNzY4NTAtMzZhZC00MmY3LWE4YjYtNTJmOGE0ZDIxZWNmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1220,
+                                                              "height":  790
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0320987",
+                                         "displayName":  "Ken Girotti",
+                                         "alternativeNames":  [
+                                                                  "Kenneth J. Girotti"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzkxY2E2YjYtNmJjMS00NTA4LWJhODUtMjRlMzZlYTQ3MjIzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  960,
+                                                              "height":  1280
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1908892",
+                                         "displayName":  "Steve Saint Leger",
+                                         "alternativeNames":  [
+                                                                  "Stephen Saint Leger",
+                                                                  "Stephen St. Ledger",
+                                                                  "Stephen St. Leger"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZTJhZDM2ZDktNTA1OC00MDUyLWIwODktZGU2ODdmMGUwOTEyXkEyXkFqcGc@._V1_CR530,327,1387,2081_.jpg",
+                                                              "width":  1387,
+                                                              "height":  2081
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0386694",
+                                       "displayName":  "Michael Hirst",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTU1MzA4NzcyM15BMl5BanBnXkFtZTgwODkyMDcyMTE@._V1_.jpg",
+                                                            "width":  1589,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0803890",
+                                     "displayName":  "Gustaf SkarsgÃ¥rd",
+                                     "alternativeNames":  [
+                                                              "Gustaf Skarsgard",
+                                                              "Gustav SkarsgÃ¥rd"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ3NDIwNjgyMF5BMl5BanBnXkFtZTgwNDU4MjI1OTE@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1363
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0935395",
+                                     "displayName":  "Katheryn Winnick",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWRmN2ZkNWYtMTBhOC00Y2RhLTk1ZDYtODlkM2ZiNzI1MDczXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1280,
+                                                          "height":  1600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1573253",
+                                     "displayName":  "Alexander Ludwig",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmNmZDQzMjAtMmU5Yi00MmY4LThhZDktMzk5ZGY3YWRlNGU3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2994,
+                                                          "height":  3743
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6354997",
+                                     "displayName":  "Georgia Hirst",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU0MjIxODI4Nl5BMl5BanBnXkFtZTgwNjIxODU5NTM@._V1_.jpg",
+                                                          "width":  1626,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "IE",
+                                               "name":  "Ireland"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "ang",
+                                               "name":  "Old English (ca. 450-1100)"
+                                           },
+                                           {
+                                               "code":  "non",
+                                               "name":  "Old Norse"
+                                           },
+                                           {
+                                               "code":  "lat",
+                                               "name":  "Latin"
+                                           },
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           },
+                                           {
+                                               "code":  "ara",
+                                               "name":  "Arabic"
+                                           },
+                                           {
+                                               "code":  "grc",
+                                               "name":  "Ancient Greek (to 1453)"
+                                           },
+                                           {
+                                               "code":  "rus",
+                                               "name":  "Russian"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000010",
+                                         "name":  "War"
+                                     },
+                                     {
+                                         "id":  "in0000011",
+                                         "name":  "War Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000079",
+                                         "name":  "Historical Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000080",
+                                         "name":  "History"
+                                     },
+                                     {
+                                         "id":  "in0000083",
+                                         "name":  "Period Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  1
+                    }
+                ]
+}

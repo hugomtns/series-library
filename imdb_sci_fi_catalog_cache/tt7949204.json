@@ -1,0 +1,226 @@
+﻿{
+    "id":  "tt7949204",
+    "detail":  {
+                   "id":  "tt7949204",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Chambers",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTg1MmU4OGItYTVlNS00MmQ2LTg4YzItOTA4NTIxY2VjNDgxXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1012,
+                                        "height":  1500
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2019,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.4,
+                                  "voteCount":  10491
+                              },
+                   "plot":  "A woman survives a heart transplant and begins to develop different personality traits.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0004234",
+                                         "displayName":  "Alfonso Gomez-Rejon",
+                                         "alternativeNames":  [
+                                                                  "Alfonso GÃ³mez-RejÃ³n",
+                                                                  "Alfonso Gomez Rejon"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTUyMjUyNTAwOV5BMl5BanBnXkFtZTgwNDY0MDgxNDE@._V1_.jpg",
+                                                              "width":  1363,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1488800",
+                                         "displayName":  "Ti West",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTcwMjYwMTk4Nl5BMl5BanBnXkFtZTgwNjExNzEzODE@._V1_.jpg",
+                                                              "width":  1350,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2978148",
+                                         "displayName":  "Sydney Freeland",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODYxNjMyOTk1OV5BMl5BanBnXkFtZTgwNTIwODE5MDI@._V1_.jpg",
+                                                              "width":  1723,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1556992",
+                                       "displayName":  "Jason Gavin",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm8407221",
+                                       "displayName":  "Randy McKinnon",
+                                       "alternativeNames":  [
+                                                                "Randy Mckinnon"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYmE1OTNmYzgtODQyMC00YzZiLWFiZTgtZTA2MjU1M2E0MmE0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  641,
+                                                            "height":  641
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2108496",
+                                       "displayName":  "Leah Rachel",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDRjNDhmNmItMDk3ZC00MGFiLWFiZTMtOTJkODRmODM0YjE5XkEyXkFqcGc@._V1_CR173,16,267,400_.jpg",
+                                                            "width":  267,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0492153",
+                                     "displayName":  "Marcus LaVoi",
+                                     "alternativeNames":  [
+                                                              "Marcus La Voi"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg3N2QyYTMtNTg2MC00NWI3LTgwYWItMmUwMmZjNGU4MjZhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5464,
+                                                          "height":  8192
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm10020357",
+                                     "displayName":  "Sivan Alyra Rose",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjJkZWM2MzMtZTgxYS00OTJmLTliOTAtYzBlMmM5ZDA4Zjg4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  6000,
+                                                          "height":  4000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5405440",
+                                     "displayName":  "Kyanna Simone",
+                                     "alternativeNames":  [
+                                                              "Kyanna Simone Simpson",
+                                                              "Kyanna Simpson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmM4ODU3OGYtOTUwMi00NTM4LWIyMjItOTVhYWY1ZTc4MWYwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  922,
+                                                          "height":  1382
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5954280",
+                                     "displayName":  "Nicholas Galitzine",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDI0MWFhMDgtOTY0MS00MWRkLTljYmItYTBlNDg3NzI0N2U1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  842,
+                                                          "height":  1054
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000114",
+                                         "name":  "Psychological Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000118",
+                                         "name":  "Teen Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    }
+                ]
+}

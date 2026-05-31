@@ -1,0 +1,244 @@
+﻿{
+    "id":  "tt8826128",
+    "detail":  {
+                   "id":  "tt8826128",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "October Faction",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZTU0Mjc5N2UtZTQwMS00YWU4LThiZmYtMmNlY2YwMjk0MWZmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  426,
+                                        "height":  597
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2020,
+                   "runtimeSeconds":  2340,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.2,
+                                  "voteCount":  13422
+                              },
+                   "plot":  "A semi-retired couple who work for a clandestine monster hunting agency discover dark family secrets and the truth about their employer after their magically inclined nigh adult kids reawaken a witch bent on revenge.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1962311",
+                                         "displayName":  "Director X",
+                                         "alternativeNames":  [
+                                                                  "Julien Christian Lutz pka Director X",
+                                                                  "Lil X",
+                                                                  "Lil\u0027 X",
+                                                                  "Little X",
+                                                                  "J. Lutz",
+                                                                  "Julian Christian Lutz",
+                                                                  "Julien Christian Lutz",
+                                                                  "Mr. X",
+                                                                  "Little X."
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTYxMzI3NDU4M15BMl5BanBnXkFtZTgwNDMzMTc2NTM@._V1_.jpg",
+                                                              "width":  1365,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0001227",
+                                         "displayName":  "Megan Follows",
+                                         "alternativeNames":  [
+                                                                  "Megan Porter Follows",
+                                                                  "Megan Follows Porter"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTM0NTYyNzE4NF5BMl5BanBnXkFtZTcwODc0NzQyOA@@._V1_.jpg",
+                                                              "width":  1669,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0292468",
+                                         "displayName":  "David Frazee",
+                                         "alternativeNames":  [
+                                                                  "Dave Frazee",
+                                                                  "David J Frazee"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0454307",
+                                       "displayName":  "Damian Kindler",
+                                       "alternativeNames":  [
+                                                                "Damien Kindler"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTMwMjE4NzMxMV5BMl5BanBnXkFtZTcwNDAwMjY4NA@@._V1_.jpg",
+                                                            "width":  1600,
+                                                            "height":  1394
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5698260",
+                                       "displayName":  "Keely MacDonald",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0632051",
+                                       "displayName":  "Steve Niles",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0533323",
+                                     "displayName":  "J.C. MacKenzie",
+                                     "alternativeNames":  [
+                                                              "JC MacKenzie",
+                                                              "John C. MacKenzie",
+                                                              "J.C. Mackenzie",
+                                                              "JC Mackenzie"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGZjYzM2NjUtNzdjOC00YTAxLTg0NjgtMWU2MjZjNWU0YjZiXkEyXkFqcGc@._V1_CR1,61,1178,1767_.jpg",
+                                                          "width":  1178,
+                                                          "height":  1767
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0853231",
+                                     "displayName":  "Tamara Taylor",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjAyOWExNjktZTdlYi00ZWI0LWE4ZmItZWNjMDE0MmUyOWM0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1973,
+                                                          "height":  1714
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7523016",
+                                     "displayName":  "Gabriel Darku",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzI4NzU4ZmItOTc1Zi00YWY2LTg0YmUtMTBjN2M5MzA3ZjRhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3000,
+                                                          "height":  2000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9389308",
+                                     "displayName":  "Aurora Dawson-Hunte",
+                                     "alternativeNames":  [
+                                                              "Aurora Burghart",
+                                                              "Aurora Dawson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzZmZDI5OTUtM2VjNC00NzA5LWFhZmItODZjMmMwYmJkODJhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1929,
+                                                          "height":  2514
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000089",
+                                         "name":  "Teen Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000113",
+                                         "name":  "Monster Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  1
+                    }
+                ]
+}

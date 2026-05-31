@@ -1,0 +1,242 @@
+﻿{
+    "id":  "tt0163929",
+    "detail":  {
+                   "id":  "tt0163929",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Blue\u0027s Clues",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYmFjN2RhZmEtNDI5Zi00MWI5LWE0M2QtZDlmYWM0ZTYyZDc5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  440,
+                                        "height":  648
+                                    },
+                   "startYear":  1996,
+                   "endYear":  2007,
+                   "runtimeSeconds":  1500,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Game-Show",
+                                  "Music",
+                                  "Mystery",
+                                  "Talk-Show"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.9,
+                                  "voteCount":  7555
+                              },
+                   "plot":  "Blue is a puppy who puts her paw prints on three clues. Steve or Joe has to deduce the clues (with the help of off-screen children) to figure out what Blue wants to do.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0746549",
+                                         "displayName":  "John Rowe",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1010866",
+                                         "displayName":  "Koyalee Chanda",
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1012541",
+                                         "displayName":  "Alan Zdinak",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "production_department"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0996022",
+                                       "displayName":  "Angela C. Santomero",
+                                       "alternativeNames":  [
+                                                                "Angela Santomero"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0996011",
+                                       "displayName":  "Adam Peltzman",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1383079",
+                                       "displayName":  "Todd Kessler",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0426365",
+                                     "displayName":  "Traci Paige Johnson",
+                                     "alternativeNames":  [
+                                                              "Traci Johnson"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0641404",
+                                     "displayName":  "Michael Rubin",
+                                     "alternativeNames":  [
+                                                              "Seth O\u0027Hickory",
+                                                              "Mike Rubin"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "composer",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0020248",
+                                     "displayName":  "Aleisha Allen",
+                                     "alternativeNames":  [
+                                                              "Aleisha L. Allen",
+                                                              "Aleisha Lanae Allen",
+                                                              "LaNae Allen",
+                                                              "LaNaÃ© Allen",
+                                                              "Lanae Allen",
+                                                              "LeNae Allen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA5MzM1MTE2M15BMl5BanBnXkFtZTYwNjk5MTQz._V1_.jpg",
+                                                          "width":  316,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0122886",
+                                     "displayName":  "Steve Burns",
+                                     "alternativeNames":  [
+                                                              "Steven Burns"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDFkMjA3YTgtYWZlMi00YmU5LTgyMjEtODc4NDYxNmIyMGMwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1236,
+                                                          "height":  1855
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000105",
+                                         "name":  "Game Show"
+                                     },
+                                     {
+                                         "id":  "in0000127",
+                                         "name":  "Talk Show"
+                                     },
+                                     {
+                                         "id":  "in0000130",
+                                         "name":  "Music"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  36
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  33
+                    }
+                ]
+}

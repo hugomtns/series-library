@@ -1,0 +1,271 @@
+﻿{
+    "id":  "tt7736544",
+    "detail":  {
+                   "id":  "tt7736544",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "3Below: Tales of Arcadia",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYTdlM2Y4YjQtMDA0Yy00MjJhLWIyNGQtYjVjNmFmNzI2ZDM5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1013,
+                                        "height":  1500
+                                    },
+                   "startYear":  2018,
+                   "endYear":  2019,
+                   "runtimeSeconds":  1440,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  8424
+                              },
+                   "plot":  "A pair of teenage royals and their bodyguard escape from their home planet and try to blend in on Earth.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm3028578",
+                                         "displayName":  "Johane Matte",
+                                         "alternativeNames":  [
+                                                                  "Johanne Matte"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2112570",
+                                         "displayName":  "Andrew L. Schmidt",
+                                         "alternativeNames":  [
+                                                                  "Andrew Lowell Schmidt",
+                                                                  "Andrew Schmidt",
+                                                                  "Andy L. Schmidt",
+                                                                  "Andy Schmidt",
+                                                                  "Drew Schmidt"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjcyMzU1ZGQtYTI3MS00MGRiLWI2NjItMTlhNjdkZmE4MzAxXkEyXkFqcGc@._V1_CR947,1,3196,4794_.jpg",
+                                                              "width":  3196,
+                                                              "height":  4794
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm4136807",
+                                         "displayName":  "Elaine Bogan",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm6409142",
+                                       "displayName":  "A.C. Bradley",
+                                       "alternativeNames":  [
+                                                                "AC Bradley",
+                                                                "Ashley Bradley"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTE5ZmMzMmMtNzEyNi00OTJmLTg1MWItYWRiYTlmMWY2M2JkXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1080,
+                                                            "height":  1440
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm10508309",
+                                       "displayName":  "Matthew Chauncey",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0868219",
+                                       "displayName":  "Guillermo del Toro",
+                                       "alternativeNames":  [
+                                                                "Guillermo Del Toro",
+                                                                "Guillo Tine Del Toro",
+                                                                "Girerumo Deru Toro"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOTUzNTYwNjE0N15BMl5BanBnXkFtZTcwMjc0ODM1Mw@@._V1_.jpg",
+                                                            "width":  317,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0526019",
+                                     "displayName":  "Diego Luna",
+                                     "alternativeNames":  [
+                                                              "Alexander GarcÃ­a"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTE0MjI2NDczMl5BMl5BanBnXkFtZTcwMTgwMDgyMg@@._V1_.jpg",
+                                                          "width":  276,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1137209",
+                                     "displayName":  "Tatiana Maslany",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzg5NjE4NDgzMl5BMl5BanBnXkFtZTgwNzk5OTQwMjE@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1365
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0644406",
+                                     "displayName":  "Nick Offerman",
+                                     "alternativeNames":  [
+                                                              "Key VigenÃ©re"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYzMjY2ODkxMV5BMl5BanBnXkFtZTgwMjQxMDA5MTE@._V1_.jpg",
+                                                          "width":  1060,
+                                                          "height":  1590
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0919798",
+                                     "displayName":  "Frank Welker",
+                                     "alternativeNames":  [
+                                                              "Jack Beanstalk",
+                                                              "Dr. Frankenwelker",
+                                                              "Frank W. Welker",
+                                                              "Franklin Welker",
+                                                              "Tom Welker"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjM2MzU2ODYxMV5BMl5BanBnXkFtZTgwMzQ3MjcwMjE@._V1_.jpg",
+                                                          "width":  480,
+                                                          "height":  640
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "sound_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "MX",
+                                               "name":  "Mexico"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  1
+                    }
+                ]
+}

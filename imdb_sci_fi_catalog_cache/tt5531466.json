@@ -1,0 +1,237 @@
+﻿{
+    "id":  "tt5531466",
+    "detail":  {
+                   "id":  "tt5531466",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "DuckTales",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNTA2NTc5MzQwNV5BMl5BanBnXkFtZTgwOTY2ODI2MjI@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1500
+                                    },
+                   "startYear":  2017,
+                   "endYear":  2021,
+                   "runtimeSeconds":  1260,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.3,
+                                  "voteCount":  14213
+                              },
+                   "plot":  "The comedy-adventure series chronicles the high-flying adventures of trillionaire Scrooge McDuck; his temperamental nephew Donald Duck; grandnephews Huey, Dewey, and Louie; Launchpad McQuack; and Mrs. Beakley and her granddaughter Webby.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1458912",
+                                         "displayName":  "Matthew Humphreys",
+                                         "alternativeNames":  [
+                                                                  "Matt Humphreys"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm4518722",
+                                         "displayName":  "Tanner Johnson",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm5321619",
+                                         "displayName":  "Jason Zurek",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2620500",
+                                       "displayName":  "Francisco Angones",
+                                       "alternativeNames":  [
+                                                                "Frank Angones"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2758422",
+                                       "displayName":  "Madison Bateman",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5805437",
+                                       "displayName":  "Colleen Evanson",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0855039",
+                                     "displayName":  "David Tennant",
+                                     "alternativeNames":  [
+                                                              "David McDonald",
+                                                              "David John Tennant",
+                                                              "That F#!king Liar David Tennant"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2M2MWViYmUtODQxYi00YmQ0LThkOTMtZGQzZmEwMDE3MTNmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2121,
+                                                          "height":  2121
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2355635",
+                                     "displayName":  "Ben Schwartz",
+                                     "alternativeNames":  [
+                                                              "Ben SCHWARTZ",
+                                                              "Benjamin Schwartz"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjA2ZTI3ZGQtMWYyZi00ZmFjLTg2M2MtMWFjZmNhNDljMjdmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2783,
+                                                          "height":  2525
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2209821",
+                                     "displayName":  "Danny Pudi",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWJmZmFjZDAtYTg3MC00ZjBlLWExZDMtYmVkN2UyNTc3MWYwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4480,
+                                                          "height":  6720
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1293885",
+                                     "displayName":  "Bobby Moynihan",
+                                     "alternativeNames":  [
+                                                              "Bobby Moynihan Jr.",
+                                                              "Eddie Sweet"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjE5NGJmODgtYTRjZi00MzAyLWIzMDktMjhjZDM2Y2EwMjFhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  303,
+                                                          "height":  423
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000016",
+                                         "name":  "Globetrotting Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  22
+                    }
+                ]
+}

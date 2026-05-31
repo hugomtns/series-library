@@ -1,0 +1,273 @@
+﻿{
+    "id":  "tt0108684",
+    "detail":  {
+                   "id":  "tt0108684",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Aaahh!!! Real Monsters",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMGYwZWY4NjUtMWZiZS00ZjExLTgzYTEtNTc5ZjY5NzQ3YjhmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  370,
+                                        "height":  555
+                                    },
+                   "startYear":  1994,
+                   "endYear":  1997,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Horror"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  13432
+                              },
+                   "plot":  "The show takes us through the struggles of life as a child monster. Three monster friends are studying how to scare humans in school. Often, their attempts don\u0027t work out as planned.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0240548",
+                                         "displayName":  "Jim Duffy",
+                                         "alternativeNames":  [
+                                                                  "James Duffy"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0468335",
+                                         "displayName":  "Igor Kovalyov",
+                                         "alternativeNames":  [
+                                                                  "I. Kovalev",
+                                                                  "Igor Kovalev",
+                                                                  "I. Kovalyov"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0841319",
+                                         "displayName":  "Andrei Svislotski",
+                                         "alternativeNames":  [
+                                                                  "Andrei Svislosky",
+                                                                  "A. Svislotskiy",
+                                                                  "Andrey Svislotskiy",
+                                                                  "Andrei Svislotsky"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0300756",
+                                       "displayName":  "Peter Gaffney",
+                                       "alternativeNames":  [
+                                                                "Pete Gaffney"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1019655",
+                                       "displayName":  "Mark Palmer",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0190780",
+                                       "displayName":  "Gabor Csupo",
+                                       "alternativeNames":  [
+                                                                "Gabor \u0027Big Bug\u0027 Csupo",
+                                                                "Gabor the Ghost Csupo",
+                                                                "GÃ¡bor CsupÃ³",
+                                                                "CsupÃ³ GÃ¡bor"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjEyZjAyNGMtYWJiYS00NTc3LTg5ZmMtOTA2MDNjMmUwNzlmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3430,
+                                                            "height":  2603
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0004815",
+                                     "displayName":  "Christine Cavanaugh",
+                                     "alternativeNames":  [
+                                                              "Christine Cavanagh",
+                                                              "C. Cavanaugh",
+                                                              "Chris T. Cavanaugh",
+                                                              "Christina Cavanaugh",
+                                                              "Chris Cavanaugh",
+                                                              "Christie Cavanuagh",
+                                                              "Christy Cavanuagh",
+                                                              "Chris Cavenaugh"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU1MTIwNDc1MV5BMl5BanBnXkFtZTcwMTk0OTEyOA@@._V1_.jpg",
+                                                          "width":  549,
+                                                          "height":  734
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0012121",
+                                     "displayName":  "Charlie Adler",
+                                     "alternativeNames":  [
+                                                              "Charles Adle",
+                                                              "Carl Adler",
+                                                              "Charles Adler",
+                                                              "Charley Adler"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjhmMTE2MWUtZTI5OC00ZDRiLTliMjQtMTJjOWFiMzY1NmIyXkEyXkFqcGc@._V1_CR48,1,899,1349_.jpg",
+                                                          "width":  899,
+                                                          "height":  1349
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "casting_director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0248322",
+                                     "displayName":  "David Eccles",
+                                     "alternativeNames":  [
+                                                              "D. S. Eccles",
+                                                              "D.S. Eccles",
+                                                              "Dave Eccles",
+                                                              "David S. Eccles"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "composer",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0074185",
+                                     "displayName":  "Gregg Berger",
+                                     "alternativeNames":  [
+                                                              "Gregg Barger",
+                                                              "Gregg A. Berger",
+                                                              "Gregg A Berger",
+                                                              "Greg Berger"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWRjYzQwODAtMDkxNi00M2U1LTg0NDktOTEwZGMyZGVlZDg4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1568,
+                                                          "height":  1952
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "jpn",
+                                               "name":  "Japanese"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000113",
+                                         "name":  "Monster Horror",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    }
+                ]
+}

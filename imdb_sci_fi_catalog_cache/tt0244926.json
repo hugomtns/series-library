@@ -1,0 +1,227 @@
+﻿{
+    "id":  "tt0244926",
+    "detail":  {
+                   "id":  "tt0244926",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Rocket Power",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZTdiNGJkYjAtNDBmZS00OWVmLWIwZDUtYjUyMTQ1MDJmYTIyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  370,
+                                        "height":  555
+                                    },
+                   "startYear":  1999,
+                   "endYear":  2004,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Sport"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.9,
+                                  "voteCount":  11441
+                              },
+                   "plot":  "Four friends and their daily lives of playing extreme sports, surfing, and getting into some crazy situations.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0284896",
+                                         "displayName":  "Dave Fontana",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0779307",
+                                         "displayName":  "Jeff Scott",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0119476",
+                                         "displayName":  "Rick Bugental",
+                                         "alternativeNames":  [
+                                                                  "Richard Bugental"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm11897798",
+                                       "displayName":  "Michael Bloom",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0568377",
+                                       "displayName":  "Andrew McElfresh",
+                                       "alternativeNames":  [
+                                                                "Andy McElfresh"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "assistant_director",
+                                                                  "visual_effects",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1219811",
+                                       "displayName":  "David Rosenberg",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "production_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0039229",
+                                     "displayName":  "Joseph Ashton",
+                                     "alternativeNames":  [
+                                                              "Joey Ashton"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA4MTY4MTQ1MV5BMl5BanBnXkFtZTYwNzQ5MTky._V1_.jpg",
+                                                          "width":  400,
+                                                          "height":  267
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0289249",
+                                     "displayName":  "Shayna Fox",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTgxNDI0MTMwOV5BMl5BanBnXkFtZTYwMDc2Njgy._V1_.jpg",
+                                                          "width":  410,
+                                                          "height":  250
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "cinematographer",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0440885",
+                                     "displayName":  "John Kassir",
+                                     "alternativeNames":  [
+                                                              "John E. Kassir",
+                                                              "Johnny Kassir"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGFiNmI4MjAtZGYwYS00ZmI1LWJhNDItYzkyMWQ5ZGNlNDFjXkEyXkFqcGc@._V1_CR62,0,1230,1846_.jpg",
+                                                          "width":  1230,
+                                                          "height":  1846
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0120286",
+                                     "displayName":  "Ray Bumatai",
+                                     "alternativeNames":  [
+                                                              "Ray H. Bumatai"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000170",
+                                         "name":  "Extreme Sport",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000174",
+                                         "name":  "Sport"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  17
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  25
+                    }
+                ]
+}

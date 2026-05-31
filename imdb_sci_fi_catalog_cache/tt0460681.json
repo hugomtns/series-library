@@ -1,0 +1,297 @@
+﻿{
+    "id":  "tt0460681",
+    "detail":  {
+                   "id":  "tt0460681",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Supernatural",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMDFmMGZmMGItNGRjNC00NjVjLWI5ODEtNzhjMTE5MmJhN2FkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  423,
+                                        "height":  616
+                                    },
+                   "startYear":  2005,
+                   "endYear":  2020,
+                   "runtimeSeconds":  2640,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.4,
+                                  "voteCount":  539930
+                              },
+                   "plot":  "Two brothers follow their father\u0027s footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0802033",
+                                         "displayName":  "Robert Singer",
+                                         "alternativeNames":  [
+                                                                  "Bob Singer"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0004223",
+                                         "displayName":  "Philip Sgriccia",
+                                         "alternativeNames":  [
+                                                                  "Philip I. Sgriccia",
+                                                                  "Philip J. Sgriccia",
+                                                                  "Phillip J. Sgriccia",
+                                                                  "Phillip Sgriccia",
+                                                                  "Phil Sgriccia"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOWY5NTY2ZTYtMGY0ZC00NmE2LTg5ZjAtMDgwZDJmMzU1YTU0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  370,
+                                                              "height":  469
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0795288",
+                                         "displayName":  "John F. Showalter",
+                                         "alternativeNames":  [
+                                                                  "John Showalter"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0471392",
+                                       "displayName":  "Eric Kripke",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjEzOTYzNTEzOV5BMl5BanBnXkFtZTcwMDcwNTE4Ng@@._V1_.jpg",
+                                                            "width":  1370,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1877263",
+                                       "displayName":  "Andrew Dabb",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2749064",
+                                       "displayName":  "Robert Berens",
+                                       "alternativeNames":  [
+                                                                "Bob Berens"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMmMzZDE5NTYtZjQzMy00ZjI4LThjODAtNmE1ODg5YmIzYTg0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4692,
+                                                            "height":  3130
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0655585",
+                                     "displayName":  "Jared Padalecki",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA2ODMyMDgxMl5BMl5BanBnXkFtZTcwNjAwMjA3NA@@._V1_.jpg",
+                                                          "width":  1396,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "stunts"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0010075",
+                                     "displayName":  "Jensen Ackles",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzNkYWUxOGUtYTIyNi00ZTkyLThjNzAtMDllZjgyZWYzODlmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1029,
+                                                          "height":  579
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0172557",
+                                     "displayName":  "Misha Collins",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzIzNTE3NzUwMl5BMl5BanBnXkFtZTgwOTI0NjM4NzE@._V1_.jpg",
+                                                          "width":  2000,
+                                                          "height":  1333
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0064769",
+                                     "displayName":  "Jim Beaver",
+                                     "alternativeNames":  [
+                                                              "James Norman Beaver Jr.",
+                                                              "James Beaver",
+                                                              "Richard Muldoon",
+                                                              "John Petlock"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjMxNzk0ODktODkwZC00OTQ3LWEzMzQtYjEyOGJjMDUwMWMyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  751,
+                                                          "height":  1157
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000113",
+                                         "name":  "Monster Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "13",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "14",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "15",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  23
+                    }
+                ]
+}

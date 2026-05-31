@@ -1,0 +1,292 @@
+﻿{
+    "id":  "tt7658402",
+    "detail":  {
+                   "id":  "tt7658402",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Harley Quinn",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYWQyMjQzOGMtY2Y0Yy00NjJkLWE3YjItOGEwODE1MWRlMjVmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  810,
+                                        "height":  1200
+                                    },
+                   "startYear":  2019,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Romance",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.4,
+                                  "voteCount":  43251
+                              },
+                   "plot":  "The series focuses on a single Harley Quinn, who sets off to make it on her own in Gotham City.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2101545",
+                                         "displayName":  "Cecilia Aranovich",
+                                         "alternativeNames":  [
+                                                                  "Cecilia Aranovich Hamilton"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzM5NmZiYTktODQ1OC00MTY2LTkwNDgtODFjMTg1ZTYwMTQ1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3235,
+                                                              "height":  5000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1090137",
+                                         "displayName":  "Juan Jose Meza-Leon",
+                                         "alternativeNames":  [
+                                                                  "Juan Jose Meza \u0027Boom\u0027",
+                                                                  "Jose \u0027Boom\u0027 Leon",
+                                                                  "Juan Jose \"Boom\" Leon",
+                                                                  "Juan Jose M. Leon",
+                                                                  "Juan Meza Leon",
+                                                                  "Juan Leon",
+                                                                  "Juan Jose \u0027Boom\u0027 Meza",
+                                                                  "Juan Meza",
+                                                                  "Juan Meza-Leon",
+                                                                  "Juan Meza-LeÃ³n"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm4288494",
+                                         "displayName":  "Joonki Park",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0227704",
+                                       "displayName":  "Paul Dini",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTgxNjUxNDAyNV5BMl5BanBnXkFtZTcwODQ2NTgwOA@@._V1_.jpg",
+                                                            "width":  1471,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2137880",
+                                       "displayName":  "Justin Halpern",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0520893",
+                                       "displayName":  "Dean Lorey",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZDdlMzljNGMtNjQ0OS00OTJiLWIxYTUtZDUxOWJmZTU5OTdlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  983,
+                                                            "height":  1475
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0192505",
+                                     "displayName":  "Kaley Cuoco",
+                                     "alternativeNames":  [
+                                                              "Kaley Cuoco-Sweeting"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWE3M2JiMGEtZDQ2Yy00ZmE1LTg4NDEtNWYyOTYyMDhkODIwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  6208,
+                                                          "height":  8280
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0876138",
+                                     "displayName":  "Alan Tudyk",
+                                     "alternativeNames":  [
+                                                              "Wray Nerely"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE0MzEwNDUxNV5BMl5BanBnXkFtZTcwNTE1MDAzOQ@@._V1_.jpg",
+                                                          "width":  186,
+                                                          "height":  271
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1128572",
+                                     "displayName":  "Lake Bell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGRiMjk4MGQtNWMyNS00MTMzLTg1M2MtNjFhOWMxM2IyM2ZlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3271,
+                                                          "height":  4500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3236733",
+                                     "displayName":  "Ron Funches",
+                                     "alternativeNames":  [
+                                                              "@RonFunches"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODQ4ZGZjNGQtOTdjNi00ZjgyLTgwMzQtNDA5YTVlN2Y3ZmVmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3356,
+                                                          "height":  4475
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000041",
+                                         "name":  "Raunchy Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  10
+                    }
+                ]
+}

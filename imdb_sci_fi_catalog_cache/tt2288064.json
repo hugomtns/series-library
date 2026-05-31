@@ -1,0 +1,228 @@
+﻿{
+    "id":  "tt2288064",
+    "detail":  {
+                   "id":  "tt2288064",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Witches of East End",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjVmNjQ5YjItZTgxMi00NGQ5LTg4YjEtNjQwOThhYzg4OTZkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  400,
+                                        "height":  604
+                                    },
+                   "startYear":  2013,
+                   "endYear":  2014,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  28740
+                              },
+                   "plot":  "Two sisters, bartender and librarian, discover as adults that they\u0027re witches with magical powers. They, their mom and her sister, all witches, are up against a mortal enemy.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0035106",
+                                         "displayName":  "Allan Arkush",
+                                         "alternativeNames":  [
+                                                                  "Alan Arkush"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYTZkMzY4NzgtYzhmNS00NGQ5LTliM2ItNjUzZjdlMzk1YjNlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1920,
+                                                              "height":  1080
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0606845",
+                                         "displayName":  "Patrick R. Norris",
+                                         "alternativeNames":  [
+                                                                  "Patrick Norris"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZjNjNTZjYzktMzc2MS00NmNmLWJkMzQtYTkzZjIwNzAyNzMyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  810,
+                                                              "height":  540
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "costume_department",
+                                                                    "costume_designer",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0779350",
+                                         "displayName":  "John Scott",
+                                         "alternativeNames":  [
+                                                                  "John S. Scott",
+                                                                  "John Stuart Scott"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BY2U1MWY0ODktZjMzYi00MGYxLTkwMzMtOWUxMTYzOGZkMWVkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1721,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm4306012",
+                                       "displayName":  "Melissa de la Cruz",
+                                       "alternativeNames":  [
+                                                                "Melissa del la Cruz"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1212932",
+                                       "displayName":  "Maggie Friedman",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0583397",
+                                       "displayName":  "Turi Meyer",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYWRmMjNlOGItODkwYi00NTAwLWI1ZjUtODFkNGY5ZjM5NmVjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2448,
+                                                            "height":  3264
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000566",
+                                     "displayName":  "Julia Ormond",
+                                     "alternativeNames":  [
+                                                              "Dzhuliya Ormond"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjEzNTQyODk5Ml5BMl5BanBnXkFtZTcwOTEwOTk0OA@@._V1_.jpg",
+                                                          "width":  1251,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000749",
+                                     "displayName":  "MÃ¤dchen Amick",
+                                     "alternativeNames":  [
+                                                              "Madchen Amick"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzk1ZjU1NGItMDQ2NS00ODU5LWJmZDYtYTRkM2EyOTJhMmY3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1666,
+                                                          "height":  2500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1564087",
+                                     "displayName":  "Jenna Dewan",
+                                     "alternativeNames":  [
+                                                              "Jenna Dewan-Tatum"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUwNTgxNjU1NV5BMl5BanBnXkFtZTgwNjY4OTU2MDI@._V1_.jpg",
+                                                          "width":  1487,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1036340",
+                                     "displayName":  "Rachel Boston",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWM5MTEwMjctMWEzYS00YTFhLWJlMzQtYzkzMjE3MzE0ZDYzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  498,
+                                                          "height":  444
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000121",
+                                         "name":  "Witch Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    }
+                ]
+}

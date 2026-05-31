@@ -1,0 +1,308 @@
+﻿{
+    "id":  "tt0106064",
+    "detail":  {
+                   "id":  "tt0106064",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Mighty Morphin Power Rangers",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYmM5YWIzMDMtYWZkYS00MGFjLThlNDgtN2ZjNDE0ZjA1OWYwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  1993,
+                   "endYear":  1996,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Family",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.6,
+                                  "voteCount":  26372
+                              },
+                   "plot":  "A team of teenagers with attitude are recruited to save Angel Grove from the evil witch, Rita Repulsa, and later, Lord Zedd, Emperor of all he sees, and their horde of monsters.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0935288",
+                                         "displayName":  "Terence H. Winkless",
+                                         "alternativeNames":  [
+                                                                  "Terence Henry",
+                                                                  "Terence Winkless",
+                                                                  "Terry Winkless"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0400480",
+                                         "displayName":  "Robert Hughes",
+                                         "alternativeNames":  [
+                                                                  "Bob Hughes",
+                                                                  "Robert C. Hughes"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0829519",
+                                         "displayName":  "John Stewart",
+                                         "alternativeNames":  [
+                                                                  "John M. Stewart",
+                                                                  "John Michael Stewart"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTIyMDE4NTM0N15BMl5BanBnXkFtZTcwNjY1NTIzMQ@@._V1_.jpg",
+                                                              "width":  300,
+                                                              "height":  365
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "stunts"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0506619",
+                                       "displayName":  "Shuki Levy",
+                                       "alternativeNames":  [
+                                                                "Chuky \u0026 Aviva",
+                                                                "Shuky \u0026 Aviva",
+                                                                "Shuky et Aviva",
+                                                                "Shuki Levi",
+                                                                "Shuki Y. Levy",
+                                                                "Shuky Levy",
+                                                                "Shuki"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BM2M4ODVlOGMtNGQxZi00ODc3LThhNjItMDYxZDQ5MDQxMjUwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  400,
+                                                            "height":  628
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "composer",
+                                                                  "music_department",
+                                                                  "producer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0536805",
+                                       "displayName":  "Haim Saban",
+                                       "alternativeNames":  [
+                                                                "Michael Dax",
+                                                                "Michel Dax",
+                                                                "Kussa Mahchi",
+                                                                "Kussa Manchi",
+                                                                "HaÃ¯m Saban",
+                                                                "Haim Sabin"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "composer",
+                                                                  "music_department",
+                                                                  "producer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0200164",
+                                       "displayName":  "Shell Danielson",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0820689",
+                                       "displayName":  "Stewart St. John",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzM3MjhjOTUtZWMwNS00ZDlkLWJhYmQtZmQ0YjUwMjlkY2NkXkEyXkFqcGc@._V1_CR490,1,3071,4607_.jpg",
+                                                            "width":  3071,
+                                                            "height":  4607
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0949128",
+                                     "displayName":  "David Yost",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDM1MTE0MmEtZWJlZi00NmRlLWIwYmMtOTI1MzViY2QwYzA2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5039,
+                                                          "height":  7206
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "location_management",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0395777",
+                                     "displayName":  "Richard Steven Horvitz",
+                                     "alternativeNames":  [
+                                                              "\u0027Richard Horvitz\u0027",
+                                                              "Rico Bonet",
+                                                              "Richard Horovitz",
+                                                              "Richard Horowitz",
+                                                              "Richard Hortviz",
+                                                              "Richard Horvits",
+                                                              "RIchard Horvitz",
+                                                              "Richard S. Horvitz",
+                                                              "Richard Horvitz",
+                                                              "Rich Horvitz",
+                                                              "Steven Horvitz",
+                                                              "Richard",
+                                                              "Richard Stults",
+                                                              "Richard Wood",
+                                                              "Jake Cole Wyatt"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzM3NjAzMzk5MV5BMl5BanBnXkFtZTgwNzM0Njk1MDE@._V1_.jpg",
+                                                          "width":  3840,
+                                                          "height":  5760
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0641898",
+                                     "displayName":  "Ed Neil",
+                                     "alternativeNames":  [
+                                                              "Ed Neal",
+                                                              "Ed O\u0027Neal"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA0NDI1NTU2N15BMl5BanBnXkFtZTgwMjQ3MDM0MjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "sound_department",
+                                                                "stunts"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0775390",
+                                     "displayName":  "Paul Schrier",
+                                     "alternativeNames":  [
+                                                              "Paul L. Schrier II",
+                                                              "Paul Schrier II"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmRkMzUzYjQtMzUxNi00OGJiLTg1YTAtYjdjNzVhZWE3YmI0XkEyXkFqcGc@._V1_CR191,29,1718,2577_.jpg",
+                                                          "width":  1718,
+                                                          "height":  2577
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           },
+                                           {
+                                               "code":  "ID",
+                                               "name":  "Indonesia"
+                                           },
+                                           {
+                                               "code":  "MX",
+                                               "name":  "Mexico"
+                                           },
+                                           {
+                                               "code":  "CL",
+                                               "name":  "Chile"
+                                           },
+                                           {
+                                               "code":  "NZ",
+                                               "name":  "New Zealand"
+                                           },
+                                           {
+                                               "code":  "MY",
+                                               "name":  "Malaysia"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000006",
+                                         "name":  "Martial Arts",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000023",
+                                         "name":  "Teen Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  61
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  52
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  43
+                    }
+                ]
+}

@@ -1,0 +1,296 @@
+﻿{
+    "id":  "tt0103562",
+    "detail":  {
+                   "id":  "tt0103562",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Taz-Mania",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYTVjNzQ3M2ItMmMwMy00MTRiLTg3NTgtY2M2NzQxMWFjNTkwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1034,
+                                        "height":  1387
+                                    },
+                   "startYear":  1991,
+                   "endYear":  1995,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.7,
+                                  "voteCount":  11383
+                              },
+                   "plot":  "The daily satirical adventures of Looney Tunes star the Tazmanian Devil, along with his extended family, friends, and enemies on the island of Tasmania.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0062773",
+                                         "displayName":  "Keith Baxter",
+                                         "alternativeNames":  [
+                                                                  "G. Keith Baxter"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "music_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0565119",
+                                         "displayName":  "Douglas McCarthy",
+                                         "alternativeNames":  [
+                                                                  "Doug McCarthy"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0732846",
+                                         "displayName":  "Lenord Robinson",
+                                         "alternativeNames":  [
+                                                                  "Lenard Robinson",
+                                                                  "Lenord S. Robinson",
+                                                                  "Leonard Robinson",
+                                                                  "Leonord Robinson"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "miscellaneous"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0062773",
+                                       "displayName":  "Keith Baxter",
+                                       "alternativeNames":  [
+                                                                "G. Keith Baxter"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "art_department",
+                                                                  "music_department"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0319667",
+                                       "displayName":  "Henry Gilroy",
+                                       "alternativeNames":  [
+                                                                "Henry T. Gillroy",
+                                                                "Henry T. Gilroy"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNmIwYTBiODUtMzM2Ny00ZThhLTkyN2EtYTRiMWVhYzlkMjQwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1863,
+                                                            "height":  1907
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0005062",
+                                       "displayName":  "Chuck Jones",
+                                       "alternativeNames":  [
+                                                                "Chuck Jones Esq.",
+                                                                "C. Jones",
+                                                                "Charles M. Jones",
+                                                                "Charles Jones",
+                                                                "Chas. Jones",
+                                                                "M. Charl Jones",
+                                                                "Mister Chuck Jones",
+                                                                "Mister Jones"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjc1ZmNhYjYtZDgxOC00ZjEwLThlZGMtNThjMjcyYjFmMzVjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  750,
+                                                            "height":  990
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1504566",
+                                       "displayName":  "Alan Katz",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0191906",
+                                     "displayName":  "Jim Cummings",
+                                     "alternativeNames":  [
+                                                              "Jim Jonah Cumkings",
+                                                              "Jim Cumming",
+                                                              "J. Jonah Cummings",
+                                                              "James J. Cummings",
+                                                              "James Cummings",
+                                                              "Jim J. Cummings",
+                                                              "Jim Jonah Cummings",
+                                                              "Jimmy Cummings",
+                                                              "Jonah Cummings",
+                                                              "Tim Cummings"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWYyYjg3ODItODAyNC00MWFkLTliOWYtYTNmZDI3M2M4MDEwXkEyXkFqcGc@._V1_CR1190,58,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0283565",
+                                     "displayName":  "Miriam Flynn",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2MzZWRkZDYtNTljYS00ZWFmLTkxYzEtZDM5ZTI0ZDljNTM1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  864,
+                                                          "height":  950
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0667326",
+                                     "displayName":  "Rob Paulsen",
+                                     "alternativeNames":  [
+                                                              "Robert F. Paulsen III",
+                                                              "Robert F. Paulsen",
+                                                              "Robert Paulsen",
+                                                              "Rob Paulsens",
+                                                              "Robb Paulson",
+                                                              "Rob Paulson",
+                                                              "Raphael"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTAzODc1MTk4MzheQTJeQWpwZ15BbWU3MDY4NjU1MDg@._V1_.jpg",
+                                                          "width":  1380,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005606",
+                                     "displayName":  "Maurice LaMarche",
+                                     "alternativeNames":  [
+                                                              "Maurce La Marche",
+                                                              "Maurice La Marche",
+                                                              "Maurice La\u0027Marche",
+                                                              "Maurice \"The Funk of 40000 Voices\" LaMarche",
+                                                              "Maurice LaMarchee",
+                                                              "Maurice LaMarrrrghhh!!",
+                                                              "Maurice LaMarsh",
+                                                              "Maurice Lamarche",
+                                                              "Mo"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2UwY2MxODMtNmZhZi00NzI0LTg5YzMtY2MzZjg0YTZmNjczXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  667,
+                                                          "height":  838
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "sound_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "PH",
+                                               "name":  "Philippines"
+                                           },
+                                           {
+                                               "code":  "NZ",
+                                               "name":  "New Zealand"
+                                           },
+                                           {
+                                               "code":  "TW",
+                                               "name":  "Taiwan (Province of China)"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  65
+                    }
+                ]
+}

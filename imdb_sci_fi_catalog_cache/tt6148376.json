@@ -1,0 +1,293 @@
+﻿{
+    "id":  "tt6148376",
+    "detail":  {
+                   "id":  "tt6148376",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Ben 10",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNGMwM2ZhM2MtMTM2My00MzlmLWFhODUtOTgwNDFmZGEzNzVmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1570,
+                                        "height":  2355
+                                    },
+                   "startYear":  2016,
+                   "endYear":  2021,
+                   "runtimeSeconds":  720,
+                   "genres":  [
+                                  "Animation",
+                                  "Short",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  2.8,
+                                  "voteCount":  7714
+                              },
+                   "plot":  "Ben 10 is the fifth iteration of the Ben 10 franchise. It serves as a reboot of the television series loosely based upon the original series.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1445544",
+                                         "displayName":  "Colin Heck",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm5322327",
+                                         "displayName":  "Byeongsan Park",
+                                         "alternativeNames":  [
+                                                                  "Byeng-San Park",
+                                                                  "Byeong-San Park",
+                                                                  "Byung San Park",
+                                                                  "Byung-San Park",
+                                                                  "Byung-Sun Park",
+                                                                  "Byungsan Park",
+                                                                  "Yeongsan Park"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm7429096",
+                                         "displayName":  "Henrique Jardim",
+                                         "alternativeNames":  [
+                                                                  "Henri Jardim",
+                                                                  "Henry Jardim"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2185413",
+                                       "displayName":  "Man of Action",
+                                       "alternativeNames":  [
+                                                                "Joe Kelly"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3049073",
+                                       "displayName":  "A.J. Marchisello",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4353665",
+                                       "displayName":  "Marcus Rinehart",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0152839",
+                                     "displayName":  "Tara Strong",
+                                     "alternativeNames":  [
+                                                              "Tara Charandoff",
+                                                              "Tara Chardenoff",
+                                                              "Tara Charendoff",
+                                                              "Tara Charendoff-Strong",
+                                                              "Tara Charendorf",
+                                                              "Tara"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDk1MTUxYjQtYzNiMC00NmNhLTlhOTUtZDUzYzU0ZjU5YTcxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3792,
+                                                          "height":  5031
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0443286",
+                                     "displayName":  "David Kaye",
+                                     "alternativeNames":  [
+                                                              "David Kaye Hope",
+                                                              "David Hope",
+                                                              "Dave Kaye",
+                                                              "David Hope/David Kaye",
+                                                              "English version"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDBlN2NiYTEtMWM2MC00MmIyLTk0YWMtNTM1MGE1ZWJlNjEwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1728,
+                                                          "height":  2304
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1886746",
+                                     "displayName":  "Roger Craig Smith",
+                                     "alternativeNames":  [
+                                                              "Bill Lemas",
+                                                              "R.C. Smith",
+                                                              "Roger C. Smith",
+                                                              "Roger Craigh Smith",
+                                                              "Roger Smith"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjUyZjY2ZTQtNGRjMC00MThlLTk1YmEtMDdjNDQ5MjlhNzVmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3840,
+                                                          "height":  5760
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "script_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3262403",
+                                     "displayName":  "Montse Hernandez",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzAyZmQ5NzAtODAwNC00ZDZjLWJlYzQtODBkMWU2ODFkODg4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  700
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "AU",
+                                               "name":  "Australia"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000157",
+                                         "name":  "Alien Invasion",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     },
+                                     {
+                                         "id":  "in0000212",
+                                         "name":  "Short"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  40
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  40
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  52
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  34
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  3
+                    }
+                ]
+}

@@ -1,0 +1,261 @@
+﻿{
+    "id":  "tt4955642",
+    "detail":  {
+                   "id":  "tt4955642",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Good Place",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjI3ZGRhNDYtNDFjOS00OGFlLTg4NTEtYjZjYTViY2ZiMzBkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  675,
+                                        "height":  1000
+                                    },
+                   "startYear":  2016,
+                   "endYear":  2020,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.2,
+                                  "voteCount":  221137
+                              },
+                   "plot":  "Eleanor Shellstrop, a deceased saleswoman who lived a morally corrupt life, finds herself in a heaven-like afterlife in a case of mistaken identity and tries to hide her past in order to stay there.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0390657",
+                                         "displayName":  "Dean Holland",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0565063",
+                                         "displayName":  "Beth McCarthy-Miller",
+                                         "alternativeNames":  [
+                                                                  "Beth McCarthy",
+                                                                  "Beth McCarthy Miler",
+                                                                  "Beth McCarthy Miller"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BY2IwNmNmYWItNDZhNC00OGUwLWJkMjEtOTQwMTRhYzVhZjNhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  898,
+                                                              "height":  1324
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0755254",
+                                         "displayName":  "Morgan Sackett",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1321658",
+                                       "displayName":  "Michael Schur",
+                                       "alternativeNames":  [
+                                                                "Mike Schur"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzQ0NTg2NzU1M15BMl5BanBnXkFtZTgwNDQ1NjE3NTM@._V1_.jpg",
+                                                            "width":  1430,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4182678",
+                                       "displayName":  "Andrew Law",
+                                       "alternativeNames":  [
+                                                                "Andrew",
+                                                                "Andy Law",
+                                                                "M. Andrew Law"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTgxMDMzNTA4MF5BMl5BanBnXkFtZTgwNjc2MzE2OTE@._V1_.jpg",
+                                                            "width":  3000,
+                                                            "height":  2400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1219745",
+                                       "displayName":  "Daniel Schofield",
+                                       "alternativeNames":  [
+                                                                "Dan Schofield"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0068338",
+                                     "displayName":  "Kristen Bell",
+                                     "alternativeNames":  [
+                                                              "Kirsten Bell",
+                                                              "Kristin Bell"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA1Njc0MTUzN15BMl5BanBnXkFtZTgwNTg1MjEwNDI@._V1_.jpg",
+                                                          "width":  1354,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2860379",
+                                     "displayName":  "William Jackson Harper",
+                                     "alternativeNames":  [
+                                                              "William J. Harper"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMThmNjI2ZGYtNjkwNS00NzBiLTk0NjctYmJkNWQ4ZDg2NTU4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5574,
+                                                          "height":  4417
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3553139",
+                                     "displayName":  "Jameela Jamil",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA0NDI4OTEwMl5BMl5BanBnXkFtZTgwNDM4NDg4OTE@._V1_.jpg",
+                                                          "width":  750,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "composer",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3639013",
+                                     "displayName":  "D\u0027Arcy Carden",
+                                     "alternativeNames":  [
+                                                              "Darcy Carden",
+                                                              "D\u0027Arcy Erokan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTNmZmFjYTYtMTI1MC00ZTk3LWI4ZTUtYTczOWE1NDlkNjJhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1013,
+                                                          "height":  1284
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000037",
+                                         "name":  "High-Concept Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000151",
+                                         "name":  "Feel-Good Romance",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    }
+                ]
+}

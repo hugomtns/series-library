@@ -1,0 +1,250 @@
+﻿{
+    "id":  "tt0057773",
+    "detail":  {
+                   "id":  "tt0057773",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Munsters",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTU2NjY3MDIzMV5BMl5BanBnXkFtZTcwNzMzMjYyMQ@@._V1_.jpg",
+                                        "width":  341,
+                                        "height":  475
+                                    },
+                   "startYear":  1964,
+                   "endYear":  1966,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Horror"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  18671
+                              },
+                   "plot":  "A family of friendly monsters have misadventures, never quite understanding why people react to them so strangely.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0831868",
+                                         "displayName":  "Ezra Stone",
+                                         "alternativeNames":  [
+                                                                  "M/Sgt. Ezra Stone"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0008030",
+                                         "displayName":  "Norman Abbott",
+                                         "alternativeNames":  [
+                                                                  "Norman Abbot",
+                                                                  "Norm Abbott"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjhhZDNlMDEtNzU5ZC00MTM5LWIzMTctNzE4MzUzYWU3YTM4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  976,
+                                                              "height":  720
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0678928",
+                                         "displayName":  "Joseph Pevney",
+                                         "alternativeNames":  [
+                                                                  "Joe Pevney"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDM3NjBlYzQtMzFmNi00OTRjLWJhZWEtYTJkNWE0ZTEzMjU0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  280,
+                                                              "height":  367
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0122560",
+                                       "displayName":  "Allan Burns",
+                                       "alternativeNames":  [
+                                                                "Alan Burns",
+                                                                "Al Burns"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0351933",
+                                       "displayName":  "Ed Haas",
+                                       "alternativeNames":  [
+                                                                "Edward Haas"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0371725",
+                                       "displayName":  "Chris Hayward",
+                                       "alternativeNames":  [
+                                                                "Chris Bob Hayward"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001119",
+                                     "displayName":  "Yvonne De Carlo",
+                                     "alternativeNames":  [
+                                                              "Yvonne DeCarlo",
+                                                              "The Munsters",
+                                                              "Yvonne de Carlo",
+                                                              "Yvonne deCarlo"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjNmNzgzNjctMzY0Zi00YTZhLWEzMGQtN2VmMjhhZjEyMzRmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3681,
+                                                          "height":  4961
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001304",
+                                     "displayName":  "Fred Gwynne",
+                                     "alternativeNames":  [
+                                                              "Herman Munster",
+                                                              "The Munsters"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUxODI0OTk3N15BMl5BanBnXkFtZTgwMDE5NjU1MTE@._V1_.jpg",
+                                                          "width":  2100,
+                                                          "height":  2131
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0506891",
+                                     "displayName":  "Al Lewis",
+                                     "alternativeNames":  [
+                                                              "Grandpa Munster Freak",
+                                                              "\u0027Grandpa\u0027 Al Lewis",
+                                                              "Al \u0027Grandpa\u0027 Lewis",
+                                                              "Albert Lewis",
+                                                              "Grandpa Al Lewis",
+                                                              "Grandpa Munster",
+                                                              "The Munsters"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmVlODgyODktNzVlZS00NDU4LWE3MmYtZTcxZDNmMzJhMzlhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1950,
+                                                          "height":  1976
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0665822",
+                                     "displayName":  "Butch Patrick",
+                                     "alternativeNames":  [
+                                                              "Patrick Lilly",
+                                                              "The Munsters",
+                                                              "Butch Patrick-Lilly"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOGYzMmRlMTQtOGQ2NS00NDcyLWFhOWEtNjhiMzUxY2JiMjk2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  797,
+                                                          "height":  1069
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000119",
+                                         "name":  "Vampire Horror",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  39
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  33
+                    }
+                ]
+}

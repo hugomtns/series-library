@@ -1,0 +1,233 @@
+﻿{
+    "id":  "tt13622956",
+    "detail":  {
+                   "id":  "tt13622956",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Zootopia+",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTE0ZTQyZDYtMzc1Zi00NGIwLTg1ZDQtZTc1MWM1NmM1YmYzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2765,
+                                        "height":  4096
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2022,
+                   "runtimeSeconds":  480,
+                   "genres":  [
+                                  "Animation",
+                                  "Short",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Family",
+                                  "Musical",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.8,
+                                  "voteCount":  7300
+                              },
+                   "plot":  "The adventures of the creatures of the most incredible metropolis: Zootopia.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm4383481",
+                                         "displayName":  "Trent Correy",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYmZhODU3OTQtMGI1My00Y2ZlLTk5NWEtNTEwMTBmOTlkYjJkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1390,
+                                                              "height":  1598
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2888684",
+                                         "displayName":  "Josie Trinidad",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "miscellaneous",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm4383481",
+                                       "displayName":  "Trent Correy",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYmZhODU3OTQtMGI1My00Y2ZlLTk5NWEtNTEwMTBmOTlkYjJkXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1390,
+                                                            "height":  1598
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm8824924",
+                                       "displayName":  "Michael Herrera",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzdiMjVkZGQtNDFlNC00Mzc0LTg4NDAtOWY1MzI4NTI1N2VmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3024,
+                                                            "height":  4032
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "art_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0654475",
+                                       "displayName":  "Tom Owens",
+                                       "alternativeNames":  [
+                                                                "J. Tom Owens Jr",
+                                                                "Thom Owens II",
+                                                                "J. Tom Owens Jr.",
+                                                                "J. Tom Owens",
+                                                                "Jr J. Tom Owens",
+                                                                "Thom Owens"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOTQwMDA4Njg0OF5BMl5BanBnXkFtZTcwNzk1MjcxMw@@._V1_.jpg",
+                                                            "width":  1002,
+                                                            "height":  1024
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "art_department",
+                                                                  "director"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1605083",
+                                     "displayName":  "John Lavelle",
+                                     "alternativeNames":  [
+                                                              "John LaVelle"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjg1NTM2NTYtY2UyNS00NzI5LWI1MGEtNDQ5MDgzZTk1ZGIxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1272,
+                                                          "height":  1590
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1705090",
+                                     "displayName":  "Katie Lowes",
+                                     "alternativeNames":  [
+                                                              "Katie"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDAzNzc4MTctMGJlYi00ZjM4LTkwNzAtYzVmYzQ4NTFjNDEyXkEyXkFqcGc@._V1_CR1259,557,1348,2022_.jpg",
+                                                          "width":  1348,
+                                                          "height":  2022
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005129",
+                                     "displayName":  "Joey Lawrence",
+                                     "alternativeNames":  [
+                                                              "Joe Lawrence",
+                                                              "Joseph Lawrence"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGNhN2U5NDMtOTRlOS00ODE2LTg5NGQtY2NhMTVjYmY1NjU2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1170,
+                                                          "height":  1551
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1720134",
+                                     "displayName":  "Angel Parker",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjRlZWY0YzItMzAwZC00OTQ0LWE3Y2YtMzcwMzliYWRjY2FjXkEyXkFqcGc@._V1_CR308,0,909,1364_.jpg",
+                                                          "width":  909,
+                                                          "height":  1364
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000133",
+                                         "name":  "Musical"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000212",
+                                         "name":  "Short"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    }
+                ]
+}

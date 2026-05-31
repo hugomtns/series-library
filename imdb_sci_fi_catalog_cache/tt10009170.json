@@ -1,0 +1,224 @@
+﻿{
+    "id":  "tt10009170",
+    "detail":  {
+                   "id":  "tt10009170",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Blood of Zeus",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjM0ZDcwMTQtZGQxNS00MjBiLTk5ZGUtZGNhOGU1YzdmMWYyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1296,
+                                        "height":  1620
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2025,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  28694
+                              },
+                   "plot":  "A commoner living in ancient Greece, Heron discovers his true heritage as a son of Zeus, and his purpose: to save the world from a demonic army.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0453493",
+                                         "displayName":  "Jae H. Kim",
+                                         "alternativeNames":  [
+                                                                  "Jae Hong Kim",
+                                                                  "Jae Woo Kim",
+                                                                  "Jaehui Kim",
+                                                                  "Jae Kim"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2885631",
+                                         "displayName":  "Shaunt Nigoghossian",
+                                         "alternativeNames":  [
+                                                                  "Shaunt Higoghossian",
+                                                                  "Shaunt Nigoghosian",
+                                                                  "Shant Nigogossian"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm9013039",
+                                         "displayName":  "Joshua Covey",
+                                         "alternativeNames":  [
+                                                                  "Josh Covey"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0663048",
+                                       "displayName":  "Charley Parlapanides",
+                                       "alternativeNames":  [
+                                                                "Charles Parlapanides"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZTViYmYwYmYtNjVjNy00NDNmLTliOGYtNTEwMGE5YzVhYmRiXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  400,
+                                                            "height":  598
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0663050",
+                                       "displayName":  "Vlas Parlapanides",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZDQzNTA0NTUtMTUzZS00MjVkLWExM2UtMzNkMGIwZGFjNDNmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1080,
+                                                            "height":  1440
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2208749",
+                                     "displayName":  "Derek Phillips",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGZiYTA0MmItZjNmNy00NzdhLTg2ZDYtMjZiMzlkMjU3YzFiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1682,
+                                                          "height":  1966
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3725055",
+                                     "displayName":  "Jessica Henwick",
+                                     "alternativeNames":  [
+                                                              "Jessica Yu Li Henwick",
+                                                              "Jessica Yu-Li Henwick"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE3MzU5NDc0Nl5BMl5BanBnXkFtZTgwNDMzNjE1NzE@._V1_.jpg",
+                                                          "width":  1000,
+                                                          "height":  1333
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0160004",
+                                     "displayName":  "Claudia Christian",
+                                     "alternativeNames":  [
+                                                              "Claudia Christain"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjliM2U2MTQtNjRhMi00OGIyLThkM2QtYmRiMDlhZjBiMmI5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3840,
+                                                          "height":  5760
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1340118",
+                                     "displayName":  "Elias Toufexis",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTY4OTU1NDQtYzU4ZS00OTE5LWFkZTktOWMwZDQ4ZDUxOTY3XkEyXkFqcGc@._V1_CR1,0,335,502_.jpg",
+                                                          "width":  335,
+                                                          "height":  502
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    }
+                ]
+}

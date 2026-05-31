@@ -1,0 +1,200 @@
+﻿{
+    "id":  "tt4378456",
+    "detail":  {
+                   "id":  "tt4378456",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Second Chance",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjM5ODE5Njc0Nl5BMl5BanBnXkFtZTgwNDczMTg1NzE@._V1_.jpg",
+                                        "width":  691,
+                                        "height":  1024
+                                    },
+                   "startYear":  2016,
+                   "endYear":  2016,
+                   "runtimeSeconds":  2520,
+                   "genres":  [
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  13086
+                              },
+                   "plot":  "A billionaire bio-engineer brings a dead police officer back to life.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0877427",
+                                         "displayName":  "Brad Turner",
+                                         "alternativeNames":  [
+                                                                  "Bradford Turner"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNmJlMDVlZGUtOTMzMy00ZjIwLWI3YmItZjU1OTkwYWI2ZWNjXkEyXkFqcGc@._V1_CR497,0,2015,3023_.jpg",
+                                                              "width":  2015,
+                                                              "height":  3023
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0027413",
+                                         "displayName":  "Sarah Pia Anderson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjIwYmZlZjYtNWZkNy00ZGI1LTk1Y2YtYzUxYmI5YzEwN2Y2XkEyXkFqcGc@._V1_CR129,1,2058,3087_.jpg",
+                                                              "width":  2058,
+                                                              "height":  3087
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0124079",
+                                         "displayName":  "Timothy Busfield",
+                                         "alternativeNames":  [
+                                                                  "Tim Busfield"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BY2JiZWY2ZWUtMzZjYS00NzAxLWEyZDYtMGIyODdhYzVjZDM3XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1280,
+                                                              "height":  853
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0712444",
+                                       "displayName":  "Rand Ravich",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0368818",
+                                       "displayName":  "Richard Hatem",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjAwOTQ5MjczN15BMl5BanBnXkFtZTcwMTM1ODgzMQ@@._V1_.jpg",
+                                                            "width":  389,
+                                                            "height":  553
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3787723",
+                                       "displayName":  "Allison Miller",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2059117",
+                                     "displayName":  "Robert Kazinsky",
+                                     "alternativeNames":  [
+                                                              "Rob Kazinsky",
+                                                              "Rob Kazsinky"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA2NDM1MDY0Ml5BMl5BanBnXkFtZTgwMTc3Mzc1NzM@._V1_.jpg",
+                                                          "width":  1536,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2115111",
+                                     "displayName":  "Dilshad Vadsaria",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjEyNzkyMDM5N15BMl5BanBnXkFtZTgwNjIzMjY3NzE@._V1_.jpg",
+                                                          "width":  399,
+                                                          "height":  600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2290876",
+                                     "displayName":  "Adhir Kalyan",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjc1YTYwY2QtODg5MC00ZWE3LThmOTItYzAxMTBiZGVjY2IxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2077,
+                                                          "height":  2774
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2731980",
+                                     "displayName":  "Ciara Bravo",
+                                     "alternativeNames":  [
+                                                              "Ciara Quinn Bravo"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2UxYzRhMjAtOTI4Ni00NTUyLWE2MDctM2Y5MjE0OWQxYmE5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4480,
+                                                          "height":  6720
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  11
+                    }
+                ]
+}

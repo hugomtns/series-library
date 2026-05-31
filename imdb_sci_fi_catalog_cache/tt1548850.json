@@ -1,0 +1,238 @@
+﻿{
+    "id":  "tt1548850",
+    "detail":  {
+                   "id":  "tt1548850",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Misfits",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYjJjYjE2MTMtOGE5OS00YWVlLTk4NzktOTRjNjcyZjYxZTkxXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1280,
+                                        "height":  1882
+                                    },
+                   "startYear":  2009,
+                   "endYear":  2013,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Romance",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  112939
+                              },
+                   "plot":  "A group of young offenders doing community service gets struck by lightning during a storm and start to develop superpowers.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm3407375",
+                                         "displayName":  "Tom Green",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1743387",
+                                         "displayName":  "Jonathan van Tulleken",
+                                         "alternativeNames":  [
+                                                                  "JVT",
+                                                                  "Jonathan Van Tulleken",
+                                                                  "Jonathan Van Tulleker",
+                                                                  "J. van Tulleken"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMmFlYzJkMDItYzhkOS00NDUyLTg4NGYtY2QyZmUxZDk1YjE5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2391,
+                                                              "height":  1597
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2197777",
+                                         "displayName":  "Tom Harper",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODI3NjM4YTQtNTAxMS00MTg5LTkzODktZGJhNDU4ZDdlZmYwXkEyXkFqcGc@._V1_PT8.0_CR1235,555,1925,2888_.jpg",
+                                                              "width":  1925,
+                                                              "height":  2888
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1882744",
+                                       "displayName":  "Howard Overman",
+                                       "primaryProfessions":  [
+                                                                  "executive",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2163353",
+                                       "displayName":  "Jon Brown",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3693580",
+                                       "displayName":  "Mike O\u0027Leary",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOWJlMWQ4ZDMtZjU5Yi00MTA0LTk1MGItM2E3ZTVmYjRkYzc3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4032,
+                                                            "height":  2688
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2282610",
+                                     "displayName":  "Lauren Socha",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQxNTM1MjQ1M15BMl5BanBnXkFtZTcwOTEyNDgxNw@@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2805533",
+                                     "displayName":  "Nathan Stewart-Jarrett",
+                                     "alternativeNames":  [
+                                                              "Nathan Stewart Jarrett"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmY4MTQ1MDYtMjMzOS00OTY4LWE4OWItNzc3YjdlZDAwN2NlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3812,
+                                                          "height":  3812
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0318543",
+                                     "displayName":  "Joe Gilgun",
+                                     "alternativeNames":  [
+                                                              "Joseph Gilgun"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjE0OTM4ODIxNF5BMl5BanBnXkFtZTcwMTQ4MDYxNw@@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1365
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3701064",
+                                     "displayName":  "Iwan Rheon",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjIxNjI3NDkwNV5BMl5BanBnXkFtZTcwMDY2NTIwNw@@._V1_.jpg",
+                                                          "width":  1419,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000089",
+                                         "name":  "Teen Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  7
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  8
+                    }
+                ]
+}

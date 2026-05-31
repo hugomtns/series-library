@@ -1,0 +1,274 @@
+﻿{
+    "id":  "tt5580664",
+    "detail":  {
+                   "id":  "tt5580664",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Voltron: Legendary Defender",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjA2MzMzNTg5NV5BMl5BanBnXkFtZTgwMzAzOTc4ODE@._V1_.jpg",
+                                        "width":  677,
+                                        "height":  1000
+                                    },
+                   "startYear":  2016,
+                   "endYear":  2018,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8,
+                                  "voteCount":  10873
+                              },
+                   "plot":  "Five teenagers become the last line of defense for the galaxy in an intergalactic battle against the evil alien force led by King Zarkon.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm5451309",
+                                         "displayName":  "Eugene Lee",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3429848",
+                                         "displayName":  "Steve Ahn",
+                                         "alternativeNames":  [
+                                                                  "Steve In Chang Ahn"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3413990",
+                                         "displayName":  "Chris Palmer",
+                                         "alternativeNames":  [
+                                                                  "Christopher Palmer"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm6409141",
+                                       "displayName":  "Mark Bemesderfer",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3756748",
+                                       "displayName":  "Erik Bogh",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "production_department",
+                                                                  "script_department"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2352830",
+                                       "displayName":  "May Chan",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTYxNzA5NDkyNl5BMl5BanBnXkFtZTgwNzczNzk3NDM@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1325
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "editorial_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1660179",
+                                     "displayName":  "Jeremy Shada",
+                                     "alternativeNames":  [
+                                                              "Jaden Shada"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzk1YjliNGYtMjM4NC00M2FjLWI2YjktMjMxMjU4M2Q1Y2U1XkEyXkFqcGc@._V1_CR1522,533,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4545813",
+                                     "displayName":  "Bex Taylor-Klaus",
+                                     "alternativeNames":  [
+                                                              "Bex Taylor Klaus",
+                                                              "Bex Taylor"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDQ0ZDFlNDAtYzA4ZC00MDU2LWFmOTktNmEwODg3YzAxOTExXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2848,
+                                                          "height":  4288
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0479527",
+                                     "displayName":  "Tyler Labine",
+                                     "alternativeNames":  [
+                                                              "Tyler Sean Labine"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjFjODQ2OWQtZTI1YS00NGUxLWEwYjctM2IzNjYzYmZjMmUxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  890,
+                                                          "height":  1313
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1456471",
+                                     "displayName":  "Kimberly Brooks",
+                                     "alternativeNames":  [
+                                                              "Kimber-Me Shiver Brooks",
+                                                              "Kimberly D. Brooks",
+                                                              "Kimberly D Brooks",
+                                                              "Kim Brooks",
+                                                              "Elise Gabriel",
+                                                              "Laylo Incognegro"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQwNjk3Mzk2MV5BMl5BanBnXkFtZTcwNjQ5ODg2Nw@@._V1_.jpg",
+                                                          "width":  427,
+                                                          "height":  627
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "ita",
+                                               "name":  "Italian"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000204",
+                                         "name":  "Mecha",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000206",
+                                         "name":  "ShÅnen",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  7
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  7
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  13
+                    }
+                ]
+}

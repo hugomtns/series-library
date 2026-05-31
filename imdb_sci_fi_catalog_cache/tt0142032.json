@@ -1,0 +1,208 @@
+﻿{
+    "id":  "tt0142032",
+    "detail":  {
+                   "id":  "tt0142032",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Dune",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNDdjMTliNGQtYzU2OC00NDU3LTgxMjUtYzcyOTcxMGExZDdmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  838,
+                                        "height":  1257
+                                    },
+                   "startYear":  2000,
+                   "endYear":  2000,
+                   "runtimeSeconds":  15900,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.9,
+                                  "voteCount":  25567
+                              },
+                   "plot":  "A three-part miniseries on politics, betrayal, lust, greed and the coming of a Messiah. Based on Frank Herbert\u0027s classic science fiction novel.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0365666",
+                                         "displayName":  "John Harrison",
+                                         "alternativeNames":  [
+                                                                  "John S. Harrison Jr.",
+                                                                  "John S. Harrison",
+                                                                  "John Sutherland"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjQyMTMyMjI1OV5BMl5BanBnXkFtZTgwNzQxNjI3NzE@._V1_.jpg",
+                                                              "width":  2159,
+                                                              "height":  2260
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0365666",
+                                       "displayName":  "John Harrison",
+                                       "alternativeNames":  [
+                                                                "John S. Harrison Jr.",
+                                                                "John S. Harrison",
+                                                                "John Sutherland"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjQyMTMyMjI1OV5BMl5BanBnXkFtZTgwNzQxNjI3NzE@._V1_.jpg",
+                                                            "width":  2159,
+                                                            "height":  2260
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0378541",
+                                       "displayName":  "Frank Herbert",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTI5MzkzMDctZmJjMC00NTNiLWE4NzQtODViYWMyNzQxNDJmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  800,
+                                                            "height":  1142
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000458",
+                                     "displayName":  "William Hurt",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjEyNzA5MTUxN15BMl5BanBnXkFtZTcwMTU3ODQ3MQ@@._V1_.jpg",
+                                                          "width":  276,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0627995",
+                                     "displayName":  "Alec Newman",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmFlZjIzYWQtMDllYy00ZTk1LWIyZWMtODU4YWE0NDhjNmUzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  744,
+                                                          "height":  897
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0316284",
+                                     "displayName":  "Giancarlo Giannini",
+                                     "alternativeNames":  [
+                                                              "Gian Carlo Giannini",
+                                                              "John Charlie Johns"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTIxMTMxNTMxNV5BMl5BanBnXkFtZTcwOTY5Mzc1MQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  677
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0643805",
+                                     "displayName":  "Uwe Ochsenknecht",
+                                     "alternativeNames":  [
+                                                              "Ochsenknecht",
+                                                              "Uwe Oxenknecht"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzg2YTM1MGQtYmUxNS00YTdkLTllMmMtNzJhMjVkODdlMGMxXkEyXkFqcGc@._V1_CR192,98,1067,1600_.jpg",
+                                                          "width":  1067,
+                                                          "height":  1600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "DE",
+                                               "name":  "Germany"
+                                           },
+                                           {
+                                               "code":  "CZ",
+                                               "name":  "Czechia"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "ita",
+                                               "name":  "Italian"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000013",
+                                         "name":  "Desert Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  3
+                    }
+                ]
+}

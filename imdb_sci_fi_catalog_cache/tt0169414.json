@@ -1,0 +1,354 @@
+﻿{
+    "id":  "tt0169414",
+    "detail":  {
+                   "id":  "tt0169414",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Arthur",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjkxOGNlZmItODk4ZC00NjJhLWE4YTAtOWE4MjlhZTY0ZjJmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1440
+                                    },
+                   "startYear":  1996,
+                   "endYear":  2022,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  17722
+                              },
+                   "plot":  "Based on the books by Marc Brown, these are the adventures of Arthur, an 8-year-old aardvark, and his family and friends as they grow up and learn how to be good neighbors to one another.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0047278",
+                                         "displayName":  "Greg Bailey",
+                                         "alternativeNames":  [
+                                                                  "Greg J. Bailey"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1636494",
+                                         "displayName":  "Geoff Adams",
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0114171",
+                                       "displayName":  "Marc Brown",
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0386535",
+                                       "displayName":  "Peter K. Hirsch",
+                                       "alternativeNames":  [
+                                                                "Peter Hirsch"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0266423",
+                                       "displayName":  "Joe Fallon",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0110518",
+                                     "displayName":  "Daniel Brochu",
+                                     "alternativeNames":  [
+                                                              "Daniel C. Brochu",
+                                                              "Daniel K. Brochu",
+                                                              "Danny Brochu",
+                                                              "Conway Bruce"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUwMDQ3Njg2OV5BMl5BanBnXkFtZTgwODc5MzEzMjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0720418",
+                                     "displayName":  "Jodie Resther",
+                                     "alternativeNames":  [
+                                                              "Jodie Lynn Resther"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTAwNGZhYzItMGYwMS00ZGVmLWFkMGEtYzRmYmNkZTYyNDI2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  270,
+                                                          "height":  360
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0877599",
+                                     "displayName":  "J.T. Turner",
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0227831",
+                                     "displayName":  "Bruce Dinsmore",
+                                     "alternativeNames":  [
+                                                              "Bruce Smithee"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc2OTA2NTMzMF5BMl5BanBnXkFtZTcwNzQ4NDA3MQ@@._V1_CR248,183,1906,2860_.jpg",
+                                                          "width":  1906,
+                                                          "height":  2860
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "HK",
+                                               "name":  "Hong Kong (Special Administrative Region of China)"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "FR",
+                                               "name":  "France"
+                                           },
+                                           {
+                                               "code":  "AU",
+                                               "name":  "Australia"
+                                           },
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "IL",
+                                               "name":  "Israel"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000073",
+                                         "name":  "Coming-of-Age",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000133",
+                                         "name":  "Musical"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "13",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "14",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "15",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "16",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "17",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "18",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "19",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "20",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "21",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "22",
+                        "episodeCount":  5
+                    },
+                    {
+                        "season":  "23",
+                        "episodeCount":  4
+                    },
+                    {
+                        "season":  "24",
+                        "episodeCount":  3
+                    },
+                    {
+                        "season":  "25",
+                        "episodeCount":  4
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  10
+                    }
+                ]
+}

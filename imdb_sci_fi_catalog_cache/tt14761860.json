@@ -1,0 +1,215 @@
+﻿{
+    "id":  "tt14761860",
+    "detail":  {
+                   "id":  "tt14761860",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Big Door Prize",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZjY3ZGQxYzUtOTU5Zi00YzViLWIxYTItOGJiNmNhNDA2YmVjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2023,
+                   "endYear":  2024,
+                   "runtimeSeconds":  5880,
+                   "genres":  [
+                                  "Comedy",
+                                  "Drama",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.5,
+                                  "voteCount":  9475
+                              },
+                   "plot":  "About the residents of a small town called Deerfield, who one day discover a magical, destiny-predicting machine in their grocery store.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0523276",
+                                         "displayName":  "Declan Lowney",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjY0MTdkZWUtYzliZi00NzgxLTk1MzctMmUyM2JiOGI5ZTEyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2821,
+                                                              "height":  3690
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm5342427",
+                                         "displayName":  "Todd Biermann",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZmQwMTE1NmUtNDcwZS00YjZmLWIzYWMtMzg2ZTI4OWQwYmNhXkEyXkFqcGc@._V1_CR431,33,1757,2635_.jpg",
+                                                              "width":  1757,
+                                                              "height":  2635
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2534923",
+                                         "displayName":  "JenÃ©e LaMarque",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZjE3YWQwNDMtNzNmNS00MmIwLWE3ZjItMmRlNDAyNjI3ZmUyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3240,
+                                                              "height":  4399
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2346627",
+                                       "displayName":  "Mason Hsieh",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm9239740",
+                                       "displayName":  "Olive Jane Lorraine",
+                                       "alternativeNames":  [
+                                                                "Olive Lorraine",
+                                                                "Olive McGowen"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjkxNTlkODAtODFlMC00MGE0LWJiNmQtNjkzMzY5NDg2YzY1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  800,
+                                                            "height":  1000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm7923432",
+                                       "displayName":  "Dian Qi",
+                                       "primaryProfessions":  [
+                                                                  "make_up_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1483369",
+                                     "displayName":  "Chris O\u0027Dowd",
+                                     "alternativeNames":  [
+                                                              "Christopher O\u0027Dowd"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ4MTQwNzk5NF5BMl5BanBnXkFtZTgwOTgzMDEwMTE@._V1_.jpg",
+                                                          "width":  1362,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1827488",
+                                     "displayName":  "Gabrielle Dennis",
+                                     "alternativeNames":  [
+                                                              "Gabrielle\u0027 Dennis"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUzNDUyMTc0M15BMl5BanBnXkFtZTgwMTEzNDY3NzE@._V1_.jpg",
+                                                          "width":  1462,
+                                                          "height":  1950
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm11086603",
+                                     "displayName":  "Djouliet Amara",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODU5MjMzNGMtNjdkNy00MDAyLWE5YWUtNzhkOWZiMmJhZWYyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1423,
+                                                          "height":  1170
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm12253311",
+                                     "displayName":  "Sammy Fourlas",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTE0MWM0M2ItMGM2My00ZjAzLWFjMGMtODc3NDE0ZjJjMzc5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  720,
+                                                          "height":  720
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000037",
+                                         "name":  "High-Concept Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    }
+                ]
+}

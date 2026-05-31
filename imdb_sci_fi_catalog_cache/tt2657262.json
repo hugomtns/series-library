@@ -1,0 +1,201 @@
+﻿{
+    "id":  "tt2657262",
+    "detail":  {
+                   "id":  "tt2657262",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Star-Crossed",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTQ2NjA0OTI2OF5BMl5BanBnXkFtZTgwNDMyNzEyMTE@._V1_.jpg",
+                                        "width":  528,
+                                        "height":  755
+                                    },
+                   "startYear":  2014,
+                   "endYear":  2014,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Romance",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.1,
+                                  "voteCount":  18593
+                              },
+                   "plot":  "About an epic romance between a human girl and an alien boy when he and others of his kind are integrated into a suburban high school 10 years after they landed on Earth and were consigned to an internment camp.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0001219",
+                                         "displayName":  "Gary Fleder",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDNhZGY4ZGYtMTRjOS00ZTI1LWI1OTgtMDBjMTlmNjJjN2Q4XkEyXkFqcGc@._V1_CR2463,1,2328,3492_.jpg",
+                                                              "width":  2328,
+                                                              "height":  3492
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0650304",
+                                         "displayName":  "Edward Ornelas",
+                                         "alternativeNames":  [
+                                                                  "Ed Ornelas"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYWE2NGZiYjEtY2ZkZi00Nzk5LWIxM2QtYjI1NTA0N2Y4NTliXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3520,
+                                                              "height":  1980
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0118665",
+                                         "displayName":  "Norman Buckley",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BN2RkZmI2MTEtNjVjZS00YTVmLTk5ODQtZjEwZWY4NDg4YmRiXkEyXkFqcGc@._V1_CR295,22,603,904_.jpg",
+                                                              "width":  603,
+                                                              "height":  904
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2901688",
+                                       "displayName":  "Meredith Averill",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4732141",
+                                       "displayName":  "Jay Faerber",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDdiZmIxZGQtMzgxMC00Njc0LTkxN2ItYTgyYWI3NTZlYjlhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1889,
+                                                            "height":  2279
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3696673",
+                                       "displayName":  "Marc Halsey",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1631435",
+                                     "displayName":  "Aimee Teegarden",
+                                     "alternativeNames":  [
+                                                              "AimeÃ© Teegarden",
+                                                              "Amy Teergarden"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjAyYzgyOWEtMTViNS00NzFjLWE4MmUtYzVkYzRmMmM5MGY5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1366,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1782667",
+                                     "displayName":  "Matt Lanter",
+                                     "alternativeNames":  [
+                                                              "Matthew Lanter"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODc1MzU3NDI2NV5BMl5BanBnXkFtZTgwNzI2NjY5MjI@._V1_.jpg",
+                                                          "width":  1431,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3012064",
+                                     "displayName":  "Grey Damon",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzEzNjAzODc3Nl5BMl5BanBnXkFtZTcwMzY4ODMxNw@@._V1_.jpg",
+                                                          "width":  1381,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2583626",
+                                     "displayName":  "Greg Finley",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmE2OWQ2ZjctOTg0Ny00YmE2LTg0NTktZmRmNmI2MTVjNzhkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2000,
+                                                          "height":  1334
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

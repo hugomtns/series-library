@@ -1,0 +1,265 @@
+﻿{
+    "id":  "tt0081933",
+    "detail":  {
+                   "id":  "tt0081933",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Smurfs",
+                   "originalTitle":  "Smurfs",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNTA3MTExZTQtYWQwOS00M2ZjLTg2NTAtN2FiZDU1ZDdlOGJkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1280,
+                                        "height":  1882
+                                    },
+                   "startYear":  1981,
+                   "endYear":  1989,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  23566
+                              },
+                   "plot":  "The Smurfs are tiny blue creatures that live in mushroom houses in a peaceful forest. They repeatedly try to outwit Gargamel, an evil sorcerer, his apprentice, Scruple, and his mangy cat, Azrael.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0666362",
+                                         "displayName":  "Ray Patterson",
+                                         "alternativeNames":  [
+                                                                  "Grant-Ray",
+                                                                  "Raymond Patterson"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0881662",
+                                         "displayName":  "Carl Urbano",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0952712",
+                                         "displayName":  "Rudy Zamora",
+                                         "alternativeNames":  [
+                                                                  "Rudi Zamora",
+                                                                  "Rudolfo Zamora"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0678963",
+                                       "displayName":  "Peyo",
+                                       "alternativeNames":  [
+                                                                "Peyo Culliford",
+                                                                "Pierre Culliford"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BODZmMDZhNTktNzY5YS00MWJhLThlNDEtNjFiOTAzODZkNDkyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1000,
+                                                            "height":  758
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "editor",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0217808",
+                                       "displayName":  "Yvan Delporte",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "music_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0131698",
+                                       "displayName":  "Patsy Cameron",
+                                       "alternativeNames":  [
+                                                                "Patsi Anasti",
+                                                                "Patsy-Cameron Anasti",
+                                                                "Patsy Anasti",
+                                                                "Patsy Cameron-Anasti"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0088520",
+                                     "displayName":  "Lucille Bliss",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg3NDg0ODU4M15BMl5BanBnXkFtZTcwMzUyMDMyOA@@._V1_.jpg",
+                                                          "width":  914,
+                                                          "height":  1255
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0582106",
+                                     "displayName":  "Don Messick",
+                                     "alternativeNames":  [
+                                                              "Donald Messick",
+                                                              "Mr Don Messick"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0325761",
+                                     "displayName":  "Danny Goldman",
+                                     "alternativeNames":  [
+                                                              "Danny Goldman \u0026 Associates"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTI2NDY5NGMtOTRiMy00MDY2LThiNDMtODlmYjMwZTg3ZDc4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  834,
+                                                          "height":  1047
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "casting_department",
+                                                                "casting_director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0068407",
+                                     "displayName":  "Michael Bell",
+                                     "alternativeNames":  [
+                                                              "Pryce Ballard",
+                                                              "Pryde Ballard",
+                                                              "Mike Bell",
+                                                              "Michael \u0026 Marcia"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM2MDExNjI5NV5BMl5BanBnXkFtZTcwMTc5Mzk5Nw@@._V1_.jpg",
+                                                          "width":  488,
+                                                          "height":  724
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "BE",
+                                               "name":  "Belgium"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  28
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  36
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  32
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  36
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  36
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  4
+                    }
+                ]
+}

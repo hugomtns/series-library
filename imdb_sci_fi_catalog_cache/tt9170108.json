@@ -1,0 +1,207 @@
+﻿{
+    "id":  "tt9170108",
+    "detail":  {
+                   "id":  "tt9170108",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Raised by Wolves",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOGYxMWM2MDUtODdkYS00ODQzLTg5NGYtZjkzNDFkNWE0ZmQxXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2020,
+                                        "height":  2998
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2022,
+                   "runtimeSeconds":  3300,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  92941
+                              },
+                   "plot":  "Androids are tasked with raising human children on a mysterious planet.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1492750",
+                                         "displayName":  "Alex Gabassi",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMWIzMWE1OGEtZjQ5OC00OTEzLWIyYTktMmIzNTFiNzdiZWIxXkEyXkFqcGc@._V1_CR715,519,1605,2408_.jpg",
+                                                              "width":  1605,
+                                                              "height":  2408
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0779524",
+                                         "displayName":  "Luke Scott",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTcwNjIzNTU5MF5BMl5BanBnXkFtZTgwNTc4OTY5OTE@._V1_.jpg",
+                                                              "width":  2700,
+                                                              "height":  1800
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0590790",
+                                         "displayName":  "Sergio Mimica-Gezzan",
+                                         "alternativeNames":  [
+                                                                  "Sergio Mimica Gezzan",
+                                                                  "Serdjo Mimica",
+                                                                  "Sergio Mimica",
+                                                                  "Srdjan Mimica"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3360706",
+                                       "displayName":  "Aaron Guzikowski",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4163154",
+                                       "displayName":  "Caitlin Saunders",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2197624",
+                                       "displayName":  "Karen Campbell",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm4518657",
+                                     "displayName":  "Amanda Collin",
+                                     "alternativeNames":  [
+                                                              "Amanda Bjerre-Petersen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzczNjg3ZGEtZWNkMi00ODY5LTg0MmItMDNiMmY4OWE3ZWNlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5349813",
+                                     "displayName":  "Abubakar Salim",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTZjZjU3OWYtZGMzNC00ZDliLWJjMWQtMzZkZTg2Njk4OGE5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  6735,
+                                                          "height":  4490
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5627954",
+                                     "displayName":  "Winta McGrath",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzJmNGVhOGUtZjY5ZC00ZDM4LWE2MTMtNWI4YzBmMWE3N2IwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  960,
+                                                          "height":  1277
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1379938",
+                                     "displayName":  "Travis Fimmel",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzMzNTcwMTkxN15BMl5BanBnXkFtZTgwMTgwMDE1MzI@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    }
+                ]
+}

@@ -1,0 +1,270 @@
+﻿{
+    "id":  "tt2191671",
+    "detail":  {
+                   "id":  "tt2191671",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Elementary",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNTdmOTQ5YjUtYTBkMS00YzhmLTg4ZGEtZTc5MzYxNzI5MThhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  2012,
+                   "endYear":  2019,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  126885
+                              },
+                   "plot":  "A crime-solving duo that cracks the NYPD\u0027s most impossible cases. Following his fall from grace in London, eccentric Sherlock escapes to New York where his father forces him to live with his worst nightmare--a sober companion, Dr. Watson.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0272704",
+                                         "displayName":  "Guy Ferland",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1734368",
+                                         "displayName":  "Christine Moore",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTEwMTk2YTctNjE1MC00OGZjLTllMGEtMmRkNzJhMjk3OGRlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1170,
+                                                              "height":  1314
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0689852",
+                                         "displayName":  "John Polson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjYxYzhjYzAtOGUyNy00MTdjLTgzNDYtNjQ3MGQxMjFkZWVhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  5504,
+                                                              "height":  8256
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1201266",
+                                       "displayName":  "Robert Doherty",
+                                       "alternativeNames":  [
+                                                                "Robert J. Doherty",
+                                                                "Rob Doherty"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4820042",
+                                       "displayName":  "Jeffrey Paul King",
+                                       "alternativeNames":  [
+                                                                "Jeffrey King"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0923886",
+                                       "displayName":  "Kelly Wheeler",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001538",
+                                     "displayName":  "Jonny Lee Miller",
+                                     "alternativeNames":  [
+                                                              "Jonny Lee-Miller"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjIyMjc0NTA2M15BMl5BanBnXkFtZTcwMTA4MzQ2OQ@@._V1_.jpg",
+                                                          "width":  469,
+                                                          "height":  626
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005154",
+                                     "displayName":  "Lucy Liu",
+                                     "alternativeNames":  [
+                                                              "Lucy Alexis Liu",
+                                                              "Lucy Lui"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzhjODMxZWYtODA3NS00Yzk2LTg5NjgtMmE5YzI4M2UxNzJlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2550,
+                                                          "height":  3300
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001644",
+                                     "displayName":  "Aidan Quinn",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYwNTI3NzI5OV5BMl5BanBnXkFtZTcwMDE1NTk0NA@@._V1_.jpg",
+                                                          "width":  1435,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3586347",
+                                     "displayName":  "Jon Michael Hill",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODc4MThiZTgtMjFiNC00ZGYwLTg3OGEtMWRlN2Q2Zjg2YTFiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  542,
+                                                          "height":  813
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "zho",
+                                               "name":  "Chinese"
+                                           },
+                                           {
+                                               "code":  "rus",
+                                               "name":  "Russian"
+                                           },
+                                           {
+                                               "code":  "pus",
+                                               "name":  "Pushto"
+                                           },
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           },
+                                           {
+                                               "code":  "ces",
+                                               "name":  "Czech"
+                                           },
+                                           {
+                                               "code":  "deu",
+                                               "name":  "German"
+                                           },
+                                           {
+                                               "code":  "fil",
+                                               "name":  "Filipino"
+                                           },
+                                           {
+                                               "code":  "ita",
+                                               "name":  "Italian"
+                                           },
+                                           {
+                                               "code":  "jpn",
+                                               "name":  "Japanese"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000057",
+                                         "name":  "Police Procedural",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000141",
+                                         "name":  "Whodunnit",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  13
+                    }
+                ]
+}

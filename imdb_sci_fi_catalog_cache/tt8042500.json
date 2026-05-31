@@ -1,0 +1,217 @@
+﻿{
+    "id":  "tt8042500",
+    "detail":  {
+                   "id":  "tt8042500",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Y: The Last Man",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzg4NTY4MTEtMGYxNC00MmEyLWE0MTQtNGQ2NTI0MjdmMDNmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1200,
+                                        "height":  1800
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2021,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6,
+                                  "voteCount":  16476
+                              },
+                   "plot":  "Set in a post-apocalyptic world, Y is the last surviving male human on the planet. Based on the comic series \"Y: The Last Man.\"",
+                   "directors":  [
+                                     {
+                                         "id":  "nm3277531",
+                                         "displayName":  "Destiny Ekaragha",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0295003",
+                                         "displayName":  "Louise Friedberg",
+                                         "alternativeNames":  [
+                                                                  "Louise N. D. Friedberg",
+                                                                  "Louise N.D. Friedberg"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "script_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0902939",
+                                         "displayName":  "Daisy von Scherler Mayer",
+                                         "alternativeNames":  [
+                                                                  "Daisy V. S. Mayer",
+                                                                  "Daisy Von Scherler Mayer",
+                                                                  "Daisy Von Sherler Mayer",
+                                                                  "Daisy Mayer",
+                                                                  "Daisy von Scherler-Mayer"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BM2JlZmY5MGEtYzcxMS00MDkyLTlhOTctYmNkMjgxNTQwZWMxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4480,
+                                                              "height":  6720
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm6709072",
+                                       "displayName":  "Charlie Jane Anders",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOTQ0MTkwNDA1Ml5BMl5BanBnXkFtZTgwNTYyNDc5MjI@._V1_.jpg",
+                                                            "width":  1550,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0163910",
+                                       "displayName":  "Eliza Clark",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BODZhMDZiZjAtN2ZjNy00ZmQ5LTk2MDQtZWUzNmViYTIyNGNmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  6000,
+                                                            "height":  4000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm8391720",
+                                       "displayName":  "Katie Edgerton",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000178",
+                                     "displayName":  "Diane Lane",
+                                     "alternativeNames":  [
+                                                              "Diane Brolin"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTM5YTg2YzUtNjBlMC00NzUxLTljYTktNWQxNzE4YTk4NGRhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1280,
+                                                          "height":  854
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3115493",
+                                     "displayName":  "Ben Schnetzer",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzE2NzgyNGEtYjhlMy00M2JlLWI0NDgtZWMzODE1YzExZWI3XkEyXkFqcGc@._V1_CR401,766,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6884515",
+                                     "displayName":  "Ashley Romans",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjRmYjk0N2YtYTIyYy00OTIzLWE1MzUtMjlmMjgzYTdiMWIwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1600,
+                                                          "height":  2400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1880888",
+                                     "displayName":  "Olivia Thirlby",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWRhYzczOWUtZmQ4OC00MWFlLTkwNTctMmY3ZWMzODdjMDViXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  845,
+                                                          "height":  777
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000185",
+                                         "name":  "Survival",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    }
+                ]
+}

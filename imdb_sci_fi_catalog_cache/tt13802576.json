@@ -1,0 +1,221 @@
+﻿{
+    "id":  "tt13802576",
+    "detail":  {
+                   "id":  "tt13802576",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Lockwood \u0026 Co.",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzI1ODdjY2UtYzdkOC00Y2NjLWE2NzYtZjlmYWFkMGE1MDBmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1350
+                                    },
+                   "startYear":  2023,
+                   "endYear":  2023,
+                   "runtimeSeconds":  2640,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  30347
+                              },
+                   "plot":  "Lucy, a girl with psychic abilities, joins two boys, Anthony and George, at the ghost-hunting agency Lockwood and Co. to fight the deadly spirits plaguing London, doing their best to save the day without any adult supervision.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm3295899",
+                                         "displayName":  "William McGregor",
+                                         "alternativeNames":  [
+                                                                  "Will McGregor"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODk4MTk2OWUtZWIzNy00ZWM1LTlhNWEtMjRlYjcxZTQxMzE0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3437,
+                                                              "height":  5157
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0607701",
+                                         "displayName":  "Catherine Morshead",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0180428",
+                                         "displayName":  "Joe Cornish",
+                                         "alternativeNames":  [
+                                                                  "Joseph Cornish",
+                                                                  "Adam \u0026 Joe",
+                                                                  "Adam and Joe",
+                                                                  "Joe"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTQ1ODQ3NzE1Ml5BMl5BanBnXkFtZTcwMDA1NTUwNg@@._V1_.jpg",
+                                                              "width":  1365,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0180428",
+                                       "displayName":  "Joe Cornish",
+                                       "alternativeNames":  [
+                                                                "Joseph Cornish",
+                                                                "Adam \u0026 Joe",
+                                                                "Adam and Joe",
+                                                                "Joe"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTQ1ODQ3NzE1Ml5BMl5BanBnXkFtZTcwMDA1NTUwNg@@._V1_.jpg",
+                                                            "width":  1365,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "editor",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2574146",
+                                       "displayName":  "Jonathan Stroud",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3791225",
+                                       "displayName":  "Ed Hime",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm13489648",
+                                     "displayName":  "Cameron Chapman",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjkwNjM0NGUtMGVlZC00OGUyLWJkZTctMDJlZDhkMDMyZTU4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2778,
+                                                          "height":  3473
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4250763",
+                                     "displayName":  "Ruby Stokes",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzk3MGJjZjctYjEyNy00ODQyLWE2YjgtMDE0N2ZmZjY5MTg2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1858,
+                                                          "height":  2749
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm11627940",
+                                     "displayName":  "Ali Hadji-Heshmati",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmExMWUzMWUtMDQ1OC00ZmMwLTk5ODgtMDc4ZjY5M2FlYWQ1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4301,
+                                                          "height":  5376
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7858011",
+                                     "displayName":  "Jack Bandeira",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2M2M2Q0MzctZmY3My00NmE5LThlNjEtZTFhMThhMGYxOTcwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2400,
+                                                          "height":  3300
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000073",
+                                         "name":  "Coming-of-Age",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

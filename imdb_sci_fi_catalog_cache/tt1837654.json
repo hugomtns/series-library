@@ -1,0 +1,242 @@
+﻿{
+    "id":  "tt1837654",
+    "detail":  {
+                   "id":  "tt1837654",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Secret Circle",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZDkwZGZkYzItMmJiNS00NTY4LTlhOWEtNDAyNjMyNGE4NDM0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  640,
+                                        "height":  960
+                                    },
+                   "startYear":  2011,
+                   "endYear":  2012,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  50078
+                              },
+                   "plot":  "After a family tragedy, 16-year-old Cassie Blake moves to Chance Harbor, Washington where her life takes a supernatural turn.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0295107",
+                                         "displayName":  "Liz Friedlander",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjQyMTc0YjAtYmRmYS00M2MwLTkxNmEtOGI5NDRlMjlmYzQ1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  400,
+                                                              "height":  600
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0057106",
+                                         "displayName":  "David Barrett",
+                                         "alternativeNames":  [
+                                                                  "Dave Barrett",
+                                                                  "David M. Barrett",
+                                                                  "David McCoy Barrett"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTYyMWMyNTAtMzdjNC00NGVkLTllZGUtYWU3ODk4YTk4YzUxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4894,
+                                                              "height":  3263
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "stunts"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0269502",
+                                         "displayName":  "John Fawcett",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BN2YyNzZhZTUtOWI3NS00Mjc1LThmMDktNWU0OTQ5NGY2OWE1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2062,
+                                                              "height":  2286
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0587884",
+                                       "displayName":  "Andrew Miller",
+                                       "alternativeNames":  [
+                                                                "The Drews"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzhiYzEzMTctM2VmNS00ZGY4LWJlODEtYzM2YTczYzViYjMwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  533,
+                                                            "height":  800
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3468606",
+                                       "displayName":  "L.J. Smith",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3846254",
+                                       "displayName":  "Y. Shireen Razack",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTdiNzlmYTAtNGExZi00ZjQ2LWEwZTUtNDM2ZjM2Y2YzYmJmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  750,
+                                                            "height":  769
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0215281",
+                                     "displayName":  "Thomas Dekker",
+                                     "alternativeNames":  [
+                                                              "Thomas Alexander Dekker"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjg3NGZlODEtZTM4OC00NDg3LWE0MmEtMWVkYmY3NTk1MTdkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1173,
+                                                          "height":  958
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1429380",
+                                     "displayName":  "Britt Robertson",
+                                     "alternativeNames":  [
+                                                              "Brittany Robertson",
+                                                              "Brit Robertson",
+                                                              "Britt Robertson-Floyd"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzM3NjAyNTQxOF5BMl5BanBnXkFtZTgwMDU2NDQ1ODE@._V1_.jpg",
+                                                          "width":  1366,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2100081",
+                                     "displayName":  "Phoebe Tonkin",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjhjNmVkODgtNWQyMS00ZjExLThmY2ItMzEyYzdjMzY3ZTczXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  819,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2645189",
+                                     "displayName":  "Shelley Hennig",
+                                     "alternativeNames":  [
+                                                              "Shelly Henning"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYxMTkyNDg4N15BMl5BanBnXkFtZTgwNTYzMzg0MDI@._V1_.jpg",
+                                                          "width":  1932,
+                                                          "height":  2500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000089",
+                                         "name":  "Teen Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000121",
+                                         "name":  "Witch Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  22
+                    }
+                ]
+}

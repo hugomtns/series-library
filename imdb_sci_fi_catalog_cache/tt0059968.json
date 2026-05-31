@@ -1,0 +1,235 @@
+﻿{
+    "id":  "tt0059968",
+    "detail":  {
+                   "id":  "tt0059968",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Batman",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZWFjNTdlZjctZTRkNC00OTQ1LWI3NDktOWY0ZWZmNzFiOTNkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1084,
+                                        "height":  1645
+                                    },
+                   "startYear":  1966,
+                   "endYear":  1968,
+                   "runtimeSeconds":  1500,
+                   "genres":  [
+                                  "Action",
+                                  "Crime",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  29221
+                              },
+                   "plot":  "Follow the adventures of wealthy entrepreneur Bruce Wayne, also known as Batman, the Caped Crusader, and his young ward Dick Grayson, also known as Batman\u0027s young partner Robin the Boy Wonder, as they battle evildoers in Gotham City.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0748979",
+                                         "displayName":  "Oscar Rudolph",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0164044",
+                                         "displayName":  "James B. Clark",
+                                         "alternativeNames":  [
+                                                                  "James Clark"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0905729",
+                                         "displayName":  "George Waggner",
+                                         "alternativeNames":  [
+                                                                  "george WaGGner",
+                                                                  "George Waggener",
+                                                                  "George Waggoner",
+                                                                  "George Wagner",
+                                                                  "Joseph West",
+                                                                  "george waGGner"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZGFmZDFkYzktYzVlOS00ZDhhLWIyNzYtYjYxZDk5ZDUwOGZjXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  427,
+                                                              "height":  641
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0277730",
+                                       "displayName":  "Bill Finger",
+                                       "alternativeNames":  [
+                                                                "DC",
+                                                                "William Finger"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZjlhMzBjYjQtMGRmZC00NGViLTk4ODAtOWU3ODE3Njc3NjczXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  780,
+                                                            "height":  971
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0004170",
+                                       "displayName":  "Bob Kane",
+                                       "alternativeNames":  [
+                                                                "DC"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTM2MDQ2MDAyOV5BMl5BanBnXkFtZTcwMDUyMjcxOA@@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0783913",
+                                       "displayName":  "Lorenzo Semple Jr.",
+                                       "alternativeNames":  [
+                                                                "Lorenzo Semple"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYzM5MmRlMGEtODYxMC00NjU2LTg4M2ItYzcwOWRjNmY5NmJlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1280,
+                                                            "height":  720
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001842",
+                                     "displayName":  "Adam West",
+                                     "alternativeNames":  [
+                                                              "William Anderson",
+                                                              "Will West"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTY4MjMwNjc0OF5BMl5BanBnXkFtZTgwMjA2NDg1MjI@._V1_.jpg",
+                                                          "width":  1339,
+                                                          "height":  2000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0911431",
+                                     "displayName":  "Burt Ward",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNThhYWYwNTMtOGQwMS00ZTQyLWEwZTItYTViN2RhZTRmOTgwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  964,
+                                                          "height":  1199
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "visual_effects"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0621002",
+                                     "displayName":  "Alan Napier",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTgwNjcyMzk3OF5BMl5BanBnXkFtZTcwMzk2NDYxOA@@._V1_.jpg",
+                                                          "width":  1652,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0358076",
+                                     "displayName":  "Neil Hamilton",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDY0ODczOTQ4MF5BMl5BanBnXkFtZTcwMjM5NTAxOA@@._V1_.jpg",
+                                                          "width":  995,
+                                                          "height":  1433
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  34
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  60
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  26
+                    }
+                ]
+}

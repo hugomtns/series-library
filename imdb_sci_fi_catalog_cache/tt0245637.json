@@ -1,0 +1,236 @@
+﻿{
+    "id":  "tt0245637",
+    "detail":  {
+                   "id":  "tt0245637",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Little Bear",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNmFlZjJlODItODk2ZC00NTY2LTljNTgtZmQxYTU0MWYwNjA2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  1995,
+                   "endYear":  2003,
+                   "runtimeSeconds":  1440,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  5206
+                              },
+                   "plot":  "Based upon a series of children\u0027s books, a grizzly cub has many misadventures with his friends.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0060505",
+                                         "displayName":  "Charles E. Bastien",
+                                         "alternativeNames":  [
+                                                                  "Charles Bastein",
+                                                                  "Charles Bastien",
+                                                                  "Ted Bastien"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "production_designer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0415422",
+                                         "displayName":  "Raymond Jafelice",
+                                         "alternativeNames":  [
+                                                                  "Ray Jafelice",
+                                                                  "Ray Jaffelice"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0783676",
+                                         "displayName":  "Arna Selznick",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjNhNTM5YjItY2Y5OC00YjQ0LWFkZTgtYTZiNzBiZGYwODgxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1177,
+                                                              "height":  2028
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1293791",
+                                       "displayName":  "Else Holmelund Minarik",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0784124",
+                                       "displayName":  "Maurice Sendak",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjM0NDEwMDQ1OF5BMl5BanBnXkFtZTcwMDI5ODM3OA@@._V1_.jpg",
+                                                            "width":  1353,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0830224",
+                                       "displayName":  "James Still",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0265620",
+                                     "displayName":  "Kristin Fairlie",
+                                     "alternativeNames":  [
+                                                              "Kristin Fairlee",
+                                                              "Kirsten Fairlie",
+                                                              "Kristen Fairlie"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWIwYTcxNjQtNzVjYi00MWVkLWE2MWUtNDNlMDM5MDQyOGZlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1030,
+                                                          "height":  703
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0754781",
+                                     "displayName":  "Andrew Sabiston",
+                                     "alternativeNames":  [
+                                                              "Andy Sabiston"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjc5MzVhYmQtZDAxZC00MDMyLWE0MmItMGRhNDNkMDAwNDMwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2214,
+                                                          "height":  2725
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1036702",
+                                     "displayName":  "Jennifer Martini",
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1302115",
+                                     "displayName":  "Tracy Ryan",
+                                     "alternativeNames":  [
+                                                              "Tracy Leah Ryan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzZlMjllMTgtNzRkOC00ZWMzLThlNTEtZjQ4NDhjNDY3ZmI2XkEyXkFqcGc@._V1_CR778,1,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "CN",
+                                               "name":  "China"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  13
+                    }
+                ]
+}

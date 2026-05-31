@@ -1,0 +1,222 @@
+﻿{
+    "id":  "tt0084967",
+    "detail":  {
+                   "id":  "tt0084967",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The A-Team",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BM2U3MWViYTMtYTNmYi00MmRjLThlMzctOWZiNDc3OWIxYTBlXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  696,
+                                        "height":  963
+                                    },
+                   "startYear":  1983,
+                   "endYear":  1987,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "War"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  45443
+                              },
+                   "plot":  "Four ex-Army Special Forces soldiers become heroes for hire, after being branded as war criminals for a crime they didn\u0027t commit. After breaking out of Prison, they end up helping the downtrodden while on the run from the Military Police.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0641400",
+                                         "displayName":  "Michael O\u0027Herlihy",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0232702",
+                                         "displayName":  "Dennis Donnelly",
+                                         "alternativeNames":  [
+                                                                  "Dennis Donnely"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0062644",
+                                         "displayName":  "Craig R. Baxley",
+                                         "alternativeNames":  [
+                                                                  "Craig Baxley"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTg0MDc1NzgyNF5BMl5BanBnXkFtZTcwODQ5NjIyNQ@@._V1_.jpg",
+                                                              "width":  2928,
+                                                              "height":  2352
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "stunts"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0004798",
+                                       "displayName":  "Stephen J. Cannell",
+                                       "alternativeNames":  [
+                                                                "Stephen Cannell",
+                                                                "Steven J. Cannell",
+                                                                "Steve Cannell"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDMxZDI2MTYtNzk4NC00MTE5LWIxOTctN2U0ZDczYmUxMjUwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2400,
+                                                            "height":  2937
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0526967",
+                                       "displayName":  "Frank Lupo",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTc1MTQ5OTE5M15BMl5BanBnXkFtZTYwNDk3MzA2._V1_.jpg",
+                                                            "width":  267,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0638258",
+                                       "displayName":  "Bill Nuss",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000577",
+                                     "displayName":  "George Peppard",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmY5NWRiNzEtNjI4OC00NTA1LWExNzctZGJmYjZiMjU2OGFmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2010,
+                                                          "height":  2881
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "assistant_director",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0776239",
+                                     "displayName":  "Dwight Schultz",
+                                     "alternativeNames":  [
+                                                              "Dwight Shultz",
+                                                              "Dwight Shultzs"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE1OTU0ODIyMV5BMl5BanBnXkFtZTcwNDc4MDkwMw@@._V1_.jpg",
+                                                          "width":  1884,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001558",
+                                     "displayName":  "Mr. T",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWZkOGE1ZjEtMTZiMy00ODQ5LWExNTYtM2JkMzZmYWU1MmJjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1975,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0070767",
+                                     "displayName":  "Dirk Benedict",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc3OTQ3Njk4Nl5BMl5BanBnXkFtZTgwNTc1MTQxMjI@._V1_.jpg",
+                                                          "width":  1322,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  13
+                    }
+                ]
+}

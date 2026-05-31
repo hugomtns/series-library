@@ -1,0 +1,235 @@
+﻿{
+    "id":  "tt3250026",
+    "detail":  {
+                   "id":  "tt3250026",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Zoo",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjgwNDU4ZTAtYjA1OS00MzFkLWJkOTYtMzJiYzg5ZTA2NDg1XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  2015,
+                   "endYear":  2017,
+                   "runtimeSeconds":  2520,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.7,
+                                  "voteCount":  27275
+                              },
+                   "plot":  "A team comes together and searches to find out what\u0027s causing a rash of violent animal attacks.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0003150",
+                                         "displayName":  "Michael Katleman",
+                                         "alternativeNames":  [
+                                                                  "Mike Katleman"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjEwMTg0NjE0OF5BMl5BanBnXkFyZXN1bWU@._V1_.jpg",
+                                                              "width":  3504,
+                                                              "height":  2336
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0011876",
+                                         "displayName":  "Steven A. Adelson",
+                                         "alternativeNames":  [
+                                                                  "Steve Adalson",
+                                                                  "S.A. Adelson",
+                                                                  "Steven Adelson",
+                                                                  "Steve Adelson",
+                                                                  "Steve Adleson",
+                                                                  "Steve Anderson"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZWRmMzUzYTEtOTkzZC00ZTFkLWI2MDItNGU2ODMxNzExZjk4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  504,
+                                                              "height":  336
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0813313",
+                                         "displayName":  "David Solomon",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0032227",
+                                       "displayName":  "Josh Appelbaum",
+                                       "alternativeNames":  [
+                                                                "Josh Applebaum"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3873440",
+                                       "displayName":  "Michael Ledwidge",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0625858",
+                                       "displayName":  "AndrÃ© Nemec",
+                                       "alternativeNames":  [
+                                                                "Andre Nemec"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTQ2MjY1MDI1N15BMl5BanBnXkFtZTgwNjk3NzIyNDE@._V1_.jpg",
+                                                            "width":  1586,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1393354",
+                                     "displayName":  "Kristen Connolly",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE5NzA4OTY3N15BMl5BanBnXkFtZTgwMzI5MjY1NjE@._V1_.jpg",
+                                                          "width":  662,
+                                                          "height":  863
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2312345",
+                                     "displayName":  "James Wolk",
+                                     "alternativeNames":  [
+                                                              "Jimmy Wolk"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGRiN2IwNWEtM2U1My00NWUzLTg5MmEtMGU4YTczNzNiY2JmXkEyXkFqcGc@._V1_CR90,190,1003,1504_.jpg",
+                                                          "width":  1003,
+                                                          "height":  1504
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1996829",
+                                     "displayName":  "Nonso Anozie",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzE1OTNjYTktZTFhMy00N2UxLWEyZGItNmI4YmU0MzE2NTcxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3600,
+                                                          "height":  2400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0121605",
+                                     "displayName":  "Billy Burke",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmMxNjgwMmItNmQ5YS00YWUxLThjZTQtZWUwNWZjOGQ1OWVkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  541,
+                                                          "height":  763
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    }
+                ]
+}

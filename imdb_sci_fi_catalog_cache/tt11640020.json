@@ -1,0 +1,202 @@
+﻿{
+    "id":  "tt11640020",
+    "detail":  {
+                   "id":  "tt11640020",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Debris",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYTJhNzdlNWYtNjgzYS00N2ZmLWJiNDEtNDdhMjY4MTdjYTE0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  675,
+                                        "height":  1000
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2021,
+                   "genres":  [
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.5,
+                                  "voteCount":  10000
+                              },
+                   "plot":  "Two agents from two different continents and two different mindsets must work together to investigate when wreckage from a destroyed alien spacecraft has mysterious effects on humankind.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0571828",
+                                         "displayName":  "Padraic McKinley",
+                                         "alternativeNames":  [
+                                                                  "Padraic Mckinley"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzA4ZTY3NDQtOThiMy00MGUyLWIwYmYtZWRhMjZiY2I3ZjJmXkEyXkFqcGc@._V1_CR3,1,799,1198_.jpg",
+                                                              "width":  799,
+                                                              "height":  1198
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0026442",
+                                         "displayName":  "Brad Anderson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTY3ODMyMDYxMV5BMl5BanBnXkFtZTcwNzkyNjY3MQ@@._V1_.jpg",
+                                                              "width":  600,
+                                                              "height":  399
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0251032",
+                                         "displayName":  "Eagle Egilsson",
+                                         "alternativeNames":  [
+                                                                  "Egill \u0027Eagle\u0027 Egilson",
+                                                                  "Egill Ãrn Egilsson",
+                                                                  "Egill Ãrn Egilsson"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOGJhNmY1OTUtZGY4Mi00OWUxLTgxZWQtZjRiNmQ3YmRmZjM1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1284,
+                                                              "height":  2778
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm10615481",
+                                       "displayName":  "Davia Carter",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1986332",
+                                       "displayName":  "Kyle Lierman",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm12366819",
+                                       "displayName":  "Tiffany Shaw Ho",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0006958",
+                                     "displayName":  "Jonathan Tucker",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk5OTk0MDc5Ml5BMl5BanBnXkFtZTcwMDcwMzA2OA@@._V1_.jpg",
+                                                          "width":  377,
+                                                          "height":  594
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3474956",
+                                     "displayName":  "Riann Steele",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTMzODJhMzQtMzAzYy00N2M4LTk0ZGItNTQ4M2RhZjljMjY0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2000,
+                                                          "height":  2500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0125475",
+                                     "displayName":  "Norbert Leo Butz",
+                                     "alternativeNames":  [
+                                                              "Norbert Butz"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzgzMzE0NjM0Ml5BMl5BanBnXkFtZTcwMjcyOTczNQ@@._V1_.jpg",
+                                                          "width":  1456,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2883357",
+                                     "displayName":  "Scroobius Pip",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjEyYThhNWYtYzc3Yy00MDk0LTliMmItOTE3NDUzMjAzYTNhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1333,
+                                                          "height":  2000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

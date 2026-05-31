@@ -1,0 +1,264 @@
+﻿{
+    "id":  "tt0857277",
+    "detail":  {
+                   "id":  "tt0857277",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Back at the Barnyard",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZjJlYmMxOTYtZTFiMi00OGYyLTkyZmEtZWI5Nzc0ZmNhNjQ5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  370,
+                                        "height":  555
+                                    },
+                   "startYear":  2007,
+                   "endYear":  2011,
+                   "runtimeSeconds":  1500,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.8,
+                                  "voteCount":  5117
+                              },
+                   "plot":  "A carefree cow named Otis becomes the leader of all of the animals in the barnyard.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2017755",
+                                         "displayName":  "T.J. Sullivan",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0342250",
+                                         "displayName":  "Todd Grimes",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDAyYjI0NjQtNTg5ZS00MDY5LWI3ZjktY2UwNzYxNjkwYTU5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2120,
+                                                              "height":  2064
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1114031",
+                                         "displayName":  "Mike Gasaway",
+                                         "alternativeNames":  [
+                                                                  "Mike Gassaway"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTRjN2FlOTMtOTZjZC00M2ZjLWIwMTEtZTViYWFhMzZlNDRjXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1106,
+                                                              "height":  1161
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "visual_effects"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0644203",
+                                       "displayName":  "Steve Oedekerk",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTgwMTI3NjkzOV5BMl5BanBnXkFtZTYwMzg4ODY3._V1_.jpg",
+                                                            "width":  450,
+                                                            "height":  675
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0342032",
+                                       "displayName":  "Gene Grillo",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0818922",
+                                       "displayName":  "Jed Spingarn",
+                                       "alternativeNames":  [
+                                                                "Dead Spingarn"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMWQzYTBhZDYtOWE3Yy00MWE5LWI0NjctODM1OTcwNGNhNTUzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3000,
+                                                            "height":  4000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0305261",
+                                     "displayName":  "Jeff Garcia",
+                                     "alternativeNames":  [
+                                                              "Jeff Garcia"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjIyNDg2MTk3OF5BMl5BanBnXkFtZTcwODY2MzkwOA@@._V1_.jpg",
+                                                          "width":  1334,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0362534",
+                                     "displayName":  "Chris Hardwick",
+                                     "alternativeNames":  [
+                                                              "Chris Hackwit",
+                                                              "Chris Ryan Hardwick",
+                                                              "Christopher Ryan Hardwick",
+                                                              "Christopher Hardwick",
+                                                              "Hard \u0027n Phirm",
+                                                              "Hard N\u0027 Phirm",
+                                                              "Hard n\u0027 Phirm"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWJjMWU5NjEtNmQ1Ny00ZjI2LWE0NGMtYzI0NzRjZjZkOWFkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3414,
+                                                          "height":  5121
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0164682",
+                                     "displayName":  "Cam Clarke",
+                                     "alternativeNames":  [
+                                                              "Kelly Brewster",
+                                                              "Ray Carlin",
+                                                              "Cameron Charles",
+                                                              "Cam Clark",
+                                                              "Cameron A. Clarke",
+                                                              "Cameron Arthur Clarke",
+                                                              "Cameron Clarke",
+                                                              "Cam Clarke/Delem Donaldson",
+                                                              "James Flinders",
+                                                              "Jimmy Flinders",
+                                                              "Nate Herz",
+                                                              "Ren Mortensen",
+                                                              "English version"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMThhM2Y3NGUtYjYwMS00MGQ5LWI5MDUtNTJmMDA5YTRkZGVhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3157,
+                                                          "height":  3554
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0667326",
+                                     "displayName":  "Rob Paulsen",
+                                     "alternativeNames":  [
+                                                              "Robert F. Paulsen III",
+                                                              "Robert F. Paulsen",
+                                                              "Robert Paulsen",
+                                                              "Rob Paulsens",
+                                                              "Robb Paulson",
+                                                              "Rob Paulson",
+                                                              "Raphael"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTAzODc1MTk4MzheQTJeQWpwZ15BbWU3MDY4NjU1MDg@._V1_.jpg",
+                                                          "width":  1380,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000036",
+                                         "name":  "Farce",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    }
+                ]
+}

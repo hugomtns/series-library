@@ -1,0 +1,208 @@
+﻿{
+    "id":  "tt13457822",
+    "detail":  {
+                   "id":  "tt13457822",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Welcome to Eden",
+                   "originalTitle":  "Bienvenidos a EdÃ©n",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjE2NmZjMDMtNGNiOC00ZWMyLTg2NWEtNzI1ZGMyNjcxM2EzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2222
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2023,
+                   "runtimeSeconds":  2400,
+                   "genres":  [
+                                  "Action",
+                                  "Drama",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.7,
+                                  "voteCount":  9139
+                              },
+                   "plot":  "A group of young adults attend a party on a remote island, but the tempting paradise they find waiting for them holds dangerous secrets and entrapments.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2038223",
+                                         "displayName":  "Daniel Benmayor",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BM2ZhZTQxODEtYThjOS00MTU1LTk3MTItY2ZmMzRkOGNmM2EwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1740,
+                                                              "height":  1065
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0280669",
+                                         "displayName":  "Menna FitÃ©",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "music_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1882666",
+                                         "displayName":  "Denis Rovira van Boekholt",
+                                         "alternativeNames":  [
+                                                                  "Denis Rovira"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYWJmZGM5YzItMDgzYy00ZjE0LTkzMTEtZjEyNmM5Y2U1YjVlXkEyXkFqcGc@._V1_CR400,449,1010,1515_.jpg",
+                                                              "width":  1010,
+                                                              "height":  1515
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1126077",
+                                       "displayName":  "JoaquÃ­n GÃ³rriz",
+                                       "alternativeNames":  [
+                                                                "Joaquin Gorriz",
+                                                                "JoaquÃ­n Gorriz"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm9311650",
+                                       "displayName":  "Guillermo LÃ³pez SÃ¡nchez",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0556517",
+                                       "displayName":  "Raimon Masllorens",
+                                       "alternativeNames":  [
+                                                                "Raimond Masllorens"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm10140376",
+                                     "displayName":  "Tomy Aguilera",
+                                     "alternativeNames":  [
+                                                              "TomÃ¡s Aguilera"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTc4NTVhZmQtYjg4MS00M2MzLTkyZTEtNjc1YWFkODI3ZjliXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1707,
+                                                          "height":  2560
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3766704",
+                                     "displayName":  "Amaia Aberasturi",
+                                     "alternativeNames":  [
+                                                              "Amaia Aberasturi Franco"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1166977",
+                                     "displayName":  "Guillermo Pfening",
+                                     "alternativeNames":  [
+                                                              "Guillermo Pfenning"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTk3YTI0MzEtYzRiMy00N2E3LTlmNWUtODM2ZjdlNWRlNzlkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1655,
+                                                          "height":  2483
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7134654",
+                                     "displayName":  "Berta CastaÃ±Ã©",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWJmZGRlMzYtMjcxMy00ZjMzLWFiMzYtMjllZWU5ZGMxMmZlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  532,
+                                                          "height":  800
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "casting_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "ES",
+                                               "name":  "Spain"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    }
+                ]
+}

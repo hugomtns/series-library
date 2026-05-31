@@ -1,0 +1,310 @@
+﻿{
+    "id":  "tt0101076",
+    "detail":  {
+                   "id":  "tt0101076",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Darkwing Duck",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BM2M3MTA1NzUtODQzYy00MmUwLWFjMzYtZmI1ZjFjZTVhM2IwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1500
+                                    },
+                   "startYear":  1991,
+                   "endYear":  1992,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Family",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  19107
+                              },
+                   "plot":  "A bumbling superhero battles crime with the help of his daughter and pilot sidekick.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0832309",
+                                         "displayName":  "Tad Stones",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTMyMmQyZmYtZTJiOS00OTA0LWFiNDktMjhkZDJkYjMyNzYwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1913,
+                                                              "height":  1793
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0953649",
+                                         "displayName":  "Alan Zaslove",
+                                         "alternativeNames":  [
+                                                                  "Alan Zazlove",
+                                                                  "Alan Zsalove"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0368070",
+                                         "displayName":  "Saburo Hashimoto",
+                                         "alternativeNames":  [
+                                                                  "Saburou Hashimoto"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0055047",
+                                       "displayName":  "Haskell Barkin",
+                                       "alternativeNames":  [
+                                                                "Haskel Barkin",
+                                                                "Haskell Smith"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1129619",
+                                       "displayName":  "John Behnke",
+                                       "alternativeNames":  [
+                                                                "The Trio"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BY2VlOWQxODAtNTIyZS00ODE2LTlhYmYtZTFiM2FlOWMzZTM5XkEyXkFqcGc@._V1_CR251,1,896,1343_.jpg",
+                                                            "width":  896,
+                                                            "height":  1343
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "editor",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0107780",
+                                       "displayName":  "Gordon Bressack",
+                                       "alternativeNames":  [
+                                                                "Gordon Bressek"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjMxOGY0ODQtYTJjYS00NzAyLWE4YmEtODkxNDI0ZTVmZmM0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1242,
+                                                            "height":  1209
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0004815",
+                                     "displayName":  "Christine Cavanaugh",
+                                     "alternativeNames":  [
+                                                              "Christine Cavanagh",
+                                                              "C. Cavanaugh",
+                                                              "Chris T. Cavanaugh",
+                                                              "Christina Cavanaugh",
+                                                              "Chris Cavanaugh",
+                                                              "Christie Cavanuagh",
+                                                              "Christy Cavanuagh",
+                                                              "Chris Cavenaugh"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU1MTIwNDc1MV5BMl5BanBnXkFtZTcwMTk0OTEyOA@@._V1_.jpg",
+                                                          "width":  549,
+                                                          "height":  734
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0191906",
+                                     "displayName":  "Jim Cummings",
+                                     "alternativeNames":  [
+                                                              "Jim Jonah Cumkings",
+                                                              "Jim Cumming",
+                                                              "J. Jonah Cummings",
+                                                              "James J. Cummings",
+                                                              "James Cummings",
+                                                              "Jim J. Cummings",
+                                                              "Jim Jonah Cummings",
+                                                              "Jimmy Cummings",
+                                                              "Jonah Cummings",
+                                                              "Tim Cummings"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWYyYjg3ODItODAyNC00MWFkLTliOWYtYTNmZDI3M2M4MDEwXkEyXkFqcGc@._V1_CR1190,58,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0500246",
+                                     "displayName":  "Katie Leigh",
+                                     "alternativeNames":  [
+                                                              "Liz Joseph",
+                                                              "Katherine Leigh",
+                                                              "Kati Leigh",
+                                                              "Katy Leigh",
+                                                              "Kate Levine"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmQ4ZmQ4MjktY2NhYi00YjNkLWE0NDgtMDcwZjU0YzJmNGFjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2144,
+                                                          "height":  1424
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0569598",
+                                     "displayName":  "Terence McGovern",
+                                     "alternativeNames":  [
+                                                              "Terrence McGovern",
+                                                              "Terry McGovern"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM3NDMwMjM5NV5BMl5BanBnXkFtZTYwNDk3MTEz._V1_.jpg",
+                                                          "width":  300,
+                                                          "height":  475
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "AU",
+                                               "name":  "Australia"
+                                           },
+                                           {
+                                               "code":  "FR",
+                                               "name":  "France"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           },
+                                           {
+                                               "code":  "TW",
+                                               "name":  "Taiwan (Province of China)"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  78
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    }
+                ]
+}

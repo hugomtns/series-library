@@ -1,0 +1,220 @@
+﻿{
+    "id":  "tt6170874",
+    "detail":  {
+                   "id":  "tt6170874",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Salvation",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjY2MmI0OWUtNjQwOC00OWQyLTkzOWMtODczMTBiMmFmYjMyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  1000
+                                    },
+                   "startYear":  2017,
+                   "endYear":  2018,
+                   "runtimeSeconds":  2580,
+                   "genres":  [
+                                  "Drama",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.9,
+                                  "voteCount":  25549
+                              },
+                   "plot":  "An MIT grad student and a tech superstar bring a low-level Pentagon official a staggering discovery--that an asteroid is just six months away from colliding with Earth.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0318795",
+                                         "displayName":  "Stuart Gillard",
+                                         "alternativeNames":  [
+                                                                  "Stu Gillard"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTUyNTkzOTIwOV5BMl5BanBnXkFtZTYwNTkzODQz._V1_.jpg",
+                                                              "width":  273,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0277830",
+                                         "displayName":  "Kenneth Fink",
+                                         "alternativeNames":  [
+                                                                  "Ken Fink"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjAyMzI0NDgyN15BMl5BanBnXkFtZTgwODU0NDg5MTE@._V1_.jpg",
+                                                              "width":  1600,
+                                                              "height":  2400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0327064",
+                                         "displayName":  "Nick Gomez",
+                                         "alternativeNames":  [
+                                                                  "Nicolas Gomez"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMGYxODhkYzktYzViYy00ODIwLThhZjQtY2Y1Mzg3MmUyNTUwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  960,
+                                                              "height":  565
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0472568",
+                                       "displayName":  "Elizabeth Kruger",
+                                       "alternativeNames":  [
+                                                                "Liz Kruger"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0788481",
+                                       "displayName":  "Craig Shapiro",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2263787",
+                                       "displayName":  "Blake Taylor",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYmU0ODFkNzUtNTIwOS00ZWU2LTk4NDMtZmVmMDI1NWE2OTM5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2036,
+                                                            "height":  2998
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0278304",
+                                     "displayName":  "Jennifer Finnigan",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmY3MWM1N2UtMjQzYi00MjJlLTk1MGItMDMxYjFlYjBkMmYwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2647,
+                                                          "height":  3529
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1085051",
+                                     "displayName":  "Santiago Cabrera",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGQ0MzhmMDctMTMzZC00ODVhLWExNmYtYzNjZmZlYzUyNTAyXkEyXkFqcGc@._V1_CR1,1,1364,2046_.jpg",
+                                                          "width":  1364,
+                                                          "height":  2046
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1859932",
+                                     "displayName":  "Jacqueline Byers",
+                                     "alternativeNames":  [
+                                                              "Jackie Byers"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTNkNWE0OGQtM2MzNy00OTY3LTkyMzEtZGE3MzY5M2YzYmNkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2131,
+                                                          "height":  1598
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2185462",
+                                     "displayName":  "Charlie Rowe",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmJmMDhiY2UtZGU2Ni00MGRjLTlkOGMtYTE4OTBhYzNjNDdlXkEyXkFqcGc@._V1_CR0,1,959,1439_.jpg",
+                                                          "width":  959,
+                                                          "height":  1439
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000084",
+                                         "name":  "Political Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000157",
+                                         "name":  "Alien Invasion",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    }
+                ]
+}

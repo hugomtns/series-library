@@ -1,0 +1,223 @@
+﻿{
+    "id":  "tt2654580",
+    "detail":  {
+                   "id":  "tt2654580",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Almost Human",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzQ1NDQ3MjUxOF5BMl5BanBnXkFtZTgwMTY2MDczMDE@._V1_.jpg",
+                                        "width":  510,
+                                        "height":  755
+                                    },
+                   "startYear":  2013,
+                   "endYear":  2014,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Crime",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  53739
+                              },
+                   "plot":  "In a not-so-distant future, a human cop and an android partner team up to serve and protect.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0003880",
+                                         "displayName":  "Sam Hill",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzdiMDJkMDUtYzQ3MC00NGM1LWI1ZjMtMDg4NTJiNzdlZDI0XkEyXkFqcGc@._V1_CR632,0,555,833_.jpg",
+                                                              "width":  555,
+                                                              "height":  833
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0026442",
+                                         "displayName":  "Brad Anderson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTY3ODMyMDYxMV5BMl5BanBnXkFtZTcwNzkyNjY3MQ@@._V1_.jpg",
+                                                              "width":  600,
+                                                              "height":  399
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0277830",
+                                         "displayName":  "Kenneth Fink",
+                                         "alternativeNames":  [
+                                                                  "Ken Fink"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjAyMzI0NDgyN15BMl5BanBnXkFtZTgwODU0NDg5MTE@._V1_.jpg",
+                                                              "width":  1600,
+                                                              "height":  2400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0437249",
+                                       "displayName":  "J.H. Wyman",
+                                       "alternativeNames":  [
+                                                                "Alden Kane",
+                                                                "Joel \u0027J.H.\u0027 Wyman",
+                                                                "Joel Wyner"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMGU3NjcyMDUtZjA5NC00MjAxLWJhNGYtZmZlZTQ1ZGU5YTVmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1080,
+                                                            "height":  720
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5680793",
+                                       "displayName":  "Daniel Grindlinger",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjE2MDA3NDEwOV5BMl5BanBnXkFtZTcwNDEwNjM1OQ@@._V1_.jpg",
+                                                            "width":  2448,
+                                                            "height":  3264
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3282994",
+                                       "displayName":  "Cole Maliska",
+                                       "alternativeNames":  [
+                                                                "Kai Yu Wu"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0881631",
+                                     "displayName":  "Karl Urban",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA1MTMwMjMxN15BMl5BanBnXkFtZTgwNjA1MTA1OTE@._V1_.jpg",
+                                                          "width":  1364,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1310368",
+                                     "displayName":  "Minka Kelly",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA1MzcwNTQyNDJeQTJeQWpwZ15BbWU4MDMzMzY0NTgx._V1_.jpg",
+                                                          "width":  2400,
+                                                          "height":  3436
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1013003",
+                                     "displayName":  "Michael Ealy",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGRkNDRlYTgtNWQ2Mi00MzhlLTg2OTItOTU1MDFlOGNkMzU2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  427,
+                                                          "height":  640
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0188871",
+                                     "displayName":  "Mackenzie Crook",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDM1ZTRjZTItNmU5ZC00MmNiLTg0YjAtZmViN2E5ZDlkODZhXkEyXkFqcGc@._V1_CR1254,0,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000051",
+                                         "name":  "Cop Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000158",
+                                         "name":  "Artificial Intelligence",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

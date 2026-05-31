@@ -1,0 +1,258 @@
+﻿{
+    "id":  "tt7599942",
+    "detail":  {
+                   "id":  "tt7599942",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Whiskey Cavalier",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYjQwMmFiYWItOTM5Ni00NzVlLWE3MTQtNWU3ZWJjY2QwMGUxXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2019,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.1,
+                                  "voteCount":  11034
+                              },
+                   "plot":  "An FBI agent and his new partner, a CIA operative, embark on missions to save the world, but have to put up with each other first.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1534595",
+                                         "displayName":  "Peter Atencio",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOGQxNDMyMTktM2M2Zi00NTRkLTgyZDQtNTllZmFkYTQ5MjYwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  6000,
+                                                              "height":  3322
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1113890",
+                                         "displayName":  "Jon East",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTgzNjQwNDI5NV5BMl5BanBnXkFtZTgwMDc5NzU3ODE@._V1_.jpg",
+                                                              "width":  516,
+                                                              "height":  516
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0864268",
+                                         "displayName":  "Romeo Tirone",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWZhNDdkOWYtYmQ3NS00ODY5LWIxNjEtZmY5ZmRlODA1NTJkXkEyXkFqcGc@._V1_CR505,0,719,1079_.jpg",
+                                                              "width":  719,
+                                                              "height":  1079
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0376003",
+                                       "displayName":  "David Hemingson",
+                                       "alternativeNames":  [
+                                                                "Dave Hemingson",
+                                                                "David Heminson"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2547384",
+                                       "displayName":  "Jameel Saleem",
+                                       "alternativeNames":  [
+                                                                "Jameel Williams"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNTIxZWNlYjQtYjZhNy00ZWFmLTlkZWMtOWRmNzhmMDA0MTY4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  6000,
+                                                            "height":  4000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm9794354",
+                                       "displayName":  "Erica Batty",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "production_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0004930",
+                                     "displayName":  "Scott Foley",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDM0ZWUwM2MtZTQ5Mi00YWUwLWEwMzItY2EyOTNmY2M2OTQwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  240,
+                                                          "height":  320
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1659348",
+                                     "displayName":  "Lauren Cohan",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA1MDg0MzgxOF5BMl5BanBnXkFtZTgwMzM5NDg1MzE@._V1_.jpg",
+                                                          "width":  337,
+                                                          "height":  427
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0651067",
+                                     "displayName":  "Ana Ortiz",
+                                     "alternativeNames":  [
+                                                              "Anna Ortiz"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA2MzM0NjA2N15BMl5BanBnXkFtZTYwMjE1NDc3._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  603
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1927701",
+                                     "displayName":  "Tyler James Williams",
+                                     "alternativeNames":  [
+                                                              "Tyler J. Williams",
+                                                              "Tyler Williams"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODYzNTQyMDk3N15BMl5BanBnXkFtZTgwMDEwMDIxNzM@._V1_.jpg",
+                                                          "width":  1546,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "deu",
+                                               "name":  "German"
+                                           },
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           },
+                                           {
+                                               "code":  "ukr",
+                                               "name":  "Ukrainian"
+                                           },
+                                           {
+                                               "code":  "ita",
+                                               "name":  "Italian"
+                                           },
+                                           {
+                                               "code":  "por",
+                                               "name":  "Portuguese"
+                                           },
+                                           {
+                                               "code":  "bul",
+                                               "name":  "Bulgarian"
+                                           },
+                                           {
+                                               "code":  "zho",
+                                               "name":  "Chinese"
+                                           },
+                                           {
+                                               "code":  "kor",
+                                               "name":  "Korean"
+                                           },
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000033",
+                                         "name":  "Buddy Cop",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

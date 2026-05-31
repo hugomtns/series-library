@@ -1,0 +1,244 @@
+﻿{
+    "id":  "tt0057730",
+    "detail":  {
+                   "id":  "tt0057730",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Jonny Quest",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzY4MTZhMTQtMzlkMi00ZDVkLTk4MzQtOGU2Yjk1YmVhMWRhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  780,
+                                        "height":  1147
+                                    },
+                   "startYear":  1964,
+                   "endYear":  1965,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Family",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  6004
+                              },
+                   "plot":  "The Quest family and their bodyguard investigate strange phenomena and battle villains around the world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0053484",
+                                         "displayName":  "Joseph Barbera",
+                                         "alternativeNames":  [
+                                                                  "Hanna Barbera",
+                                                                  "Joe Barbera",
+                                                                  "Joseph R. Barbera",
+                                                                  "Hanna Barbera-Productions",
+                                                                  "Hanna-Barbera",
+                                                                  "Hanna-Barbera Prods Inc.",
+                                                                  "Hanna Barbera Productions",
+                                                                  "Hanna-Barbera Productions",
+                                                                  "Joseph Roland"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjVjMDQwZjUtN2EzZC00ZTAyLTllNDgtMzkwZWU2MDUwNDhmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1081,
+                                                              "height":  1500
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0360253",
+                                         "displayName":  "William Hanna",
+                                         "alternativeNames":  [
+                                                                  "Hanna Barbera",
+                                                                  "Hanna Barbera-Productions",
+                                                                  "Bill Hanna",
+                                                                  "Hanna-Barbera",
+                                                                  "Hanna-Barbera Prods Inc.",
+                                                                  "Hanna Barbera Productions",
+                                                                  "Hanna-Barbera Productions",
+                                                                  "Denby Williams",
+                                                                  "Hanna-Barbera productions"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjgxZjViMmUtMzNmNS00ZTk3LWJmMGMtMzgwZjQ0ZWJhMGRlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  705,
+                                                              "height":  576
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0928660",
+                                       "displayName":  "Doug Wildey",
+                                       "alternativeNames":  [
+                                                                "Douglas Wildey"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0358215",
+                                       "displayName":  "William Hamilton",
+                                       "alternativeNames":  [
+                                                                "Bill Hamilton",
+                                                                "William D. Hamilton"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0085552",
+                                       "displayName":  "Walter Bloch",
+                                       "alternativeNames":  [
+                                                                "Walter Black"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0730083",
+                                     "displayName":  "Mike Road",
+                                     "alternativeNames":  [
+                                                              "Mike Read",
+                                                              "Michael Road"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTc3Njg5OTgtZTY3MC00OTIzLTkzNjUtMjQ1ZDJmYjFmNzk3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  650,
+                                                          "height":  743
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001513",
+                                     "displayName":  "Tim Matheson",
+                                     "alternativeNames":  [
+                                                              "Tim Mathieson",
+                                                              "Tim Matthieson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzk3MWQ3MWMtZjFkZC00MjkzLWI5N2ItOTNjZGNmYzFjMjA5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  860,
+                                                          "height":  942
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0582106",
+                                     "displayName":  "Don Messick",
+                                     "alternativeNames":  [
+                                                              "Donald Messick",
+                                                              "Mr Don Messick"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0106062",
+                                     "displayName":  "Danny Bravo",
+                                     "alternativeNames":  [
+                                                              "Danny Zaidivar",
+                                                              "Danny Zaldivar"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  26
+                    }
+                ]
+}

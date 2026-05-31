@@ -1,0 +1,309 @@
+﻿{
+    "id":  "tt0437745",
+    "detail":  {
+                   "id":  "tt0437745",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Robot Chicken",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNmMxZWM5NzYtMTJkNS00YTA1LWE2MzYtNmI0NTQzOTRmODQ0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  2005,
+                   "endYear":  2022,
+                   "runtimeSeconds":  660,
+                   "genres":  [
+                                  "Animation",
+                                  "Short",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.7,
+                                  "voteCount":  48919
+                              },
+                   "plot":  "Pop culture references fly thick and fast as stop-motion animation is featured in sketches lampooning everything from entertainment.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0791995",
+                                         "displayName":  "Tom Sheppard",
+                                         "alternativeNames":  [
+                                                                  "Tom Shepard"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzZhZmU2ZDMtYWVjNy00Zjc2LWFkZjUtNzExYjhhYWIxOGI2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  350,
+                                                              "height":  468
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0003021",
+                                         "displayName":  "Chris McKay",
+                                         "alternativeNames":  [
+                                                                  "Orel Puppington",
+                                                                  "Chris Taylor"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZGVhMjM5YWEtZTAxNC00ZDA5LTk5YWUtNjRjY2RjMTEyYzYzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  619,
+                                                              "height":  932
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2745845",
+                                         "displayName":  "Zeb Wells",
+                                         "alternativeNames":  [
+                                                                  "Michael Zeb Wells"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTY1NjI3MDcwN15BMl5BanBnXkFtZTgwMjYyOTEyNjE@._V1_.jpg",
+                                                              "width":  1578,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0001293",
+                                       "displayName":  "Seth Green",
+                                       "alternativeNames":  [
+                                                                "Robot Chicken",
+                                                                "Ho-Ho Green",
+                                                                "Seth B Green"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOGY0OTE5YTctMjZlMS00ZTg5LThmNjAtMjZiZDc5YTRkZTc3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  630,
+                                                            "height":  769
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1802814",
+                                       "displayName":  "Tom Root",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1535893",
+                                       "displayName":  "Douglas Goldstein",
+                                       "alternativeNames":  [
+                                                                "Doug Goldstein"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTI0NTQwOTc4N15BMl5BanBnXkFtZTcwNzc1NDUzMQ@@._V1_.jpg",
+                                                            "width":  450,
+                                                            "height":  629
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001293",
+                                     "displayName":  "Seth Green",
+                                     "alternativeNames":  [
+                                                              "Robot Chicken",
+                                                              "Ho-Ho Green",
+                                                              "Seth B Green"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOGY0OTE5YTctMjZlMS00ZTg5LThmNjAtMjZiZDc5YTRkZTc3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  630,
+                                                          "height":  769
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1803552",
+                                     "displayName":  "Matthew Senreich",
+                                     "alternativeNames":  [
+                                                              "Robot Chicken",
+                                                              "Matthew Menorah",
+                                                              "Matt Senreich"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTgxNzc2NjQ4MF5BMl5BanBnXkFtZTYwMjg0MjA1._V1_.jpg",
+                                                          "width":  267,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005227",
+                                     "displayName":  "Breckin Meyer",
+                                     "alternativeNames":  [
+                                                              "Breckin",
+                                                              "Brecklin Meyer"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjEzNjExM2MtNDZmNy00NTVhLTk4M2ItMTkyYWVkZDNlOWZjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3759,
+                                                          "height":  4000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1802814",
+                                     "displayName":  "Tom Root",
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000030",
+                                         "name":  "Stop Motion Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000045",
+                                         "name":  "Sketch Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000212",
+                                         "name":  "Short"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  1
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  21
+                    }
+                ]
+}

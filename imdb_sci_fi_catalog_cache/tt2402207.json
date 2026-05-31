@@ -1,0 +1,259 @@
+﻿{
+    "id":  "tt2402207",
+    "detail":  {
+                   "id":  "tt2402207",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Last Ship",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTQ5MTM5Mjc5NV5BMl5BanBnXkFtZTgwMTk2MzExOTE@._V1_.jpg",
+                                        "width":  675,
+                                        "height":  1000
+                                    },
+                   "startYear":  2014,
+                   "endYear":  2018,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Drama",
+                                  "Sci-Fi",
+                                  "Thriller",
+                                  "War"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  68962
+                              },
+                   "plot":  "The crew of a naval destroyer is forced to confront the reality of a new existence when a pandemic kills off most of the earth\u0027s population.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0389972",
+                                         "displayName":  "Paul Holahan",
+                                         "alternativeNames":  [
+                                                                  "Paul Holohan"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDE2M2RhNmUtODNkMS00NzU0LWJiODEtNmQ2OGNlY2Q0NzdhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  445,
+                                                              "height":  490
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0070474",
+                                         "displayName":  "Jack Bender",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjEwNjMyMjIzNF5BMl5BanBnXkFtZTcwMzc0MzYwNg@@._V1_.jpg",
+                                                              "width":  562,
+                                                              "height":  749
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0000693",
+                                         "displayName":  "Peter Weller",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTE5MTIxNTM1NV5BMl5BanBnXkFtZTYwOTMzNjc1._V1_.jpg",
+                                                              "width":  277,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0109622",
+                                       "displayName":  "William Brinkley",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0437442",
+                                       "displayName":  "Steven Kane",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0825757",
+                                       "displayName":  "Hank Steinberg",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTY1Nzg3OTEzNl5BMl5BanBnXkFtZTgwODY2MTgyNzE@._V1_.jpg",
+                                                            "width":  125,
+                                                            "height":  166
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0199312",
+                                     "displayName":  "Eric Dane",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk3NDE1ODczMV5BMl5BanBnXkFtZTcwMzE2MDU1Mw@@._V1_.jpg",
+                                                          "width":  329,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000284",
+                                     "displayName":  "Adam Baldwin",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY4MzUyNzE5Nl5BMl5BanBnXkFtZTYwMzAxODg1._V1_.jpg",
+                                                          "width":  270,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0663174",
+                                     "displayName":  "Charles Parnell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjUwMjhkZjEtMTQ3Mi00MDkzLWIzYTMtOWIyNWY1YzQ0ZDcxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3190,
+                                                          "height":  4794
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1670886",
+                                     "displayName":  "Travis Van Winkle",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDdkOGY3ZmMtYWJiMC00ZjcxLWI1MTEtNjhlM2Q2ZjgzMDFkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  683,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           },
+                                           {
+                                               "code":  "rus",
+                                               "name":  "Russian"
+                                           },
+                                           {
+                                               "code":  "tgl",
+                                               "name":  "Tagalog"
+                                           },
+                                           {
+                                               "code":  "cmn",
+                                               "name":  "Mandarin Chinese"
+                                           },
+                                           {
+                                               "code":  "kor",
+                                               "name":  "Korean"
+                                           },
+                                           {
+                                               "code":  "vie",
+                                               "name":  "Vietnamese"
+                                           },
+                                           {
+                                               "code":  "jpn",
+                                               "name":  "Japanese"
+                                           },
+                                           {
+                                               "code":  "ita",
+                                               "name":  "Italian"
+                                           },
+                                           {
+                                               "code":  "ell",
+                                               "name":  "Modern Greek (1453-)"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000010",
+                                         "name":  "War"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  10
+                    }
+                ]
+}

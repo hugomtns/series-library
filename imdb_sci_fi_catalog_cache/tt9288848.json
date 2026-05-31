@@ -1,0 +1,227 @@
+﻿{
+    "id":  "tt9288848",
+    "detail":  {
+                   "id":  "tt9288848",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Pacific Rim: The Black",
+                   "originalTitle":  "Pacific Rim",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYjU0OWMwMDQtZjI5MS00NjY3LThlYjktZWMxOGMyZTA5NGRhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  439,
+                                        "height":  650
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2022,
+                   "runtimeSeconds":  1440,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  6892
+                              },
+                   "plot":  "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0370622",
+                                         "displayName":  "Hiroyuki Hayashi",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "visual_effects"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0453493",
+                                         "displayName":  "Jae H. Kim",
+                                         "alternativeNames":  [
+                                                                  "Jae Hong Kim",
+                                                                  "Jae Woo Kim",
+                                                                  "Jaehui Kim",
+                                                                  "Jae Kim"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2026042",
+                                         "displayName":  "Jae Hong Kim",
+                                         "alternativeNames":  [
+                                                                  "Hong Kim",
+                                                                  "Jae H. Kim",
+                                                                  "Jae-Hyong Kim",
+                                                                  "Jae Kim",
+                                                                  "Hey Hey Pa"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "visual_effects"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1080564",
+                                       "displayName":  "Greg Johnson",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1219736",
+                                       "displayName":  "Craig Kyle",
+                                       "alternativeNames":  [
+                                                                "Craig Kyles"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTYwMzE0NTcwOV5BMl5BanBnXkFtZTgwNDg2Nzc4MzI@._V1_.jpg",
+                                                            "width":  1361,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0239635",
+                                       "displayName":  "Nicole Dubuc",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTY3OTk2NzgyNF5BMl5BanBnXkFtZTgwMDE4MjY4OTE@._V1_.jpg",
+                                                            "width":  501,
+                                                            "height":  512
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1101127",
+                                     "displayName":  "Calum Worthy",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWZjMDExNjMtNWNhOC00NmZmLWJmZDQtOTg2NDQ2NGIwMTliXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4480,
+                                                          "height":  6720
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4594069",
+                                     "displayName":  "Gideon Adlon",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODVkMWMyYzItNTdiMi00OWQ4LTg5OGEtMTQxODNjZjZjNjI3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4800,
+                                                          "height":  5969
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6949652",
+                                     "displayName":  "Erica Lindbeck",
+                                     "alternativeNames":  [
+                                                              "Erica L Lindbech"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzQzZmFhZTMtMzhlNS00NmIyLTk3M2QtMmY5MDgwOTM2OTZkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3169,
+                                                          "height":  4497
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3979780",
+                                     "displayName":  "Victoria Grace",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzdkODBlNzctNzUxZi00MWZiLTgzN2QtMzk3NjEyMmZlNzMwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2400,
+                                                          "height":  3598
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "script_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "AU",
+                                               "name":  "Australia"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000027",
+                                         "name":  "Anime"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000161",
+                                         "name":  "Kaiju",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  7
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  7
+                    }
+                ]
+}

@@ -1,0 +1,218 @@
+﻿{
+    "id":  "tt13157618",
+    "detail":  {
+                   "id":  "tt13157618",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Secret Invasion",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNmYzYzA2NzMtOTVmMC00ZDY4LThlMDctZmUyN2NlMjQ2ODViXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1688,
+                                        "height":  2500
+                                    },
+                   "startYear":  2023,
+                   "endYear":  2023,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.8,
+                                  "voteCount":  90533
+                              },
+                   "plot":  "Fury and Talos try to stop the Skrulls who have infiltrated the highest spheres of the Marvel Universe.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0783180",
+                                         "displayName":  "Ali Selim",
+                                         "alternativeNames":  [
+                                                                  "Ali Mohamed Selim"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2258357",
+                                       "displayName":  "Kyle Bradstreet",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDE0NDlhMzMtNmYyZi00NmVhLTg1ZjctNjNkODY0OGQzMWI1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2657,
+                                                            "height":  3321
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3744921",
+                                       "displayName":  "Beto Dantas",
+                                       "alternativeNames":  [
+                                                                "Roberto Dantas"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "cinematographer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1272009",
+                                       "displayName":  "Jonathan Hirschbein",
+                                       "alternativeNames":  [
+                                                                "Jonny Hirschbein"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzQ4NzBiNWMtN2FkYi00MDU0LTg0MjAtYmYwZGQwMTcxZTM5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  828,
+                                                            "height":  1662
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000168",
+                                     "displayName":  "Samuel L. Jackson",
+                                     "alternativeNames":  [
+                                                              "Samuel Jackson",
+                                                              "Sam Jackson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_.jpg",
+                                                          "width":  266,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3592338",
+                                     "displayName":  "Emilia Clarke",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjg3OTg4MDczMl5BMl5BanBnXkFtZTgwODc0NzUwNjE@._V1_.jpg",
+                                                          "width":  929,
+                                                          "height":  1394
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000332",
+                                     "displayName":  "Don Cheadle",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDMxNDM3MzY5N15BMl5BanBnXkFtZTcwMjkzOTY4MQ@@._V1_.jpg",
+                                                          "width":  313,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4667984",
+                                     "displayName":  "Kingsley Ben-Adir",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTRlMmRiZTktY2UxOS00ZmQ1LTgzY2MtOTkwMTcwYzQ5OTEwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3051,
+                                                          "height":  4577
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "rus",
+                                               "name":  "Russian"
+                                           },
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           },
+                                           {
+                                               "code":  "fin",
+                                               "name":  "Finnish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000157",
+                                         "name":  "Alien Invasion",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000176",
+                                         "name":  "Conspiracy Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000184",
+                                         "name":  "Spy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    }
+                ]
+}

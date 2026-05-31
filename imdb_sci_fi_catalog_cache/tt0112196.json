@@ -1,0 +1,277 @@
+﻿{
+    "id":  "tt0112196",
+    "detail":  {
+                   "id":  "tt0112196",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Tick",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYzE5MzdlYmEtNGMwMi00ZTU3LTg1MDctYjk4ZDM4MjNmOTRlXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  977,
+                                        "height":  1277
+                                    },
+                   "startYear":  1994,
+                   "endYear":  1997,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  10739
+                              },
+                   "plot":  "An invulnerable, somewhat dim, superhero protects The City from all manner of evil-doers.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0875879",
+                                         "displayName":  "Hank Tucker",
+                                         "alternativeNames":  [
+                                                                  "Henry Tucker"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTY4N2FjMDctM2EwZC00ZDQzLWEyOWUtODNlNWUyM2NiMzE3XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  750,
+                                                              "height":  513
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0899982",
+                                         "displayName":  "Art Vitello",
+                                         "alternativeNames":  [
+                                                                  "Arthur Vitello"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0249421",
+                                       "displayName":  "Ben Edlund",
+                                       "alternativeNames":  [
+                                                                "Benjamin Edlund"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTcwMjYyNTA3NV5BMl5BanBnXkFtZTcwNTYxMTMxOA@@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1372
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0509511",
+                                       "displayName":  "Richard Liebmann-Smith",
+                                       "alternativeNames":  [
+                                                                "Richard Liebman-Smith"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0567129",
+                                       "displayName":  "Christopher McCulloch",
+                                       "alternativeNames":  [
+                                                                "Astrobase-Go!",
+                                                                "AstroBase Go!",
+                                                                "Astrobase Go!",
+                                                                "Astro-Base Go",
+                                                                "Chris McCulloch",
+                                                                "Chrstoper McCulloch",
+                                                                "Jackson Publick"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0171243",
+                                     "displayName":  "Townsend Coleman",
+                                     "alternativeNames":  [
+                                                              "Michaelangelo",
+                                                              "Teenage Mutant Ninja Turtles"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDE0YjM5ZmEtMzc4My00ODM1LTg5YjctZmZlODc0YzBiZTc1XkEyXkFqcGc@._V1_PT8.0_CR528,290,1730,2594_.jpg",
+                                                          "width":  1730,
+                                                          "height":  2594
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0667326",
+                                     "displayName":  "Rob Paulsen",
+                                     "alternativeNames":  [
+                                                              "Robert F. Paulsen III",
+                                                              "Robert F. Paulsen",
+                                                              "Robert Paulsen",
+                                                              "Rob Paulsens",
+                                                              "Robb Paulson",
+                                                              "Rob Paulson",
+                                                              "Raphael"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTAzODc1MTk4MzheQTJeQWpwZ15BbWU3MDY4NjU1MDg@._V1_.jpg",
+                                                          "width":  1380,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0164682",
+                                     "displayName":  "Cam Clarke",
+                                     "alternativeNames":  [
+                                                              "Kelly Brewster",
+                                                              "Ray Carlin",
+                                                              "Cameron Charles",
+                                                              "Cam Clark",
+                                                              "Cameron A. Clarke",
+                                                              "Cameron Arthur Clarke",
+                                                              "Cameron Clarke",
+                                                              "Cam Clarke/Delem Donaldson",
+                                                              "James Flinders",
+                                                              "Jimmy Flinders",
+                                                              "Nate Herz",
+                                                              "Ren Mortensen",
+                                                              "English version"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMThhM2Y3NGUtYjYwMS00MGQ5LWI5MDUtNTJmMDA5YTRkZGVhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3157,
+                                                          "height":  3554
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0004880",
+                                     "displayName":  "Micky Dolenz",
+                                     "alternativeNames":  [
+                                                              "Mickey Braddock",
+                                                              "Micky Braddock",
+                                                              "Michael Dolenz",
+                                                              "Mickey Dolenz",
+                                                              "The Monkees",
+                                                              "The Monkeys"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTkzMzI2Njc5Ml5BMl5BanBnXkFtZTYwNzU5Mjk1._V1_.jpg",
+                                                          "width":  266,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    }
+                ]
+}

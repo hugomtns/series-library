@@ -1,0 +1,222 @@
+﻿{
+    "id":  "tt2222135",
+    "detail":  {
+                   "id":  "tt2222135",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Dog with a Blog",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjM5ODIwODM4M15BMl5BanBnXkFtZTgwMTk5MDIwMjE@._V1_.jpg",
+                                        "width":  1536,
+                                        "height":  2048
+                                    },
+                   "startYear":  2012,
+                   "endYear":  2015,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.1,
+                                  "voteCount":  7772
+                              },
+                   "plot":  "A family adopts a dog named Stan in the hope that two feuding step-siblings will bond over the pet. It works when the siblings soon find out that the dog can talk and write.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0421675",
+                                         "displayName":  "Shelley Jensen",
+                                         "alternativeNames":  [
+                                                                  "Shelley R. Jensen"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjAwNDE5NDI1NF5BMl5BanBnXkFtZTcwODI0MjA3Mg@@._V1_.jpg",
+                                                              "width":  300,
+                                                              "height":  410
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0411477",
+                                         "displayName":  "Neal Israel",
+                                         "alternativeNames":  [
+                                                                  "Neil Israel",
+                                                                  "Neal Isreal"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDI2NDk0MzQtYzcyNy00OGI4LWFlM2UtZGZiNjBlYTQ0MDVhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1864,
+                                                              "height":  2800
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0959034",
+                                         "displayName":  "Joel Zwick",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjA4MjA4NzA1NF5BMl5BanBnXkFtZTYwMzI5NTk2._V1_.jpg",
+                                                              "width":  485,
+                                                              "height":  310
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1496582",
+                                       "displayName":  "Steve Jarczak",
+                                       "alternativeNames":  [
+                                                                "Steven Jarczak"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0859514",
+                                       "displayName":  "Shawn Thomas",
+                                       "primaryProfessions":  [
+                                                                  "production_department",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0438327",
+                                       "displayName":  "Michael B. Kaplan",
+                                       "alternativeNames":  [
+                                                                "Michael Kaplan"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2219339",
+                                     "displayName":  "Blake Michael",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzU2ZWE1NmQtYzI2MC00NDIxLWJlZGYtYTY0Yjk4MDNlNTQ0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2992,
+                                                          "height":  4495
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3129067",
+                                     "displayName":  "Genevieve Hannelius",
+                                     "alternativeNames":  [
+                                                              "G Hanneling",
+                                                              "G. Hannelius"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTE3MmI4YTAtZWQwMy00YWU1LTlmZTQtMjUwNWYzZmQxY2M0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3567,
+                                                          "height":  5350
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1693673",
+                                     "displayName":  "Stephen Full",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmFiOGY5MDAtY2Q1Yi00OWU1LWIzNGItOTYwZGQ0ZDg3MzQ0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  400,
+                                                          "height":  267
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4941145",
+                                     "displayName":  "Francesca Capaldi",
+                                     "alternativeNames":  [
+                                                              "Francesca Angelucci Capaldi"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTdiMjdhMDctZTk4ZS00YTA2LWIyNDgtMmMzNzhhMjc5NmYxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2252,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000037",
+                                         "name":  "High-Concept Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  23
+                    }
+                ]
+}

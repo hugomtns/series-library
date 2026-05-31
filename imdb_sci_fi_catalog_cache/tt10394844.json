@@ -1,0 +1,237 @@
+﻿{
+    "id":  "tt10394844",
+    "detail":  {
+                   "id":  "tt10394844",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Soulmates",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzI1ZWRjNjYtMWY3My00NTg0LWFkYWItNDU4NTM3ZWViZDc3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1012,
+                                        "height":  1500
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2020,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Drama",
+                                  "Romance",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.4,
+                                  "voteCount":  5960
+                              },
+                   "plot":  "In the near future, scientists make a momentous discovery - a way to find one\u0027s soulmate. Each self-contained episode illustrates the potential cost of finding true love.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0471086",
+                                         "displayName":  "Marco Kreuzpaintner",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzkzNGM2MjItNjNhZi00YmI2LWExNzktYmUwOTA3MjQzODU0XkEyXkFqcGc@._V1_CR1,1,2125,3187_.jpg",
+                                                              "width":  2125,
+                                                              "height":  3187
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3699074",
+                                         "displayName":  "Rob Savage",
+                                         "alternativeNames":  [
+                                                                  "Robert Savage"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2782297",
+                                         "displayName":  "William Bridges",
+                                         "alternativeNames":  [
+                                                                  "Will Bridges"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZmQyODU2OGQtN2Q5OS00ZGJjLWFiM2UtY2EzNTg1YjQxMTE2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2735,
+                                                              "height":  3426
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2782297",
+                                       "displayName":  "William Bridges",
+                                       "alternativeNames":  [
+                                                                "Will Bridges"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmQyODU2OGQtN2Q5OS00ZGJjLWFiM2UtY2EzNTg1YjQxMTE2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2735,
+                                                            "height":  3426
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2073429",
+                                       "displayName":  "Brett Goldstein",
+                                       "alternativeNames":  [
+                                                                "Brett Godlstien"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzEyYWNiMDgtNmE3Ny00OGY4LWIxNTItZDVjMTFhOGE3MjQwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3016,
+                                                            "height":  3770
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2198800",
+                                       "displayName":  "Jessica Knappett",
+                                       "alternativeNames":  [
+                                                                "Jessic Knappett"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMmJmNmZhODctNzc1OC00MGMzLTliNGYtY2IyOGUyYmRkNjdmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  500,
+                                                            "height":  375
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0803889",
+                                     "displayName":  "Bill SkarsgÃ¥rd",
+                                     "alternativeNames":  [
+                                                              "Bill Skarsgard"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmNhMDQ1YjktYTg1Ny00Mjg0LWFmZTgtMmE0OTkxYmQzYzVlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4638,
+                                                          "height":  3236
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3512758",
+                                     "displayName":  "Sarah Snook",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2VjMjY2ZTktMTZkNi00YjQxLWFkMjYtOGM5MmVlYTUxNTUzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  600,
+                                                          "height":  800
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4663937",
+                                     "displayName":  "Laia Costa",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODdmOTkyZDEtZmExNi00M2YyLTgyZTMtNWVlZGEzNmViNmMzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  983,
+                                                          "height":  1070
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6390427",
+                                     "displayName":  "Charlie Heaton",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc1ZWY0MGUtNGU3Ny00NDY0LTkzN2MtOTgyYzFmM2I2MWZhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2625,
+                                                          "height":  3500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8039946",
+                                     "displayName":  "Patrick Bayele",
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  2
+                    }
+                ]
+}

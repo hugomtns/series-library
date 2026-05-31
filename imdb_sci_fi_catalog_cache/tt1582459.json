@@ -1,0 +1,222 @@
+﻿{
+    "id":  "tt1582459",
+    "detail":  {
+                   "id":  "tt1582459",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Event",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYzBmNTc3MTMtOWY4OC00YjI4LWFjZTYtZTYwNzY1YWVkMDVkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  952
+                                    },
+                   "startYear":  2010,
+                   "endYear":  2011,
+                   "runtimeSeconds":  2580,
+                   "genres":  [
+                                  "Crime",
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  27077
+                              },
+                   "plot":  "When a man goes looking for his missing girlfriend, he stumbles upon a government conspiracy that is bigger than the President himself.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0718001",
+                                         "displayName":  "Jeffrey Reiner",
+                                         "alternativeNames":  [
+                                                                  "Jeff Reiner"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0053157",
+                                         "displayName":  "Norberto Barba",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDUxODA5NDU4M15BMl5BanBnXkFtZTcwNzczODgwMw@@._V1_.jpg",
+                                                              "width":  1758,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0156838",
+                                         "displayName":  "Milan Cheylov",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYWM1YjI0ZmEtZGUyNC00MDJhLWJkMjAtMDE1NjZkMjJhNzg1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  640,
+                                                              "height":  480
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1427363",
+                                       "displayName":  "Vanessa Rojas",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0915316",
+                                       "displayName":  "Nick Wauters",
+                                       "alternativeNames":  [
+                                                                "Nicolas Wauters"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTdhYWY2NGItOTc0ZS00NzgyLWJiNTItZWE3YmNjOWNlOTA5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3147,
+                                                            "height":  2064
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "editor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0064157",
+                                       "displayName":  "Jay Beattie",
+                                       "alternativeNames":  [
+                                                                "Jay Y. Beattie"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYWFhYTQyZWItYjgyYy00OTA0LWI1MmEtMTQyOTFiMjcxZmYzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  854,
+                                                            "height":  1280
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0728762",
+                                     "displayName":  "Jason Ritter",
+                                     "alternativeNames":  [
+                                                              "Jason Morgan",
+                                                              "Jason Morgan Ritter"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTY0ZmJkNWQtZjNkNS00NzZjLWJiMTgtMjk0YmUyYzc2OTFhXkEyXkFqcGc@._V1_CR1,1,1492,2238_.jpg",
+                                                          "width":  1492,
+                                                          "height":  2238
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "stunts"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2105255",
+                                     "displayName":  "Sarah Roemer",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk3OTQ1MzAxMV5BMl5BanBnXkFtZTcwNDIyOTkzMQ@@._V1_.jpg",
+                                                          "width":  300,
+                                                          "height":  428
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1406333",
+                                     "displayName":  "Ian Anthony Dale",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTMyMjdlNTItMTQ2NC00ZTMzLWFkODgtYjY5MDk3ZjEzYjllXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2142,
+                                                          "height":  2678
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0411964",
+                                     "displayName":  "Zeljko Ivanek",
+                                     "alternativeNames":  [
+                                                              "Å½eljko Ivanek"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTMyMTAyNzY5N15BMl5BanBnXkFtZTcwNjUzMzQ2MQ@@._V1_.jpg",
+                                                          "width":  318,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000176",
+                                         "name":  "Conspiracy Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  22
+                    }
+                ]
+}

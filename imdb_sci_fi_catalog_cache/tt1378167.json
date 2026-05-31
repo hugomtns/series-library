@@ -1,0 +1,290 @@
+﻿{
+    "id":  "tt1378167",
+    "detail":  {
+                   "id":  "tt1378167",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "NCIS: Los Angeles",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZmEyMmQ1ZDItODMyNC00MjMzLWIyYjQtNThhOGJiNmY1OGEwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  2009,
+                   "endYear":  2023,
+                   "runtimeSeconds":  2580,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Drama",
+                                  "Mystery",
+                                  "Romance",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.8,
+                                  "voteCount":  60428
+                              },
+                   "plot":  "Follows the undercover agents assigned to the Office of Special Projects (OSP), a special branch of the Naval Criminal Investigative Service (NCIS) that investigate terrorism and National Security threats.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0807932",
+                                         "displayName":  "Dennis Smith",
+                                         "alternativeNames":  [
+                                                                  "Dennis L. Smith"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTk3NGFlMTItMzMxYS00ZGUwLTk3NTktOTE0NWU3MzRjMzdmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1080,
+                                                              "height":  1080
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "cinematographer",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0641343",
+                                         "displayName":  "Terrence O\u0027Hara",
+                                         "alternativeNames":  [
+                                                                  "Terence O\u0027Hara"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTE0NmIwOTQtYmNjMy00MDZmLWIxMWQtZThkYzE0YmJhNDM5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  512,
+                                                              "height":  623
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0468066",
+                                         "displayName":  "John Peter Kousakis",
+                                         "alternativeNames":  [
+                                                                  "John P. Kousakis",
+                                                                  "John Kousakis"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzQwYmM4MDYtNmJjNi00YjJjLTgxMzktYjk5YjJmNGE5ZTkyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3024,
+                                                              "height":  4032
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0107402",
+                                       "displayName":  "Shane Brennan",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0312565",
+                                       "displayName":  "R. Scott Gemmill",
+                                       "alternativeNames":  [
+                                                                "Scott Gemmill"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjE0ODUzNDM4NV5BMl5BanBnXkFtZTgwMzg0OTg1NTE@._V1_.jpg",
+                                                            "width":  819,
+                                                            "height":  1047
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3509392",
+                                       "displayName":  "Erin Broadhurst",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000563",
+                                     "displayName":  "Chris O\u0027Donnell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTY1OTIzMDIzMV5BMl5BanBnXkFtZTcwMDYyNjY0MQ@@._V1_.jpg",
+                                                          "width":  467,
+                                                          "height":  600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2079733",
+                                     "displayName":  "Daniela Ruah",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzdjZWQ2NTItYTdhMy00MGIwLTgwMzUtZjk0ODE5NDU0N2FkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2196,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005112",
+                                     "displayName":  "LL Cool J",
+                                     "alternativeNames":  [
+                                                              "James Todd Smith aka LL Cool J",
+                                                              "L.L. Cool J",
+                                                              "James Todd Smith"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg1OTk3MDczM15BMl5BanBnXkFtZTgwMzM2MDc4ODE@._V1_.jpg",
+                                                          "width":  340,
+                                                          "height":  512
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0647638",
+                                     "displayName":  "Eric Christian Olsen",
+                                     "alternativeNames":  [
+                                                              "Eric Olsen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzkyYmMwNjMtOGJlNy00ZDBmLTk1NjgtMTkzYzRkZDAzMTVlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  901,
+                                                          "height":  1221
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000051",
+                                         "name":  "Cop Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000057",
+                                         "name":  "Police Procedural",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "13",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "14",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  24
+                    }
+                ]
+}

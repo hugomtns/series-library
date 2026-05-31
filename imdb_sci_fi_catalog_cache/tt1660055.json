@@ -1,0 +1,325 @@
+﻿{
+    "id":  "tt1660055",
+    "detail":  {
+                   "id":  "tt1660055",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Scooby-Doo! Mystery Incorporated",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYTIwODEyMzUtMTMyZi00NTVkLTg0NDItNTMyZWU4ZTI5NDc2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2010,
+                   "endYear":  2013,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Family",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.2,
+                                  "voteCount":  22615
+                              },
+                   "plot":  "This incarnation finds Scooby and the gang living in Crystal Cove, a small town with a long history of ghost sightings, monster tales and other mysteries ripe for the sleuths to solve once and for all.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0177328",
+                                         "displayName":  "Victor Cook",
+                                         "alternativeNames":  [
+                                                                  "Victor A. Cook",
+                                                                  "Vic Cook",
+                                                                  "Chris \u0027Doc\u0027 Wyatt"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0311435",
+                                         "displayName":  "Curt Geda",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0324713",
+                                         "displayName":  "Michael Goguen",
+                                         "alternativeNames":  [
+                                                                  "Micheal Goguen",
+                                                                  "Mike Goguen",
+                                                                  "Mike Gougen"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0748445",
+                                       "displayName":  "Joe Ruby",
+                                       "alternativeNames":  [
+                                                                "Joe R. Ruby",
+                                                                "Joseph Ruby"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjQ2NzI2ODctZDg3My00NDQ2LTlhNDMtMjcxZmQyMjVjMDUyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  546,
+                                                            "height":  600
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "editor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0817366",
+                                       "displayName":  "Ken Spears",
+                                       "alternativeNames":  [
+                                                                "Kenneth Spears",
+                                                                "Ken Speers"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "editor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0752728",
+                                       "displayName":  "Michael Ryan",
+                                       "alternativeNames":  [
+                                                                "Michael F. Ryan",
+                                                                "Mike Ryan"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTNkYTU1ZWEtYzg2MS00ZjAzLTlmMzctNmY0NWY1ZGRmZTljXkEyXkFqcGc@._V1_CR362,0,519,779_.jpg",
+                                                            "width":  519,
+                                                            "height":  779
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0169934",
+                                     "displayName":  "Mindy Cohn",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzQ3MDM2NGUtMTg3YS00OTEyLWIzM2YtZWVlM2JhNDUwOTA4XkEyXkFqcGc@._V1_CR47,1,428,642_.jpg",
+                                                          "width":  428,
+                                                          "height":  642
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0919798",
+                                     "displayName":  "Frank Welker",
+                                     "alternativeNames":  [
+                                                              "Jack Beanstalk",
+                                                              "Dr. Frankenwelker",
+                                                              "Frank W. Welker",
+                                                              "Franklin Welker",
+                                                              "Tom Welker"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjM2MzU2ODYxMV5BMl5BanBnXkFtZTgwMzQ3MjcwMjE@._V1_.jpg",
+                                                          "width":  480,
+                                                          "height":  640
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000498",
+                                     "displayName":  "Matthew Lillard",
+                                     "alternativeNames":  [
+                                                              "Matt Lillard",
+                                                              "Matthew Lynn"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA2MzkyODc3MV5BMl5BanBnXkFtZTcwMjA0NTcyNw@@._V1_.jpg",
+                                                          "width":  1491,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0217221",
+                                     "displayName":  "Grey DeLisle",
+                                     "alternativeNames":  [
+                                                              "Grave Belial-Coffin",
+                                                              "Grave DeFiled",
+                                                              "Gray DeLisle",
+                                                              "Gray DeLisle-Griffin",
+                                                              "Grey DeLisle-Griffin",
+                                                              "Prey DeVile",
+                                                              "Grey Delisle",
+                                                              "Grey Delisle-Griffin",
+                                                              "Grey Deslisle",
+                                                              "Ghoul Dielisle-Griffang",
+                                                              "Grey-DeLisle-Griffin",
+                                                              "Erin Grey Griffin",
+                                                              "Glazed Griffin",
+                                                              "Grey DeLisle Griffin",
+                                                              "Grey Delisle Griffin",
+                                                              "Grey Griffin",
+                                                              "Erin Ruth",
+                                                              "Erin Grey Van Oosbree",
+                                                              "Grey Griffin also"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjg2MTQxOTUyMl5BMl5BanBnXkFtZTcwMTgxNTExOA@@._V1_.jpg",
+                                                          "width":  1280,
+                                                          "height":  853
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000023",
+                                         "name":  "Teen Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000036",
+                                         "name":  "Farce",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000049",
+                                         "name":  "Teen Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000118",
+                                         "name":  "Teen Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000141",
+                                         "name":  "Whodunnit",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    }
+                ]
+}

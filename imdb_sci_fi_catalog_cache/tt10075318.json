@@ -1,0 +1,214 @@
+﻿{
+    "id":  "tt10075318",
+    "detail":  {
+                   "id":  "tt10075318",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Gift",
+                   "originalTitle":  "Atiye",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZjJhMjZmNmQtNTc2MS00NGEwLTg3Y2MtMDFkOGU4ZjNjMjdmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1423
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2021,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.9,
+                                  "voteCount":  25815
+                              },
+                   "plot":  "A painter in Istanbul embarks on a personal journey as she unearths universal secrets about an Anatolian archaeological site and its link to her past.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm3155993",
+                                         "displayName":  "Burcu Alptekin",
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3828643",
+                                         "displayName":  "Gonenc Uyanik",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1780337",
+                                         "displayName":  "GÃ¶khan Tiryaki",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZWNkMDhjZjEtOTVjZi00MjM4LWE2ZDktMzJlZGYzYjg5N2FlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  321,
+                                                              "height":  478
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "cinematographer",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm11153545",
+                                       "displayName":  "SengÃ¼l Boybas",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2898305",
+                                       "displayName":  "Nuran Evren Sit",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTI3ZjNkMGUtOTQ3NC00YTI3LWEzYmMtODE2ZGMxYTM0NmQ5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5184,
+                                                            "height":  3456
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "casting_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm9909516",
+                                       "displayName":  "Cansu Coban",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0348347",
+                                     "displayName":  "Mehmet GÃ¼nsÃ¼r",
+                                     "alternativeNames":  [
+                                                              "Mehemet Gunsur",
+                                                              "Mehmet Gunsur"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWJlOWZhNmEtOTgxNC00MTM1LThkYTUtYjk2YTMyOWZlODUzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1080,
+                                                          "height":  1350
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1754321",
+                                     "displayName":  "Beren Saat",
+                                     "alternativeNames":  [
+                                                              "Twins/Female"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6034003",
+                                     "displayName":  "Metin AkdÃ¼lger",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGVmYjQ1OWMtZDhkNy00OGIxLWJhNWEtZDEwZGIxMWE2NjFkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  877,
+                                                          "height":  1315
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7487578",
+                                     "displayName":  "Melisa Senolsun",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTQwMmVkY2YtYjQ2Ni00YjdlLWEwMGItNWQ0NWVlN2VjNTNlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  979,
+                                                          "height":  1400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "TR",
+                                               "name":  "Turkey"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "kur",
+                                               "name":  "Kurdish"
+                                           },
+                                           {
+                                               "code":  "arc",
+                                               "name":  "Official Aramaic (700-300 BCE)"
+                                           },
+                                           {
+                                               "code":  "tur",
+                                               "name":  "Turkish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    }
+                ]
+}

@@ -1,0 +1,70 @@
+﻿{
+    "id":  "tt26690964",
+    "detail":  {
+                   "id":  "tt26690964",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Outlast",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOGNhYjBlZjAtNjJjMC00YzVmLWE5MzItOTRjMTU3ZjJiYzE0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1013,
+                                        "height":  1500
+                                    },
+                   "startYear":  2023,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Adventure",
+                                  "Game-Show",
+                                  "Reality-TV"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.4,
+                                  "voteCount":  5359
+                              },
+                   "plot":  "In the extreme Alaskan wild, 16 survivalists compete for a chance to win a massive cash prize but these lone wolves must be part of a team to win.",
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000105",
+                                         "name":  "Game Show"
+                                     },
+                                     {
+                                         "id":  "in0000106",
+                                         "name":  "Survival Competition",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000148",
+                                         "name":  "Reality TV"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  1
+                    }
+                ]
+}

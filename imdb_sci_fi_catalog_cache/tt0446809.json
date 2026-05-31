@@ -1,0 +1,202 @@
+﻿{
+    "id":  "tt0446809",
+    "detail":  {
+                   "id":  "tt0446809",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Deadliest Catch",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNmZjMzQwYjMtYzE1ZS00Y2U2LWI3ZWEtMWRlMWQ5ODM1OGZhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1600,
+                                        "height":  2400
+                                    },
+                   "startYear":  2005,
+                   "runtimeSeconds":  3300,
+                   "genres":  [
+                                  "Documentary",
+                                  "Adventure",
+                                  "Reality-TV"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  9955
+                              },
+                   "plot":  "A documentary series chronicling the real-life high-sea adventures of the Alaskan crab fishermen. This is the most deadly profession in the world.",
+                   "writers":  [
+                                   {
+                                       "id":  "nm1496968",
+                                       "displayName":  "Brian Lovett",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0562795",
+                                       "displayName":  "Vince Maynard",
+                                       "alternativeNames":  [
+                                                                "Vincent C. Maynard",
+                                                                "Vincent Maynard"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "editorial_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0668681",
+                                       "displayName":  "Fred Peabody",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1192046",
+                                     "displayName":  "Mike Rowe",
+                                     "alternativeNames":  [
+                                                              "Mike"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI3MDYzNzY0Nl5BMl5BanBnXkFtZTcwMzc5MTQzMg@@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000060",
+                                         "name":  "Documentary"
+                                     },
+                                     {
+                                         "id":  "in0000142",
+                                         "name":  "Business Reality TV",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000148",
+                                         "name":  "Reality TV"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "13",
+                        "episodeCount":  19
+                    },
+                    {
+                        "season":  "14",
+                        "episodeCount":  19
+                    },
+                    {
+                        "season":  "15",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "16",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "17",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "18",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "19",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "20",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "21",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "22",
+                        "episodeCount":  3
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  17
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  8
+                    }
+                ]
+}

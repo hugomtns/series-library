@@ -1,0 +1,250 @@
+﻿{
+    "id":  "tt0103584",
+    "detail":  {
+                   "id":  "tt0103584",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "X-Men",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYWYwZDVkNWItYzdmMy00NjU4LWIxNDMtZDIwMTc1MTEzNzE4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  1992,
+                   "endYear":  1997,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Family",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.4,
+                                  "voteCount":  54106
+                              },
+                   "plot":  "Follows a team of mutant superheroes called the X-Men, who fight against bigotry and hatred for being different while striving for justice and human acceptance in the Marvel comic book universe.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0396860",
+                                         "displayName":  "Larry Houston",
+                                         "alternativeNames":  [
+                                                                  "Larry Dallas",
+                                                                  "Larry F. Houston",
+                                                                  "Larry Huston",
+                                                                  "Larry Houston Productions"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOGFhZDlhMGQtMGU5Zi00YTEyLTg1YmEtZDk5NzQwNjg2ZGJkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  641,
+                                                              "height":  656
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0588355",
+                                         "displayName":  "Fred Miller",
+                                         "alternativeNames":  [
+                                                                  "Frederick Miller",
+                                                                  "Fredrick Miller"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTk3OWNlYTctMzUzZS00Zjk0LTg0NmMtNTA2MmY2Yjc0MzhjXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1296,
+                                                              "height":  2304
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0101382",
+                                         "displayName":  "Richard Bowman",
+                                         "alternativeNames":  [
+                                                                  "Richard J. Bowman",
+                                                                  "Rick Bowman"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0249133",
+                                       "displayName":  "Mark Edward Edens",
+                                       "alternativeNames":  [
+                                                                "Mark Edens"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2701732",
+                                       "displayName":  "Bob Harras",
+                                       "primaryProfessions":  [
+                                                                  "editor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2458358",
+                                       "displayName":  "Sidney Iwanter",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0807649",
+                                     "displayName":  "Cedric Smith",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA1NzY0MTY0NTdeQTJeQWpwZ15BbWU3MDc1Nzg5NTg@._V1_.jpg",
+                                                          "width":  884,
+                                                          "height":  1239
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0125579",
+                                     "displayName":  "George Buza",
+                                     "alternativeNames":  [
+                                                              "George Busa"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjI2OTc3NzQxMV5BMl5BanBnXkFtZTcwNjE0OTU1OA@@._V1_.jpg",
+                                                          "width":  946,
+                                                          "height":  1338
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0952801",
+                                     "displayName":  "Lenore Zann",
+                                     "alternativeNames":  [
+                                                              "Zan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzBmNjMzMzMtYzUwYS00ZmI3LWE4ZGYtNjZhZDE3ZjQ2MWI5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  897,
+                                                          "height":  1367
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_artist",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0230064",
+                                     "displayName":  "Cal Dodd",
+                                     "alternativeNames":  [
+                                                              "Cathal J. Dodd",
+                                                              "Cathal Dodd"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDgxMGJiNTItYTM5OS00Njc5LWFiNTAtMGFmZjE1ZjAzZDFhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4381,
+                                                          "height":  5476
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  19
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  17
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  14
+                    }
+                ]
+}

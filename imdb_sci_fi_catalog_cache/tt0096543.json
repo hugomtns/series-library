@@ -1,0 +1,265 @@
+﻿{
+    "id":  "tt0096543",
+    "detail":  {
+                   "id":  "tt0096543",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Beetlejuice",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZWU0YWM0NDYtYzEyMS00NThlLTlhMGEtM2JkYTJlYzVhOTFkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1608,
+                                        "height":  2412
+                                    },
+                   "startYear":  1989,
+                   "endYear":  1991,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Horror"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  9026
+                              },
+                   "plot":  "Adventures of the ghostly con-artist and his 12-year-old pal, Lydia.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0355165",
+                                         "displayName":  "John Halfpenny",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_director",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0414505",
+                                         "displayName":  "Larry Jacobs",
+                                         "alternativeNames":  [
+                                                                  "Lawrence Z. Jacobs",
+                                                                  "Lawrence Zelig Jacobs",
+                                                                  "Lawrence Jacobs"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "script_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0885795",
+                                         "displayName":  "John Van Bruggen",
+                                         "alternativeNames":  [
+                                                                  "John VanBruggen",
+                                                                  "John van Bruggen"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0000318",
+                                       "displayName":  "Tim Burton",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmFhZTljMTgtMTVmMS00NWFhLWE2ZDEtYjM5YWYwZmI0NWI1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1107,
+                                                            "height":  1639
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0506718",
+                                       "displayName":  "Eric Lewald",
+                                       "alternativeNames":  [
+                                                                "Eric"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZTE2NTZmODEtZjc3Mi00OTAxLTg2ZWUtMWNmOTE0ZGE1NWY2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2448,
+                                                            "height":  3672
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0025726",
+                                       "displayName":  "Tedd Anasti",
+                                       "alternativeNames":  [
+                                                                "Ted Anasti",
+                                                                "Theodore Rudolph Anasti"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0183750",
+                                     "displayName":  "Alyson Court",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTAwMTExOTI0NTZeQTJeQWpwZ15BbWU4MDk1MDc1Nzcx._V1_.jpg",
+                                                          "width":  802,
+                                                          "height":  1202
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "casting_director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0653554",
+                                     "displayName":  "Stephen Ouimette",
+                                     "alternativeNames":  [
+                                                              "Steven Ouimette"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA5Mzc1MzY5OV5BMl5BanBnXkFtZTgwMzg1MTg3MjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0319308",
+                                     "displayName":  "Tabitha St. Germain",
+                                     "alternativeNames":  [
+                                                              "Tabitha Germain",
+                                                              "Paulina Gillis",
+                                                              "Pauline Gillis",
+                                                              "Hitanou St. Germain",
+                                                              "Kitanou St. Germain",
+                                                              "Nitanou St. Germain",
+                                                              "Tabatha St. Germain",
+                                                              "Tabith St. Germain",
+                                                              "Tabatha St. Germaine",
+                                                              "Tabitha St. Germaine"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjU1ZmVmN2YtODA4MS00NzhiLWIzN2YtNjUyZmI0OGE5MTcxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  920,
+                                                          "height":  684
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0360200",
+                                     "displayName":  "Elizabeth Hanna",
+                                     "alternativeNames":  [
+                                                              "Liz Hanna"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTNiMTgxYWQtZGM3Ny00ZTMyLThmYjQtODkzNjZlY2UyNjdhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  683,
+                                                          "height":  841
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "TW",
+                                               "name":  "Taiwan (Province of China)"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  65
+                    }
+                ]
+}

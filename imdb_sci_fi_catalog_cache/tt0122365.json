@@ -1,0 +1,243 @@
+﻿{
+    "id":  "tt0122365",
+    "detail":  {
+                   "id":  "tt0122365",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Wacky Races",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZjRhMTFjZTQtOTc3MC00NzVjLThlN2ItMjA1MGI5M2Q1YjRhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  700,
+                                        "height":  1000
+                                    },
+                   "startYear":  1968,
+                   "endYear":  1969,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Family",
+                                  "Fantasy",
+                                  "Game-Show",
+                                  "Sport"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  8795
+                              },
+                   "plot":  "The participants of an unusual car race compete around America.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0053484",
+                                         "displayName":  "Joseph Barbera",
+                                         "alternativeNames":  [
+                                                                  "Hanna Barbera",
+                                                                  "Joe Barbera",
+                                                                  "Joseph R. Barbera",
+                                                                  "Hanna Barbera-Productions",
+                                                                  "Hanna-Barbera",
+                                                                  "Hanna-Barbera Prods Inc.",
+                                                                  "Hanna Barbera Productions",
+                                                                  "Hanna-Barbera Productions",
+                                                                  "Joseph Roland"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjVjMDQwZjUtN2EzZC00ZTAyLTllNDgtMzkwZWU2MDUwNDhmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1081,
+                                                              "height":  1500
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0360253",
+                                         "displayName":  "William Hanna",
+                                         "alternativeNames":  [
+                                                                  "Hanna Barbera",
+                                                                  "Hanna Barbera-Productions",
+                                                                  "Bill Hanna",
+                                                                  "Hanna-Barbera",
+                                                                  "Hanna-Barbera Prods Inc.",
+                                                                  "Hanna Barbera Productions",
+                                                                  "Hanna-Barbera Productions",
+                                                                  "Denby Williams",
+                                                                  "Hanna-Barbera productions"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjgxZjViMmUtMzNmNS00ZTk3LWJmMGMtMzgwZjQ0ZWJhMGRlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  705,
+                                                              "height":  576
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0100072",
+                                       "displayName":  "Larz Bourne",
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0196739",
+                                       "displayName":  "Tom Dagenais",
+                                       "alternativeNames":  [
+                                                                "Tom Degenais"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0540789",
+                                       "displayName":  "Michael Maltese",
+                                       "alternativeNames":  [
+                                                                "Mike Maltese",
+                                                                "Michael Malteze",
+                                                                "The Staff"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "art_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0934593",
+                                     "displayName":  "Paul Winchell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWYxMmM0NDEtMGFhYy00OWRjLTkxZjktZjU0ZGZhZjBjNjI3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2424,
+                                                          "height":  3068
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0582106",
+                                     "displayName":  "Don Messick",
+                                     "alternativeNames":  [
+                                                              "Donald Messick",
+                                                              "Mr Don Messick"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0124889",
+                                     "displayName":  "Daws Butler",
+                                     "alternativeNames":  [
+                                                              "Dawes Butler"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM4NjQ3Mzk3NF5BMl5BanBnXkFtZTcwNjIwOTcyMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  568
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0827267",
+                                     "displayName":  "John Stephenson",
+                                     "alternativeNames":  [
+                                                              "John Stevenson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGYxZGIyOWEtMzQwYy00NDZkLWFjNTYtMGI5NTFhMzM3NWIzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  596,
+                                                          "height":  840
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000105",
+                                         "name":  "Game Show"
+                                     },
+                                     {
+                                         "id":  "in0000172",
+                                         "name":  "Motorsport",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000174",
+                                         "name":  "Sport"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  17
+                    }
+                ]
+}

@@ -1,0 +1,182 @@
+﻿{
+    "id":  "tt0081874",
+    "detail":  {
+                   "id":  "tt0081874",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Hitch Hiker\u0027s Guide to the Galaxy",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTI2OTMwNDU1NF5BMl5BanBnXkFtZTcwOTIyNzAzMQ@@._V1_.jpg",
+                                        "width":  334,
+                                        "height":  475
+                                    },
+                   "startYear":  1981,
+                   "endYear":  1981,
+                   "runtimeSeconds":  9120,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8,
+                                  "voteCount":  12424
+                              },
+                   "plot":  "Arthur Dent and his friend, Ford Prefect, escape the destruction of Earth, only to face incredible trials, tribulations and adventures in space and time.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0068007",
+                                         "displayName":  "Alan J.W. Bell",
+                                         "alternativeNames":  [
+                                                                  "Alan J W Bell",
+                                                                  "Alan J. W. Bell",
+                                                                  "Alan Bell"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTgzMTczMjIwNV5BMl5BanBnXkFtZTYwOTMzMzAz._V1_.jpg",
+                                                              "width":  210,
+                                                              "height":  239
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0010930",
+                                       "displayName":  "Douglas Adams",
+                                       "alternativeNames":  [
+                                                                "Douglas Noel Adams",
+                                                                "David Agnew",
+                                                                "Douglas"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzhlN2JlN2UtNTk2NS00MjFkLWE1MjQtMGM5NjZhZDY4NjUwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1039,
+                                                            "height":  1400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0516032",
+                                       "displayName":  "John Lloyd",
+                                       "alternativeNames":  [
+                                                                "John Lloyd CBE",
+                                                                "J Prd. 597602 Lloyd",
+                                                                "Mr. Lloyd",
+                                                                "Sir John Lloyd"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0225549",
+                                     "displayName":  "Sandra Dickinson",
+                                     "alternativeNames":  [
+                                                              "Sandra Dickenson",
+                                                              "Sandra Searles Dickinson",
+                                                              "Sandy Dickinson",
+                                                              "Sandra Searles Dickson",
+                                                              "Sandra"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2NiYWQ1NTctN2Q3Ny00NzRlLWI5OTUtOWVjZjVhNWUzN2I5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1080,
+                                                          "height":  1440
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0429012",
+                                     "displayName":  "Peter Jones",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjc3ZWFkMDctNGJkZi00ZjhjLWI1Y2YtZTdkMTY2ZGI3YzQ0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  720,
+                                                          "height":  576
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "script_department",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0429254",
+                                     "displayName":  "Simon Jones",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjQxNTUwNjU2M15BMl5BanBnXkFtZTgwMDYxNjczOTE@._V1_.jpg",
+                                                          "width":  1440,
+                                                          "height":  1220
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0228797",
+                                     "displayName":  "David Dixon",
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    }
+                ]
+}

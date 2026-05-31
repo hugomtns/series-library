@@ -1,0 +1,269 @@
+﻿{
+    "id":  "tt3038546",
+    "detail":  {
+                   "id":  "tt3038546",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Mike Tyson Mysteries",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjQxMzk0ODU2OV5BMl5BanBnXkFtZTgwNzY2NDYxMzE@._V1_.jpg",
+                                        "width":  1365,
+                                        "height":  2048
+                                    },
+                   "startYear":  2014,
+                   "endYear":  2020,
+                   "runtimeSeconds":  720,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.2,
+                                  "voteCount":  6255
+                              },
+                   "plot":  "In this macabre comedy, retired boxing champion Mike Tyson, his brainy adopted Asian-American daughter, a friendly but wimpy gay gentleman ghost and a cursed perverse mean-spirited talking pigeon solve weird mysteries together.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0797053",
+                                         "displayName":  "Jeff Siergey",
+                                         "alternativeNames":  [
+                                                                  "Jeff Sergei",
+                                                                  "Jeffrey M. Siergey",
+                                                                  "Jeffrey Siergey"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2320725",
+                                         "displayName":  "Ethan Spaulding",
+                                         "alternativeNames":  [
+                                                                  "Eathan Spaulding"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm5331593",
+                                         "displayName":  "David Maximo",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "assistant_director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0203345",
+                                       "displayName":  "Hugh Davidson",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDc3NWEwM2UtODA4Ny00MTU4LWE5MzctZDczZTU2OGQ1ZWRhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5760,
+                                                            "height":  3840
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0233539",
+                                       "displayName":  "Larry Dorf",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzg1NTcxMjE0N15BMl5BanBnXkFtZTcwOTczNzUzMQ@@._V1_.jpg",
+                                                            "width":  436,
+                                                            "height":  672
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1244491",
+                                       "displayName":  "Rachel Ramras",
+                                       "alternativeNames":  [
+                                                                "Rachel Duguay"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNTA5ZGE4ZWEtYjMyYi00YWExLWE3NTQtNzI3ZjJjY2JjYWRlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5760,
+                                                            "height":  3840
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0005512",
+                                     "displayName":  "Mike Tyson",
+                                     "alternativeNames":  [
+                                                              "Malik Abdulaziz",
+                                                              "Malik Abdul Aziz",
+                                                              "Mike",
+                                                              "Maiku Taison",
+                                                              "\u0027Iron\u0027 Mike Tyson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAzNzYyNTkzNl5BMl5BanBnXkFtZTcwMTk1ODY3Mg@@._V1_.jpg",
+                                                          "width":  281,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1244491",
+                                     "displayName":  "Rachel Ramras",
+                                     "alternativeNames":  [
+                                                              "Rachel Duguay"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTA5ZGE4ZWEtYjMyYi00YWExLWE3NTQtNzI3ZjJjY2JjYWRlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5760,
+                                                          "height":  3840
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005172",
+                                     "displayName":  "Norm MacDonald",
+                                     "alternativeNames":  [
+                                                              "Norman MacDonald",
+                                                              "Norm Macdonald",
+                                                              "Norm McDonald",
+                                                              "Norm",
+                                                              "Norm Macdonald Has a Show"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTMyMzg1NDg5OF5BMl5BanBnXkFtZTYwMDAyODU3._V1_.jpg",
+                                                          "width":  475,
+                                                          "height":  634
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0711110",
+                                     "displayName":  "Jim Rash",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg2MzU2NjMzMV5BMl5BanBnXkFtZTcwMjU5NTMwNw@@._V1_.jpg",
+                                                          "width":  600,
+                                                          "height":  399
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  19
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  20
+                    }
+                ]
+}

@@ -1,0 +1,210 @@
+﻿{
+    "id":  "tt7801780",
+    "detail":  {
+                   "id":  "tt7801780",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Origin",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNzMzNDgyNDkzM15BMl5BanBnXkFtZTgwOTAzNzk1NjM@._V1_.jpg",
+                                        "width":  1380,
+                                        "height":  2048
+                                    },
+                   "startYear":  2018,
+                   "endYear":  2018,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Horror",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  8232
+                              },
+                   "plot":  "A group of strangers struggle for survival aboard a spaceship heading to a distant planet.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0027271",
+                                         "displayName":  "Paul W.S. Anderson",
+                                         "alternativeNames":  [
+                                                                  "Paul Anderson"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTYxNjg0ODEwMV5BMl5BanBnXkFtZTYwMDgxNzEz._V1_.jpg",
+                                                              "width":  450,
+                                                              "height":  503
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1067853",
+                                         "displayName":  "Mark Brozel",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODNiODQ0OWUtY2E0Ni00ZWM1LWE2ODAtZmQ0NmFlMDQ5YzI5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1860,
+                                                              "height":  1241
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0575726",
+                                         "displayName":  "Juan Carlos Medina",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDI3ZDYwYjItMzhjOC00OTUyLWE5YjktY2EyOGFkZjk5MjNhXkEyXkFqcGc@._V1_CR108,0,485,727_.jpg",
+                                                              "width":  485,
+                                                              "height":  727
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm5865186",
+                                       "displayName":  "Mika Watkins",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzU1MzA2OTc4MV5BMl5BanBnXkFtZTgwNTIzNzk1NjM@._V1_.jpg",
+                                                            "width":  1365,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm10261016",
+                                       "displayName":  "Jon Harbottle",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2855042",
+                                       "displayName":  "Melissa Iqbal",
+                                       "alternativeNames":  [
+                                                                "Mel Iqbal"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "assistant_director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0271657",
+                                     "displayName":  "Tom Felton",
+                                     "alternativeNames":  [
+                                                              "Thomas Andrew Felton"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA2OTgzNTAxOTleQTJeQWpwZ15BbWU4MDY1NDcyNTkx._V1_.jpg",
+                                                          "width":  1359,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1164730",
+                                     "displayName":  "Natalia Tena",
+                                     "alternativeNames":  [
+                                                              "Nat Gastiain Tena",
+                                                              "Natalie Tena",
+                                                              "Nat Tena"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDUzODQ4OTQwOV5BMl5BanBnXkFtZTcwMzY0OTY4NQ@@._V1_.jpg",
+                                                          "width":  1363,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2482391",
+                                     "displayName":  "Nora Arnezeder",
+                                     "alternativeNames":  [
+                                                              "Nora Arnezedzer"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTQ4MDFhOWYtYTMyYy00ZTgzLWEyM2UtNGI0OWYxODM5NTBjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9800383",
+                                     "displayName":  "Sen Mitsuji",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjE4MjM0MDgtY2YwMy00ZmZmLTk5YzItNDY4NzZkYjE2YTJlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  690,
+                                                          "height":  663
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  1
+                    }
+                ]
+}

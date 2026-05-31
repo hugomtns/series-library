@@ -1,0 +1,228 @@
+﻿{
+    "id":  "tt0074074",
+    "detail":  {
+                   "id":  "tt0074074",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Wonder Woman",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNzEzODlhZTEtODg0Ni00ZjFhLTg3MWEtMjcxZTI4YzAwODNlXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1500
+                                    },
+                   "startYear":  1975,
+                   "endYear":  1979,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  11428
+                              },
+                   "plot":  "The adventures of the greatest of the female superheroes.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0189075",
+                                         "displayName":  "Alan Crosland Jr.",
+                                         "alternativeNames":  [
+                                                                  "Alan Crosland",
+                                                                  "Allen Crosland"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "editor"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0595229",
+                                         "displayName":  "Dick Moder",
+                                         "alternativeNames":  [
+                                                                  "Richard C. Moder",
+                                                                  "Richard Moder"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "costume_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0909098",
+                                         "displayName":  "Herb Wallerstein",
+                                         "alternativeNames":  [
+                                                                  "Herbert Wallerstein"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "production_manager"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0551376",
+                                       "displayName":  "William Moulton Marston",
+                                       "alternativeNames":  [
+                                                                "Charles Marston",
+                                                                "William M. Marston",
+                                                                "William Moultor Marston",
+                                                                "William Marston",
+                                                                "Charles Moulton"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOGNlYjNhOWItMjIyOC00Y2ExLWI2ZWUtZjBmNzdjNWMyOTRkXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  427,
+                                                            "height":  580
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0743853",
+                                       "displayName":  "Stanley Ralph Ross",
+                                       "alternativeNames":  [
+                                                                "Sue Donem",
+                                                                "Stanley Raplh Ross",
+                                                                "Stanley Ross",
+                                                                "Stan Ross"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZTY3YjI2OTYtMDFkYi00NjE0LThhZDYtMTUxNTgxOTUzZTEyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  720,
+                                                            "height":  576
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0172133",
+                                       "displayName":  "Anne Collins",
+                                       "alternativeNames":  [
+                                                                "Cory Applebaum",
+                                                                "Anne C. Collins",
+                                                                "Anne Collins-Ludwick"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0004812",
+                                     "displayName":  "Lynda Carter",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTNiYTllYjAtNzYxMy00N2NjLWJiZmMtMmI0ZDgxNDIzYmRkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2535,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0905741",
+                                     "displayName":  "Lyle Waggoner",
+                                     "alternativeNames":  [
+                                                              "Lyle \u0026 Sharon",
+                                                              "Lyle Waggner"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODBkYzFlMzEtNTdlOC00MDRlLTg3ODgtZGI2MWQ5ODUwMzhjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4405,
+                                                          "height":  5652
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0470025",
+                                     "displayName":  "Tom Kratochvil",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0247604",
+                                     "displayName":  "Richard Eastham",
+                                     "alternativeNames":  [
+                                                              "Dickenson Eastham"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTE2Yjc4ODAtNzc3NS00ZmEzLTkxOGEtZjVmY2Y3YjEzMDM1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  835,
+                                                          "height":  1198
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  24
+                    }
+                ]
+}

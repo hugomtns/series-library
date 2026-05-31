@@ -1,0 +1,256 @@
+﻿{
+    "id":  "tt0243061",
+    "detail":  {
+                   "id":  "tt0243061",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Dragon Tales",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BODA0MmJjMjMtNWVhNC00MjYxLWExYjAtZDliNDY1ZmY3ZGRmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  1999,
+                   "endYear":  2005,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.5,
+                                  "voteCount":  5164
+                              },
+                   "plot":  "Two children find a dragonscale, and have fun socializing with dragons.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0420850",
+                                         "displayName":  "Gloria Jenkins",
+                                         "alternativeNames":  [
+                                                                  "Gloria Y. Jenkins",
+                                                                  "Gloria Yuh Jenkins",
+                                                                  "Gloria Yuh-Jenkins"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0253137",
+                                         "displayName":  "Tim Eldred",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0368906",
+                                         "displayName":  "Bob Hathcock",
+                                         "alternativeNames":  [
+                                                                  "Robert G. Hathcock Jr.",
+                                                                  "Robert Hathcock Jr.",
+                                                                  "Robert Hathcock",
+                                                                  "Bob Hathcockroach"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1351673",
+                                       "displayName":  "Ron Rodecker",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0167585",
+                                       "displayName":  "James Coane",
+                                       "alternativeNames":  [
+                                                                "Jim Coane"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0561026",
+                                       "displayName":  "Jeffrey Scott",
+                                       "alternativeNames":  [
+                                                                "Jeffrey Alan",
+                                                                "Jeffery Scott\u0027",
+                                                                "Jeff Maurer",
+                                                                "Jeffery Scott",
+                                                                "Jeffrey Alan Scott",
+                                                                "Jeff Scott"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0056532",
+                                     "displayName":  "Kathleen Barr",
+                                     "alternativeNames":  [
+                                                              "Kathleen Baar",
+                                                              "Kathleen Bar",
+                                                              "Katherine Barr"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDE0YTJmMzAtNmJlMC00MjQwLWFjMmMtMjQ1MzEzYmM3ODhkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  739
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0571941",
+                                     "displayName":  "Danny McKinnon",
+                                     "alternativeNames":  [
+                                                              "Danny Mckinnon"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0508877",
+                                     "displayName":  "Andrea Libman",
+                                     "alternativeNames":  [
+                                                              "Andrean Libman",
+                                                              "Andre Libman"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM0ODk2MTk4NV5BMl5BanBnXkFtZTcwMTA1MTUwOA@@._V1_.jpg",
+                                                          "width":  1364,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0584693",
+                                     "displayName":  "Jason Michas",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzY5MDU1M2MtNzhlNC00YmFiLWE4ZTMtZTk2MDE0OTg0NGM5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  599,
+                                                          "height":  681
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "CN",
+                                               "name":  "China"
+                                           },
+                                           {
+                                               "code":  "TH",
+                                               "name":  "Thailand"
+                                           },
+                                           {
+                                               "code":  "TW",
+                                               "name":  "Taiwan (Province of China)"
+                                           },
+                                           {
+                                               "code":  "DE",
+                                               "name":  "Germany"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  40
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  1
+                    }
+                ]
+}

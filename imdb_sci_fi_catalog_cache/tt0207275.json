@@ -1,0 +1,198 @@
+﻿{
+    "id":  "tt0207275",
+    "detail":  {
+                   "id":  "tt0207275",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "The 10th Kingdom",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZTMwYjBjOGYtZWE5Zi00Y2U4LWFiNWItOWJhZGRiYWFmYWM2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1536,
+                                        "height":  2048
+                                    },
+                   "startYear":  2000,
+                   "endYear":  2000,
+                   "runtimeSeconds":  2520,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.2,
+                                  "voteCount":  22033
+                              },
+                   "plot":  "A father and daughter are caught in a parallel universe where the great Queens Snow White, Cinderella and Riding Hood III have had their kingdoms fragmented by warring trolls, giants and goblins.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0141222",
+                                         "displayName":  "David Carson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZWY0MTQ1OWQtZjRlZi00MDA0LTk2ZWEtMDJiOGJmYjFjNTUxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1248,
+                                                              "height":  1055
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0936358",
+                                         "displayName":  "Herbert Wise",
+                                         "alternativeNames":  [
+                                                                  "Teris Hebrew",
+                                                                  "Herbert Weisz"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTcyMDc0NzM3OF5BMl5BanBnXkFtZTYwMDIzODY1._V1_.jpg",
+                                                              "width":  267,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0601881",
+                                       "displayName":  "Simon Moore",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001848",
+                                     "displayName":  "Dianne Wiest",
+                                     "alternativeNames":  [
+                                                              "Diane Wiest"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM1NjM4MTUwN15BMl5BanBnXkFtZTcwOTU0MTUyMw@@._V1_.jpg",
+                                                          "width":  411,
+                                                          "height":  569
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0487406",
+                                     "displayName":  "Daniel Lapaine",
+                                     "alternativeNames":  [
+                                                              "Daniel LaPaine"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODcwNjkwNjE3NF5BMl5BanBnXkFtZTgwNjUyODgyNzE@._V1_.jpg",
+                                                          "width":  2400,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0169753",
+                                     "displayName":  "Scott Cohen",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDM5MjFmODQtMzY0OC00NTZlLWE4OTYtZjA1N2NlZjA0NmEwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  446,
+                                                          "height":  640
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0931090",
+                                     "displayName":  "Kimberly Williams-Paisley",
+                                     "alternativeNames":  [
+                                                              "Kimberly Payne Williams",
+                                                              "Kimberly Williams"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTRjZDI2NzctNDM4Ny00NWQwLWFhNTMtOGRhMTdmYmY3MzAwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1419,
+                                                          "height":  1892
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "DE",
+                                               "name":  "Germany"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000097",
+                                         "name":  "Fairy Tale",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    }
+                ]
+}

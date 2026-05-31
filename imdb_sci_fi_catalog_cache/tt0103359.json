@@ -1,0 +1,257 @@
+﻿{
+    "id":  "tt0103359",
+    "detail":  {
+                   "id":  "tt0103359",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Batman: The Animated Series",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYjgwZWUzMzUtYTFkNi00MzM0LWFkMWUtMDViMjMxNGIxNDUxXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  1992,
+                   "endYear":  1995,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Family",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  9,
+                                  "voteCount":  137545
+                              },
+                   "plot":  "Billionaire Bruce Wayne secretly operates as Batman, a vigilante who battles a rouges\u0027 gallery of criminals and supervillains in Gotham City with the aid of various sidekicks and allies.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0022828",
+                                         "displayName":  "Kevin Altieri",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODdlMGU2ODktMjU2OC00OTFmLWIwZTEtYTY5MWI2ZDJiNzZhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  820,
+                                                              "height":  975
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0456631",
+                                         "displayName":  "Boyd Kirkland",
+                                         "alternativeNames":  [
+                                                                  "Boyd D. Kirkland"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0667469",
+                                         "displayName":  "Frank Paur",
+                                         "alternativeNames":  [
+                                                                  "Frank Parr",
+                                                                  "Frank D. Paur"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0277730",
+                                       "displayName":  "Bill Finger",
+                                       "alternativeNames":  [
+                                                                "DC",
+                                                                "William Finger"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZjlhMzBjYjQtMGRmZC00NGViLTk4ODAtOWU3ODE3Njc3NjczXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  780,
+                                                            "height":  971
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0004170",
+                                       "displayName":  "Bob Kane",
+                                       "alternativeNames":  [
+                                                                "DC"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTM2MDQ2MDAyOV5BMl5BanBnXkFtZTcwMDUyMjcxOA@@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0705779",
+                                       "displayName":  "Eric Radomski",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0175834",
+                                     "displayName":  "Kevin Conroy",
+                                     "alternativeNames":  [
+                                                              "Kevin"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM4MDcwMTU2NF5BMl5BanBnXkFtZTcwMzMyMjg0Nw@@._V1_.jpg",
+                                                          "width":  1420,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0956544",
+                                     "displayName":  "Efrem Zimbalist Jr.",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODcwMzRjNzgtNjZjMy00Y2ZiLWJkMDItNWU5ZWJmZTU4MTE5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3492,
+                                                          "height":  5166
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0368561",
+                                     "displayName":  "Bob Hastings",
+                                     "alternativeNames":  [
+                                                              "Arlene Golon",
+                                                              "Bobby Hastings",
+                                                              "Robert Hastings"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM4NjQ1NzIyNV5BMl5BanBnXkFtZTcwNDc3NTcxOA@@._V1_.jpg",
+                                                          "width":  1627,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0504489",
+                                     "displayName":  "Loren Lester",
+                                     "alternativeNames":  [
+                                                              "Loren Lister"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTJmMjYwMGItZDEyZS00YzhiLWE1NDUtYzI0Y2Q3YzRmZDliXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1000,
+                                                          "height":  1250
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  60
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  5
+                    }
+                ]
+}

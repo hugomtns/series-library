@@ -1,0 +1,283 @@
+﻿{
+    "id":  "tt10140028",
+    "detail":  {
+                   "id":  "tt10140028",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Q-Force",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BM2Q5ODVkYjMtZGMxYy00MzNhLWJhYWQtNzAzMTM2MTc5ZmU0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1350
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2021,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.7,
+                                  "voteCount":  7128
+                              },
+                   "plot":  "A handsome secret agent and his team of LGBTQ superspies embark on extraordinary adventures.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0723470",
+                                         "displayName":  "John Rice",
+                                         "alternativeNames":  [
+                                                                  "John B. Rice",
+                                                                  "Johnny Rice"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZTJhOGQ1ZDgtZWIzZi00OGE5LTg0ODEtNGZjMWYyMWI1YjkzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1212,
+                                                              "height":  916
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1442874",
+                                         "displayName":  "Josh Taback",
+                                         "alternativeNames":  [
+                                                                  "Joshua Taback",
+                                                                  "Josh Tabak"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc5NTk4NDMwNl5BMl5BanBnXkFtZTcwMTM4ODEzMQ@@._V1_.jpg",
+                                                              "width":  450,
+                                                              "height":  675
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1436651",
+                                         "displayName":  "Jeanette Moreno King",
+                                         "alternativeNames":  [
+                                                                  "Jeanette King",
+                                                                  "Jeanette Moreno",
+                                                                  "Jeanette Moreno-King"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZmFkOTE0MDMtNzhjYi00MTY3LWFhYjAtYzdlZWIxYmZmZjRjXkEyXkFqcGc@._V1_CR108,1,1451,2177_.jpg",
+                                                              "width":  1451,
+                                                              "height":  2177
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3826027",
+                                       "displayName":  "Liza Dye",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNmVmNTIyYTktNzg5ZC00MzViLTg3ZDktMjMxOTQzMzFhYTkwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  500,
+                                                            "height":  375
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm7429549",
+                                       "displayName":  "Chloe Keenan",
+                                       "alternativeNames":  [
+                                                                "Chloe Kennan"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4460471",
+                                       "displayName":  "Gabe Liedman",
+                                       "alternativeNames":  [
+                                                                "Gabe Leidman"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMmY3ZTQ5MzQtOGY4Yi00NzBkLTk4MjQtZmJhNDg3ZGEyNmM0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3000,
+                                                            "height":  3000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0170550",
+                                     "displayName":  "Gary Cole",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQwODU5MTU3OF5BMl5BanBnXkFtZTcwMzk2NzMzMw@@._V1_.jpg",
+                                                          "width":  295,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8773928",
+                                     "displayName":  "Patti Harrison",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzA5ZjE4ZjgtYTEwZi00Mjc1LTljNTEtOTlkYzE5OTljZDI0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  800,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0582418",
+                                     "displayName":  "Laurie Metcalf",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc1NDA1NDA5N15BMl5BanBnXkFtZTcwODAyNTU3MQ@@._V1_.jpg",
+                                                          "width":  266,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1092086",
+                                     "displayName":  "David Harbour",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjVkZmNiZGYtZTU3Mi00YzhhLWI1NzQtOTIyNWVmN2IwMjg2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2087,
+                                                          "height":  2593
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005003",
+                                     "displayName":  "Sean Hayes",
+                                     "alternativeNames":  [
+                                                              "Sean P. Hayes",
+                                                              "Sean Patrick Hayes"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTkyMDg2MTE2Ml5BMl5BanBnXkFtZTcwNjk4NjI0MQ@@._V1_.jpg",
+                                                          "width":  265,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0843100",
+                                     "displayName":  "Wanda Sykes",
+                                     "alternativeNames":  [
+                                                              "Wanda Sykes Hall",
+                                                              "Wanda Skyes",
+                                                              "Wanda Sykes-Hall",
+                                                              "Wanda"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTkwNTUxNzYyNV5BMl5BanBnXkFtZTcwNzgyNjQ3MQ@@._V1_.jpg",
+                                                          "width":  261,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    }
+                ]
+}

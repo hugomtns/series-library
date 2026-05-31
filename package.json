@@ -1,0 +1,18 @@
+{
+  "name": "series-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "migrate": "node scripts/migrate_to_sqlite.js",
+    "serve": "node series_library_server.js",
+    "test": "node scripts/migrate_to_sqlite.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "better-sqlite3": "^12.10.0"
+  }
+}

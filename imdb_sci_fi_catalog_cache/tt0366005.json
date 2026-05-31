@@ -1,0 +1,293 @@
+﻿{
+    "id":  "tt0366005",
+    "detail":  {
+                   "id":  "tt0366005",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Danny Phantom",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjJlNzc4ODktOGVjYS00MTJkLTgzZTYtZGViMDNlNmM2MGE2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  400,
+                                        "height":  589
+                                    },
+                   "startYear":  2003,
+                   "endYear":  2007,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  23394
+                              },
+                   "plot":  "A 14-year-old receives ghost powers and uses them to save the world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0366924",
+                                         "displayName":  "Butch Hartman",
+                                         "alternativeNames":  [
+                                                                  "Elmer Hartman",
+                                                                  "Shiloh Pettibone"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1680221",
+                                         "displayName":  "Wincat Alcala",
+                                         "alternativeNames":  [
+                                                                  "Edwin \"Wincat\" Alcala",
+                                                                  "Edwin R. \u0027Wincat\u0027 Alcala",
+                                                                  "Edwin R. Alcala",
+                                                                  "Edwin Alcala"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1278937",
+                                         "displayName":  "Gary Conrad",
+                                         "alternativeNames":  [
+                                                                  "Gary \"Studmuffin\" Conrad",
+                                                                  "Gary \u0027Allan Funt\u0027 Conrad",
+                                                                  "Gary \u0027Spike\u0027 Conrad",
+                                                                  "Gary \u0027Video-Man\u0027 Conrad"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0366924",
+                                       "displayName":  "Butch Hartman",
+                                       "alternativeNames":  [
+                                                                "Elmer Hartman",
+                                                                "Shiloh Pettibone"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0549354",
+                                       "displayName":  "Steve Marmel",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0893286",
+                                       "displayName":  "Sib Ventress",
+                                       "alternativeNames":  [
+                                                                "Sib E. Ventress",
+                                                                "Sib Ventriss"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0217221",
+                                     "displayName":  "Grey DeLisle",
+                                     "alternativeNames":  [
+                                                              "Grave Belial-Coffin",
+                                                              "Grave DeFiled",
+                                                              "Gray DeLisle",
+                                                              "Gray DeLisle-Griffin",
+                                                              "Grey DeLisle-Griffin",
+                                                              "Prey DeVile",
+                                                              "Grey Delisle",
+                                                              "Grey Delisle-Griffin",
+                                                              "Grey Deslisle",
+                                                              "Ghoul Dielisle-Griffang",
+                                                              "Grey-DeLisle-Griffin",
+                                                              "Erin Grey Griffin",
+                                                              "Glazed Griffin",
+                                                              "Grey DeLisle Griffin",
+                                                              "Grey Delisle Griffin",
+                                                              "Grey Griffin",
+                                                              "Erin Ruth",
+                                                              "Erin Grey Van Oosbree",
+                                                              "Grey Griffin also"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjg2MTQxOTUyMl5BMl5BanBnXkFtZTcwMTgxNTExOA@@._V1_.jpg",
+                                                          "width":  1280,
+                                                          "height":  853
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0442120",
+                                     "displayName":  "David Kaufman",
+                                     "alternativeNames":  [
+                                                              "Dave Kaufman",
+                                                              "David R. Kaufman"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTUwMmE0NzQtZjYxMS00NjlmLWE5NGEtYTI4MGVhZGNhYmE2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3456,
+                                                          "height":  4787
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0172636",
+                                     "displayName":  "Rickey D\u0027Shon Collins",
+                                     "alternativeNames":  [
+                                                              "Rickey Collins",
+                                                              "Ricky D\u0027Shon Collins",
+                                                              "Ricky D\u0027shon Collins",
+                                                              "Ricky Collins"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0667326",
+                                     "displayName":  "Rob Paulsen",
+                                     "alternativeNames":  [
+                                                              "Robert F. Paulsen III",
+                                                              "Robert F. Paulsen",
+                                                              "Robert Paulsen",
+                                                              "Rob Paulsens",
+                                                              "Robb Paulson",
+                                                              "Rob Paulson",
+                                                              "Raphael"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTAzODc1MTk4MzheQTJeQWpwZ15BbWU3MDY4NjU1MDg@._V1_.jpg",
+                                                          "width":  1380,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "epo",
+                                               "name":  "Esperanto"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000118",
+                                         "name":  "Teen Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  17
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  12
+                    }
+                ]
+}

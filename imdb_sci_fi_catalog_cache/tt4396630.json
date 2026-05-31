@@ -1,0 +1,254 @@
+﻿{
+    "id":  "tt4396630",
+    "detail":  {
+                   "id":  "tt4396630",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Gifted",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjIxODM5MDUyMV5BMl5BanBnXkFtZTgwMjY4MjI1NjM@._V1_.jpg",
+                                        "width":  675,
+                                        "height":  1000
+                                    },
+                   "startYear":  2017,
+                   "endYear":  2019,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Action",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  40722
+                              },
+                   "plot":  "In a world where mutated humans are treated with distrust and fear, an institute for mutants battles to achieve peaceful co-existence with humanity.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0676671",
+                                         "displayName":  "Scott Peters",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0839660",
+                                         "displayName":  "Stephen Surjik",
+                                         "alternativeNames":  [
+                                                                  "Stephen Surjic",
+                                                                  "Stephen D. Surjik",
+                                                                  "Steven Surjik",
+                                                                  "Steve Surjik"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjQzNDA1MjkzNl5BMl5BanBnXkFtZTgwNzU4MjQwOTE@._V1_.jpg",
+                                                              "width":  1242,
+                                                              "height":  1242
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0000536",
+                                         "displayName":  "Robert Duncan McNeill",
+                                         "alternativeNames":  [
+                                                                  "Duncan McNeil",
+                                                                  "Robert Duncan McNeil",
+                                                                  "Robbie Duncan McNeill",
+                                                                  "Robbie McNeill",
+                                                                  "Robert McNeill"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BN2RhNTk1MDctMzVhZi00ZTU0LWJiMDAtZmZjNTNlMmJjMTlkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  350,
+                                                              "height":  452
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0456158",
+                                       "displayName":  "Jack Kirby",
+                                       "alternativeNames":  [
+                                                                "Jack \u0027King\u0027 Kirby",
+                                                                "Jack \u0027The King\u0027 Kirby"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzE3OTZiZGUtYjhjOS00YzlmLTlmMzMtNTFhYjgyMjEwMTg3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  921,
+                                                            "height":  1128
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0498278",
+                                       "displayName":  "Stan Lee",
+                                       "alternativeNames":  [
+                                                                "Smilin\u0027 Stan Lee",
+                                                                "Peter Parker",
+                                                                "Stan"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_.jpg",
+                                                            "width":  278,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm9333664",
+                                       "displayName":  "Brad Marques",
+                                       "alternativeNames":  [
+                                                                "Bradley Marques"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzVjYWIzNmYtNmU3NC00Yzc4LTg4OTEtMzcwZGFhYmVhMGI4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1641,
+                                                            "height":  1646
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0009918",
+                                     "displayName":  "Amy Acker",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTczNjg5Mzc0MV5BMl5BanBnXkFtZTcwODg0NTM2OQ@@._V1_.jpg",
+                                                          "width":  1630,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0610459",
+                                     "displayName":  "Stephen Moyer",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzU4NzUxMzYtOTc0Yi00ZDU2LThiYzQtMTAyZWJjNmZiYjI0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  727,
+                                                          "height":  989
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2480636",
+                                     "displayName":  "Natalie Alyn Lind",
+                                     "alternativeNames":  [
+                                                              "Natalie Lind"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjA0OGMyZmMtYzY1OS00ZDJjLTg2YTYtM2JjZTVjMDZlNmU5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4000,
+                                                          "height":  4000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "executive",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4148614",
+                                     "displayName":  "Sean Teale",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzRmMTlkNjQtNTM3MS00OWNlLWEzYjUtNjMyMmMyMjg2ZmI0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5624,
+                                                          "height":  7823
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "fin",
+                                               "name":  "Finnish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  16
+                    }
+                ]
+}

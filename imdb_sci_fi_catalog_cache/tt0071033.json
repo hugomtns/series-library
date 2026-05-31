@@ -1,0 +1,217 @@
+﻿{
+    "id":  "tt0071033",
+    "detail":  {
+                   "id":  "tt0071033",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Planet of the Apes",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZWU0ZTM1NWEtN2MzOS00ZDk4LTgyNmQtZDhkNzBjNmIxNzA3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1500
+                                    },
+                   "startYear":  1974,
+                   "endYear":  1974,
+                   "runtimeSeconds":  2820,
+                   "genres":  [
+                                  "Adventure",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  6220
+                              },
+                   "plot":  "Two astronauts and a sympathetic chimp friend are fugitives in a future Earth dominated by a civilization of humanoid apes.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0491852",
+                                         "displayName":  "Arnold Laven",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "script_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0568228",
+                                         "displayName":  "Don McDougall",
+                                         "alternativeNames":  [
+                                                                  "Don MacDougall",
+                                                                  "Donald McDougal",
+                                                                  "David McDougall",
+                                                                  "Donald McDougall"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "script_department",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0568535",
+                                         "displayName":  "Bernard McEveety",
+                                         "alternativeNames":  [
+                                                                  "Bernard McEveety Jr.",
+                                                                  "B.F. McEveety",
+                                                                  "Bernard E. McEveety",
+                                                                  "Bernard F. McEveety",
+                                                                  "Bernard J. McEveety",
+                                                                  "jr. Bernard McEveety"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0099541",
+                                       "displayName":  "Pierre Boulle",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOTVjYzU0MTgtOTQ3MC00ZWE5LThiZDktMmI0ZTYyYjdjYTg5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  645,
+                                                            "height":  800
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0227481",
+                                       "displayName":  "Howard Dimsdale",
+                                       "alternativeNames":  [
+                                                                "Arthur H. Dales",
+                                                                "Arthur Howard Dales",
+                                                                "Arthur Dales"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0748445",
+                                       "displayName":  "Joe Ruby",
+                                       "alternativeNames":  [
+                                                                "Joe R. Ruby",
+                                                                "Joseph Ruby"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjQ2NzI2ODctZDg3My00NDQ2LTlhNDMtMjcxZmQyMjVjMDUyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  546,
+                                                            "height":  600
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "editor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001522",
+                                     "displayName":  "Roddy McDowall",
+                                     "alternativeNames":  [
+                                                              "Roddy Mc Dowall",
+                                                              "Roddy MacDowall",
+                                                              "Roddy McDowell",
+                                                              "Rody McDowell"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGZmNGNlMjEtMTY4Ni00YjBmLTg2NWQtYjRkOGY4NGMzOTU2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2400,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0363951",
+                                     "displayName":  "Ron Harper",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU4NTU2MTE1MF5BMl5BanBnXkFtZTcwOTk2NTIzMQ@@._V1_.jpg",
+                                                          "width":  350,
+                                                          "height":  491
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0622553",
+                                     "displayName":  "James Naughton",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU2MTMzOTU5M15BMl5BanBnXkFtZTYwOTQ2ODY0._V1_.jpg",
+                                                          "width":  266,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0501697",
+                                     "displayName":  "Mark Lenard",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjIxNTUwNzI4M15BMl5BanBnXkFtZTcwNzU3MzYxOA@@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1540
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  14
+                    }
+                ]
+}

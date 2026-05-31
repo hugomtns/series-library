@@ -1,0 +1,222 @@
+﻿{
+    "id":  "tt0213363",
+    "detail":  {
+                   "id":  "tt0213363",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Oggy and the Cockroaches",
+                   "originalTitle":  "Oggy et les cafards",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNzY3ZDVhMDMtOWQ1NS00NDc2LWI2OGQtY2YxOTdjMDMxZjJiXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  500,
+                                        "height":  750
+                                    },
+                   "startYear":  1997,
+                   "endYear":  2018,
+                   "runtimeSeconds":  480,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  6301
+                              },
+                   "plot":  "Oggy would be the happiest of cats if three cockroaches hadn\u0027t decided to settle inside his comfortable home.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0419829",
+                                         "displayName":  "Olivier Jean-Marie",
+                                         "alternativeNames":  [
+                                                                  "O. Jean Marie",
+                                                                  "Olivier Jean Marie"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1650378",
+                                         "displayName":  "Charles Vaucelle",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0706893",
+                                         "displayName":  "Jean-Yves Raimbaud",
+                                         "alternativeNames":  [
+                                                                  "J.Y. Raimbaud",
+                                                                  "Jean Yves Raimbaud",
+                                                                  "Jean-Yves Rimbaud"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0706893",
+                                       "displayName":  "Jean-Yves Raimbaud",
+                                       "alternativeNames":  [
+                                                                "J.Y. Raimbaud",
+                                                                "Jean Yves Raimbaud",
+                                                                "Jean-Yves Rimbaud"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "art_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0419829",
+                                       "displayName":  "Olivier Jean-Marie",
+                                       "alternativeNames":  [
+                                                                "O. Jean Marie",
+                                                                "Olivier Jean Marie"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1154090",
+                                       "displayName":  "Nicolas Gallet",
+                                       "alternativeNames":  [
+                                                                "Nicholas Gallet"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0494043",
+                                     "displayName":  "Hugues Le Bars",
+                                     "alternativeNames":  [
+                                                              "Hugues Lebars"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "composer",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0253502",
+                                     "displayName":  "Michel Elias",
+                                     "alternativeNames":  [
+                                                              "Michael Elias",
+                                                              "Elias Michel",
+                                                              "Michel Ãlias"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "FR",
+                                               "name":  "France"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "VN",
+                                               "name":  "Vietnam"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           },
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  78
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  78
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  39
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  74
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  76
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  78
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  90
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  4
+                    }
+                ]
+}

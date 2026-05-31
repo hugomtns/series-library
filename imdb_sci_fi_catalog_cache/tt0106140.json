@@ -1,0 +1,253 @@
+﻿{
+    "id":  "tt0106140",
+    "detail":  {
+                   "id":  "tt0106140",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Sonic the Hedgehog",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYzRiMGYyYTItMmRlMC00ZmE2LTk4OTEtOTJiOWM2OTBkNGYyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  469,
+                                        "height":  650
+                                    },
+                   "startYear":  1993,
+                   "endYear":  1994,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.8,
+                                  "voteCount":  5883
+                              },
+                   "plot":  "In a post-apocalyptic and dystopian future, all life has been challenged by oppression and tyranny, as the evil Dr. Robotnik is on the wake of controlling Mobius.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0617106",
+                                         "displayName":  "Ron Myrick",
+                                         "alternativeNames":  [
+                                                                  "Ron Myreck",
+                                                                  "Ron Myrek",
+                                                                  "Ron Myric",
+                                                                  "Emory \u0027Ron\u0027 Myrick",
+                                                                  "Emory Ronald Myrick",
+                                                                  "Emory Ron Myrick",
+                                                                  "Emory Myrick",
+                                                                  "Marcus Myrick"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0780922",
+                                         "displayName":  "Dick Sebast",
+                                         "alternativeNames":  [
+                                                                  "Richard Sebast",
+                                                                  "Alan Smithee"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0344686",
+                                         "displayName":  "John Grusd",
+                                         "primaryProfessions":  [
+                                                                    "art_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0020176",
+                                       "displayName":  "Pat Allee",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0219490",
+                                       "displayName":  "Jules Dennis",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0224639",
+                                       "displayName":  "Janis Diamond",
+                                       "alternativeNames":  [
+                                                                "Janis Fierstein",
+                                                                "Janis Fierstien"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0004815",
+                                     "displayName":  "Christine Cavanaugh",
+                                     "alternativeNames":  [
+                                                              "Christine Cavanagh",
+                                                              "C. Cavanaugh",
+                                                              "Chris T. Cavanaugh",
+                                                              "Christina Cavanaugh",
+                                                              "Chris Cavanaugh",
+                                                              "Christie Cavanuagh",
+                                                              "Christy Cavanuagh",
+                                                              "Chris Cavenaugh"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU1MTIwNDc1MV5BMl5BanBnXkFtZTcwMTk0OTEyOA@@._V1_.jpg",
+                                                          "width":  549,
+                                                          "height":  734
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0924918",
+                                     "displayName":  "Jaleel White",
+                                     "alternativeNames":  [
+                                                              "J. White"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA4MDc0ODAxNV5BMl5BanBnXkFtZTcwMDU0NTU2OA@@._V1_.jpg",
+                                                          "width":  600,
+                                                          "height":  337
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0012121",
+                                     "displayName":  "Charlie Adler",
+                                     "alternativeNames":  [
+                                                              "Charles Adle",
+                                                              "Carl Adler",
+                                                              "Charles Adler",
+                                                              "Charley Adler"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjhmMTE2MWUtZTI5OC00ZDRiLTliMjQtMTJjOWFiMzY1NmIyXkEyXkFqcGc@._V1_CR48,1,899,1349_.jpg",
+                                                          "width":  899,
+                                                          "height":  1349
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "casting_director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0682300",
+                                     "displayName":  "Bradley Pierce",
+                                     "alternativeNames":  [
+                                                              "Bradley Michael Pierce"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWM2YWEzN2EtYjA3Yi00ODY2LTg3N2MtZDcyOWU2NDgwYTE3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5120,
+                                                          "height":  2560
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "IT",
+                                               "name":  "Italy"
+                                           },
+                                           {
+                                               "code":  "TW",
+                                               "name":  "Taiwan (Province of China)"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "ES",
+                                               "name":  "Spain"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "ita",
+                                               "name":  "Italian"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    }
+                ]
+}

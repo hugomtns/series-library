@@ -1,0 +1,224 @@
+﻿{
+    "id":  "tt4189492",
+    "detail":  {
+                   "id":  "tt4189492",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Man Seeking Woman",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjA0MzQxODM2Ml5BMl5BanBnXkFtZTgwODExNDI2NzE@._V1_.jpg",
+                                        "width":  500,
+                                        "height":  750
+                                    },
+                   "startYear":  2015,
+                   "endYear":  2017,
+                   "runtimeSeconds":  1260,
+                   "genres":  [
+                                  "Comedy",
+                                  "Fantasy",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  11687
+                              },
+                   "plot":  "A naive romantic goes on a desperate quest for love when his longtime girlfriend dumps him.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0236226",
+                                         "displayName":  "Michael Dowse",
+                                         "alternativeNames":  [
+                                                                  "Dowse"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTU3Njc5OTgyNl5BMl5BanBnXkFtZTgwMzkwNDczMjE@._V1_.jpg",
+                                                              "width":  1363,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1730037",
+                                         "displayName":  "Jonathan Krisel",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTYyNDU1OTQ0N15BMl5BanBnXkFtZTcwNTIzMjYzNA@@._V1_.jpg",
+                                                              "width":  1483,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1469191",
+                                         "displayName":  "Tim Kirkby",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZTUyY2U0MjctZTNhOC00ZWU1LTkxYTAtMmRiNGNhNDU3YjdiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2144,
+                                                              "height":  2823
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2919995",
+                                       "displayName":  "Simon Rich",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTgzMTgwMTIwN15BMl5BanBnXkFtZTgwMTMzMjIwNDE@._V1_.jpg",
+                                                            "width":  1528,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3287778",
+                                       "displayName":  "Dan Mirk",
+                                       "alternativeNames":  [
+                                                                "Daniel Mirk"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2531261",
+                                       "displayName":  "Sofia Alvarez",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNmY5MzM2NzUtZTEwZi00NzhkLTg0MjItYmY4ODk5OGE5MjgzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  988,
+                                                            "height":  1420
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0059431",
+                                     "displayName":  "Jay Baruchel",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM5MjY0MzU0OV5BMl5BanBnXkFtZTcwOTE0NDA2NA@@._V1_.jpg",
+                                                          "width":  1508,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3138882",
+                                     "displayName":  "Britt Lower",
+                                     "alternativeNames":  [
+                                                              "Brittney Lower"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWRjYjdkNDgtZjUzOC00ZTBhLWEyODgtNmQyN2UwYTRiMTFmXkEyXkFqcGc@._V1_CR249,1,1981,2971_.jpg",
+                                                          "width":  1981,
+                                                          "height":  2971
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0241208",
+                                     "displayName":  "Robin Duke",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTcyNzc3Mjk2NF5BMl5BanBnXkFtZTgwNzk4ODg5MzE@._V1_.jpg",
+                                                          "width":  569,
+                                                          "height":  715
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2765191",
+                                     "displayName":  "Eric AndrÃ©",
+                                     "alternativeNames":  [
+                                                              "Eric Andre"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ2NzQ4MDMwOF5BMl5BanBnXkFtZTgwMzA2NDkwNDE@._V1_.jpg",
+                                                          "width":  1474,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    }
+                ]
+}

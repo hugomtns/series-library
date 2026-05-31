@@ -1,0 +1,229 @@
+﻿{
+    "id":  "tt0320038",
+    "detail":  {
+                   "id":  "tt0320038",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "John Doe",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZjFmNjU0MGQtY2IyOS00YzQwLThiYmQtZjE2NzIyODhlZWMwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  440,
+                                        "height":  640
+                                    },
+                   "startYear":  2002,
+                   "endYear":  2003,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  8563
+                              },
+                   "plot":  "A man who seems to know everything but his own name helps police solve crimes as he searches for his identity.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0001460",
+                                         "displayName":  "Mimi Leder",
+                                         "alternativeNames":  [
+                                                                  "Miriam R. Leder",
+                                                                  "Miriam Rose Leder",
+                                                                  "Miriam R. Leeder"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDMyMzU5NTgtMzcwNC00ZTk2LWIxNGEtNTEyMWJmMDk2NDU3XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3168,
+                                                              "height":  3960
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0111391",
+                                         "displayName":  "Henry Bronchtein",
+                                         "alternativeNames":  [
+                                                                  "Henry J. Bronchstein",
+                                                                  "Henry J. Bronchtein"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjI0Njg5MTk2M15BMl5BanBnXkFtZTcwMDI5NTUwNw@@._V1_.jpg",
+                                                              "width":  480,
+                                                              "height":  640
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "producer",
+                                                                    "production_manager"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0258066",
+                                         "displayName":  "FÃ©lix EnrÃ­quez AlcalÃ¡",
+                                         "alternativeNames":  [
+                                                                  "Felix Acala",
+                                                                  "Felix Enriquez Alcala",
+                                                                  "Felix EnrÃ­quez Alcala",
+                                                                  "Felix EnrÃ­que Alcala",
+                                                                  "Felix Alcala",
+                                                                  "Felix Enriquez AlcalÃ¡",
+                                                                  "Felix AlcalÃ¡",
+                                                                  "FÃ©lix Enriquez AlcalÃ¡",
+                                                                  "FÃ©lix AlcalÃ¡"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0131969",
+                                       "displayName":  "Brandon Camp",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMWZhNTVlNzYtNzFmNy00MDJjLWFhYTktYmNiZDlhNDEzMWJmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  427,
+                                                            "height":  640
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0860513",
+                                       "displayName":  "Mike Thompson",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZTllNWIyM2UtYzZjMy00ZDc4LWJmNzgtMTJhYjAxOTY5ODUyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  698,
+                                                            "height":  470
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0073766",
+                                       "displayName":  "Gretchen J. Berg",
+                                       "alternativeNames":  [
+                                                                "Gretchen Berg"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0111632",
+                                     "displayName":  "Jayne Brook",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjJkNjI3OTEtOWMzZS00MWY1LThhM2MtM2U5ZWY2MWNmMTBjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2336,
+                                                          "height":  2327
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0700712",
+                                     "displayName":  "Dominic Purcell",
+                                     "alternativeNames":  [
+                                                              "Domenic Purcell"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI1ODM3NTIxM15BMl5BanBnXkFtZTcwMzYyODY4MQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  549
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0428426",
+                                     "displayName":  "John Marshall Jones",
+                                     "alternativeNames":  [
+                                                              "J.J.",
+                                                              "John Marshall Jones Jr.",
+                                                              "J.J. Jones",
+                                                              "John Jones",
+                                                              "John Marshall"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU0OTA0MDk5Nl5BMl5BanBnXkFtZTgwMjU4NDMwMDI@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1365
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001235",
+                                     "displayName":  "William Forsythe",
+                                     "alternativeNames":  [
+                                                              "Bill Forsythe"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk4MTkxMTMwM15BMl5BanBnXkFtZTYwNzkyNDMz._V1_.jpg",
+                                                          "width":  269,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  22
+                    }
+                ]
+}

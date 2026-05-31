@@ -1,0 +1,223 @@
+﻿{
+    "id":  "tt0801425",
+    "detail":  {
+                   "id":  "tt0801425",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Day Break",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYmMxNmY0M2ItMWJiNS00ZDJjLWE5MzMtNTA3ZTE1Y2JkOGQ1XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  915,
+                                        "height":  1280
+                                    },
+                   "startYear":  2006,
+                   "endYear":  2007,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Drama",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8,
+                                  "voteCount":  8772
+                              },
+                   "plot":  "Today Detective Brett Hopper will be accused of shooting state attorney Alberto Garza. He will offer his rock solid alibi. He will realize he\u0027s been framed. And he will run. Then he will wake up and start the day over again.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0101385",
+                                         "displayName":  "Rob Bowman",
+                                         "alternativeNames":  [
+                                                                  "Rob S. Bowman",
+                                                                  "Rob Stanton Bowman"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTQyMzEzNzQzMF5BMl5BanBnXkFtZTYwMzYxMjgy._V1_.jpg",
+                                                              "width":  450,
+                                                              "height":  304
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0818465",
+                                         "displayName":  "Bryan Spicer",
+                                         "alternativeNames":  [
+                                                                  "Brian Spicer"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTU4NjAwMzI0M15BMl5BanBnXkFtZTcwNzkzODYzNg@@._V1_.jpg",
+                                                              "width":  1639,
+                                                              "height":  1536
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0445631",
+                                         "displayName":  "Frederick King Keller",
+                                         "alternativeNames":  [
+                                                                  "Fred C. Keller",
+                                                                  "Fred K. Keller",
+                                                                  "Frederick K. Keller",
+                                                                  "Fredrick K. Keller",
+                                                                  "Fred Keller"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1033788",
+                                       "displayName":  "Paul Zbyszewski",
+                                       "alternativeNames":  [
+                                                                "Paul Zybyszewski"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYzAyYWM5ZmEtODkxOC00MTM5LWE0YmItMTI2NDY1OTY1ZDhhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1763,
+                                                            "height":  1175
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0068272",
+                                       "displayName":  "Jeffrey Bell",
+                                       "alternativeNames":  [
+                                                                "Jeffery Bell",
+                                                                "Jeff Bell"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTQ4MDk2MjQzMl5BMl5BanBnXkFtZTcwNzcwOTk4OQ@@._V1_.jpg",
+                                                            "width":  1552,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1332931",
+                                       "displayName":  "David Graziano",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0004875",
+                                     "displayName":  "Taye Diggs",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ0MjQwOTQzNV5BMl5BanBnXkFtZTYwMzE5Njc4._V1_.jpg",
+                                                          "width":  258,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "executive",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1291227",
+                                     "displayName":  "Moon Bloodgood",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjk4MzA4Mzk2NV5BMl5BanBnXkFtZTcwNjIxNDY1Mg@@._V1_.jpg",
+                                                          "width":  285,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0695560",
+                                     "displayName":  "Victoria Pratt",
+                                     "alternativeNames":  [
+                                                              "Vicky Pratt",
+                                                              "Victoria"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzcyMTI1ODcxNV5BMl5BanBnXkFtZTYwNTE4MzAz._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  644
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0325707",
+                                     "displayName":  "Meta Golding",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzUxNjQzMmMtMjk0NC00N2M0LThlYjUtNmUzOWY4MjdiNmYwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2252,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

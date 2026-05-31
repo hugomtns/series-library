@@ -1,0 +1,236 @@
+﻿{
+    "id":  "tt3322314",
+    "detail":  {
+                   "id":  "tt3322314",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Luke Cage",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTcyMzc1MjI5MF5BMl5BanBnXkFtZTgwMzE4ODY2OTE@._V1_.jpg",
+                                        "width":  1442,
+                                        "height":  2048
+                                    },
+                   "startYear":  2016,
+                   "endYear":  2018,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Crime",
+                                  "Drama",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  148598
+                              },
+                   "plot":  "When a sabotaged experiment gives him super strength and unbreakable skin, Luke Cage becomes a fugitive attempting to rebuild his life in Harlem and must confront his past and fight a battle for the heart of his city.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0323758",
+                                         "displayName":  "Andy Goddard",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1305344",
+                                         "displayName":  "Marc Jobst",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzc1OGNlYjItYjIyMy00MDZjLWE2MmItYzE4MGZjODU3ZjQ0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  804,
+                                                              "height":  976
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0424800",
+                                         "displayName":  "Clark Johnson",
+                                         "alternativeNames":  [
+                                                                  "Clark \u0027Slappy Jackson",
+                                                                  "Clarque Johnson",
+                                                                  "J. Clark Johnson"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTcyNjc3MzQwOV5BMl5BanBnXkFtZTYwNTQ0NTc3._V1_.jpg",
+                                                              "width":  485,
+                                                              "height":  730
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1854539",
+                                       "displayName":  "Cheo Hodari Coker",
+                                       "alternativeNames":  [
+                                                                "Cheo Coker"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYmExNTdkOGItN2M4Mi00ZGY4LTllZmUtZmNjNmYzMDhjYzUxXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2100,
+                                                            "height":  3150
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2745499",
+                                       "displayName":  "Archie Goodwin",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BODkzZmRhOWEtZTAwNS00OTY0LTkxMWUtNDRmMTk2ZDc2NjFjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  676,
+                                                            "height":  983
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm8473934",
+                                       "displayName":  "Matt Owens",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZDhkMGMyODYtYTdkMi00Nzk5LTkxNDItNjVmODk4MjgyYTdjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2668,
+                                                            "height":  4000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1395855",
+                                     "displayName":  "Simone Missick",
+                                     "alternativeNames":  [
+                                                              "Simone Cook"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGRiMDU1MDYtZjgyNi00NDUxLTgzY2QtYTA2ZGIyN2NkNTY0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3378,
+                                                          "height":  5067
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1591496",
+                                     "displayName":  "Mike Colter",
+                                     "alternativeNames":  [
+                                                              "Michael Colter"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTEzNjhhMTYtOTIzMi00OWJiLTlmZDktYzdmMzhjYzQzMmZjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  853,
+                                                          "height":  1280
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "visual_effects"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005569",
+                                     "displayName":  "Alfre Woodard",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYzMTU4Mzk5MV5BMl5BanBnXkFtZTgwMDg1MzcxMjE@._V1_.jpg",
+                                                          "width":  1041,
+                                                          "height":  1470
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0744331",
+                                     "displayName":  "Theo Rossi",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzAwNzM5YWYtMWU0My00OGQ5LTljMWMtMzVmNjhiY2ZkN2Q4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5375,
+                                                          "height":  7166
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           },
+                                           {
+                                               "code":  "pol",
+                                               "name":  "Polish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    }
+                ]
+}

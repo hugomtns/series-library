@@ -1,0 +1,235 @@
+﻿{
+    "id":  "tt18546730",
+    "detail":  {
+                   "id":  "tt18546730",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Walking Dead: Dead City",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1382,
+                                        "height":  2048
+                                    },
+                   "startYear":  2023,
+                   "runtimeSeconds":  2760,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Horror",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  34786
+                              },
+                   "plot":  "Maggie and Negan travel into a post-apocalyptic Manhattan long ago cut off from the mainland. The city is filled with the dead and denizens who have made New York City their own world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0766349",
+                                         "displayName":  "Michael E. Satrazemis",
+                                         "alternativeNames":  [
+                                                                  "Michael Satrazemis Sr.",
+                                                                  "Michael Edison Satrazemis",
+                                                                  "Michael Satrazemis",
+                                                                  "Mike Satrazemis",
+                                                                  "Michael Satrazimas"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDk5MzVjNDAtZjRmZC00ZmUxLTlkZmUtZDU0ZjJhMGFmOGVlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1086,
+                                                              "height":  724
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0650304",
+                                         "displayName":  "Edward Ornelas",
+                                         "alternativeNames":  [
+                                                                  "Ed Ornelas"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYWE2NGZiYjEtY2ZkZi00Nzk5LWIxM2QtYjI1NTA0N2Y4NTliXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3520,
+                                                              "height":  1980
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0235852",
+                                         "displayName":  "Kevin Dowling",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc4NzA4NDY5N15BMl5BanBnXkFtZTcwNjY5MjQ1Mg@@._V1_.jpg",
+                                                              "width":  3512,
+                                                              "height":  2368
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1891501",
+                                       "displayName":  "Charlie Adlard",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "art_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2321238",
+                                       "displayName":  "Eli Jorne",
+                                       "alternativeNames":  [
+                                                                "Eli JornÃ©"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzgzM2MzOTUtYzJkZC00MTAzLWFmNWItOWUwZGU1ZjM0Zjc1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3334,
+                                                            "height":  5000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3079117",
+                                       "displayName":  "Robert Kirkman",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjE4Y2ZiNWQtOWJmNS00NDNmLWFkZWQtMzg3NWQ1ODY5NTE0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  974,
+                                                            "height":  800
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0604742",
+                                     "displayName":  "Jeffrey Dean Morgan",
+                                     "alternativeNames":  [
+                                                              "Jeff Morgan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2IzMjM1MDktMmE0ZS00NjBkLWFkYTktOGNjYTc4MTI5MjVkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3396,
+                                                          "height":  4500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1659348",
+                                     "displayName":  "Lauren Cohan",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA1MDg0MzgxOF5BMl5BanBnXkFtZTgwMzM5NDg1MzE@._V1_.jpg",
+                                                          "width":  337,
+                                                          "height":  427
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm12947294",
+                                     "displayName":  "Mahina Napoleon",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzNmMThmYzItZjQxNC00NmQ0LTg4MTQtMTIyYTlkNjM3NjVhXkEyXkFqcGc@._V1_CR162,0,2238,3357_.jpg",
+                                                          "width":  2238,
+                                                          "height":  3357
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2173080",
+                                     "displayName":  "Gaius Charles",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjMyZDJhNWEtYmEzMi00OTYwLThiM2MtOGIxNzM2YjgwMzUyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  421,
+                                                          "height":  600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000122",
+                                         "name":  "Zombie Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000185",
+                                         "name":  "Survival",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    }
+                ]
+}

@@ -1,0 +1,233 @@
+﻿{
+    "id":  "tt0118266",
+    "detail":  {
+                   "id":  "tt0118266",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The New Batman Adventures",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZGY3M2UyMmQtMWM5Zi00Njg1LWIxOWUtYmE0Mjg3Zjg3NTdiXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1363
+                                    },
+                   "startYear":  1997,
+                   "endYear":  1999,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Family",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.4,
+                                  "voteCount":  21210
+                              },
+                   "plot":  "The further and darker adventures of Batman with a new Robin, a closer association with Batgirl and the previous Robin now as Nightwing.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0722713",
+                                         "displayName":  "Dan Riba",
+                                         "alternativeNames":  [
+                                                                  "Daniel Riba"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0311435",
+                                         "displayName":  "Curt Geda",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0525665",
+                                         "displayName":  "Butch Lukic",
+                                         "alternativeNames":  [
+                                                                  "Momcilo Lucik",
+                                                                  "Momcilo Butch Lukic",
+                                                                  "Moncilo Butch Lukic"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0046042",
+                                       "displayName":  "Hilary Bader",
+                                       "alternativeNames":  [
+                                                                "Hilary J. Bader"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "soundtrack",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0075487",
+                                       "displayName":  "Stan Berkowitz",
+                                       "alternativeNames":  [
+                                                                "Stanley Berkowitz"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BN2U3NzQ1MDQtZDI4ZC00MzQ2LTlmYjYtNjdjZjBiYzJhNjE1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4536,
+                                                            "height":  6224
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "editorial_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0122334",
+                                       "displayName":  "Alan Burnett",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BM2RlMjAzYzYtMzE0MS00MzI4LWI5NGUtODQ3YjM5OTJkMWEzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  720,
+                                                            "height":  576
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0152839",
+                                     "displayName":  "Tara Strong",
+                                     "alternativeNames":  [
+                                                              "Tara Charandoff",
+                                                              "Tara Chardenoff",
+                                                              "Tara Charendoff",
+                                                              "Tara Charendoff-Strong",
+                                                              "Tara Charendorf",
+                                                              "Tara"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDk1MTUxYjQtYzNiMC00NmNhLTlhOTUtZDUzYzU0ZjU5YTcxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3792,
+                                                          "height":  5031
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0175834",
+                                     "displayName":  "Kevin Conroy",
+                                     "alternativeNames":  [
+                                                              "Kevin"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM4MDcwMTU2NF5BMl5BanBnXkFtZTcwMzMyMjg0Nw@@._V1_.jpg",
+                                                          "width":  1420,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0883996",
+                                     "displayName":  "Mathew Valencia",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0956544",
+                                     "displayName":  "Efrem Zimbalist Jr.",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODcwMzRjNzgtNjZjMy00Y2ZiLWJkMDItNWU5ZWJmZTU4MTE5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3492,
+                                                          "height":  5166
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  11
+                    }
+                ]
+}

@@ -1,0 +1,235 @@
+﻿{
+    "id":  "tt4047038",
+    "detail":  {
+                   "id":  "tt4047038",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Dirk Gently\u0027s Holistic Detective Agency",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTU3MDkzNzM5NF5BMl5BanBnXkFtZTgwMzEyNTgyMDI@._V1_.jpg",
+                                        "width":  400,
+                                        "height":  590
+                                    },
+                   "startYear":  2016,
+                   "endYear":  2017,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  62743
+                              },
+                   "plot":  "Holistic detective Dirk Gently investigates cases involving the supernatural.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0417794",
+                                         "displayName":  "Michael Patrick Jann",
+                                         "alternativeNames":  [
+                                                                  "Michael P. Jann",
+                                                                  "Michael Jann"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZGNmMTk0NGUtNjQ5Yy00ZDA3LTgwOTctMzQ4YjcxZGJmYWI1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3024,
+                                                              "height":  4032
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2161247",
+                                         "displayName":  "Paco Cabezas",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTQ2NzAxNmQtOTFhOS00NGI5LTk3YjAtYmI0MDI4ZmI1ZmE4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1024,
+                                                              "height":  717
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0205542",
+                                         "displayName":  "Tamra Davis",
+                                         "alternativeNames":  [
+                                                                  "Tamra Lee Davis"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTk4ODM3NTI2Ml5BMl5BanBnXkFtZTYwNDI4MzE1._V1_.jpg",
+                                                              "width":  261,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0010930",
+                                       "displayName":  "Douglas Adams",
+                                       "alternativeNames":  [
+                                                                "Douglas Noel Adams",
+                                                                "David Agnew",
+                                                                "Douglas"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzhlN2JlN2UtNTk2NS00MjFkLWE1MjQtMGM5NjZhZDY4NjUwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1039,
+                                                            "height":  1400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0484840",
+                                       "displayName":  "Max Landis",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjAyNjI2NTY4NV5BMl5BanBnXkFtZTcwMjU3NTgzNw@@._V1_.jpg",
+                                                            "width":  1421,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2584005",
+                                       "displayName":  "Sinead Daly",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1154650",
+                                     "displayName":  "Samuel Barnett",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjFlOWZlNDAtMDMwMS00YjM2LTk1YjAtNjgxOGQ5ODNhYmIxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  750,
+                                                          "height":  1125
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2000954",
+                                     "displayName":  "Hannah Marks",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWRiYWM1N2QtMmZiMC00ODA3LWI5OTMtYTVkMDI5NmFjM2RjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1221,
+                                                          "height":  1824
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000704",
+                                     "displayName":  "Elijah Wood",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM0NDIxMzQ5OF5BMl5BanBnXkFtZTcwNzAyNTA4Nw@@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7100118",
+                                     "displayName":  "Jade Eshete",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTgzNDc0MTcwOF5BMl5BanBnXkFtZTgwMTgzNDA4MzI@._V1_.jpg",
+                                                          "width":  1362,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    }
+                ]
+}

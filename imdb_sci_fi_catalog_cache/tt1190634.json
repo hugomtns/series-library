@@ -1,0 +1,267 @@
+﻿{
+    "id":  "tt1190634",
+    "detail":  {
+                   "id":  "tt1190634",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Boys",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZjU4OWNiYzQtMzc1NS00NjZlLTgyYTctZWY4ZmEzMTkxYjA4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2026,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Comedy",
+                                  "Crime",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.5,
+                                  "voteCount":  975625
+                              },
+                   "plot":  "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0004223",
+                                         "displayName":  "Philip Sgriccia",
+                                         "alternativeNames":  [
+                                                                  "Philip I. Sgriccia",
+                                                                  "Philip J. Sgriccia",
+                                                                  "Phillip J. Sgriccia",
+                                                                  "Phillip Sgriccia",
+                                                                  "Phil Sgriccia"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOWY5NTY2ZTYtMGY0ZC00NmE2LTg5ZjAtMDgwZDJmMzU1YTU0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  370,
+                                                              "height":  469
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0870295",
+                                         "displayName":  "Frederick E.O. Toye",
+                                         "alternativeNames":  [
+                                                                  "Fred E.O. Toye",
+                                                                  "Frederick E. O. Toye",
+                                                                  "Frederick O.E. Toye",
+                                                                  "Frederick Toye",
+                                                                  "Fredrick E.O. Toye",
+                                                                  "Fred Toye"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZGYyYmEzZTktMDkwZC00MTgyLWIzY2EtN2NkZTMyYjQ2MWJmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4032,
+                                                              "height":  3024
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0101908",
+                                         "displayName":  "Sarah Boyd",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZjE1ZjMwZjEtZDdmZS00MWQ5LTk0ZjYtOWUyMDZlNTVjY2FlXkEyXkFqcGc@._V1_CR154,1,905,1358_.jpg",
+                                                              "width":  905,
+                                                              "height":  1358
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "editorial_department"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1212017",
+                                       "displayName":  "Garth Ennis",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTYzNDY3MzU4N15BMl5BanBnXkFtZTgwMjE4NTMzODE@._V1_.jpg",
+                                                            "width":  1363,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0471392",
+                                       "displayName":  "Eric Kripke",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjEzOTYzNTEzOV5BMl5BanBnXkFtZTcwMDcwNTE4Ng@@._V1_.jpg",
+                                                            "width":  1370,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1352769",
+                                       "displayName":  "Darick Robertson",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0881631",
+                                     "displayName":  "Karl Urban",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA1MTMwMjMxN15BMl5BanBnXkFtZTgwNjA1MTA1OTE@._V1_.jpg",
+                                                          "width":  1364,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3929195",
+                                     "displayName":  "Erin Moriarty",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmZlNDQ5MzktMWMzOS00NTQ3LWE3ZGEtY2U2MzlkNTA2M2UyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1350,
+                                                          "height":  1797
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4425051",
+                                     "displayName":  "Jack Quaid",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjc5MmNjM2UtMDllYy00NjZiLTlkN2ItZDg3YjNhYjRmYmVjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  552,
+                                                          "height":  822
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1102278",
+                                     "displayName":  "Antony Starr",
+                                     "alternativeNames":  [
+                                                              "Anthony Starr"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQxMDg1Nzc0OV5BMl5BanBnXkFtZTcwODc4NTkyNw@@._V1_.jpg",
+                                                          "width":  1465,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000041",
+                                         "name":  "Raunchy Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  8
+                    }
+                ]
+}

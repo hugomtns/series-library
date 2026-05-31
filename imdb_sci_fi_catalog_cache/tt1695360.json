@@ -1,0 +1,300 @@
+﻿{
+    "id":  "tt1695360",
+    "detail":  {
+                   "id":  "tt1695360",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Legend of Korra",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMWIyMDNmMGMtZTRjZi00ZWJkLWE2ZjAtMjYwOGFiZGVkZmYzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  573,
+                                        "height":  844
+                                    },
+                   "startYear":  2012,
+                   "endYear":  2014,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.3,
+                                  "voteCount":  151311
+                              },
+                   "plot":  "Avatar Korra fights to keep Republic City safe from the evil forces of both the physical and spiritual worlds.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1685611",
+                                         "displayName":  "Ian Graham",
+                                         "alternativeNames":  [
+                                                                  "Graham Bros",
+                                                                  "Ian B. Graham"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWQ2ZjAzZjktNzE2YS00ZDkzLTg5MjQtMTY0MGU2M2JhMzc2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1290,
+                                                              "height":  2796
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1445544",
+                                         "displayName":  "Colin Heck",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1690966",
+                                         "displayName":  "Joaquim Dos Santos",
+                                         "alternativeNames":  [
+                                                                  "Joaquim Dos Santas"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjcyNTcxOTU4MV5BMl5BanBnXkFtZTcwODAxNzkyMg@@._V1_.jpg",
+                                                              "width":  1138,
+                                                              "height":  1132
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0227204",
+                                       "displayName":  "Michael Dante DiMartino",
+                                       "alternativeNames":  [
+                                                                "Michael Dante",
+                                                                "Mike DeMartino",
+                                                                "Mike Di Martino",
+                                                                "Michael DiMartino",
+                                                                "Mike DiMartino",
+                                                                "Michael Dante Dimartino"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOWQ2MDI4ZmYtNmY1OC00N2VjLTlhZTQtNGE1MGZmZGYzZTIyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  499,
+                                                            "height":  750
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1665983",
+                                       "displayName":  "Bryan Konietzko",
+                                       "alternativeNames":  [
+                                                                "Brian Konietsuko",
+                                                                "Brian Konietzuko",
+                                                                "Bryan Konietzuko",
+                                                                "Byron McKittrick"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOWQ2MDI4ZmYtNmY1OC00N2VjLTlhZTQtNGE1MGZmZGYzZTIyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  499,
+                                                            "height":  750
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2624720",
+                                       "displayName":  "Joshua Hamilton",
+                                       "alternativeNames":  [
+                                                                "Josh Hamilton"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1661282",
+                                     "displayName":  "Janet Varney",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY1ODA1NTk5NF5BMl5BanBnXkFtZTgwMDI1NTc5MjI@._V1_.jpg",
+                                                          "width":  1597,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0126260",
+                                     "displayName":  "P.J. Byrne",
+                                     "alternativeNames":  [
+                                                              "PJ Byrne"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDUzNzFiMzMtNTllMy00ZWU5LTkyMjktNmMwZGFkMDg2ZGFmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1363
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0004910",
+                                     "displayName":  "David Faustino",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmIyM2Q4Y2QtNDIxNi00YWNhLThhODctZDU2NjU2ZTU0NDNlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3000,
+                                                          "height":  2211
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0799777",
+                                     "displayName":  "J.K. Simmons",
+                                     "alternativeNames":  [
+                                                              "J. K. Simmons",
+                                                              "JK Simmons",
+                                                              "Jonathan Simmons"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzg2NTI5NzQ1MV5BMl5BanBnXkFtZTgwNjI1NDEwMDI@._V1_.jpg",
+                                                          "width":  1679,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000002",
+                                         "name":  "Action Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000016",
+                                         "name":  "Globetrotting Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000019",
+                                         "name":  "Quest",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000096",
+                                         "name":  "Fantasy Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    }
+                ]
+}

@@ -1,0 +1,242 @@
+﻿{
+    "id":  "tt13622958",
+    "detail":  {
+                   "id":  "tt13622958",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Baymax!",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYWJjNWVmMjQtNmMwYS00M2ZiLWI0ZTctMDdiODA4NjI4NDBjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1200,
+                                        "height":  1778
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2022,
+                   "runtimeSeconds":  720,
+                   "genres":  [
+                                  "Animation",
+                                  "Short",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  9588
+                              },
+                   "plot":  "The characters in the unique city of Big Hero 6 get their own series, packed with adventures.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0920031",
+                                         "displayName":  "Dean Wellins",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2833023",
+                                         "displayName":  "Dan Abraham",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0448208",
+                                         "displayName":  "Mark Kennedy",
+                                         "alternativeNames":  [
+                                                                  "Mark D. Kennedy"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0242378",
+                                       "displayName":  "Cirocco Dunlap",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2739241",
+                                       "displayName":  "Julia Fitzmaurice",
+                                       "alternativeNames":  [
+                                                                "Fitzy J. Fitzmaurice",
+                                                                "Fitzy Fitzmaurice",
+                                                                "Julia \"Fitzy\" Fitzmaurice",
+                                                                "Julia \u0027Fitzy\u0027 Fitzmaurice",
+                                                                "Julia \u0027Fritzy\u0027 Fitzmaurice",
+                                                                "Julia Fitzy Fitzmaurice"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2320658",
+                                       "displayName":  "Don Hall",
+                                       "alternativeNames":  [
+                                                                "DÃ¶n Hall"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTc4NDg2MzkxOV5BMl5BanBnXkFtZTgwNTA4MDQwMDE@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1365
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0012523",
+                                     "displayName":  "Scott Adsit",
+                                     "alternativeNames":  [
+                                                              "R. Scott Adsit",
+                                                              "C. Puppington"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjMyNzI5NTQ4Nl5BMl5BanBnXkFtZTgwMTY5NzUzMzE@._V1_.jpg",
+                                                          "width":  768,
+                                                          "height":  1156
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1901842",
+                                     "displayName":  "Dichen Lachman",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWY5MDYyMjEtZTA0Mi00OGUzLWE1MDItMjViN2RlNGUwZmQ3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  667,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3994407",
+                                     "displayName":  "Ryan Potter",
+                                     "alternativeNames":  [
+                                                              "Bebop"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2EzZTJlYTMtMjVlNy00Njc2LWEwYmItOTA3YTI5YTg2NzAwXkEyXkFqcGc@._V1_CR277,45,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7362703",
+                                     "displayName":  "Sarah-Nicole Robles",
+                                     "alternativeNames":  [
+                                                              "Sara Nicole Robles",
+                                                              "Sarah Nicole Robles"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjEzZmQ0ZTYtNmI4MS00NGU0LWFlYWItNjFlMDIwMGZkZjU0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  867,
+                                                          "height":  1300
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000158",
+                                         "name":  "Artificial Intelligence",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000212",
+                                         "name":  "Short"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    }
+                ]
+}

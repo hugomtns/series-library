@@ -1,0 +1,228 @@
+﻿{
+    "id":  "tt1884856",
+    "detail":  {
+                   "id":  "tt1884856",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Masha and the Bear",
+                   "originalTitle":  "Masha i Medved",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZTExMmMyOTMtMjliMi00YzU5LWE1MzAtZjE5ZmFiMDdhY2ZjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1470
+                                    },
+                   "startYear":  2007,
+                   "runtimeSeconds":  420,
+                   "genres":  [
+                                  "Animation",
+                                  "Short",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  5032
+                              },
+                   "plot":  "A retired circus bear settles into the woods and prepares for a quiet new life surrounded by peace and tranquility until he is introduced to an adventurous little girl named Masha.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm9021677",
+                                         "displayName":  "Roly GutiÃ©rrez",
+                                         "alternativeNames":  [
+                                                                  "Roly Gutierrez"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "sound_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0047844",
+                                         "displayName":  "Vladislav Bayramgulov",
+                                         "alternativeNames":  [
+                                                                  "Vlad Bayramgulov"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2239578",
+                                         "displayName":  "Natalya Malgina",
+                                         "alternativeNames":  [
+                                                                  "N. Malgina",
+                                                                  "Natalia Malgina",
+                                                                  "Natasha Malgina"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "editor"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1001247",
+                                       "displayName":  "Oleg Kuzovkov",
+                                       "primaryProfessions":  [
+                                                                  "cinematographer",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1666476",
+                                       "displayName":  "Joe Ksander",
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "visual_effects",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3878880",
+                                       "displayName":  "Greg Nix",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm3070914",
+                                     "displayName":  "Boris Kutnevich",
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4407924",
+                                     "displayName":  "Alina Kukushkina",
+                                     "alternativeNames":  [
+                                                              "Alena Kukushkina"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDExNDVmNjUtMWJlNS00NjFiLThmZmUtZGU4MjljNzJiNmY0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  392,
+                                                          "height":  579
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm16355720",
+                                     "displayName":  "Oriana Medina",
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6847455",
+                                     "displayName":  "Kaitlyn McCormick",
+                                     "alternativeNames":  [
+                                                              "Katie McCormick"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "RU",
+                                               "name":  "Russian Federation"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "rus",
+                                               "name":  "Russian"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000032",
+                                         "name":  "Buddy Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000212",
+                                         "name":  "Short"
+                                     },
+                                     {
+                                         "id":  "in0000232",
+                                         "name":  "Russian"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  39
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  29
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  1
+                    }
+                ]
+}

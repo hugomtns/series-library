@@ -1,0 +1,250 @@
+﻿{
+    "id":  "tt1843230",
+    "detail":  {
+                   "id":  "tt1843230",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Once Upon a Time",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZDgwNTcwYmMtNjVmNi00NDdkLTllY2MtYmQ4MTM3ZThjZTllXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1944,
+                                        "height":  2880
+                                    },
+                   "startYear":  2011,
+                   "endYear":  2018,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Adventure",
+                                  "Fantasy",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.7,
+                                  "voteCount":  248036
+                              },
+                   "plot":  "A young woman with a troubled past is drawn to a small town in Maine where fairy tales are to be believed.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0375973",
+                                         "displayName":  "Ralph Hemecker",
+                                         "alternativeNames":  [
+                                                                  "Ralph W. Hemecker"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDdkMmFjYzItODg1ZC00NDQwLTkxYWItMjM0ZjgwNTA5YWZhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2550,
+                                                              "height":  3300
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0881038",
+                                         "displayName":  "Ron Underwood",
+                                         "alternativeNames":  [
+                                                                  "Ronald B. Underwood"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjQxOTY4MTM4Ml5BMl5BanBnXkFtZTgwNjYwOTU5ODE@._V1_.jpg",
+                                                              "width":  5760,
+                                                              "height":  3840
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0924693",
+                                         "displayName":  "Dean White",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTIxMzQ2Mjk1Nl5BMl5BanBnXkFtZTgwMjE5MDQ1MjE@._V1_.jpg",
+                                                              "width":  852,
+                                                              "height":  1280
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "production_department"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0395271",
+                                       "displayName":  "Adam Horowitz",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTIxYzgzNWItNzNlZi00MGEzLTg2M2UtZTQ1ZWYxMDlhZjY5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  666,
+                                                            "height":  866
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0457736",
+                                       "displayName":  "Edward Kitsis",
+                                       "alternativeNames":  [
+                                                                "Eddy Kitsis"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BM2E3ZGE5Y2MtNmQ0ZC00M2VkLThhNzYtYmVkZDE2NWY5MzMyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2316,
+                                                            "height":  3088
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0355048",
+                                       "displayName":  "Brigitte Hales",
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001015",
+                                     "displayName":  "Robert Carlyle",
+                                     "alternativeNames":  [
+                                                              "Bobby Carlyle"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM2Njc1MjgyOF5BMl5BanBnXkFtZTcwMjY2NTAwNw@@._V1_.jpg",
+                                                          "width":  1725,
+                                                          "height":  2304
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0663469",
+                                     "displayName":  "Lana Parrilla",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGI0NTIwMGYtY2IwMS00OWIxLWJiYWYtMWE0NGE4ODJhNjU2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1125,
+                                                          "height":  1099
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0607185",
+                                     "displayName":  "Jennifer Morrison",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTVmMWVjMzAtNGVjYi00NTcyLWEwMmQtMWJkNDE2NGMyZWRlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  7911,
+                                                          "height":  9890
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0329481",
+                                     "displayName":  "Ginnifer Goodwin",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWMwNjhkZjgtNjYzYy00OWIwLWExYTYtNjE3ZDE1MjBlMzg0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  841,
+                                                          "height":  1262
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000097",
+                                         "name":  "Fairy Tale",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000155",
+                                         "name":  "Teen Romance",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  22
+                    }
+                ]
+}

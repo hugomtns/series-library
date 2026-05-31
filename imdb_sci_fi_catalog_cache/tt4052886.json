@@ -1,0 +1,243 @@
+﻿{
+    "id":  "tt4052886",
+    "detail":  {
+                   "id":  "tt4052886",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Lucifer",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYzMwNzI3MWItZTIzYi00YjkxLThhOWQtYmUwYjg4NWM0ZWI1XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  535,
+                                        "height":  755
+                                    },
+                   "startYear":  2016,
+                   "endYear":  2021,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8,
+                                  "voteCount":  392988
+                              },
+                   "plot":  "Lucifer Morningstar has decided he\u0027s had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0394032",
+                                         "displayName":  "Nathan Hope",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTQ4OTA4NzMwN15BMl5BanBnXkFtZTYwODI3MDA0._V1_.jpg",
+                                                              "width":  273,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0251032",
+                                         "displayName":  "Eagle Egilsson",
+                                         "alternativeNames":  [
+                                                                  "Egill \u0027Eagle\u0027 Egilson",
+                                                                  "Egill Ãrn Egilsson",
+                                                                  "Egill Ãrn Egilsson"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOGJhNmY1OTUtZGY4Mi00OWUxLTgxZWQtZjRiNmQ3YmRmZjM1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1284,
+                                                              "height":  2778
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0587508",
+                                         "displayName":  "Louis Shaw Milito",
+                                         "alternativeNames":  [
+                                                                  "Louis Milito"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm7137658",
+                                       "displayName":  "Mike Dringenberg",
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0301274",
+                                       "displayName":  "Neil Gaiman",
+                                       "alternativeNames":  [
+                                                                "Nails Ghoulman"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTczNjc1NjIzMV5BMl5BanBnXkFtZTYwNDU2MjYz._V1_.jpg",
+                                                            "width":  268,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1093513",
+                                       "displayName":  "Tom Kapinos",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0255124",
+                                     "displayName":  "Tom Ellis",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmYzMTk2YTUtMmY2ZS00NTYxLWJmZjEtZDQ3NWRmYmUxM2FiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2550,
+                                                          "height":  3220
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0314514",
+                                     "displayName":  "Lauren German",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWVhNmM0MzgtOWIzMi00OTVjLWE4NzEtODMzNGQxODQzZDNlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1363,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1204760",
+                                     "displayName":  "Kevin Alejandro",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA0NDkyNzI0MTBeQTJeQWpwZ15BbWU4MDI4ODUxODUx._V1_.jpg",
+                                                          "width":  2592,
+                                                          "height":  3888
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0940851",
+                                     "displayName":  "D.B. Woodside",
+                                     "alternativeNames":  [
+                                                              "D. B. Woodside",
+                                                              "DB Woodside",
+                                                              "David Bryan Woodside"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzAyMTA3OTQ3NF5BMl5BanBnXkFtZTcwODA0NTM5Nw@@._V1_.jpg",
+                                                          "width":  512,
+                                                          "height":  768
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000057",
+                                         "name":  "Police Procedural",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  10
+                    }
+                ]
+}

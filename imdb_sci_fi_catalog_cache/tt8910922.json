@@ -1,0 +1,243 @@
+﻿{
+    "id":  "tt8910922",
+    "detail":  {
+                   "id":  "tt8910922",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Solar Opposites",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZTcxODBmZGEtZDRiMy00MTA5LWIzMzEtZWI0NzE1ODMyMGM0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2700,
+                                        "height":  4000
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2025,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  36909
+                              },
+                   "plot":  "A family of aliens move to middle America, where they debate whether life is better there or on their home planet.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1490569",
+                                         "displayName":  "Kim Arndt",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm5749407",
+                                         "displayName":  "Teddy O\u0027Connor",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm4183062",
+                                         "displayName":  "Nick Reczynski",
+                                         "alternativeNames":  [
+                                                                  "Nicholas Reczynski"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzlmZDdjMjMtMDk4NC00NDYzLTk2ZGMtZGE5OGRkMTM0OThkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  400,
+                                                              "height":  604
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "editor",
+                                                                    "editorial_department"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0572982",
+                                       "displayName":  "Mike McMahan",
+                                       "alternativeNames":  [
+                                                                "Michael McMahan"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjkyMzk0OGItOGVjYy00NGYyLWFiY2QtYjJiYmRjMmUxYWFjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3382,
+                                                            "height":  5073
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1551598",
+                                       "displayName":  "Justin Roiland",
+                                       "alternativeNames":  [
+                                                                "Rustin Joyland"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOTYxMTE5MjY2Nl5BMl5BanBnXkFtZTgwMTM3Mzg3MDI@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1363
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm8432798",
+                                       "displayName":  "Jen McCartney",
+                                       "alternativeNames":  [
+                                                                "Jennifer McCartney"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2397405",
+                                     "displayName":  "Mary Mack",
+                                     "alternativeNames":  [
+                                                              "Mikelle Mary Mack Budge"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmFiOGE5ZWQtZGY5Mi00NjFkLWIzZTgtODRiY2YwNjkzZmEyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  640,
+                                                          "height":  960
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3042755",
+                                     "displayName":  "Thomas Middleditch",
+                                     "alternativeNames":  [
+                                                              "Thomas Middeditch",
+                                                              "Tomas Middleditch"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2E4YjFjZDAtMDBkNi00Nzk0LWI0NDktZDdkZTc3MThjZmZjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5000,
+                                                          "height":  3337
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4677867",
+                                     "displayName":  "Sean Giambrone",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTk0MzMzYTEtZGQyNS00MzYwLWJlOWEtMWNjNWYwNDJkZjgzXkEyXkFqcGc@._V1_CR90,1,755,1133_.jpg",
+                                                          "width":  755,
+                                                          "height":  1133
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm11562335",
+                                     "displayName":  "Sagan McMahan",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODBkNjY0ZDItMzhkOS00YmVjLTk0YTItYzlkYTRmNGRjZWIyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3482,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  10
+                    }
+                ]
+}

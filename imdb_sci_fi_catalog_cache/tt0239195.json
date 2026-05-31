@@ -1,0 +1,339 @@
+﻿{
+    "id":  "tt0239195",
+    "detail":  {
+                   "id":  "tt0239195",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Survivor",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZTg4ZWRiNmEtNWI2MC00ZTY2LWEwYzctMGM5NGFlNjNjMzM5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  2000,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Adventure",
+                                  "Game-Show",
+                                  "Reality-TV"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  30125
+                              },
+                   "plot":  "A reality show where a group of contestants are stranded in a remote location with little more than the clothes on their back. The lone survivor of this contest takes home a million dollars.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0800301",
+                                         "displayName":  "Michael Simon",
+                                         "alternativeNames":  [
+                                                                  "Michael A. Simon",
+                                                                  "Mike Simon"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BY2QyNDYzMzMtZjYxYS00NjdlLTk1YTItODQyM2NiZDllZmYwXkEyXkFqcGc@._V1_CR456,1,3333,5000_.jpg",
+                                                              "width":  3333,
+                                                              "height":  5000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0454660",
+                                         "displayName":  "Don Roy King",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc1MjAwODM4NV5BMl5BanBnXkFtZTcwMzYxNjI3Ng@@._V1_.jpg",
+                                                              "width":  1596,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0918999",
+                                         "displayName":  "Glenn Weiss",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTEyOTkwNDExMV5BMl5BanBnXkFtZTgwMjYyMTM3NDM@._V1_.jpg",
+                                                              "width":  1320,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0663789",
+                                       "displayName":  "Charlie Parsons",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmEyMWE4ZmItOTc4MC00ODVjLWJmNWMtMDdkZTQ2MDJjYzZlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2114,
+                                                            "height":  2835
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3237224",
+                                       "displayName":  "Moira McCann",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000105",
+                                         "name":  "Game Show"
+                                     },
+                                     {
+                                         "id":  "in0000106",
+                                         "name":  "Survival Competition",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000148",
+                                         "name":  "Reality TV"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "13",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "14",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "15",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "16",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "17",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "18",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "19",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  17
+                    },
+                    {
+                        "season":  "20",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "21",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "22",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "23",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "24",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "25",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "26",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "27",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "28",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "29",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  17
+                    },
+                    {
+                        "season":  "30",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "31",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "32",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "33",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "34",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "35",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "36",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "37",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "38",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "39",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "40",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "41",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "42",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "43",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "44",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "45",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "46",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "47",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "48",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "49",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "50",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "51",
+                        "episodeCount":  2
+                    },
+                    {
+                        "season":  "52",
+                        "episodeCount":  2
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  15
+                    }
+                ]
+}

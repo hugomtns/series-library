@@ -1,0 +1,212 @@
+﻿{
+    "id":  "tt14502758",
+    "detail":  {
+                   "id":  "tt14502758",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Renegade Nell",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzZkMGE1MjItYjhmNi00ZjFjLWFiYmUtNDY0MzA3MzMzODE5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  480,
+                                        "height":  711
+                                    },
+                   "startYear":  2024,
+                   "endYear":  2024,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "History"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  10842
+                              },
+                   "plot":  "A quick-witted and courageous young woman framed for murder unexpectedly becomes the most notorious outlaw in 18th-century England. When a magical spirit called Billy appears, Nell realises her destiny is bigger than she ever imagined.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0112565",
+                                         "displayName":  "Amanda Brotchie",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3995225",
+                                         "displayName":  "MJ Delaney",
+                                         "alternativeNames":  [
+                                                                  "M.J. Delaney"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BM2MxMmUxNjctYWZiYS00MzZkLTk1MzEtOWI4N2NkNDM3OTVlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3712,
+                                                              "height":  5568
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm4829613",
+                                         "displayName":  "Ben Taylor",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0906550",
+                                       "displayName":  "Sally Wainwright",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm13927332",
+                                       "displayName":  "Emme Hoy",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3576299",
+                                       "displayName":  "Georgia Christou",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0226817",
+                                     "displayName":  "Frank Dillane",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDZmNzc5MmMtOGRkMi00MjdiLWFhMmQtMDIyMzU4NDQ2ZDg4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  746,
+                                                          "height":  1011
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5308665",
+                                     "displayName":  "Louisa Harland",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTgxYWRjYzEtZGEwYy00MGQ3LWI0YWQtMWVkMGVjOGY2ODk5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2399,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2450512",
+                                     "displayName":  "Alice Kremelberg",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjRhMzRiNzMtOTUxNS00MWNjLWE2NDctOWU3NWM1NjM2YWIxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1339,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8462224",
+                                     "displayName":  "Enyi Okoronkwo",
+                                     "alternativeNames":  [
+                                                              "ÃnyÃ¬ Okoronkwo"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTI5MTUyZWMtMGJhZS00NWI5LTkyODItYTU5NDdhZWNkMmU4XkEyXkFqcGc@._V1_CR37,59,822,1233_.jpg",
+                                                          "width":  822,
+                                                          "height":  1233
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000015",
+                                         "name":  "Adventure Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000080",
+                                         "name":  "History"
+                                     },
+                                     {
+                                         "id":  "in0000096",
+                                         "name":  "Fantasy Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

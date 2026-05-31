@@ -1,0 +1,227 @@
+﻿{
+    "id":  "tt11875316",
+    "detail":  {
+                   "id":  "tt11875316",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Mysterious Benedict Society",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYjAwMTNiOWMtY2EzNC00ZGRhLTk1OTUtY2ZlZTA0NzE5OWYyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2073,
+                                        "height":  3072
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2022,
+                   "runtimeSeconds":  3000,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  6314
+                              },
+                   "plot":  "A group of gifted orphans are recruited by an eccentric benefactor to go on a secret mission.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0090386",
+                                         "displayName":  "James Bobin",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjAxMjU1NzM2MF5BMl5BanBnXkFtZTcwNzM1OTQwNw@@._V1_.jpg",
+                                                              "width":  1379,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0066439",
+                                         "displayName":  "Greg Beeman",
+                                         "alternativeNames":  [
+                                                                  "Gregg Beeman",
+                                                                  "Gregory Beeman"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODYwOTAzNjY2Ml5BMl5BanBnXkFtZTYwNDk1Nzcz._V1_.jpg",
+                                                              "width":  278,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0957197",
+                                         "displayName":  "Craig Zisk",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjM1MDA5MTcwM15BMl5BanBnXkFtZTgwNTQyNTA1MjE@._V1_.jpg",
+                                                              "width":  739,
+                                                              "height":  800
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm4977841",
+                                       "displayName":  "Heather Jeng Bladt",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm14067721",
+                                       "displayName":  "Taylor Chukwu",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "production_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0006534",
+                                       "displayName":  "Phil Hay",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BN2Q3MTg4NTAtODczYS00NmUwLTg2NTktOTQ4M2EyZmE1NjVmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1365
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0355024",
+                                     "displayName":  "Tony Hale",
+                                     "alternativeNames":  [
+                                                              "Tony Haskin"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWIxOTc1NDMtMTExNC00YjgwLTg1ZjctMDEzMzRjODdjNTRmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1071,
+                                                          "height":  1053
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1102891",
+                                     "displayName":  "Kristen Schaal",
+                                     "alternativeNames":  [
+                                                              "Frannie Hood",
+                                                              "Kristen Schall",
+                                                              "Kristin Schall",
+                                                              "Kristen Shaal"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg0NTQ1NzY1OV5BMl5BanBnXkFtZTgwMjg3NjIxMDI@._V1_.jpg",
+                                                          "width":  1050,
+                                                          "height":  1465
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0403652",
+                                     "displayName":  "Ryan Hurst",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWQ1ZWQ2YzctMmQwZS00Yzc0LWI1YzAtZWU3MzYxOWZhNTJkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1137,
+                                                          "height":  852
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5545649",
+                                     "displayName":  "MaameYaa Boafo",
+                                     "alternativeNames":  [
+                                                              "Maameyaa Boafo"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDgxMWFlMTMtYjczZS00OWU3LWFjYjEtY2FiNzU4MjQ3MjU0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1000,
+                                                          "height":  667
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    }
+                ]
+}

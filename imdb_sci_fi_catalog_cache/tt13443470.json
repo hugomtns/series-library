@@ -1,0 +1,280 @@
+﻿{
+    "id":  "tt13443470",
+    "detail":  {
+                   "id":  "tt13443470",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Wednesday",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BY2E1NDI5OWEtODJmYi00Nzg2LWI4MjUtODFiMTU2YWViOTU3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2222
+                                    },
+                   "startYear":  2022,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Comedy",
+                                  "Crime",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8,
+                                  "voteCount":  498076
+                              },
+                   "plot":  "Follows Wednesday Addams\u0027 years as a student, when she attempts to master her emerging psychic ability, thwart a killing spree, and solve the mystery that embroiled her parents.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0000318",
+                                         "displayName":  "Tim Burton",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZmFhZTljMTgtMTVmMS00NWFhLWE2ZDEtYjM5YWYwZmI0NWI1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1107,
+                                                              "height":  1639
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "miscellaneous",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0550931",
+                                         "displayName":  "James Marshall",
+                                         "alternativeNames":  [
+                                                                  "Jim Marshall"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZjc0YTk1YTMtMWRmMC00OTA4LWE4MDQtZjZlZWIwYzgxMDJmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  483,
+                                                              "height":  358
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1499979",
+                                         "displayName":  "Gandja Monteiro",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODFjNzg2OTEtN2MyYi00NzY2LWI2YTUtMWE2OTBiMjI4NTcxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2887,
+                                                              "height":  4316
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2161247",
+                                         "displayName":  "Paco Cabezas",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTQ2NzAxNmQtOTFhOS00NGI5LTk3YjAtYmI0MDI4ZmI1ZmE4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1024,
+                                                              "height":  717
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0332184",
+                                       "displayName":  "Alfred Gough",
+                                       "alternativeNames":  [
+                                                                "Al Gough"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0587692",
+                                       "displayName":  "Miles Millar",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0011623",
+                                       "displayName":  "Charles Addams",
+                                       "alternativeNames":  [
+                                                                "Chas. Addams",
+                                                                "Chas Addams"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTE5NDQ0MjYtZmU3MC00YmEwLWIxMDktNDA3YWI4YjUzYjAyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2755,
+                                                            "height":  3600
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "animation_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm4911194",
+                                     "displayName":  "Jenna Ortega",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTRmNGY5ZTgtMzI1MS00YTIwLWJhZjktOGE5OGEzMWUyYWJhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  7543,
+                                                          "height":  4762
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5547023",
+                                     "displayName":  "Hunter Doohan",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGQ3NGRlZTYtZDM0NC00NzliLWJkOWYtZDkwNmI2Y2RhMDU5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  853,
+                                                          "height":  1280
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3528821",
+                                     "displayName":  "Emma Myers",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTRkMTA1NmUtYTRjNS00NjVhLWFkMjktODIyNzQ3MTJmMDE0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2667,
+                                                          "height":  4000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8137263",
+                                     "displayName":  "Joy Sunday",
+                                     "alternativeNames":  [
+                                                              "Joy Okon Sunday"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDU5OWUwMGQtMWU4Zi00MjA5LWEwZjctZWM2NmFjNWQ2YjMyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3462,
+                                                          "height":  4328
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000049",
+                                         "name":  "Teen Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000073",
+                                         "name":  "Coming-of-Age",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000113",
+                                         "name":  "Monster Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000118",
+                                         "name":  "Teen Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000141",
+                                         "name":  "Whodunnit",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  1
+                    }
+                ]
+}

@@ -1,0 +1,225 @@
+﻿{
+    "id":  "tt4131818",
+    "detail":  {
+                   "id":  "tt4131818",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Hot Zone",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzhlYThkNDUtY2U4OC00N2QzLTk4YjctMWIwZmM0MzhlYjQwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2025,
+                                        "height":  3000
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2021,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Drama",
+                                  "History",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  10376
+                              },
+                   "plot":  "The frightening spread of the Ebola virus (season 1) and Anthrax (season 2).",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1960322",
+                                         "displayName":  "Nick Murphy",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTIyMDEwMmUtNjcyNi00OTM1LWFhN2UtZWIwOWIzZjIxMGY2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  916,
+                                                              "height":  1370
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0881461",
+                                         "displayName":  "Michael Uppendahl",
+                                         "alternativeNames":  [
+                                                                  "Mike Uppendahl"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc0MzkyODg3Nl5BMl5BanBnXkFtZTgwMjA1MTA1NjM@._V1_.jpg",
+                                                              "width":  1196,
+                                                              "height":  1704
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0269502",
+                                         "displayName":  "John Fawcett",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BN2YyNzZhZTUtOWI3NS00Mjc1LThmMDktNWU0OTQ5NGY2OWE1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2062,
+                                                              "height":  2286
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0677048",
+                                       "displayName":  "Brian Peterson",
+                                       "alternativeNames":  [
+                                                                "Brian Wayne Peterson"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1313038",
+                                       "displayName":  "Kelly Souders",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0899113",
+                                       "displayName":  "Jeff Vintar",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDYyMTVmM2UtYTM2NC00NzgzLTljYzMtMTJhZjc2MDU3MzVmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3088,
+                                                            "height":  2320
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000523",
+                                     "displayName":  "Julianna Margulies",
+                                     "alternativeNames":  [
+                                                              "Julianna"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ2MTgxOTgxMl5BMl5BanBnXkFtZTgwMzIxOTAwMDE@._V1_.jpg",
+                                                          "width":  600,
+                                                          "height":  800
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "executive",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001282",
+                                     "displayName":  "Tony Goldwyn",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk3NTI3ODgwM15BMl5BanBnXkFtZTgwMjM2NTE2NzE@._V1_.jpg",
+                                                          "width":  403,
+                                                          "height":  605
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001187",
+                                     "displayName":  "Noah Emmerich",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA5ODA1MDM2NDBeQTJeQWpwZ15BbWU4MDM4MDA3MDAy._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0196654",
+                                     "displayName":  "Daniel Dae Kim",
+                                     "alternativeNames":  [
+                                                              "Daniel Day Kim",
+                                                              "Daniel Kim",
+                                                              "Daniel Day Kim also"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjhmODA1NDYtZDQyZC00ZDE1LTk4NDgtZTRkMjI4OWM3MGMyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1885,
+                                                          "height":  2003
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000075",
+                                         "name":  "Docudrama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000080",
+                                         "name":  "History"
+                                     },
+                                     {
+                                         "id":  "in0000082",
+                                         "name":  "Medical Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  6
+                    }
+                ]
+}

@@ -1,0 +1,220 @@
+﻿{
+    "id":  "tt0056757",
+    "detail":  {
+                   "id":  "tt0056757",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Fugitive",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMDBhNmQ2NGMtYmQyYy00M2RiLTg4MDAtZDA2OTY4MWIwMzBiXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  1000
+                                    },
+                   "startYear":  1963,
+                   "endYear":  1967,
+                   "runtimeSeconds":  3060,
+                   "genres":  [
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  5229
+                              },
+                   "plot":  "Doctor Richard Kimble is wrongly convicted and sentenced to death for the murder of his wife, a murder he didn\u0027t commit. He manages to escape on route to be executed and must stay ahead of the police to find the real killer.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0394409",
+                                         "displayName":  "Jerry Hopper",
+                                         "alternativeNames":  [
+                                                                  "Jerr Hopper"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODdiMmJjYjctNzQ5NC00MDY1LWIyMjgtNGNjMzJlYjk3MjMwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  824,
+                                                              "height":  537
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0336139",
+                                         "displayName":  "Walter Grauman",
+                                         "alternativeNames":  [
+                                                                  "Walter E. Grauman"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0801883",
+                                         "displayName":  "Alexander Singer",
+                                         "alternativeNames":  [
+                                                                  "Alex Singer"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0400403",
+                                       "displayName":  "Roy Huggins",
+                                       "alternativeNames":  [
+                                                                "F.D. Averno",
+                                                                "Thomas Fitzroy",
+                                                                "John Thomas James",
+                                                                "Rex O\u0027Haogain",
+                                                                "Roy O\u0027Haogain",
+                                                                "John Francis O\u0027Hara",
+                                                                "Roy O\u0027Hoogain",
+                                                                "John Francis O\u0027Mara"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "production_manager",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0472197",
+                                       "displayName":  "Harry Kronman",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0248740",
+                                       "displayName":  "George Eckstein",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0418148",
+                                     "displayName":  "David Janssen",
+                                     "alternativeNames":  [
+                                                              "Dave Janssen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWRlMjBjMjEtNjQ1Ny00MmRhLTg5YjktNzllNzkzYzFhMDE1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3600,
+                                                          "height":  5518
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0002016",
+                                     "displayName":  "William Conrad",
+                                     "alternativeNames":  [
+                                                              "Bill Conrad",
+                                                              "J. Darnoc"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk5MTkyODY5MV5BMl5BanBnXkFtZTgwMTczMTM1NDM@._V1_.jpg",
+                                                          "width":  1638,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0607579",
+                                     "displayName":  "Barry Morse",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY4OTQyMjMyMV5BMl5BanBnXkFtZTgwMzU2OTEyMjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0083280",
+                                     "displayName":  "Paul Birch",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDI4Y2IzYWYtYzEzOS00MGVlLTg0MDktYTgzZmQ3MWIzOWVmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  950,
+                                                          "height":  991
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  30
+                    }
+                ]
+}

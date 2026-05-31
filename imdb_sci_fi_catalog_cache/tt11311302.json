@@ -1,0 +1,238 @@
+﻿{
+    "id":  "tt11311302",
+    "detail":  {
+                   "id":  "tt11311302",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Vikings: Valhalla",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYWFjYmMxMjMtMGE2ZC00YWZhLTgzNDYtYTA3ODA2MDg2NTA4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2222
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2024,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "History",
+                                  "Romance",
+                                  "War"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  71308
+                              },
+                   "plot":  "Follow-up series to \u0027Vikings\u0027 set 100 years later and focusing on the adventures of Leif Erikson, Freydis, Harald Hardrada, and the Norman King William the Conqueror.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0292468",
+                                         "displayName":  "David Frazee",
+                                         "alternativeNames":  [
+                                                                  "Dave Frazee",
+                                                                  "David J Frazee"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0703854",
+                                         "displayName":  "Hannah Quinn",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNmVkZGE5OWQtNGYwOS00NzY4LWFmZDUtNmFkYjM1MzZhZTYzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  563,
+                                                              "height":  780
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0175810",
+                                         "displayName":  "Emer Conroy",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWFjZDgzNmItYzQxZi00OTIyLTg5ZjYtM2Y4N2RmYjhkNzk0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2320,
+                                                              "height":  3088
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "script_department"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0386694",
+                                       "displayName":  "Michael Hirst",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTU1MzA4NzcyM15BMl5BanBnXkFtZTgwODkyMDcyMTE@._V1_.jpg",
+                                                            "width":  1589,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0835732",
+                                       "displayName":  "Jeb Stuart",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNTE4MDEzMmItZTAxMi00ZmFlLTliZmYtZGY5ODFkODA0ZDg2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  636,
+                                                            "height":  847
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0188520",
+                                       "displayName":  "Declan Croghan",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOWVhZjcxNTctMjcxZC00OTYyLTkxM2EtYmY3NGY1Zjc4NGZjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2790,
+                                                            "height":  2397
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm5435959",
+                                     "displayName":  "Frida Gustavsson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzEwODE4NTUtMDc3Ny00MDZmLWJlMjgtMDVjMzJiNmQxM2MzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1026,
+                                                          "height":  1520
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8703396",
+                                     "displayName":  "Sam Corlett",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODI2NTEzMWEtNzIyYi00MzIzLWFkMjUtZmRlZjdjYzJkMDk0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4345,
+                                                          "height":  6517
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3546045",
+                                     "displayName":  "Laura Berlin",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDBjZjc1OGYtYzZmOC00NGY1LThjMTQtMDBkNTI2OGE0YzBiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1500,
+                                                          "height":  2001
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5327318",
+                                     "displayName":  "Leo Suter",
+                                     "alternativeNames":  [
+                                                              "Leo Sutter"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTk2ZmM3N2UtNTIwMS00YzE3LWIxMzItYTJiNWM3OWQwYjRkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5250,
+                                                          "height":  7000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "lat",
+                                               "name":  "Latin"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000010",
+                                         "name":  "War"
+                                     },
+                                     {
+                                         "id":  "in0000011",
+                                         "name":  "War Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000079",
+                                         "name":  "Historical Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000080",
+                                         "name":  "History"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    }
+                ]
+}

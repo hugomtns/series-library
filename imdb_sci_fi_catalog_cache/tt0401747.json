@@ -1,0 +1,386 @@
+﻿{
+    "id":  "tt0401747",
+    "detail":  {
+                   "id":  "tt0401747",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Red vs. Blue",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTM5Mjk0MDM0M15BMl5BanBnXkFtZTcwNzc5MDEzMQ@@._V1_.jpg",
+                                        "width":  450,
+                                        "height":  667
+                                    },
+                   "startYear":  2003,
+                   "endYear":  2024,
+                   "runtimeSeconds":  360,
+                   "genres":  [
+                                  "Animation",
+                                  "Short",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.4,
+                                  "voteCount":  10055
+                              },
+                   "plot":  "After the Halo event of 2552, there is a brief but violent period of civil war among the humans. Two armies on opposite sides of a canyon, the Reds and Blues, fight in the most worthless piece of real estate in the galaxy.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0002438",
+                                         "displayName":  "Burnie Burns",
+                                         "alternativeNames":  [
+                                                                  "Bernie Berns",
+                                                                  "Burnie Burn",
+                                                                  "Burnie",
+                                                                  "Bernie Burns"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzE4ODgxNTMxN15BMl5BanBnXkFtZTgwMTI2MDAxNTE@._V1_.jpg",
+                                                              "width":  1024,
+                                                              "height":  1280
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0401502",
+                                         "displayName":  "Matt Hullum",
+                                         "alternativeNames":  [
+                                                                  "Matthew Hullum"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODZiYjU0MTAtZDAwZS00NzBmLTliZDItNGNhNDhhYTM2MTY5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3200,
+                                                              "height":  4000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3950939",
+                                         "displayName":  "Miles Luna",
+                                         "alternativeNames":  [
+                                                                  "Miles Milos Luna",
+                                                                  "Miles"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzJkNDY2N2ItNzVjMy00YjFjLWJlNjEtMDgwNWEyOWJjMTkzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2400,
+                                                              "height":  3000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0002438",
+                                       "displayName":  "Burnie Burns",
+                                       "alternativeNames":  [
+                                                                "Bernie Berns",
+                                                                "Burnie Burn",
+                                                                "Burnie",
+                                                                "Bernie Burns"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzE4ODgxNTMxN15BMl5BanBnXkFtZTgwMTI2MDAxNTE@._V1_.jpg",
+                                                            "width":  1024,
+                                                            "height":  1280
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3950939",
+                                       "displayName":  "Miles Luna",
+                                       "alternativeNames":  [
+                                                                "Miles Milos Luna",
+                                                                "Miles"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzJkNDY2N2ItNzVjMy00YjFjLWJlNjEtMDgwNWEyOWJjMTkzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2400,
+                                                            "height":  3000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0401502",
+                                       "displayName":  "Matt Hullum",
+                                       "alternativeNames":  [
+                                                                "Matthew Hullum"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BODZiYjU0MTAtZDAwZS00NzBmLTliZDItNGNhNDhhYTM2MTY5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3200,
+                                                            "height":  4000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1559903",
+                                     "displayName":  "Gustavo Sorola",
+                                     "alternativeNames":  [
+                                                              "Gustavo",
+                                                              "Gus",
+                                                              "Gus Sorola"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk4ODE2MTU3OV5BMl5BanBnXkFtZTYwMzU1NTAz._V1_.jpg",
+                                                          "width":  316,
+                                                          "height":  240
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "art_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0401502",
+                                     "displayName":  "Matt Hullum",
+                                     "alternativeNames":  [
+                                                              "Matthew Hullum"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODZiYjU0MTAtZDAwZS00NzBmLTliZDItNGNhNDhhYTM2MTY5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3200,
+                                                          "height":  4000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "director",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0002438",
+                                     "displayName":  "Burnie Burns",
+                                     "alternativeNames":  [
+                                                              "Bernie Berns",
+                                                              "Burnie Burn",
+                                                              "Burnie",
+                                                              "Bernie Burns"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzE4ODgxNTMxN15BMl5BanBnXkFtZTgwMTI2MDAxNTE@._V1_.jpg",
+                                                          "width":  1024,
+                                                          "height":  1280
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1559315",
+                                     "displayName":  "Geoff Ramsey",
+                                     "alternativeNames":  [
+                                                              "Geoff Fink",
+                                                              "Geoff",
+                                                              "Achievement Hunter",
+                                                              "The Ramsey Family",
+                                                              "Geoff Lazer Ramsey",
+                                                              "Geoffrey Lazar Ramsey"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA1MDk3NjgxOF5BMl5BanBnXkFtZTcwMzk2OTcyMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  565
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "animation_department",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000032",
+                                         "name":  "Buddy Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000036",
+                                         "name":  "Farce",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000158",
+                                         "name":  "Artificial Intelligence",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000212",
+                                         "name":  "Short"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  19
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "13",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "14",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "15",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "16",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "17",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "18",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "19",
+                        "episodeCount":  1
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  19
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  19
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  5
+                    }
+                ]
+}

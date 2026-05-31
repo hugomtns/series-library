@@ -1,0 +1,223 @@
+﻿{
+    "id":  "tt5464086",
+    "detail":  {
+                   "id":  "tt5464086",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Midnight, Texas",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNTM2MjcyMjctNzQ4Yi00ZGQ3LWExMGItZWRkMTZkNTA5ZGYzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  424,
+                                        "height":  626
+                                    },
+                   "startYear":  2017,
+                   "endYear":  2018,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  15736
+                              },
+                   "plot":  "Midnight is a safe haven for those who are different, but with the presence of outsiders, the residents band together and form a strong and unlikely family.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0813313",
+                                         "displayName":  "David Solomon",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0327064",
+                                         "displayName":  "Nick Gomez",
+                                         "alternativeNames":  [
+                                                                  "Nicolas Gomez"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMGYxODhkYzktYzViYy00ODIwLThhZjQtY2Y1Mzg3MmUyNTUwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  960,
+                                                              "height":  565
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0028542",
+                                         "displayName":  "Tim Andrew",
+                                         "alternativeNames":  [
+                                                                  "Tim Andrews"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDczMTkwZDEtM2Y3NS00Zjg5LTg2YzAtMGQ1ODI1ZDc1ODQ5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  864,
+                                                              "height":  1296
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2363895",
+                                       "displayName":  "Charlaine Harris",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTg3MDE4ODAwMl5BMl5BanBnXkFtZTcwNjc3NjE4Mg@@._V1_.jpg",
+                                                            "width":  600,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1044428",
+                                       "displayName":  "Monica Owusu-Breen",
+                                       "alternativeNames":  [
+                                                                "Monica Breen"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDZmZGIwNDItMTRmMy00MTJiLTlkZDQtNDRiMzQwODUzNzVkXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  870,
+                                                            "height":  800
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0583397",
+                                       "displayName":  "Turi Meyer",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYWRmMjNlOGItODkwYi00NTAwLWI1ZjUtODFkNGY5ZjM5NmVjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2448,
+                                                            "height":  3264
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1406792",
+                                     "displayName":  "Parisa Fitz-Henley",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYyNzcwMjAxNF5BMl5BanBnXkFtZTcwMDA4MDcyOA@@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  650
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2957696",
+                                     "displayName":  "FranÃ§ois Arnaud",
+                                     "alternativeNames":  [
+                                                              "Francois Arnaud"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODA2MzhjNDUtZjU4Ny00YzI2LTlhODYtNTY5YjI4NTY3YzAyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3721,
+                                                          "height":  4999
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0444223",
+                                     "displayName":  "Arielle Kebbel",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmQ0Y2IxYzEtODhmOS00NzIzLWJjMjItNjBkYTE3Y2Q4YzVmXkEyXkFqcGc@._V1_CR0,14,1169,1754_.jpg",
+                                                          "width":  1169,
+                                                          "height":  1754
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1851313",
+                                     "displayName":  "Dylan Bruce",
+                                     "alternativeNames":  [
+                                                              "Dylan L. Bruce"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTllMWEyNmItZDg0NC00ZGQ1LWExNDYtYWYwNzAyMTNkYTM1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  465,
+                                                          "height":  655
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  9
+                    }
+                ]
+}

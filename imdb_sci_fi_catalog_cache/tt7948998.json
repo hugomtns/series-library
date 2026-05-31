@@ -1,0 +1,230 @@
+﻿{
+    "id":  "tt7948998",
+    "detail":  {
+                   "id":  "tt7948998",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "God Friended Me",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjI1NzgxOTgyMF5BMl5BanBnXkFtZTgwNjU1ODIyNjM@._V1_.jpg",
+                                        "width":  1030,
+                                        "height":  1500
+                                    },
+                   "startYear":  2018,
+                   "endYear":  2020,
+                   "runtimeSeconds":  2580,
+                   "genres":  [
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  7940
+                              },
+                   "plot":  "An atheist\u0027s life is turned upside down when God adds him as a friend on Facebook.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0796864",
+                                         "displayName":  "Marcos Siega",
+                                         "alternativeNames":  [
+                                                                  "Marcos Seiga",
+                                                                  "Marco Siega"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzkyNDczNGMtYmUwOS00MDVlLTk1NWItODBiNGQ3NzkwMWQ2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2137,
+                                                              "height":  2137
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0335337",
+                                         "displayName":  "Darren Grant",
+                                         "alternativeNames":  [
+                                                                  "Darren R. Grant"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDg4MWFhZDMtNzM5My00Mjk1LWIwMmYtOWRkMjNlNzRmN2EyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4032,
+                                                              "height":  3024
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0608012",
+                                         "displayName":  "Joe Morton",
+                                         "alternativeNames":  [
+                                                                  "Joseph Morton"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTQ1MjYwMTQ2MF5BMl5BanBnXkFtZTgwNzI4MTA0NDE@._V1_.jpg",
+                                                              "width":  1629,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm4248129",
+                                       "displayName":  "Jessica Granger",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDUxYzE1MTEtYTM5NS00ZTM3LWEwODgtYWZlNzZjNTg2NTdhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1348,
+                                                            "height":  2033
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1431939",
+                                       "displayName":  "Steven Lilien",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1674339",
+                                       "displayName":  "Bryan Wynbrandt",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZjYzNGM0MjAtNGU1My00MjQ1LTgzMmUtZDJmMTAzNjY2YTA3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  401,
+                                                            "height":  584
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm6556997",
+                                     "displayName":  "Violett Beane",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDkwYjNhMmUtMDAwOS00MDA1LTgzMTMtOWU3MTJlMmNkMjU0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2449,
+                                                          "height":  3674
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7284951",
+                                     "displayName":  "Brandon Micheal Hall",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA0MzE0OTc0OTZeQTJeQWpwZ15BbWU4MDkyMzc4NDgx._V1_.jpg",
+                                                          "width":  939,
+                                                          "height":  739
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4124560",
+                                     "displayName":  "Javicia Leslie",
+                                     "alternativeNames":  [
+                                                              "Javicia Leslie Walker"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY1M2I3NzItYTFkZS00NDhmLTllN2QtYjVkOGZhYmZjZWZmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1668,
+                                                          "height":  2500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4139037",
+                                     "displayName":  "Suraj Sharma",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjI0MDU5NTM1OF5BMl5BanBnXkFtZTcwNDQ0MDYwOQ@@._V1_.jpg",
+                                                          "width":  936,
+                                                          "height":  1380
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  1
+                    }
+                ]
+}

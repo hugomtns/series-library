@@ -1,0 +1,253 @@
+﻿{
+    "id":  "tt10482560",
+    "detail":  {
+                   "id":  "tt10482560",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Kipo and the Age of Wonderbeasts",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BN2JiNGIxMzQtZjI0ZC00YTEyLWJjZGYtMjQzMDQ0YzA5OWYyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  800,
+                                        "height":  1200
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2020,
+                   "runtimeSeconds":  1440,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.3,
+                                  "voteCount":  8627
+                              },
+                   "plot":  "A girl explores the possibilities in a post-apocalyptic world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0948623",
+                                         "displayName":  "Young Ki Yoon",
+                                         "alternativeNames":  [
+                                                                  "Yun Young Kee",
+                                                                  "Young-Ki Yoon",
+                                                                  "Young-gi Yoon",
+                                                                  "Youngki Yoon",
+                                                                  "Young Yoon",
+                                                                  "Young-Ki Youn"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3165434",
+                                         "displayName":  "Bridget Underwood",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0014331",
+                                         "displayName":  "Matt Ahrens",
+                                         "alternativeNames":  [
+                                                                  "Matthew Ahrens",
+                                                                  "Matt Arhens"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "editor",
+                                                                    "editorial_department",
+                                                                    "sound_department"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm4361679",
+                                       "displayName":  "Radford Sechrist",
+                                       "alternativeNames":  [
+                                                                "Rad Sechrist"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1134267",
+                                       "displayName":  "Bill Wolkoff",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYjM4YmQwMmUtYTQ3NC00YjM3LWE4MDUtYmUyMjIzZjdiM2ZiXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3024,
+                                                            "height":  4032
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3481995",
+                                       "displayName":  "Christopher Amick",
+                                       "alternativeNames":  [
+                                                                "Chris Amick"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmRiMmE0MGMtMjlmOC00OGE5LTk0ZjYtZjQ3N2ZjOWE5MGIzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4096,
+                                                            "height":  2716
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0048389",
+                                     "displayName":  "Dee Bradley Baker",
+                                     "alternativeNames":  [
+                                                              "Bradley D. Baker",
+                                                              "Bradley Dee Baker",
+                                                              "D. Bradley Baker",
+                                                              "D. Baker",
+                                                              "Dee B. Baker",
+                                                              "Dee Bradly Baker",
+                                                              "Dee Baker",
+                                                              "Dee Barker",
+                                                              "Di Bredli Beyker",
+                                                              "Olmec"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk4MzkzMzk0MF5BMl5BanBnXkFtZTcwNDIwMjM4NA@@._V1_.jpg",
+                                                          "width":  1024,
+                                                          "height":  1536
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7232332",
+                                     "displayName":  "Karen Fukuhara",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGIxNTBmZTMtYjZmNC00MTgxLTkxYzktOTI4NmU0ZDQ4NDIxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2250,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1235154",
+                                     "displayName":  "Deon Cole",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM1MDM4ODM4OV5BMl5BanBnXkFtZTcwNDk5NTE4Nw@@._V1_.jpg",
+                                                          "width":  1360,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4273524",
+                                     "displayName":  "Sydney Mikayla",
+                                     "alternativeNames":  [
+                                                              "Sydney Brower"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmYwMWI4MDMtZWVkMy00MGMzLThmN2QtZGQ5Yzg0Y2YyMGZhXkEyXkFqcGc@._V1_CR90,1,867,1301_.jpg",
+                                                          "width":  867,
+                                                          "height":  1301
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    }
+                ]
+}

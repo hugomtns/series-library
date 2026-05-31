@@ -1,0 +1,258 @@
+﻿{
+    "id":  "tt0156200",
+    "detail":  {
+                   "id":  "tt0156200",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Babar",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNWVjZTZlNDUtNWQwMi00MmVmLTk5MDUtMDY4YmEyZmE2MjBmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  838,
+                                        "height":  1257
+                                    },
+                   "startYear":  1989,
+                   "endYear":  2002,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.5,
+                                  "voteCount":  5944
+                              },
+                   "plot":  "The adventures of the King of the elephants, his family, and friends.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0414505",
+                                         "displayName":  "Larry Jacobs",
+                                         "alternativeNames":  [
+                                                                  "Lawrence Z. Jacobs",
+                                                                  "Lawrence Zelig Jacobs",
+                                                                  "Lawrence Jacobs"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "script_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0791814",
+                                         "displayName":  "Laura Shepherd",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0081969",
+                                         "displayName":  "Luc Bihan",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1227012",
+                                       "displayName":  "Alex Boon",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0186897",
+                                       "displayName":  "Mary Crawford",
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3105980",
+                                       "displayName":  "Steven Dewar",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0083109",
+                                     "displayName":  "Richard Binsley",
+                                     "alternativeNames":  [
+                                                              "Richard Bimsley",
+                                                              "Richard Bineley",
+                                                              "Robert Binsley"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0183750",
+                                     "displayName":  "Alyson Court",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTAwMTExOTI0NTZeQTJeQWpwZ15BbWU4MDk1MDc1Nzcx._V1_.jpg",
+                                                          "width":  802,
+                                                          "height":  1202
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "casting_director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0339034",
+                                     "displayName":  "Dawn Greenhalgh",
+                                     "alternativeNames":  [
+                                                              "Dawn Greenhall"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjRkMjhlMGUtZTdlNi00OWIwLWFjZjItZmZmYmFmOWQ5OWRmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1920,
+                                                          "height":  1040
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0684521",
+                                     "displayName":  "Gordon Pinsent",
+                                     "alternativeNames":  [
+                                                              "Captain Gordon Pinsent"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTMxOTkyNzE1MF5BMl5BanBnXkFtZTcwMjc1MjQ3Ng@@._V1_.jpg",
+                                                          "width":  4256,
+                                                          "height":  2832
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0832187",
+                                     "displayName":  "Stuart Stone",
+                                     "alternativeNames":  [
+                                                              "Stu Stone"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTYyODcyNzQ5Ml5BMl5BanBnXkFtZTcwMTgyNjYyMQ@@._V1_.jpg",
+                                                          "width":  296,
+                                                          "height":  414
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "FR",
+                                               "name":  "France"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "XWG",
+                                               "name":  "West Germany"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  13
+                    }
+                ]
+}

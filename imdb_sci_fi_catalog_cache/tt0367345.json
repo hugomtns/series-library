@@ -1,0 +1,238 @@
+﻿{
+    "id":  "tt0367345",
+    "detail":  {
+                   "id":  "tt0367345",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Joan of Arcadia",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNzNlMThkNGYtMTIyMy00ODQ2LWIxMWItYzg1NGQ1OWMxYzFkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2003,
+                   "endYear":  2005,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Comedy",
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  9874
+                              },
+                   "plot":  "A teenage girl is visited by God, disguised as everyday people, and is given assignments and tasks that eventually have a positive outcome on people\u0027s lives.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0371348",
+                                         "displayName":  "James Hayman",
+                                         "alternativeNames":  [
+                                                                  "Jim Hayman"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BN2UyMDk5NGEtZDdkNS00NjNmLWE3ZTQtMGZlYjhlNGI1ZGEwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1018,
+                                                              "height":  1044
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0235852",
+                                         "displayName":  "Kevin Dowling",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc4NzA4NDY5N15BMl5BanBnXkFtZTcwNjY5MjQ1Mg@@._V1_.jpg",
+                                                              "width":  3512,
+                                                              "height":  2368
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0326837",
+                                         "displayName":  "Steve Gomer",
+                                         "alternativeNames":  [
+                                                                  "Steven Gomer"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjE0NjIxNDIyOV5BMl5BanBnXkFtZTgwMDc5Njg2NTE@._V1_.jpg",
+                                                              "width":  1138,
+                                                              "height":  1516
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0355329",
+                                       "displayName":  "Barbara Hall",
+                                       "alternativeNames":  [
+                                                                "Wendy Gillis"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0308359",
+                                       "displayName":  "Tom Garrigus",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0339858",
+                                       "displayName":  "Joy Gregory",
+                                       "alternativeNames":  [
+                                                                "Joy E. Gregory"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BODAzOGFiMDMtMzQ1Zi00NjdmLTgzYjktZDBjNzY2YzcwMjI2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  500,
+                                                            "height":  601
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001505",
+                                     "displayName":  "Joe Mantegna",
+                                     "alternativeNames":  [
+                                                              "Joseph Mantegna"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYwMzY4NDYwN15BMl5BanBnXkFtZTgwNDM3OTY4MzE@._V1_.jpg",
+                                                          "width":  1100,
+                                                          "height":  616
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005460",
+                                     "displayName":  "Mary Steenburgen",
+                                     "alternativeNames":  [
+                                                              "Mary"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk1OTI5OTc0Nl5BMl5BanBnXkFtZTcwNjc5NDMwNA@@._V1_.jpg",
+                                                          "width":  305,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0728762",
+                                     "displayName":  "Jason Ritter",
+                                     "alternativeNames":  [
+                                                              "Jason Morgan",
+                                                              "Jason Morgan Ritter"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTY0ZmJkNWQtZjNkNS00NzZjLWJiMTgtMjk0YmUyYzc2OTFhXkEyXkFqcGc@._V1_CR1,1,1492,2238_.jpg",
+                                                          "width":  1492,
+                                                          "height":  2238
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "stunts"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0848554",
+                                     "displayName":  "Amber Tamblyn",
+                                     "alternativeNames":  [
+                                                              "Amber Rose Tamblyn"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjhiZjIyZmItMjAzOS00MmI1LWI4ODktZDQ3MzExYWVjM2I0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  750
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000073",
+                                         "name":  "Coming-of-Age",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    }
+                ]
+}

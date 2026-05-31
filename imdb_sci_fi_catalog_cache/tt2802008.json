@@ -1,0 +1,226 @@
+﻿{
+    "id":  "tt2802008",
+    "detail":  {
+                   "id":  "tt2802008",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Once Upon a Time in Wonderland",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTU2NDgyMDQ3MV5BMl5BanBnXkFtZTgwMjY5NDczMDE@._V1_.jpg",
+                                        "width":  1181,
+                                        "height":  1575
+                                    },
+                   "startYear":  2013,
+                   "endYear":  2014,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Adventure",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.9,
+                                  "voteCount":  13556
+                              },
+                   "plot":  "In Victorian England, the young and beautiful Alice tells a tale of a strange new land that exists on the other side of a rabbit hole.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0375973",
+                                         "displayName":  "Ralph Hemecker",
+                                         "alternativeNames":  [
+                                                                  "Ralph W. Hemecker"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDdkMmFjYzItODg1ZC00NDQwLTkxYWItMjM0ZjgwNTA5YWZhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2550,
+                                                              "height":  3300
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0864268",
+                                         "displayName":  "Romeo Tirone",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWZhNDdkOWYtYmQ3NS00ODY5LWIxNjEtZmY5ZmRlODA1NTJkXkEyXkFqcGc@._V1_CR505,0,719,1079_.jpg",
+                                                              "width":  719,
+                                                              "height":  1079
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1012772",
+                                         "displayName":  "Ciaran Donnelly",
+                                         "alternativeNames":  [
+                                                                  "CiarÃ¡n Donnelly"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDAzNzY4NTAtMzZhZC00MmY3LWE4YjYtNTJmOGE0ZDIxZWNmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1220,
+                                                              "height":  790
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0260870",
+                                       "displayName":  "Jane Espenson",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjQ2MDkyNDgyN15BMl5BanBnXkFtZTcwOTk0MDM0Nw@@._V1_.jpg",
+                                                            "width":  1363,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0261922",
+                                       "displayName":  "Zack Estrin",
+                                       "alternativeNames":  [
+                                                                "Zach Estrin"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOTBhYjMzZTctMzI2MC00MGM5LTkwNGQtYzQ3ZDNmMWY1OTA1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  882,
+                                                            "height":  1243
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0395271",
+                                       "displayName":  "Adam Horowitz",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTIxYzgzNWItNzNlZi00MGEzLTg2M2UtZTQ1ZWYxMDlhZjY5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  666,
+                                                            "height":  866
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2523072",
+                                     "displayName":  "Michael Socha",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDM4Mjg1NjM5NV5BMl5BanBnXkFtZTgwNjE4MDU0NzE@._V1_.jpg",
+                                                          "width":  581,
+                                                          "height":  605
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2998321",
+                                     "displayName":  "Sophie Lowe",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzY4NTlkOTQtMjk3NC00MDA5LWI1MjktMThiYzJhNDg2NzUzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  525,
+                                                          "height":  700
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "editor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2050746",
+                                     "displayName":  "Emma Rigby",
+                                     "alternativeNames":  [
+                                                              "Emma Catherine Rigby"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ0NjU4MDk5N15BMl5BanBnXkFtZTcwNTA5NDA5OQ@@._V1_.jpg",
+                                                          "width":  1363,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3461801",
+                                     "displayName":  "Peter Gadiot",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTIxMzU2ZWUtZmZiNS00ZDJhLWIxOWEtNjIwMGIzNTNhNGM1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3060,
+                                                          "height":  4597
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000097",
+                                         "name":  "Fairy Tale",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

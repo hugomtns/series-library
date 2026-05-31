@@ -1,0 +1,276 @@
+﻿{
+    "id":  "tt0429305",
+    "detail":  {
+                   "id":  "tt0429305",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "American Dragon: Jake Long",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZGI1NDE3MDItODU4ZC00Yjc2LWE4NzctMDI0MTE3Y2JiOGYyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  724,
+                                        "height":  1086
+                                    },
+                   "startYear":  2005,
+                   "endYear":  2007,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.6,
+                                  "voteCount":  15236
+                              },
+                   "plot":  "A teenage slacker is given the ability to turn into the American Dragon and defend all mythical creatures that secretly reside in the human world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1134050",
+                                         "displayName":  "Christian Roman",
+                                         "alternativeNames":  [
+                                                                  "Chris Roman"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1006989",
+                                         "displayName":  "Nicholas Filippi",
+                                         "alternativeNames":  [
+                                                                  "Nick Filipi",
+                                                                  "Nick Filippi",
+                                                                  "Nick Fillipi",
+                                                                  "Nick Fillippi"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0521425",
+                                         "displayName":  "Steve Loter",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzIyZjBjYTUtNGRiNS00MWFkLTg4ZDMtZDFkMGYwYmRkNGY5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4683,
+                                                              "height":  7017
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0328817",
+                                       "displayName":  "Jeff Goode",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0349966",
+                                       "displayName":  "Eddie Guzelian",
+                                       "alternativeNames":  [
+                                                                "Edward Guzelian"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0619408",
+                                       "displayName":  "Matthew Negrete",
+                                       "alternativeNames":  [
+                                                                "Matte Negrete",
+                                                                "Matt Negrete",
+                                                                "Matt Negrette"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0002364",
+                                     "displayName":  "Dante Basco",
+                                     "alternativeNames":  [
+                                                              "DantÃ© Basco",
+                                                              "Dante Basco aka Prince Zuko"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2JmZGU1OTUtZjA0Ny00MzNlLWEyZjgtOTBhZjk5NTk2N2MxXkEyXkFqcGc@._V1_CR666,42,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1717849",
+                                     "displayName":  "kittie KaBoom",
+                                     "alternativeNames":  [
+                                                              "Kittle KaBoom",
+                                                              "Kittie Kaboom",
+                                                              "Miss Kittie",
+                                                              "Kittie",
+                                                              "Kittie Troy"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjZlM2NhNzUtN2ZkNC00MGIxLWEyMWUtMTM5NjJjMDU3MTk4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4032,
+                                                          "height":  3024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0278096",
+                                     "displayName":  "Charlie Finn",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDkyODY3NDUyOV5BMl5BanBnXkFtZTcwNDEwMjkyMQ@@._V1_.jpg",
+                                                          "width":  300,
+                                                          "height":  450
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0949775",
+                                     "displayName":  "Keone Young",
+                                     "alternativeNames":  [
+                                                              "Keone Yong",
+                                                              "Keoni Young"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc4OTkwNTA5OV5BMl5BanBnXkFtZTgwMDMyOTM0MjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CN",
+                                               "name":  "China"
+                                           },
+                                           {
+                                               "code":  "HK",
+                                               "name":  "Hong Kong (Special Administrative Region of China)"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "PH",
+                                               "name":  "Philippines"
+                                           },
+                                           {
+                                               "code":  "TW",
+                                               "name":  "Taiwan (Province of China)"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000049",
+                                         "name":  "Teen Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  31
+                    }
+                ]
+}

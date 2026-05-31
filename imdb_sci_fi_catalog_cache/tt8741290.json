@@ -1,0 +1,201 @@
+﻿{
+    "id":  "tt8741290",
+    "detail":  {
+                   "id":  "tt8741290",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Tales from the Loop",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTlhNzI5YjAtMDllZC00MmJjLTk4MGYtYjdiNWEyOTc3Mjc1XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  600,
+                                        "height":  900
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2020,
+                   "runtimeSeconds":  3000,
+                   "genres":  [
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  26623
+                              },
+                   "plot":  "The townspeople who live above \"The Loop,\" a machine built to unlock and explore the mysteries of the universe, experience things previously consigned to the realm of science fiction.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0000149",
+                                         "displayName":  "Jodie Foster",
+                                         "alternativeNames":  [
+                                                                  "Jodi Foster",
+                                                                  "Jody Foster"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTM3MjgyOTQwNF5BMl5BanBnXkFtZTcwMDczMzEwNA@@._V1_.jpg",
+                                                              "width":  274,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0811611",
+                                         "displayName":  "So Yong Kim",
+                                         "alternativeNames":  [
+                                                                  "So-yong Kim",
+                                                                  "SoYong Kim"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzNlNWE4OWItNDAyOS00YWU5LWFhYWEtNzk0Mzc1N2IwODQwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  900,
+                                                              "height":  900
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1660595",
+                                         "displayName":  "Charlie McDowell",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTUxMmE1NGEtZDMyMy00NTg0LWJiMDQtMmRiMTc1ZTQ1Y2FlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2000,
+                                                              "height":  2500
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3408356",
+                                       "displayName":  "Nathaniel Halpern",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzlmODA4NTQtZGM1MS00MjIxLThmNDUtYjRhODNjZWNiMTM1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1650,
+                                                            "height":  2475
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5008641",
+                                       "displayName":  "Simon StÃ¥lenhag",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjIzMjUxNTg3OF5BMl5BanBnXkFtZTgwODE3MDMwNTM@._V1_.jpg",
+                                                            "width":  1365,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "composer",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0356017",
+                                     "displayName":  "Rebecca Hall",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjkzODU4MTQ4OV5BMl5BanBnXkFtZTcwNDU0MTA4NA@@._V1_.jpg",
+                                                          "width":  1538,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6002170",
+                                     "displayName":  "Daniel Zolghadri",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTQ4ZDA1MWUtYjhhOC00OTU5LWJmMzQtOGNjYmI1MzBlNjA0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1777,
+                                                          "height":  2128
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0773973",
+                                     "displayName":  "Paul Schneider",
+                                     "alternativeNames":  [
+                                                              "Otto Peotomy"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE1MjczMTcxNF5BMl5BanBnXkFtZTcwMjkzOTQyNQ@@._V1_.jpg",
+                                                          "width":  194,
+                                                          "height":  259
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm10552549",
+                                     "displayName":  "Robert Nahum",
+                                     "alternativeNames":  [
+                                                              "Robert Nahum Allen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODU3YmI3MDktZmFkMC00NGMzLWEyNmItNjZhMmJiNjI3ZWE1XkEyXkFqcGc@._V1_CR108,1,1906,2859_.jpg",
+                                                          "width":  1906,
+                                                          "height":  2859
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

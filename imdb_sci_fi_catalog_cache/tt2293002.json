@@ -1,0 +1,311 @@
+﻿{
+    "id":  "tt2293002",
+    "detail":  {
+                   "id":  "tt2293002",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Ben 10: Omniverse",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYjE1N2EzYzQtMWExOC00N2FjLWEwYjMtNjdlNWUwYzQwMzEyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1280,
+                                        "height":  1920
+                                    },
+                   "startYear":  2012,
+                   "endYear":  2014,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.7,
+                                  "voteCount":  10635
+                              },
+                   "plot":  "The continuing adventures of Ben Tennyson (Yuri Lowenthal) and his new partner, Rook Blonko (Bumper Robinson).",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0453493",
+                                         "displayName":  "Jae H. Kim",
+                                         "alternativeNames":  [
+                                                                  "Jae Hong Kim",
+                                                                  "Jae Woo Kim",
+                                                                  "Jaehui Kim",
+                                                                  "Jae Kim"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0722713",
+                                         "displayName":  "Dan Riba",
+                                         "alternativeNames":  [
+                                                                  "Daniel Riba"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3254520",
+                                         "displayName":  "Jae Woo Kim",
+                                         "alternativeNames":  [
+                                                                  "Kim Jae-Woo",
+                                                                  "Jae W. Kim",
+                                                                  "Jaewoo Kim",
+                                                                  "Jae Kim",
+                                                                  "Jae-Woo Won",
+                                                                  "Jae Woo",
+                                                                  "Kim Jae Woo",
+                                                                  "Won Jae Woo",
+                                                                  "Won Jae Wu",
+                                                                  "Kim Jae-Woo in English credits"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2185413",
+                                       "displayName":  "Man of Action",
+                                       "alternativeNames":  [
+                                                                "Joe Kelly"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1424524",
+                                       "displayName":  "Joe Casey",
+                                       "alternativeNames":  [
+                                                                "Man Of Action",
+                                                                "Man of Action"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2399856",
+                                       "displayName":  "Joe Kelly",
+                                       "alternativeNames":  [
+                                                                "Man Of Action",
+                                                                "Man of Action",
+                                                                "Joseph Kelly"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0523180",
+                                     "displayName":  "Yuri Lowenthal",
+                                     "alternativeNames":  [
+                                                              "Jimmy Benedict",
+                                                              "Yello Lollicup",
+                                                              "Yello Lollicups",
+                                                              "Sean Roberts"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2YzZGYzMGMtMDI1MS00MGJlLWE4ODQtNjQ2M2RiNDc4ODZiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  589,
+                                                          "height":  625
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0732436",
+                                     "displayName":  "Bumper Robinson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk3NjExMjk3OF5BMl5BanBnXkFtZTcwMjMwOTgxOA@@._V1_.jpg",
+                                                          "width":  926,
+                                                          "height":  1221
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1082823",
+                                     "displayName":  "Eric Bauza",
+                                     "alternativeNames":  [
+                                                              "Daffy Duck",
+                                                              "Gerald Ryley"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTU0NTA0ZDktOTZlYy00ZDRjLWI1YWItZjYxODk2ZTdhMThjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  490,
+                                                          "height":  490
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "animation_department",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0251646",
+                                     "displayName":  "Paul Eiding",
+                                     "alternativeNames":  [
+                                                              "Paul Edding",
+                                                              "Paul Elding",
+                                                              "Paul Otis",
+                                                              "Otis Paul"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzRjZGRlYWYtMzQxNy00YmZkLWFmZjEtZDlkZjYxYzVjMmI4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1198,
+                                                          "height":  1600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000023",
+                                         "name":  "Teen Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000049",
+                                         "name":  "Teen Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000157",
+                                         "name":  "Alien Invasion",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  10
+                    }
+                ]
+}

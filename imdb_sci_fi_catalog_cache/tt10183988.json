@@ -1,0 +1,229 @@
+﻿{
+    "id":  "tt10183988",
+    "detail":  {
+                   "id":  "tt10183988",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Julie and the Phantoms",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNWIxNzllYjEtZmM3ZS00NjNlLWIxODAtNTIyOWJhZWVhY2FlXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  800,
+                                        "height":  1185
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2020,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy",
+                                  "Musical"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.4,
+                                  "voteCount":  14104
+                              },
+                   "plot":  "Julie is a teenage girl who finds her passion for music and life with the help of a high-concept band of teen boys \"The Phantoms\" who have been dead for 25 years. Julie, in turn, helps them become the band they were never able to be.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0650905",
+                                         "displayName":  "Kenny Ortega",
+                                         "alternativeNames":  [
+                                                                  "Kenneth Ortega"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMmU5ZWQ5MzUtZWRiMi00NTEyLTgzZmYtOWJjNmQ1OWFkOTUwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2000,
+                                                              "height":  3000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "choreographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1158282",
+                                         "displayName":  "Kabir Akhtar",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTQ5MjU2MzQtMzBjYS00YWNjLTg5ODAtODgyNTAyOTFhNWFhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  396,
+                                                              "height":  594
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1033939",
+                                         "displayName":  "Paul Becker",
+                                         "alternativeNames":  [
+                                                                  "Paul Goodman Becker"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZmQxYWMyMDUtOWRiOC00MTRmLThlZDUtNDdmM2IxYWJmMmZjXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1246,
+                                                              "height":  1784
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "choreographer",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0189137",
+                                       "displayName":  "Dan Cross",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1992562",
+                                       "displayName":  "Fabio Danesi",
+                                       "alternativeNames":  [
+                                                                "FÃ¡bio Danesi",
+                                                                "Fabio Danesii",
+                                                                "Fabio Danesi Rossi"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0389668",
+                                       "displayName":  "David Hoge",
+                                       "alternativeNames":  [
+                                                                "Dave Hoge"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm11814466",
+                                     "displayName":  "Madison Reyes",
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6035910",
+                                     "displayName":  "Charlie Gillespie",
+                                     "alternativeNames":  [
+                                                              "Charles Gillespie"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWMwYTE0NjktZTI1ZS00OWFkLWIwNjktYTkzYmYyYjViODU3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5391,
+                                                          "height":  7188
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "production_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6669135",
+                                     "displayName":  "Owen Patrick Joyner",
+                                     "alternativeNames":  [
+                                                              "Owen Joyner"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWRmNDE2ZDgtYTgwMC00M2RlLWI2MTYtODcxNzQzMjJmNTQ3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1290,
+                                                          "height":  1931
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1660179",
+                                     "displayName":  "Jeremy Shada",
+                                     "alternativeNames":  [
+                                                              "Jaden Shada"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzk1YjliNGYtMjM4NC00M2FjLWI2YjktMjMxMjU4M2Q1Y2U1XkEyXkFqcGc@._V1_CR1522,533,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000049",
+                                         "name":  "Teen Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000133",
+                                         "name":  "Musical"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  9
+                    }
+                ]
+}

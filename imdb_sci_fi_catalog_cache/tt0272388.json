@@ -1,0 +1,233 @@
+﻿{
+    "id":  "tt0272388",
+    "detail":  {
+                   "id":  "tt0272388",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "House of Mouse",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMmNiOGI2MjAtZTk0Zi00ZTBlLTk4NWYtYjNlNjU2NWI0NWYxXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  435,
+                                        "height":  619
+                                    },
+                   "startYear":  2001,
+                   "endYear":  2003,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  5256
+                              },
+                   "plot":  "Collections of short cartoons hosted by Mickey and his Disney pals at his club, The House of Mouse.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0186038",
+                                         "displayName":  "Tony Craig",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0304432",
+                                         "displayName":  "Bobs Gannaway",
+                                         "alternativeNames":  [
+                                                                  "Bobs Ganaway",
+                                                                  "Roberts Gannaway"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "miscellaneous",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0773985",
+                                         "displayName":  "Rick Calabash",
+                                         "alternativeNames":  [
+                                                                  "R.T. Schneider",
+                                                                  "Rick Schneider",
+                                                                  "Rick Schneider-Calabash"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0132644",
+                                       "displayName":  "Kevin Campbell",
+                                       "alternativeNames":  [
+                                                                "Kevin D. Campbell"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0366554",
+                                       "displayName":  "Thomas Hart",
+                                       "alternativeNames":  [
+                                                                "Thomas D. Hart",
+                                                                "Tom Hart"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0162607",
+                                       "displayName":  "Elizabeth Stonecipher",
+                                       "alternativeNames":  [
+                                                                "E.A. Cox",
+                                                                "Elizabeth Stonecypher"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "cinematographer",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0021656",
+                                     "displayName":  "Wayne Allwine",
+                                     "alternativeNames":  [
+                                                              "Wayne A. Allwine"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAxMzAzODAzOF5BMl5BanBnXkFtZTcwMDQwMTk5Nw@@._V1_.jpg",
+                                                          "width":  1465,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "sound_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0267724",
+                                     "displayName":  "Bill Farmer",
+                                     "alternativeNames":  [
+                                                              "William Farmer",
+                                                              "Bill Faruer"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYThhZjYxZDUtNzJkYS00MTM5LWIxNGEtYzQxODA2OGQ3YjYzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  682,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0734509",
+                                     "displayName":  "Rod Roddy",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0123553",
+                                     "displayName":  "Corey Burton",
+                                     "alternativeNames":  [
+                                                              "Cory Barton",
+                                                              "Corry Burton",
+                                                              "Cory Burton"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY1MTkzNTA2NV5BMl5BanBnXkFtZTcwMzUyODc3OA@@._V1_.jpg",
+                                                          "width":  216,
+                                                          "height":  280
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "PH",
+                                               "name":  "Philippines"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           },
+                                           {
+                                               "code":  "AU",
+                                               "name":  "Australia"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    }
+                ]
+}

@@ -1,0 +1,216 @@
+﻿{
+    "id":  "tt6045840",
+    "detail":  {
+                   "id":  "tt6045840",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Black Lightning",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZTI4NWZhNDItZTg5MS00NzhjLWFhOGYtM2JjZGI5NjZhYTEwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  504,
+                                        "height":  755
+                                    },
+                   "startYear":  2018,
+                   "endYear":  2021,
+                   "runtimeSeconds":  2580,
+                   "genres":  [
+                                  "Action",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.1,
+                                  "voteCount":  29092
+                              },
+                   "plot":  "A crusading school principal gets back into action as the original African-American electrical superhero.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0015328",
+                                         "displayName":  "Salim Akil",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTY3NDc2NDMxNl5BMl5BanBnXkFtZTgwNjk5NTA4NjE@._V1_.jpg",
+                                                              "width":  182,
+                                                              "height":  276
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0779641",
+                                         "displayName":  "Oz Scott",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTdkY2NjNGQtNjZmYi00ODM3LWFkNDQtOGRjZTFkNjc1MzcyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4499,
+                                                              "height":  6748
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0937306",
+                                         "displayName":  "Bille Woodruff",
+                                         "alternativeNames":  [
+                                                                  "Billie Woodruff"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTI4NDgyMTg2Nl5BMl5BanBnXkFtZTgwNzE3MDA0MTE@._V1_.jpg",
+                                                              "width":  666,
+                                                              "height":  1000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0015328",
+                                       "displayName":  "Salim Akil",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTY3NDc2NDMxNl5BMl5BanBnXkFtZTgwNjk5NTA4NjE@._V1_.jpg",
+                                                            "width":  182,
+                                                            "height":  276
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4643584",
+                                       "displayName":  "Tony Isabella",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "animation_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5132606",
+                                       "displayName":  "Trevor Von Eeden",
+                                       "alternativeNames":  [
+                                                                "Milestone Media"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0930317",
+                                     "displayName":  "Cress Williams",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTQxMjc4NDQwMV5BMl5BanBnXkFtZTgwOTMzNTY5NTM@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4049910",
+                                     "displayName":  "Nafessa Williams",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDI5NWU1OGEtODRhNS00YzEwLWJjMWYtODg0MTU4ZTM1YjAyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0010837",
+                                     "displayName":  "Christine Adams",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjQxMTRmZTItNzYzMS00MmY1LThhZmItYzIzMjRiNmUwNmNmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1170,
+                                                          "height":  1639
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3993304",
+                                     "displayName":  "Marvin Jones III",
+                                     "alternativeNames":  [
+                                                              "Marvin \u0027Krondon\u0027 Jones III",
+                                                              "Krondon"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ5YzRlNmQtMWQzZS00MWM4LWJhY2ItYjM4NDE0OGE4OTg4XkEyXkFqcGc@._V1_CR0,1,2969,4454_.jpg",
+                                                          "width":  2969,
+                                                          "height":  4454
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    }
+                ]
+}

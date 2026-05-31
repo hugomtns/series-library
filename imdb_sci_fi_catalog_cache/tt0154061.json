@@ -1,0 +1,296 @@
+﻿{
+    "id":  "tt0154061",
+    "detail":  {
+                   "id":  "tt0154061",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "CatDog",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZDIzNWIyZjItMzFkNS00M2NhLWFkMzAtNmYxYjZjMjAxYTY3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  780,
+                                        "height":  1170
+                                    },
+                   "startYear":  1998,
+                   "endYear":  2005,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.5,
+                                  "voteCount":  27208
+                              },
+                   "plot":  "The life and times of a cat and a dog with a unique twist: they\u0027re connected, literally. Adding to their dilemma is Cat\u0027s annoyance with Dog, mainly caused by Dog\u0027s stupidity and Cat\u0027s up-tight personality.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1008728",
+                                         "displayName":  "Robert Porter",
+                                         "alternativeNames":  [
+                                                                  "Rob Porter"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1172823",
+                                         "displayName":  "Russ Mooney",
+                                         "alternativeNames":  [
+                                                                  "Russell E. Mooney",
+                                                                  "Russell Mooney",
+                                                                  "Russel Mooney"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTgyNTQ1ODMzNV5BMl5BanBnXkFtZTYwNTM2NTcy._V1_.jpg",
+                                                              "width":  250,
+                                                              "height":  290
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0238757",
+                                         "displayName":  "Derek Drymon",
+                                         "alternativeNames":  [
+                                                                  "Derek Dryman"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "miscellaneous",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1124994",
+                                       "displayName":  "Peter Hannan",
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0052246",
+                                       "displayName":  "Steven Banks",
+                                       "alternativeNames":  [
+                                                                "Steve Banks",
+                                                                "Billy the Mime"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1032254",
+                                       "displayName":  "Andy Rheingold",
+                                       "alternativeNames":  [
+                                                                "Adam Reingold",
+                                                                "Andy Rhinegold"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzliNWRmNWYtYmUyZC00NjA3LTgzNjgtNTVhYzVmY2ExODNlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  595,
+                                                            "height":  492
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0191906",
+                                     "displayName":  "Jim Cummings",
+                                     "alternativeNames":  [
+                                                              "Jim Jonah Cumkings",
+                                                              "Jim Cumming",
+                                                              "J. Jonah Cummings",
+                                                              "James J. Cummings",
+                                                              "James Cummings",
+                                                              "Jim J. Cummings",
+                                                              "Jim Jonah Cummings",
+                                                              "Jimmy Cummings",
+                                                              "Jonah Cummings",
+                                                              "Tim Cummings"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWYyYjg3ODItODAyNC00MWFkLTliOWYtYTNmZDI3M2M4MDEwXkEyXkFqcGc@._V1_CR1190,58,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0444786",
+                                     "displayName":  "Tom Kenny",
+                                     "alternativeNames":  [
+                                                              "Thomas J. Kenney",
+                                                              "Tom Kenney",
+                                                              "Thomas J. Kenny",
+                                                              "Tom J. Kenny",
+                                                              "Tomcat Kenny"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU3MzkzNDI0NV5BMl5BanBnXkFtZTYwMTMyNzE3._V1_.jpg",
+                                                          "width":  485,
+                                                          "height":  729
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0016141",
+                                     "displayName":  "Carlos Alazraqui",
+                                     "alternativeNames":  [
+                                                              "Carlos Alazaraqui",
+                                                              "Carlos Alazarqui",
+                                                              "Carlos Alazragui",
+                                                              "Caslos Alazraqui",
+                                                              "Carlos Alzraqui",
+                                                              "Dennis O\u0027Connor"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQyMTk3MzIyOF5BMl5BanBnXkFtZTcwODA0MDk5Nw@@._V1_.jpg",
+                                                          "width":  1638,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0921942",
+                                     "displayName":  "Billy West",
+                                     "alternativeNames":  [
+                                                              "Chester Kimes",
+                                                              "Johnny Reagan",
+                                                              "Bill West"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDZkN2EwOWItOGI1OS00MTAxLWI2NmYtZDUxZTc1MmM3MWEwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  731,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000032",
+                                         "name":  "Buddy Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000036",
+                                         "name":  "Farce",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000037",
+                                         "name":  "High-Concept Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  33
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    }
+                ]
+}

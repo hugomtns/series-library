@@ -1,0 +1,403 @@
+﻿{
+    "id":  "tt0149460",
+    "detail":  {
+                   "id":  "tt0149460",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Futurama",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjYxNDgxM2MtYzNmNi00ODYwLWI0ZmEtZDM3M2QwZGQ3MWI3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2700,
+                                        "height":  4000
+                                    },
+                   "startYear":  1999,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.5,
+                                  "voteCount":  278768
+                              },
+                   "plot":  "Philip J. Fry, a pizza delivery boy, is accidentally frozen in 1999 and thawed out on New Year\u0027s Eve 2999.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0042796",
+                                         "displayName":  "Peter Avanzino",
+                                         "alternativeNames":  [
+                                                                  "Pete Avanzino"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMWEwZmJiMjEtZTdmMC00MGU3LWI4ZTMtMDBlOGExNTk4OTljXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2007,
+                                                              "height":  3000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0601781",
+                                         "displayName":  "Rich Moore",
+                                         "alternativeNames":  [
+                                                                  "D.R.L. MacMoortler",
+                                                                  "\u0027Wretched\u0027 Rich Moore",
+                                                                  "Richard Moore",
+                                                                  "Rich"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTg2OTA2NTMyNV5BMl5BanBnXkFtZTcwNTQ3NTg2OA@@._V1_.jpg",
+                                                              "width":  604,
+                                                              "height":  768
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0351821",
+                                         "displayName":  "Bret Haaland",
+                                         "alternativeNames":  [
+                                                                  "Brett Haaland"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTA5MjAxNjc5NTdeQTJeQWpwZ15BbWU3MDI3Nzc2Nzg@._V1_.jpg",
+                                                              "width":  2700,
+                                                              "height":  2400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0169326",
+                                       "displayName":  "David X. Cohen",
+                                       "alternativeNames":  [
+                                                                "David S. Coffin",
+                                                                "David \u0027Watch Futurama\u0027 Cohen",
+                                                                "David ;^[ Cohen",
+                                                                "David H.B. \u0027Mothra\u0027 Cohen",
+                                                                "David H.B.D. \u0027Mothra\u0027 Cohen",
+                                                                "David S. Cohen",
+                                                                "David Cohen",
+                                                                "Day Of The Cohen",
+                                                                "Discourteous David Cohen",
+                                                                "Discurteous David Cohen",
+                                                                "David Cohen\u0027s Severed Hand",
+                                                                "The Incredibly Strange Creatures Who Stopped Living and Became David S. Cohen",
+                                                                "The Square Root of David S. Cohen"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTUzODM3NTE3Ml5BMl5BanBnXkFtZTYwODY3Njc3._V1_.jpg",
+                                                            "width":  485,
+                                                            "height":  643
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0004981",
+                                       "displayName":  "Matt Groening",
+                                       "alternativeNames":  [
+                                                                "Bat Groaning",
+                                                                "Bat Groening",
+                                                                "Brat Groening",
+                                                                "Doormat Groening",
+                                                                "Fraidy-Cat Groening",
+                                                                "Hazmat Groening",
+                                                                "Kompromat Groening",
+                                                                "Maaaaaaatt Groening",
+                                                                "Mad Matt Groening",
+                                                                "Mad Groening",
+                                                                "Malevolent Matt Groening",
+                                                                "Matt \u0027\u0027Mildly Frightening\u0027\u0027 Groening",
+                                                                "Matt \u0027Count Chocula\u0027 Groening",
+                                                                "Matt \u0027El Monstro\u0027 Groening",
+                                                                "Matt \u0027Funk Lord of USA\u0027 Groening",
+                                                                "Matt \u0027Grave-Robbin\u0027 Groening",
+                                                                "Matt \u0027Griddlecakes\u0027 Groening",
+                                                                "Matt \u0027Merchandising\u0027 Groening",
+                                                                "Matt \u0027Monstroso\u0027 Groening",
+                                                                "Matt \u0027Mr Spooky\u0027 Groening",
+                                                                "Matt \u0027Scary Nickname\u0027 Groening",
+                                                                "Morbid Matt Groening",
+                                                                "Mud Groening",
+                                                                "Mummified Matt Groening",
+                                                                "Muu-Muu-Wearin Matt Groening",
+                                                                "Rat Groening",
+                                                                "Splat Groening",
+                                                                "Wotsa Matta U. Groening",
+                                                                "Matt Gruesome",
+                                                                "Bat Groin Injury",
+                                                                "Matt Groin Injury",
+                                                                "Grat Moaning",
+                                                                "The Rock Bottom Remainders"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjE2MTI5NDY5OF5BMl5BanBnXkFtZTYwNjY3Njc3._V1_.jpg",
+                                                            "width":  485,
+                                                            "height":  662
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0891551",
+                                       "displayName":  "Dan Vebber",
+                                       "alternativeNames":  [
+                                                                "Dan Vebber in a Sheet with Eyeholes",
+                                                                "Dan Leftovebbers",
+                                                                "H.P. Lovebbercraft",
+                                                                "Fear Is the Mind-Vebber",
+                                                                "Dan Novebber",
+                                                                "Buffy the Vebber Slayer",
+                                                                "Dan Veb-BOO!",
+                                                                "The Vebbadook",
+                                                                "Dan Vebber III",
+                                                                "Come Play with Us Danny Vebber",
+                                                                "Dan \u0027Uses Plastic Straws\u0027 Vebber",
+                                                                "Where the Hell Is Dan Vebber?"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0005408",
+                                     "displayName":  "Katey Sagal",
+                                     "alternativeNames":  [
+                                                              "Catherine Louise Sagal",
+                                                              "Katie Sagal",
+                                                              "Katy Sagal",
+                                                              "Katey Sagall",
+                                                              "Katey Sagel"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGM1YTM5YjAtMjNiMC00OTNiLThmNzgtNDc5NjFlNTE3NGM2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3456,
+                                                          "height":  5184
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0921942",
+                                     "displayName":  "Billy West",
+                                     "alternativeNames":  [
+                                                              "Chester Kimes",
+                                                              "Johnny Reagan",
+                                                              "Bill West"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDZkN2EwOWItOGI1OS00MTAxLWI2NmYtZDUxZTc1MmM3MWEwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  731,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0224007",
+                                     "displayName":  "John DiMaggio",
+                                     "alternativeNames":  [
+                                                              "John De Maggio",
+                                                              "Johnny Dee",
+                                                              "John Di Maggio",
+                                                              "John DiImaggio",
+                                                              "Jon DiMaggio",
+                                                              "John Dimaggio",
+                                                              "B.B. Leeland"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzI2NTk1MzYxOV5BMl5BanBnXkFtZTcwMDE2MDQ4Nw@@._V1_.jpg",
+                                                          "width":  1503,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0534134",
+                                     "displayName":  "Tress MacNeille",
+                                     "alternativeNames":  [
+                                                              "Tori Jensen",
+                                                              "Tresshouse MacHorror",
+                                                              "Tress MacNeile",
+                                                              "Tress MacNeilie",
+                                                              "Tress MacNeill",
+                                                              "Ress MacNeille",
+                                                              "Terrifying Tress MacNeille",
+                                                              "Terroress MacNeille",
+                                                              "Terror MacNeille",
+                                                              "Tress MacNeille?!",
+                                                              "Tress MacNiell",
+                                                              "Terror MacNihil",
+                                                              "Tress MacNihil",
+                                                              "Teratoid MacNihilist",
+                                                              "Terror MacNihilist",
+                                                              "Terror MacNihl",
+                                                              "Tress MacTerror",
+                                                              "Teratoid Macinhilist",
+                                                              "Tress Macneille",
+                                                              "Tress McNeil",
+                                                              "Tress McNeille",
+                                                              "Tress McNihillist",
+                                                              "Trussed Big Meal",
+                                                              "Tress Mac Neille",
+                                                              "The Real Tress MacNeille"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQxMTQ1NzY5N15BMl5BanBnXkFtZTcwMDY5NDUwOA@@._V1_.jpg",
+                                                          "width":  1331,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "13",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "14",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  13
+                    }
+                ]
+}

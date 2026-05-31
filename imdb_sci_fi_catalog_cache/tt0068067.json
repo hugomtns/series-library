@@ -1,0 +1,250 @@
+﻿{
+    "id":  "tt0068067",
+    "detail":  {
+                   "id":  "tt0068067",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Emergency!",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTIyNTcyMzMxMF5BMl5BanBnXkFtZTcwMDYxNjEzMQ@@._V1_.jpg",
+                                        "width":  356,
+                                        "height":  500
+                                    },
+                   "startYear":  1972,
+                   "endYear":  1979,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  7114
+                              },
+                   "plot":  "The crew of Los Angeles County Fire Department Station 51, particularly the paramedic team, and Rampart Hospital respond to emergencies in their operating area.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0271708",
+                                         "displayName":  "Georg Fenady",
+                                         "alternativeNames":  [
+                                                                  "George Feandy",
+                                                                  "G.J. Fenady",
+                                                                  "Georg J. Fenady",
+                                                                  "George J. Fenady",
+                                                                  "George Fenady"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0638527",
+                                         "displayName":  "Christian I. Nyby II",
+                                         "alternativeNames":  [
+                                                                  "Christian Nyby II",
+                                                                  "Chris Nyby II",
+                                                                  "Christian I. Nyby Jr.",
+                                                                  "Chris Nyby"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0232702",
+                                         "displayName":  "Dennis Donnelly",
+                                         "alternativeNames":  [
+                                                                  "Dennis Donnely"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0162395",
+                                       "displayName":  "Robert A. Cinader",
+                                       "alternativeNames":  [
+                                                                "R.A. Cinader"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0089169",
+                                       "displayName":  "Harold Jack Bloom",
+                                       "alternativeNames":  [
+                                                                "Hal Jack Bloom",
+                                                                "Hal Bloom",
+                                                                "Harry Bloom"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0939942",
+                                       "displayName":  "Preston Wood",
+                                       "alternativeNames":  [
+                                                                "Prestin Wood"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0518728",
+                                     "displayName":  "Julie London",
+                                     "alternativeNames":  [
+                                                              "Bobby \u0026 Julie"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTJhM2Y0NjYtZTdiOS00NzNjLWEzZDMtNGUyOGUzZDM0OTg5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2152,
+                                                          "height":  3298
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0544168",
+                                     "displayName":  "Randolph Mantooth",
+                                     "alternativeNames":  [
+                                                              "Randy Mantooth"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjZlYjQ0OTYtMzQ3OS00NTcxLTgxZGEtMDI4MGQwZWY1ZmZkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  671,
+                                                          "height":  531
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "stunts"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001798",
+                                     "displayName":  "Kevin Tighe",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM0NjQ3NDU5Nl5BMl5BanBnXkFtZTcwMTE0NDg5Nw@@._V1_.jpg",
+                                                          "width":  1267,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "stunts"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0873757",
+                                     "displayName":  "Bobby Troup",
+                                     "alternativeNames":  [
+                                                              "Bobby \u0026 Julie",
+                                                              "Robert W. Troup Jr."
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzhmOTQ3YzYtOGEzOC00NWVhLWIxZWYtMDcyOWU4YzU5NTAyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1256,
+                                                          "height":  1428
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "composer",
+                                                                "music_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000082",
+                                         "name":  "Medical Drama",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  8
+                    }
+                ]
+}

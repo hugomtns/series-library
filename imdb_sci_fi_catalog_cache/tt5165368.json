@@ -1,0 +1,225 @@
+﻿{
+    "id":  "tt5165368",
+    "detail":  {
+                   "id":  "tt5165368",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Amazing Stories",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BODcyZjRmNWUtNjNmYS00YmY1LWJjZTUtNWMzZjI5MTk0OWJmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  720,
+                                        "height":  1080
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2020,
+                   "runtimeSeconds":  3120,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.4,
+                                  "voteCount":  8115
+                              },
+                   "plot":  "Reimagining the anthology from visionary Steven Spielberg, \"Amazing Stories,\" executive produced by Spielberg, will transport the audience to worlds of wonder through the lens of today\u0027s most imaginative filmmakers, directors, and writers.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0227781",
+                                         "displayName":  "Michael Dinner",
+                                         "alternativeNames":  [
+                                                                  "Producer \u0026 Director of \u0027The Beast\u0027"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTY0MDQ3MzU1OV5BMl5BanBnXkFtZTYwNjc0MTg3._V1_.jpg",
+                                                              "width":  475,
+                                                              "height":  737
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2573005",
+                                         "displayName":  "Susanna Fogel",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTQwMDIxMzQyN15BMl5BanBnXkFtZTgwNDUxOTM2MTE@._V1_.jpg",
+                                                              "width":  1396,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0518910",
+                                         "displayName":  "Chris Long",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTk5MDkzZWUtZGU3Yy00MzI3LThmMjEtNmY1NWFhZWQ4YWEwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1109,
+                                                              "height":  1425
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "sound_department"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2597661",
+                                       "displayName":  "Chinaka Hodge",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0395271",
+                                       "displayName":  "Adam Horowitz",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTIxYzgzNWItNzNlZi00MGEzLTg2M2UtZTQ1ZWYxMDlhZjY5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  666,
+                                                            "height":  866
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0457736",
+                                       "displayName":  "Edward Kitsis",
+                                       "alternativeNames":  [
+                                                                "Eddy Kitsis"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BM2E3ZGE5Y2MtNmQ0ZC00M2VkLThhNzYtYmVkZDE2NWY5MzMyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2316,
+                                                            "height":  3088
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm3729721",
+                                     "displayName":  "Dylan O\u0027Brien",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTFiNDQ1YWMtYjE4Ny00YzViLWJhMzgtNTA1ODdhYmMyMDcyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  863,
+                                                          "height":  1230
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5105447",
+                                     "displayName":  "Hailey Kilgore",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjQyODI0NDg4N15BMl5BanBnXkFtZTgwODk5MDk2NTM@._V1_.jpg",
+                                                          "width":  1361,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "camera_department",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3271473",
+                                     "displayName":  "Austin Stowell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmUyYTI0MzktNDAxNy00NDRkLWEzNjQtNjI4ZTM1YTI4MjIwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  629,
+                                                          "height":  951
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001233",
+                                     "displayName":  "Robert Forster",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTYyNzczNDk0N15BMl5BanBnXkFtZTcwNzM4ODQ2NA@@._V1_.jpg",
+                                                          "width":  1506,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  5
+                    }
+                ]
+}

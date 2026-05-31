@@ -1,0 +1,229 @@
+﻿{
+    "id":  "tt10278918",
+    "detail":  {
+                   "id":  "tt10278918",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Willow",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BM2EwZjkxODgtY2FjNy00M2NiLThmZmItMDlmNGFjMjgzODFkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1688,
+                                        "height":  2500
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2023,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.7,
+                                  "voteCount":  35477
+                              },
+                   "plot":  "Twenty years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1339400",
+                                         "displayName":  "Philippa Lowthorpe",
+                                         "alternativeNames":  [
+                                                                  "Phillipa Lowthorpe"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZmM5MmU2ZjUtOTE1OS00ZWNlLTg0ZTgtYzIxYjFiZjM1MmJkXkEyXkFqcGc@._V1_CR193,1,3333,5000_.jpg",
+                                                              "width":  3333,
+                                                              "height":  5000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3008980",
+                                         "displayName":  "Debs Paterson",
+                                         "alternativeNames":  [
+                                                                  "Debs Gardner-Paterson"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjkxYzc0NmEtOGVlYi00M2YxLWIwZDQtMjkwYzUwZDdjMjdmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  670,
+                                                              "height":  377
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0941189",
+                                         "displayName":  "Stephen Woolfenden",
+                                         "alternativeNames":  [
+                                                                  "Stephen Wolfenden",
+                                                                  "Steven Woolfenden"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0440459",
+                                       "displayName":  "Jonathan Kasdan",
+                                       "alternativeNames":  [
+                                                                "Jon Kasdan"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjk4NDEwNTIzNl5BMl5BanBnXkFtZTcwNzgxNTMyNw@@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1362
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0000184",
+                                       "displayName":  "George Lucas",
+                                       "alternativeNames":  [
+                                                                "George",
+                                                                "George L.",
+                                                                "Lucas"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTA0Mjc0NzExNzBeQTJeQWpwZ15BbWU3MDEzMzQ3MDI@._V1_.jpg",
+                                                            "width":  271,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4034122",
+                                       "displayName":  "John Bickerstaff",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "production_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1727825",
+                                     "displayName":  "Tony Revolori",
+                                     "alternativeNames":  [
+                                                              "Anthony Quinonez",
+                                                              "Tony Quinonez"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzU5OWVhNmEtZjAyZC00ZDg3LWIzNjMtZGY1MjMxMGNhOWEzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3686,
+                                                          "height":  5160
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "cinematographer",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9342097",
+                                     "displayName":  "Ruby Cruz",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTkyMjE2YjYtNmJmZS00YzEyLWFhMmUtMWQ3NzgwMjNlNjdiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1366,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5166444",
+                                     "displayName":  "Ellie Bamber",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTg1ZWFmMDMtMGRiYS00YzFkLTgwYzgtZDhiM2E1ZWNkMjk0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7210986",
+                                     "displayName":  "Erin Kellyman",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTcwMzAxMTgwOF5BMl5BanBnXkFtZTgwMzEyOTA2NTM@._V1_.jpg",
+                                                          "width":  1766,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000019",
+                                         "name":  "Quest",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000096",
+                                         "name":  "Fantasy Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

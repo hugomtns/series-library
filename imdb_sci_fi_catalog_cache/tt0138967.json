@@ -1,0 +1,248 @@
+﻿{
+    "id":  "tt0138967",
+    "detail":  {
+                   "id":  "tt0138967",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Hercules",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTIyMDQwNDctNjJjZS00YjdiLTkyYTUtZDBjZGFmMjRhZjcwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  1000
+                                    },
+                   "startYear":  1998,
+                   "endYear":  1999,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.6,
+                                  "voteCount":  11899
+                              },
+                   "plot":  "This spin-off of Disney\u0027s Hercules (1997) follows Hercules\u0027 many labors during the years he spent training how to be a hero under the tutelage of satyr Philoctetes. Olympian Gods and Goddesses, as well as Hades and Pegasus, often visit him.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0918465",
+                                         "displayName":  "Phil Weinstein",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0396317",
+                                         "displayName":  "Eddy Houchins",
+                                         "alternativeNames":  [
+                                                                  "William Edwards",
+                                                                  "Eddie Houchins",
+                                                                  "William Houchins"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0459602",
+                                         "displayName":  "Bob Kline",
+                                         "alternativeNames":  [
+                                                                  "Robert L. Kline",
+                                                                  "Robert Kline"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "miscellaneous"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0022530",
+                                       "displayName":  "Neil Alsip",
+                                       "alternativeNames":  [
+                                                                "Neil Alsap"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0035952",
+                                       "displayName":  "Adam Armus",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1104038",
+                                       "displayName":  "Robert Askin",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000928",
+                                     "displayName":  "Sandra Bernhard",
+                                     "alternativeNames":  [
+                                                              "Sandra Bernhardt"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODQ4MTcxNDY0Nl5BMl5BanBnXkFtZTYwNDg3ODQ1._V1_.jpg",
+                                                          "width":  268,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0004883",
+                                     "displayName":  "Tate Donovan",
+                                     "alternativeNames":  [
+                                                              "Tate Donavan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU4NjQ4MDg1Ml5BMl5BanBnXkFtZTgwODYyNzU4MDI@._V1_.jpg",
+                                                          "width":  4800,
+                                                          "height":  3206
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0829390",
+                                     "displayName":  "French Stewart",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU0MGM1MWMtNDNiNi00MGJlLThkM2MtZTM2ZGE5ZTgyNmVlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2402,
+                                                          "height":  3600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "executive",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0821041",
+                                     "displayName":  "Robert Stack",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTE5ODNkNDQtNjVmNy00YTlhLWI0YmMtYzhkODFmZjY1ODA1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1367,
+                                                          "height":  1809
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "PH",
+                                               "name":  "Philippines"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "AU",
+                                               "name":  "Australia"
+                                           },
+                                           {
+                                               "code":  "TW",
+                                               "name":  "Taiwan (Province of China)"
+                                           },
+                                           {
+                                               "code":  "TH",
+                                               "name":  "Thailand"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000096",
+                                         "name":  "Fantasy Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  54
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  11
+                    }
+                ]
+}

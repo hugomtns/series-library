@@ -1,0 +1,235 @@
+﻿{
+    "id":  "tt8404094",
+    "detail":  {
+                   "id":  "tt8404094",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "AJ and the Queen",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNDBmMTE5M2YtOWRjNC00OTdkLTllOTUtOWUxZTg0MzZlMzg5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1240,
+                                        "height":  1837
+                                    },
+                   "startYear":  2020,
+                   "endYear":  2020,
+                   "runtimeSeconds":  3120,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  10031
+                              },
+                   "plot":  "Ruby Red, a down-on-her-luck drag queen traveling across America, develops an unlikely sidekick named AJ.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0455078",
+                                         "displayName":  "Michael Patrick King",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTk1MDAyNzU0M15BMl5BanBnXkFtZTcwOTg2MTUyMw@@._V1_.jpg",
+                                                              "width":  479,
+                                                              "height":  600
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0203215",
+                                         "displayName":  "Adam Davidson",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0281945",
+                                         "displayName":  "Anne Fletcher",
+                                         "alternativeNames":  [
+                                                                  "Anne \u0027Mama\u0027 Fletcher\u0027",
+                                                                  "Anne \u0027Mama\u0027 Fletcher",
+                                                                  "Anne M. Fletcher",
+                                                                  "Ann Fletcher"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNmVmNjQwMGMtNWQzNS00YWE5LTk3ZGMtOWZjYTRlNWU4OTNlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  540,
+                                                              "height":  720
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0455078",
+                                       "displayName":  "Michael Patrick King",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTk1MDAyNzU0M15BMl5BanBnXkFtZTcwOTg2MTUyMw@@._V1_.jpg",
+                                                            "width":  479,
+                                                            "height":  600
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0750412",
+                                       "displayName":  "RuPaul",
+                                       "alternativeNames":  [
+                                                                "RuPAUL CHARLES",
+                                                                "Andre Charles",
+                                                                "Pupaul Charles",
+                                                                "R.A. Charles",
+                                                                "RuPaul Charles",
+                                                                "Rupaul Charles",
+                                                                "Ru Paul",
+                                                                "Rupaul"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDViMTg0ZWYtNWZjNi00ODgzLTg1NTctYmMyMWI4Yzg1YmQ5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1043,
+                                                            "height":  961
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm8641286",
+                                       "displayName":  "Eric Reyes Loo",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0750412",
+                                     "displayName":  "RuPaul",
+                                     "alternativeNames":  [
+                                                              "RuPAUL CHARLES",
+                                                              "Andre Charles",
+                                                              "Pupaul Charles",
+                                                              "R.A. Charles",
+                                                              "RuPaul Charles",
+                                                              "Rupaul Charles",
+                                                              "Ru Paul",
+                                                              "Rupaul"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDViMTg0ZWYtNWZjNi00ODgzLTg1NTctYmMyMWI4Yzg1YmQ5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1043,
+                                                          "height":  961
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3119834",
+                                     "displayName":  "Izzy G.",
+                                     "alternativeNames":  [
+                                                              "Izzy G",
+                                                              "Isabella Gaspersz"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2FmMzA1MDYtODI0MS00Mjg4LWIwOTItZjI1MjNiNjEzZjA4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  853,
+                                                          "height":  1280
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "executive"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1496365",
+                                     "displayName":  "Michael-Leon Wooley",
+                                     "alternativeNames":  [
+                                                              "Michael Leon-Wooley",
+                                                              "ML Wooley",
+                                                              "Michael Leon Wooley"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTczM2E1YTUtNGYwYi00YTFkLWIxYWUtMjZlZThiOTMxMmUxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1442,
+                                                          "height":  2018
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2019219",
+                                     "displayName":  "Josh Segarra",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2Q0NTdlZjgtNGRlOS00ZWQ2LTgyNWYtMjQ2NzI5YzhmNDIzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1898,
+                                                          "height":  2456
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000073",
+                                         "name":  "Coming-of-Age",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    }
+                ]
+}

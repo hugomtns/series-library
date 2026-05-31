@@ -1,0 +1,372 @@
+﻿{
+    "id":  "tt0086815",
+    "detail":  {
+                   "id":  "tt0086815",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Thomas \u0026 Friends",
+                   "originalTitle":  "Thomas the Tank Engine \u0026 Friends",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYWI2OGQzNzYtMDRjZi00ZTM1LWFjMmMtMzVlNzY4NWI2NTg2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  1984,
+                   "endYear":  2025,
+                   "runtimeSeconds":  660,
+                   "genres":  [
+                                  "Animation",
+                                  "Short",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.5,
+                                  "voteCount":  8136
+                              },
+                   "plot":  "This series follows the adventures of Thomas the Tank Engine and all of his engine friends on the Island of Sodor.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0594186",
+                                         "displayName":  "David Mitton",
+                                         "alternativeNames":  [
+                                                                  "David Milton"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0039722",
+                                         "displayName":  "Steve Asquith",
+                                         "alternativeNames":  [
+                                                                  "Stephen Asquith"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3475019",
+                                         "displayName":  "Dianna Basso",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0020150",
+                                       "displayName":  "Britt Allcroft",
+                                       "alternativeNames":  [
+                                                                "Britt Alcroft"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0043423",
+                                       "displayName":  "Wilbert Awdry",
+                                       "alternativeNames":  [
+                                                                "Rev W. Awdry",
+                                                                "Rev. W. Awdry",
+                                                                "Rev. Wilbert Awdry",
+                                                                "Reverend W. Awdry",
+                                                                "the Rev W. Awdry",
+                                                                "the Rev W Awdry",
+                                                                "the Rev. W. Awdry",
+                                                                "the Rev. Wilbert Vere Awdry",
+                                                                "The Rev .W. Awdry",
+                                                                "The Rev W Awdry",
+                                                                "The Rev W. Awdry",
+                                                                "The Rev W.Awdry",
+                                                                "The Rev. W Awdry",
+                                                                "The Rev. W. Awdry",
+                                                                "The Rev. W. Awdy",
+                                                                "The Rev. W. Awsry",
+                                                                "The Rev. W.Awdry",
+                                                                "The Rev. Wilbert Awdry",
+                                                                "The Rev. Wilbert Vere Awdry",
+                                                                "The Rev.W.Awdry",
+                                                                "The Reverend W. Awdry",
+                                                                "Reverend W.Awdry"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1061079",
+                                       "displayName":  "Andrew Brenner",
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0029617",
+                                     "displayName":  "Michael Angelis",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjI0MjY3MDY3OV5BMl5BanBnXkFtZTgwNjEzODM0MjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1080077",
+                                     "displayName":  "Keith Wickham",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmNjY2Y2OGQtYTk2My00MDUxLTg1ODktMDk2MGFjMzliMmFlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2400,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0104787",
+                                     "displayName":  "Michael Brandon",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTIzMzIzY2EtNTA0Yi00YjQxLTkxODMtZTIzNTM1NDVhZjRjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3304,
+                                                          "height":  5024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0787715",
+                                     "displayName":  "Kerry Shale",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWYwNzgwNzItNGIxZi00MDU5LTkzNzktMjUwZjdjNWYxZjkyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2000,
+                                                          "height":  2750
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "DK",
+                                               "name":  "Denmark"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           },
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           },
+                                           {
+                                               "code":  "zho",
+                                               "name":  "Chinese"
+                                           },
+                                           {
+                                               "code":  "jpn",
+                                               "name":  "Japanese"
+                                           },
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000030",
+                                         "name":  "Stop Motion Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000212",
+                                         "name":  "Short"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  27
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  41
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  27
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "13",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "14",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "15",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "16",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "17",
+                        "episodeCount":  27
+                    },
+                    {
+                        "season":  "18",
+                        "episodeCount":  27
+                    },
+                    {
+                        "season":  "19",
+                        "episodeCount":  28
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "20",
+                        "episodeCount":  29
+                    },
+                    {
+                        "season":  "21",
+                        "episodeCount":  19
+                    },
+                    {
+                        "season":  "22",
+                        "episodeCount":  27
+                    },
+                    {
+                        "season":  "23",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "24",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "25",
+                        "episodeCount":  53
+                    },
+                    {
+                        "season":  "26",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "27",
+                        "episodeCount":  4
+                    },
+                    {
+                        "season":  "28",
+                        "episodeCount":  4
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  27
+                    }
+                ]
+}

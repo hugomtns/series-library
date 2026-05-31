@@ -1,0 +1,270 @@
+﻿{
+    "id":  "tt0318233",
+    "detail":  {
+                   "id":  "tt0318233",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "My Life as a Teenage Robot",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOGFiNzc3ZTEtMzA5NS00MzM0LWE1MjYtMjhjY2YxODI2MWZjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1500
+                                    },
+                   "startYear":  2002,
+                   "endYear":  2023,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.9,
+                                  "voteCount":  11894
+                              },
+                   "plot":  "The escapades of a super-powered robot who happens to resemble a teenage girl that tries to balance high school and teen problems while trying to save the world from danger.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0719952",
+                                         "displayName":  "Rob Renzetti",
+                                         "alternativeNames":  [
+                                                                  "Rob R.",
+                                                                  "Robert Renzetti"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0767174",
+                                         "displayName":  "Chris SauvÃ©",
+                                         "alternativeNames":  [
+                                                                  "Chris SaubÃ©",
+                                                                  "Christopher SauvÃ©"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0616835",
+                                         "displayName":  "Randy Myers",
+                                         "alternativeNames":  [
+                                                                  "Randy M.",
+                                                                  "Randy Meyers",
+                                                                  "Randy Myer",
+                                                                  "Randall Lee Myers",
+                                                                  "Randall Myers",
+                                                                  "Randal Myers",
+                                                                  "randal l. myers"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0719952",
+                                       "displayName":  "Rob Renzetti",
+                                       "alternativeNames":  [
+                                                                "Rob R.",
+                                                                "Robert Renzetti"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0677394",
+                                       "displayName":  "Scott D. Peterson",
+                                       "alternativeNames":  [
+                                                                "Scott Peterson"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0472828",
+                                       "displayName":  "Brandon Kruse",
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0233499",
+                                     "displayName":  "Chad Doreck",
+                                     "alternativeNames":  [
+                                                              "Chad-Foster Doreck",
+                                                              "Stephen Doreck",
+                                                              "Chad Dorreck"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOGU3NzJkODAtZTY1OC00NjMyLWE0YzEtZWU5MTgxNDBmNjg4XkEyXkFqcGc@._V1_CR212,7,432,649_.jpg",
+                                                          "width":  432,
+                                                          "height":  649
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0442948",
+                                     "displayName":  "Janice Kawaye",
+                                     "alternativeNames":  [
+                                                              "Hiromi Kawaye",
+                                                              "Janice Roman Roku/Janice Kawaye",
+                                                              "Janice-Roman Kawaye",
+                                                              "Janice Lee",
+                                                              "Janice Roman Roku"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzcxMWM4ZjQtNmQzOS00ZjVhLWEzYzItNmQ3ZGQzNmQwOWJiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1920,
+                                                          "height":  1080
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0590430",
+                                     "displayName":  "Candi Milo",
+                                     "alternativeNames":  [
+                                                              "Antoinette Blanchard",
+                                                              "Anne Hankins",
+                                                              "Anne Haskins",
+                                                              "Candy Milo",
+                                                              "Cani Milo",
+                                                              "Cindi Milo",
+                                                              "Mary Jo Rogers"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAzMGIzMzUtMTdiZS00ZWQyLWI0YWEtNWZkYzAzYTRmYjVhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1024,
+                                                          "height":  1536
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0913585",
+                                     "displayName":  "Audrey Wasilewski",
+                                     "alternativeNames":  [
+                                                              "Audrey Wasielewski",
+                                                              "Audrey Wasilawski",
+                                                              "Audrey Wasliewski"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOGI2NGFlODItYjZjNy00ZDRhLTk5M2UtZjA2ZTdjZWIwY2EwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  798,
+                                                          "height":  911
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000049",
+                                         "name":  "Teen Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000157",
+                                         "name":  "Alien Invasion",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  1
+                    }
+                ]
+}

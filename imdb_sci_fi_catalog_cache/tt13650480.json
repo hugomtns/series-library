@@ -1,0 +1,122 @@
+﻿{
+    "id":  "tt13650480",
+    "detail":  {
+                   "id":  "tt13650480",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Marvel Studios: Legends",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzgzYjM4NTUtOTlhMS00MTJmLTkxZjgtYWY4NjI1ZWRiNGU4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  864,
+                                        "height":  1280
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2025,
+                   "runtimeSeconds":  420,
+                   "genres":  [
+                                  "Short",
+                                  "Action",
+                                  "Adventure",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.5,
+                                  "voteCount":  5570
+                              },
+                   "plot":  "This series showcases individual characters from the MCU, whom viewers have come to know and love over the years and revisit some of their most iconic moments.",
+                   "writers":  [
+                                   {
+                                       "id":  "nm2009430",
+                                       "displayName":  "Brandon Bestenheider",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1849891",
+                                       "displayName":  "Brenton Covington",
+                                       "alternativeNames":  [
+                                                                "Brent Covington"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "editor",
+                                                                  "producer",
+                                                                  "visual_effects"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0456158",
+                                       "displayName":  "Jack Kirby",
+                                       "alternativeNames":  [
+                                                                "Jack \u0027King\u0027 Kirby",
+                                                                "Jack \u0027The King\u0027 Kirby"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzE3OTZiZGUtYjhjOS00YzlmLTlmMzMtNTFhYjgyMjEwMTg3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  921,
+                                                            "height":  1128
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000212",
+                                         "name":  "Short"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  2
+                    }
+                ]
+}

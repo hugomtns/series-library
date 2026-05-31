@@ -1,0 +1,247 @@
+﻿{
+    "id":  "tt0460686",
+    "detail":  {
+                   "id":  "tt0460686",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Threshold",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTk3MzY4OTYzOV5BMl5BanBnXkFtZTcwMzUwMzMzMQ@@._V1_.jpg",
+                                        "width":  354,
+                                        "height":  500
+                                    },
+                   "startYear":  2005,
+                   "endYear":  2006,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Drama",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  6196
+                              },
+                   "plot":  "A team of experts are assembled after the U.S. Navy discovers an extra-terrestrial object briefly appeared near a ship in the Atlantic Ocean.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0795288",
+                                         "displayName":  "John F. Showalter",
+                                         "alternativeNames":  [
+                                                                  "John Showalter"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0053157",
+                                         "displayName":  "Norberto Barba",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDUxODA5NDU4M15BMl5BanBnXkFtZTcwNzczODgwMw@@._V1_.jpg",
+                                                              "width":  1758,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0247123",
+                                         "displayName":  "Bill Eagles",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZWEyMDlmYzctNmFjZC00NjE2LWE0MjMtNWUzNDhjNzE1ODA2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1600,
+                                                              "height":  1470
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0776885",
+                                       "displayName":  "Bragi F. Schut",
+                                       "alternativeNames":  [
+                                                                "Bragi Schut Jr.",
+                                                                "Bragi Schut"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZDdmZjQzODItOGRjMy00YTVmLThiZTUtODcxNzI2ZDQ1ZDg2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3744,
+                                                            "height":  5616
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1003826",
+                                       "displayName":  "Anne McGrail",
+                                       "alternativeNames":  [
+                                                                "Anne Mcgrail"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0642591",
+                                       "displayName":  "Dan O\u0027Shannon",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzI1ODdiYjgtMDM0NS00ZmZmLTlkNDQtNTZiZmI0MjZlMzlhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3410,
+                                                            "height":  5116
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001303",
+                                     "displayName":  "Carla Gugino",
+                                     "alternativeNames":  [
+                                                              "Taryn Gugino"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzQyNTgzOTI2OF5BMl5BanBnXkFtZTgwNTMyMDk0NjE@._V1_.jpg",
+                                                          "width":  848,
+                                                          "height":  1280
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0887144",
+                                     "displayName":  "Brian Van Holt",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjY5ZjJjNjItYjkxZi00MTk3LWIxN2UtYzZmMTY1ZjMzZDgwXkEyXkFqcGc@._V1_CR35,1,1043,1565_.jpg",
+                                                          "width":  1043,
+                                                          "height":  1565
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000653",
+                                     "displayName":  "Brent Spiner",
+                                     "alternativeNames":  [
+                                                              "Brent Mintz"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTgyNDAzOTkyNF5BMl5BanBnXkFtZTgwMzA4NjI3MjE@._V1_.jpg",
+                                                          "width":  4543,
+                                                          "height":  3029
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0070810",
+                                     "displayName":  "Rob Benedict",
+                                     "alternativeNames":  [
+                                                              "Robert Patrick Benedict",
+                                                              "Tango"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWYxODQ4NzMtY2ZiZi00MGQyLTg3ZTMtMDk1NzZhMTBjNzEwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4529,
+                                                          "height":  6709
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           },
+                                           {
+                                               "code":  "deu",
+                                               "name":  "German"
+                                           },
+                                           {
+                                               "code":  "ita",
+                                               "name":  "Italian"
+                                           },
+                                           {
+                                               "code":  "por",
+                                               "name":  "Portuguese"
+                                           },
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           },
+                                           {
+                                               "code":  "hun",
+                                               "name":  "Hungarian"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000157",
+                                         "name":  "Alien Invasion",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

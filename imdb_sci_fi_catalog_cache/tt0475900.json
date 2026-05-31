@@ -1,0 +1,183 @@
+﻿{
+    "id":  "tt0475900",
+    "detail":  {
+                   "id":  "tt0475900",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Anthony Bourdain: No Reservations",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZTJkYTg5MWMtMzk3NC00MGQ3LWJhMGEtMTc2MmVhMGNkMGQ1XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1440
+                                    },
+                   "startYear":  2005,
+                   "endYear":  2012,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Documentary",
+                                  "Adventure",
+                                  "Reality-TV"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.6,
+                                  "voteCount":  8755
+                              },
+                   "plot":  "Anthony Bourdain, chef, writer, traveler, visits places all around the world sampling various foods.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1632359",
+                                         "displayName":  "Vincenzo Tripodo",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1416149",
+                                         "displayName":  "Hal Leigh",
+                                         "primaryProfessions":  [
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1320497",
+                                         "displayName":  "Zach Zamboni",
+                                         "alternativeNames":  [
+                                                                  "Zachary Zamboni"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BY2U2MzZjOWItM2Q1MS00N2E5LTkzMTQtYjE1NDYwOTUwZGJhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2447,
+                                                              "height":  3024
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1113529",
+                                       "displayName":  "Anthony Bourdain",
+                                       "alternativeNames":  [
+                                                                "Chef Anthony Bourdain",
+                                                                "Tony Bourdain"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTU2NzIwNjMxNF5BMl5BanBnXkFtZTgwMzcyNzc2NTM@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1407
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000016",
+                                         "name":  "Globetrotting Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000060",
+                                         "name":  "Documentary"
+                                     },
+                                     {
+                                         "id":  "in0000061",
+                                         "name":  "Docuseries",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000063",
+                                         "name":  "Food Documentary",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000071",
+                                         "name":  "Travel Documentary",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000124",
+                                         "name":  "Cooking \u0026 Food",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000126",
+                                         "name":  "Lifestyle"
+                                     },
+                                     {
+                                         "id":  "in0000128",
+                                         "name":  "Travel",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000148",
+                                         "name":  "Reality TV"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  17
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  17
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  1
+                    }
+                ]
+}

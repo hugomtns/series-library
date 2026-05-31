@@ -1,0 +1,237 @@
+﻿{
+    "id":  "tt1788634",
+    "detail":  {
+                   "id":  "tt1788634",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Boat",
+                   "originalTitle":  "El barco",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNzEyZjY0YzAtNmFlYi00Yjk1LWE4MWUtMjZmNWUyMmU2N2UzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  431,
+                                        "height":  604
+                                    },
+                   "startYear":  2011,
+                   "endYear":  2013,
+                   "runtimeSeconds":  4500,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  5853
+                              },
+                   "plot":  "A global cataclysm, caused by a fatal accident in Geneva (Switzerland) during the implementation of the particle accelerator will lead to crew of vessel-school Estrella Polar to live the adventure of their lives.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1208968",
+                                         "displayName":  "David Molina Encinas",
+                                         "alternativeNames":  [
+                                                                  "David Molina"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjFlMjkwODYtZjI1Yy00ODYzLTkyOGMtYTIwOWFhOWQzNWM0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1772,
+                                                              "height":  1772
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2237873",
+                                         "displayName":  "Sandra Gallego",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editorial_department",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2912775",
+                                         "displayName":  "JesÃºs Colmenar",
+                                         "alternativeNames":  [
+                                                                  "JesÃºs G. Colmenar"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2049884",
+                                       "displayName":  "IvÃ¡n Escobar",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1210565",
+                                       "displayName":  "Ãlex Pina",
+                                       "alternativeNames":  [
+                                                                "Alex Pina"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BODBlYjNjYmUtY2JiOC00MzQ1LTk3OWMtY2Y4MGExMjlmNGQ2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3712,
+                                                            "height":  5568
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1768323",
+                                       "displayName":  "JosÃ© Javier ReguilÃ³n",
+                                       "alternativeNames":  [
+                                                                "Javier Reguilon",
+                                                                "J. Javier ReguilÃ³n",
+                                                                "Javier ReguilÃ³n",
+                                                                "Jose Javier ReguilÃ³n"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0037695",
+                                     "displayName":  "Juanjo Artero",
+                                     "alternativeNames":  [
+                                                              "Juan J. Artero",
+                                                              "Juan Jose Artero",
+                                                              "Juan JosÃ© Artero",
+                                                              "Juan JosÃ© Arterto",
+                                                              "Pancho y Javi"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzgyZmQ0MTYtMDlkYy00ZTFiLWJmMDgtMDc4M2E2ODhhOGI2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  606,
+                                                          "height":  930
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "manager"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0840754",
+                                     "displayName":  "Blanca SuÃ¡rez",
+                                     "alternativeNames":  [
+                                                              "Blanca JuÃ¡rez",
+                                                              "Blanca Suarez"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc3NjQxOTM4MV5BMl5BanBnXkFtZTcwMDUzNjU0Nw@@._V1_.jpg",
+                                                          "width":  1598,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0598890",
+                                     "displayName":  "Irene MontalÃ ",
+                                     "alternativeNames":  [
+                                                              "Irene Montala",
+                                                              "IrÃ¨ne Montala",
+                                                              "Irene MontalÃ¡",
+                                                              "Irene MuntalÃ "
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUxNTUxNDUwN15BMl5BanBnXkFtZTcwODE2NjUzOA@@._V1_.jpg",
+                                                          "width":  1424,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1832584",
+                                     "displayName":  "Mario Casas",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2E2YTExNTgtY2JhMC00YTMxLWFmMmMtMjEwODM0MmI2Yzg2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  980,
+                                                          "height":  1470
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "ES",
+                                               "name":  "Spain"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  16
+                    }
+                ]
+}

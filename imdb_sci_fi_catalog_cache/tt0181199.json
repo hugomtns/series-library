@@ -1,0 +1,181 @@
+﻿{
+    "id":  "tt0181199",
+    "detail":  {
+                   "id":  "tt0181199",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Arabian Nights",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZWY0YzExMmQtNDE4OC00NmYzLWJjMTUtZWY4Zjc4ZTVjOTJhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1500
+                                    },
+                   "startYear":  2000,
+                   "endYear":  2000,
+                   "runtimeSeconds":  5280,
+                   "genres":  [
+                                  "Adventure",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  5885
+                              },
+                   "plot":  "To cure a Prince\u0027s murderous madness, Scheherezade tells him a series of wondrous stories.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0006625",
+                                         "displayName":  "Steve Barron",
+                                         "alternativeNames":  [
+                                                                  "Steve Baron",
+                                                                  "Stephen Barron",
+                                                                  "Steven Barron"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTA0OWQ5ZTEtOWEzYi00NzVhLWE2NzktMzkwMzdmNDYyOWVkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1380,
+                                                              "height":  1642
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0055726",
+                                       "displayName":  "Peter Barnes",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmE4ZWY0ZDItMzg1Yi00ZDAzLWEzNWYtZDZhOTc3YjI5MzI2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  620,
+                                                            "height":  339
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000815",
+                                     "displayName":  "Mili Avital",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjJkNWNkYWQtYTdmOC00ZDQzLWE1MWMtZThhMGI3YTE0ZTAzXkEyXkFqcGc@._V1_CR95,1,942,1413_.jpg",
+                                                          "width":  942,
+                                                          "height":  1413
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000869",
+                                     "displayName":  "Alan Bates",
+                                     "alternativeNames":  [
+                                                              "Sir Alan Bates"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGViMjBhMmQtZTFkMS00NDZkLWFlOTAtYjFhODhiMmIzOTBkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2307,
+                                                          "height":  2884
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0289656",
+                                     "displayName":  "James Frain",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODg5ODE3NGEtN2EzMi00ZGM3LTgxMzgtOTkzZDQ5NGJjYTE5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2291,
+                                                          "height":  2355
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001409",
+                                     "displayName":  "TchÃ©ky Karyo",
+                                     "alternativeNames":  [
+                                                              "Tcheky Karyo",
+                                                              "Techky Karyo"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjNlZWEzNmEtYTBlMi00NmY4LWI0ZWMtOWM5YjM1MGFhZDFmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1856,
+                                                          "height":  2000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "DE",
+                                               "name":  "Germany"
+                                           },
+                                           {
+                                               "code":  "TR",
+                                               "name":  "Turkey"
+                                           },
+                                           {
+                                               "code":  "JO",
+                                               "name":  "Jordan"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000074",
+                                         "name":  "Costume Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000100",
+                                         "name":  "Sword \u0026 Sorcery",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  2
+                    }
+                ]
+}

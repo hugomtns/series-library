@@ -1,0 +1,208 @@
+﻿{
+    "id":  "tt0130414",
+    "detail":  {
+                   "id":  "tt0130414",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Merlin",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZDE5YWExMGMtYTA5ZS00ODNlLTkzMjEtN2U5NDUyYWIxNDZhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  780,
+                                        "height":  1124
+                                    },
+                   "startYear":  1998,
+                   "endYear":  1998,
+                   "runtimeSeconds":  3660,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.1,
+                                  "voteCount":  23867
+                              },
+                   "plot":  "Legendary wizard Merlin tells his story of his war against Queen Mab of the Sidhe and his creation of Camelot.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0006625",
+                                         "displayName":  "Steve Barron",
+                                         "alternativeNames":  [
+                                                                  "Steve Baron",
+                                                                  "Stephen Barron",
+                                                                  "Steven Barron"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTA0OWQ5ZTEtOWEzYi00NzVhLWE2NzktMzkwMzdmNDYyOWVkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1380,
+                                                              "height":  1642
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0055726",
+                                       "displayName":  "Peter Barnes",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmE4ZWY0ZDItMzg1Yi00ZDAzLWEzNWYtZDZhOTc3YjI5MzI2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  620,
+                                                            "height":  339
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0451689",
+                                       "displayName":  "Edward Khmara",
+                                       "alternativeNames":  [
+                                                                "Ed Khmara"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTEwZGJlOTItMDIzOC00MmMyLWE2MjYtODgxZjE0ZWZmODc4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  574,
+                                                            "height":  720
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0828350",
+                                       "displayName":  "David Stevens",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000307",
+                                     "displayName":  "Helena Bonham Carter",
+                                     "alternativeNames":  [
+                                                              "Helena Bonham-Carter"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc2OTMxNDIzMF5BMl5BanBnXkFtZTcwNDU1MjA1NA@@._V1_.jpg",
+                                                          "width":  1361,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000554",
+                                     "displayName":  "Sam Neill",
+                                     "alternativeNames":  [
+                                                              "John Dermot"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjUyMTU0MzA0MF5BMl5BanBnXkFtZTgwNTA4MTQ4NjM@._V1_.jpg",
+                                                          "width":  1366,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000024",
+                                     "displayName":  "John Gielgud",
+                                     "alternativeNames":  [
+                                                              "Sir John Gielgud",
+                                                              "John Gielud"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTllNmFmMTMtZDU0YS00MjZlLTk4MjgtNGNlYWE1YmExZjNmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2529,
+                                                          "height":  3178
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000442",
+                                     "displayName":  "Rutger Hauer",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI5MjE4MTg3MV5BMl5BanBnXkFtZTYwMjk0Mzgy._V1_.jpg",
+                                                          "width":  565,
+                                                          "height":  660
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000100",
+                                         "name":  "Sword \u0026 Sorcery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  2
+                    }
+                ]
+}

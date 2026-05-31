@@ -1,0 +1,254 @@
+﻿{
+    "id":  "tt6025022",
+    "detail":  {
+                   "id":  "tt6025022",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Justice League Unlimited",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYjBmYjE5ZmMtYTdlMi00MDgyLThlNjUtZDUzMGMzYWZkMWRjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1500
+                                    },
+                   "startYear":  2004,
+                   "endYear":  2006,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.7,
+                                  "voteCount":  25773
+                              },
+                   "plot":  "A continuation of the Justice League animated series finds the original members of the team joined in their battle against crime and evil by dozens of other heroes from the DC comics universe.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1690966",
+                                         "displayName":  "Joaquim Dos Santos",
+                                         "alternativeNames":  [
+                                                                  "Joaquim Dos Santas"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjcyNTcxOTU4MV5BMl5BanBnXkFtZTcwODAxNzkyMg@@._V1_.jpg",
+                                                              "width":  1138,
+                                                              "height":  1132
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0722713",
+                                         "displayName":  "Dan Riba",
+                                         "alternativeNames":  [
+                                                                  "Daniel Riba"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0004170",
+                                       "displayName":  "Bob Kane",
+                                       "alternativeNames":  [
+                                                                "DC"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTM2MDQ2MDAyOV5BMl5BanBnXkFtZTcwMDUyMjcxOA@@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0551376",
+                                       "displayName":  "William Moulton Marston",
+                                       "alternativeNames":  [
+                                                                "Charles Marston",
+                                                                "William M. Marston",
+                                                                "William Moultor Marston",
+                                                                "William Marston",
+                                                                "Charles Moulton"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOGNlYjNhOWItMjIyOC00Y2ExLWI2ZWUtZjBmNzdjNWMyOTRkXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  427,
+                                                            "height":  580
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0795975",
+                                       "displayName":  "Joe Shuster",
+                                       "alternativeNames":  [
+                                                                "Joel Shuster",
+                                                                "Joseph Shuster"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNGY4N2Y4ZjEtMDgwOS00NDYwLWExN2UtMzU0NGMxNWJjYTk1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  488,
+                                                            "height":  608
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0627624",
+                                     "displayName":  "George Newbern",
+                                     "alternativeNames":  [
+                                                              "George Newburn"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTgzOTcyNjIzMF5BMl5BanBnXkFtZTcwNjQ0NzkyMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  667
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0175834",
+                                     "displayName":  "Kevin Conroy",
+                                     "alternativeNames":  [
+                                                              "Kevin"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM4MDcwMTU2NF5BMl5BanBnXkFtZTcwMzMyMjg0Nw@@._V1_.jpg",
+                                                          "width":  1420,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0482851",
+                                     "displayName":  "Phil LaMarr",
+                                     "alternativeNames":  [
+                                                              "BJ Hughes",
+                                                              "Phil La Mar",
+                                                              "Phillip La Marr",
+                                                              "Phil La Marr",
+                                                              "Phil LaMaar",
+                                                              "Phil LaMar",
+                                                              "Philip LaMarr",
+                                                              "Phillip LaMarr",
+                                                              "Pill LaMarr",
+                                                              "Phil Lamaar",
+                                                              "Phil Lamar",
+                                                              "Phil Lamarr"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWY3OTUyOTktOWY4My00YWQ3LTkyMDUtZTQ2MzU1NzJmM2ZjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1433,
+                                                          "height":  1641
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0525855",
+                                     "displayName":  "Carl Lumbly",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWM0YjM4N2YtZjNmNC00YjIyLWFkOTEtOGVmODRhZTIzMzkxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  427,
+                                                          "height":  640
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    }
+                ]
+}

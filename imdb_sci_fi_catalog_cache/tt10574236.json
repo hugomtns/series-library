@@ -1,0 +1,222 @@
+﻿{
+    "id":  "tt10574236",
+    "detail":  {
+                   "id":  "tt10574236",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Station Eleven",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNWJhMTg4NTItYzNhYy00ZDViLTk0NTAtOGMyZTE4YWUxZmM3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  768,
+                                        "height":  1138
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2022,
+                   "runtimeSeconds":  3060,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  42842
+                              },
+                   "plot":  "A post apocalyptic saga spanning multiple timelines, telling the stories of survivors of a devastating flu as they attempt to rebuild and reimagine the world anew while holding on to the best of what\u0027s been lost.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0687964",
+                                         "displayName":  "Jeremy Podeswa",
+                                         "alternativeNames":  [
+                                                                  "J.Podeswa",
+                                                                  "Jermey Podeswa",
+                                                                  "Jeremy Podoswa"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0001726",
+                                         "displayName":  "Helen Shaver",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDY0ZWQ0ZDYtMmM2NS00MmM0LThjMDAtNTY5ZWU3NmVhZjZiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1242
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2033604",
+                                         "displayName":  "Hiro Murai",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjE0NTE3ODYwNF5BMl5BanBnXkFtZTgwNjUxODA3NTM@._V1_.jpg",
+                                                              "width":  1572,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm10808365",
+                                       "displayName":  "Emily St. John Mandel",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2434411",
+                                       "displayName":  "Sarah McCarron",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BM2NiYTYxYWEtYzI3Mi00NTFkLTk5MzQtNDI1MzU0ODBlM2RiXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  828,
+                                                            "height":  525
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5821126",
+                                       "displayName":  "Patrick Somerville",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BN2JhNmRjN2QtMjJmYS00N2FjLWE2YzktNmUxMWFlMTRjM2ZkXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  643,
+                                                            "height":  1071
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2797744",
+                                     "displayName":  "Himesh Patel",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTZkM2E4YmYtMmY1Yy00ZjEwLTlkM2UtNjk4OTIzNzU4MDE3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4220,
+                                                          "height":  2813
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4496875",
+                                     "displayName":  "Mackenzie Davis",
+                                     "alternativeNames":  [
+                                                              "Mackenzie Rio Davis"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzcwZTQ2MmYtYzE5Ny00ZmFiLWFhZjMtMGU2OTk0ZmFjZTQxXkEyXkFqcGc@._V1_CR641,0,876,1313_.jpg",
+                                                          "width":  876,
+                                                          "height":  1313
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0932837",
+                                     "displayName":  "David Wilmot",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjI4OTQxMjQ1Nl5BMl5BanBnXkFtZTcwNDQ4NDAyOA@@._V1_.jpg",
+                                                          "width":  577,
+                                                          "height":  828
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm10002326",
+                                     "displayName":  "Matilda Lawler",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODFjYjY4NDAtYzMxNi00Nzc0LTlmZGQtNDFjMDllYTAyM2YyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  756,
+                                                          "height":  1132
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    }
+                ]
+}

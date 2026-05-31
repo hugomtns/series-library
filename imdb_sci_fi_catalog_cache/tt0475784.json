@@ -1,0 +1,267 @@
+﻿{
+    "id":  "tt0475784",
+    "detail":  {
+                   "id":  "tt0475784",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Westworld",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjM2MTA5NjIwNV5BMl5BanBnXkFtZTgwNjI2OTMxNTM@._V1_.jpg",
+                                        "width":  1012,
+                                        "height":  1500
+                                    },
+                   "startYear":  2016,
+                   "endYear":  2022,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.4,
+                                  "voteCount":  558202
+                              },
+                   "plot":  "At the intersection of the near future and the reimagined past, waits a world in which every human appetite can be indulged without consequence.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0003557",
+                                         "displayName":  "Richard J. Lewis",
+                                         "alternativeNames":  [
+                                                                  "R.J. Lewis",
+                                                                  "Richard J Lewis",
+                                                                  "Richard Lewis"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjA4NTIzMzAwMF5BMl5BanBnXkFtZTcwODQxMzQ3Mw@@._V1_.jpg",
+                                                              "width":  747,
+                                                              "height":  1024
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0634300",
+                                         "displayName":  "Jonathan Nolan",
+                                         "alternativeNames":  [
+                                                                  "Jonah Nolan"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTEwNjY2MjgxMTZeQTJeQWpwZ15BbWU3MDY4NjY1Mjc@._V1_.jpg",
+                                                              "width":  1388,
+                                                              "height":  2000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0870295",
+                                         "displayName":  "Frederick E.O. Toye",
+                                         "alternativeNames":  [
+                                                                  "Fred E.O. Toye",
+                                                                  "Frederick E. O. Toye",
+                                                                  "Frederick O.E. Toye",
+                                                                  "Frederick Toye",
+                                                                  "Fredrick E.O. Toye",
+                                                                  "Fred Toye"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZGYyYmEzZTktMDkwZC00MTgyLWIzY2EtN2NkZTMyYjQ2MWJmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4032,
+                                                              "height":  3024
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0000341",
+                                       "displayName":  "Michael Crichton",
+                                       "alternativeNames":  [
+                                                                "J. Michael Crichton",
+                                                                "Michael Douglas",
+                                                                "Jeffery Hudson",
+                                                                "John Lange"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTgwOTQ1NTAyM15BMl5BanBnXkFtZTgwMTk4NzU0MDI@._V1_.jpg",
+                                                            "width":  1402,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2847370",
+                                       "displayName":  "Lisa Joy",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjM2MDEzOTkwNl5BMl5BanBnXkFtZTgwODIzMzk2NjM@._V1_.jpg",
+                                                            "width":  705,
+                                                            "height":  1024
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0634300",
+                                       "displayName":  "Jonathan Nolan",
+                                       "alternativeNames":  [
+                                                                "Jonah Nolan"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTEwNjY2MjgxMTZeQTJeQWpwZ15BbWU3MDY4NjY1Mjc@._V1_.jpg",
+                                                            "width":  1388,
+                                                            "height":  2000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0628601",
+                                     "displayName":  "Thandiwe Newton",
+                                     "alternativeNames":  [
+                                                              "Thandie Newton"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjMzNTAxNDUwNV5BMl5BanBnXkFtZTcwMjMyNjI5MQ@@._V1_.jpg",
+                                                          "width":  308,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0942482",
+                                     "displayName":  "Jeffrey Wright",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjM5NDY2YzktYTE4OS00ZTY0LTliNDUtYTM5MmVkMjIwOWFlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2589,
+                                                          "height":  3884
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000438",
+                                     "displayName":  "Ed Harris",
+                                     "alternativeNames":  [
+                                                              "Himself"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE4NDM4ODc2OV5BMl5BanBnXkFtZTcwNzA5NjQ5MQ@@._V1_.jpg",
+                                                          "width":  289,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0939697",
+                                     "displayName":  "Evan Rachel Wood",
+                                     "alternativeNames":  [
+                                                              "Evan Rachael Wood",
+                                                              "Evan Wood",
+                                                              "Evan Rachel Woods"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA2OTM4NDI3NTheQTJeQWpwZ15BbWU3MDA4NzI3Mjc@._V1_.jpg",
+                                                          "width":  1432,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000158",
+                                         "name":  "Artificial Intelligence",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  8
+                    }
+                ]
+}

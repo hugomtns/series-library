@@ -1,0 +1,250 @@
+﻿{
+    "id":  "tt0158552",
+    "detail":  {
+                   "id":  "tt0158552",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Charmed",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOGU5MGU3NmYtOTIzNi00NTg2LTkxMWUtNjQwMzhiNWQ5NzQ0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  1000
+                                    },
+                   "startYear":  1998,
+                   "endYear":  2006,
+                   "runtimeSeconds":  2520,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  98843
+                              },
+                   "plot":  "Three sisters discover that they are descendants of a line of good female witches and are destined to fight against the forces of evil.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0470971",
+                                         "displayName":  "John T. Kretchmer",
+                                         "alternativeNames":  [
+                                                                  "John Kretchmer"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0176702",
+                                         "displayName":  "James L. Conway",
+                                         "alternativeNames":  [
+                                                                  "James Conway"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODEwMzIwODA3N15BMl5BanBnXkFtZTcwODUzMjIyOA@@._V1_.jpg",
+                                                              "width":  300,
+                                                              "height":  401
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0270570",
+                                         "displayName":  "Joel J. Feigenbaum",
+                                         "alternativeNames":  [
+                                                                  "Joel Feigenbaum"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTM5NzQ0MjUxM15BMl5BanBnXkFtZTcwOTIwNTM0NQ@@._V1_.jpg",
+                                                              "width":  1024,
+                                                              "height":  625
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0121154",
+                                       "displayName":  "Constance M. Burge",
+                                       "alternativeNames":  [
+                                                                "Connie Burge",
+                                                                "Constance Burge"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0894628",
+                                       "displayName":  "Krista Vernoff",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0969782",
+                                       "displayName":  "Henry Alonso Myers",
+                                       "alternativeNames":  [
+                                                                "Henry A. Myers"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmU2NTBkMGUtMmE3OS00YmRhLWExNmEtMzgzNTA5MGJlZTQ4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5932,
+                                                            "height":  3954
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001061",
+                                     "displayName":  "Holly Marie Combs",
+                                     "alternativeNames":  [
+                                                              "Holly Combs",
+                                                              "Holly Marie Combs-Donoho",
+                                                              "Holly Marie Donoho",
+                                                              "Holly Donoho"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA2MDA0NjU0Nl5BMl5BanBnXkFtZTYwMDIxMDU3._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  553
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0470182",
+                                     "displayName":  "Brian Krause",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTVhNzc5NDktMWViOS00NzY2LWFkOWItOWYzZTEzOTkzMTM5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4523,
+                                                          "height":  3015
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000192",
+                                     "displayName":  "Alyssa Milano",
+                                     "alternativeNames":  [
+                                                              "Alyssa Jayne Milano"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTMwMTE1NTgzNV5BMl5BanBnXkFtZTcwMzk4Mzc2Mw@@._V1_.jpg",
+                                                          "width":  327,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000535",
+                                     "displayName":  "Rose McGowan",
+                                     "alternativeNames":  [
+                                                              "Rose McGowen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjc5MDU3NTIwN15BMl5BanBnXkFtZTgwODIxOTYwNDI@._V1_.jpg",
+                                                          "width":  1363,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  22
+                    }
+                ]
+}

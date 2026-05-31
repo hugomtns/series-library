@@ -1,0 +1,231 @@
+﻿{
+    "id":  "tt0756509",
+    "detail":  {
+                   "id":  "tt0756509",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Kyle XY",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZThhMTg3YmMtYWZhMS00MGQ1LWJjZDctMDhmYWQxOTkxZjRhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2006,
+                   "endYear":  2009,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Mystery",
+                                  "Romance",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  31876
+                              },
+                   "plot":  "A family takes in a formerly institutionalized teen savant who is missing standard human behaviors such as anger, joy, and love.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0733227",
+                                         "displayName":  "Michael Robison",
+                                         "alternativeNames":  [
+                                                                  "Michael Robinson",
+                                                                  "Mike Robison"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "editorial_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0066218",
+                                         "displayName":  "Guy Norman Bee",
+                                         "alternativeNames":  [
+                                                                  "Guy Bee"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0931426",
+                                         "displayName":  "Pat Williams",
+                                         "alternativeNames":  [
+                                                                  "Patrick William",
+                                                                  "Patrick Williams"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0107774",
+                                       "displayName":  "Eric Bress",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjc2ODY5ZDMtOWQ0OC00MTc0LTk2MTctNGQzMjM4MjU0MmEwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2057,
+                                                            "height":  2735
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0344259",
+                                       "displayName":  "J. Mackye Gruber",
+                                       "alternativeNames":  [
+                                                                "Jonathan Mackye Gruber",
+                                                                "Jonathan Gruber"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjc2ODY5ZDMtOWQ0OC00MTc0LTk2MTctNGQzMjM4MjU0MmEwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2057,
+                                                            "height":  2735
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2226052",
+                                       "displayName":  "Bryan M. Holdman",
+                                       "alternativeNames":  [
+                                                                "Bryan Holdman"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0532880",
+                                     "displayName":  "Marguerite MacIntyre",
+                                     "alternativeNames":  [
+                                                              "Marguerte MacIntyre",
+                                                              "Marguerite Macintyre"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTc1MTUxMGEtNmVlMS00OTM1LWIwNzAtYTQ4ZDVjZmY4OWUyXkEyXkFqcGc@._V1_CR105,44,533,800_.jpg",
+                                                          "width":  533,
+                                                          "height":  800
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1678720",
+                                     "displayName":  "Matt Dallas",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDQyMmQzMzItMzk5Yi00MWJiLTliZDItZTljZDk5NTUzMGIwXkEyXkFqcGc@._V1_CR131,80,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0858573",
+                                     "displayName":  "Bruce Thomas",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDZlZDllMmItYjEyYy00YzUzLTg3Y2YtMmUwMzg1YmI0MWEzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1067,
+                                                          "height":  1600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1642105",
+                                     "displayName":  "April Matson",
+                                     "alternativeNames":  [
+                                                              "April Matson Grady"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGJlY2E4NjgtZTkzYy00NzJmLWI0ZWEtOGIyOWJlYmFhZWNhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4480,
+                                                          "height":  6720
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000155",
+                                         "name":  "Teen Romance",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    }
+                ]
+}

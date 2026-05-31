@@ -1,0 +1,230 @@
+﻿{
+    "id":  "tt17047510",
+    "detail":  {
+                   "id":  "tt17047510",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Santa Clauses",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMThmZjQ4Y2YtNTZlOS00NGU5LWE0MjEtOTAzMzJlMzEyMzA1XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1707,
+                                        "height":  2500
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2023,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.4,
+                                  "voteCount":  12569
+                              },
+                   "plot":  "Scott Calvin is about to turn 65. Realizing that he can\u0027t be Santa forever, he sets out to find a suitable replacement Santa while preparing his family for a new life adventure south of the North Pole.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm3083111",
+                                         "displayName":  "Katie Locke O\u0027Brien",
+                                         "alternativeNames":  [
+                                                                  "Katie O\u0027Brien"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZmNhNmQwYzYtMDI3NC00OTFmLWEzZTUtYThlNTU5MzU1MTY2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1063,
+                                                              "height":  1384
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1306282",
+                                         "displayName":  "Charles Randolph-Wright",
+                                         "alternativeNames":  [
+                                                                  "Charles Randolph Wright"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzIxNzQ0ZGUtNzEyZC00MDVkLWI0OGEtYmFiZTY1MWFkYmNjXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  900,
+                                                              "height":  1054
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0934864",
+                                         "displayName":  "Jason Winer",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjhkYmM1YTItYjQ2Zi00NGYzLTg2MmEtNTE1NDU5YzgwMjAzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  782,
+                                                              "height":  523
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1080144",
+                                       "displayName":  "Leo Benvenuti",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1569499",
+                                       "displayName":  "Emalee Burditt",
+                                       "alternativeNames":  [
+                                                                "Emilee Burditt"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTI0MTkwNTc0NF5BMl5BanBnXkFtZTcwMDE3MjIzMQ@@._V1_.jpg",
+                                                            "width":  376,
+                                                            "height":  250
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0120994",
+                                       "displayName":  "Jack Burditt",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000741",
+                                     "displayName":  "Tim Allen",
+                                     "alternativeNames":  [
+                                                              "Timothy Dick"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI5ODY0NTAwOF5BMl5BanBnXkFtZTcwOTI3NjQxMw@@._V1_.jpg",
+                                                          "width":  267,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0593310",
+                                     "displayName":  "Elizabeth Mitchell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY4OTk4NjE2N15BMl5BanBnXkFtZTgwNzMxODk1MzE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  627
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm13538452",
+                                     "displayName":  "Elizabeth Allen-Dick",
+                                     "alternativeNames":  [
+                                                              "Elizabeth Allen Richaeds"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmVhOTlhMGEtNmMyYS00OWU2LWE5ZjYtMTc3NzlmYzc3YjJkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  810,
+                                                          "height":  1188
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3180292",
+                                     "displayName":  "Austin Kane",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWQ0ZDBmNTEtOTkxZC00ODMxLWFiOTAtY2M2NWMyOTMzYjgzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  684,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000192",
+                                         "name":  "Holiday"
+                                     },
+                                     {
+                                         "id":  "in0000194",
+                                         "name":  "Holiday Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000195",
+                                         "name":  "Holiday Family",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  6
+                    }
+                ]
+}

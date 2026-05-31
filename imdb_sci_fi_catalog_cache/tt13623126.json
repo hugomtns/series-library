@@ -1,0 +1,200 @@
+﻿{
+    "id":  "tt13623126",
+    "detail":  {
+                   "id":  "tt13623126",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Ironheart",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BN2EzMGZhOTktYjVhZi00NmIwLWIxZDEtNWUxZTQyNjhkYWQ4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1086,
+                                        "height":  1608
+                                    },
+                   "startYear":  2025,
+                   "endYear":  2025,
+                   "runtimeSeconds":  3000,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  4.5,
+                                  "voteCount":  67208
+                              },
+                   "plot":  "Genius teenage inventor Riri Williams creates the most advanced suit of armor since Iron Man.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm5697142",
+                                         "displayName":  "Samantha Bailey",
+                                         "alternativeNames":  [
+                                                                  "Sam Bailey"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDM4ZmIxNDYtNWQ5MS00Y2YzLWJmZGItN2ViN2JhMmI1MTVhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1010,
+                                                              "height":  1514
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0055493",
+                                         "displayName":  "Angela Barnes",
+                                         "alternativeNames":  [
+                                                                  "Angela P. Barnes",
+                                                                  "Angela Barnes Gomes",
+                                                                  "Angela Gomes"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODFlYzlhZjAtMDg5OC00NmNiLWIyZmUtYjk3NmRhZWUyNGI5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1333,
+                                                              "height":  2000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1144314",
+                                       "displayName":  "Brian Michael Bendis",
+                                       "alternativeNames":  [
+                                                                "Brian Bendis"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzIzOTc2NjYyMl5BMl5BanBnXkFtZTgwMDUzMjEyNTE@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1546
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm6225910",
+                                       "displayName":  "Mike Deodato Jr.",
+                                       "alternativeNames":  [
+                                                                "Mike Deodato"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2597661",
+                                       "displayName":  "Chinaka Hodge",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm6588867",
+                                     "displayName":  "Anthony Ramos",
+                                     "alternativeNames":  [
+                                                              "Anthony Ramos Martinez"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzhkNDM4OWItMDZlNy00NmVhLWE1ODQtM2ZkYzIwNTA4ZDQ3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1522,
+                                                          "height":  2176
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9584861",
+                                     "displayName":  "Dominique Thorne",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjQxOTczODItMWEyYS00ZjliLTg5NTMtZTZkNjk0ZTAyNDE5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1042,
+                                                          "height":  1350
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5273863",
+                                     "displayName":  "Matthew Elam",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmUyMzVmNWEtMGM1MC00NTk1LTkxZTktOGQ5NzI3NGQxNjBiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1280,
+                                                          "height":  1920
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7132577",
+                                     "displayName":  "Lyric Ross",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZmI3MTYzMzMtODI1YS00NzhlLWE4ZTItMDZkYTQ2ODdiMTE5XkEyXkFqcGc@._V1_CR0,0,1391,2087_.jpg",
+                                                          "width":  1391,
+                                                          "height":  2087
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    }
+                ]
+}

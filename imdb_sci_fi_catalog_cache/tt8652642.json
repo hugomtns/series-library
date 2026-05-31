@@ -1,0 +1,222 @@
+﻿{
+    "id":  "tt8652642",
+    "detail":  {
+                   "id":  "tt8652642",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Wu Assassins",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNmQ5NDhlMmItYzdkOS00N2VkLWJmMTgtOWY2OGFmODM4NzY5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2222
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2019,
+                   "runtimeSeconds":  2640,
+                   "genres":  [
+                                  "Action",
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.4,
+                                  "voteCount":  15556
+                              },
+                   "plot":  "A warrior chosen as the latest and last Wu Assassin must search for the powers of an ancient triad and restore balance in San Francisco\u0027s Chinatown.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1089736",
+                                         "displayName":  "Toa Fraser",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMDExMWI0NWItNTI1My00ZTc5LTg5N2QtZTMxOTFkMDIwMDY2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  694,
+                                                              "height":  756
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0298691",
+                                         "displayName":  "Stephen Fung",
+                                         "alternativeNames":  [
+                                                                  "Feng DeLun",
+                                                                  "DeLun Feng",
+                                                                  "Stephan Fung",
+                                                                  "Steven Fung",
+                                                                  "Tak-Lun Fung",
+                                                                  "Fung Tak-Lun",
+                                                                  "Stephen Fung Tak-Lun"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzM0ODAxODgtZWI5MC00MGU4LWJlY2QtM2ExNjMwOWIxMTRmXkEyXkFqcGc@._V1_CR525,2,1609,2414_.jpg",
+                                                              "width":  1609,
+                                                              "height":  2414
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0002749",
+                                         "displayName":  "Michael Nankin",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzZlZTVhMDAtM2UwMS00ZGZjLWE3MWQtNmZhNGZkN2QwMzQ1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  5149,
+                                                              "height":  7719
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm8627212",
+                                       "displayName":  "Jessica Chou",
+                                       "alternativeNames":  [
+                                                                "Period Piece"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0469813",
+                                       "displayName":  "Tony Krantz",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTcwMzA5NjI2MF5BMl5BanBnXkFtZTcwNjkxMDk3MQ@@._V1_.jpg",
+                                                            "width":  479,
+                                                            "height":  544
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4430515",
+                                       "displayName":  "Yalun Tu",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm3299397",
+                                     "displayName":  "Iko Uwais",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTI0YWY5NzAtZWNlZi00ZTlhLTlhZWItMzE1MWJkN2JlMzg1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  766,
+                                                          "height":  912
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "stunts"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4050835",
+                                     "displayName":  "Li Jun Li",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDViODI0ZjItMWY3ZC00ZTBmLTgzNzYtZWEyMjk2YTgyZjQ5XkEyXkFqcGc@._V1_CR187,106,3333,5000_.jpg",
+                                                          "width":  3333,
+                                                          "height":  5000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0542677",
+                                     "displayName":  "Byron Mann",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY2MzAwMDU0MV5BMl5BanBnXkFtZTgwNjY5NzM0NzE@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1365
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2949405",
+                                     "displayName":  "Lawrence Kao",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzZmMWZlODItN2I4MS00MGYzLWEwZWYtNDcwNTE2MjllYjYzXkEyXkFqcGc@._V1_CR160,129,1026,1539_.jpg",
+                                                          "width":  1026,
+                                                          "height":  1539
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "yue",
+                                               "name":  "Yue Chinese"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000006",
+                                         "name":  "Martial Arts",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    }
+                ]
+}

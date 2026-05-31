@@ -1,0 +1,290 @@
+﻿{
+    "id":  "tt3061046",
+    "detail":  {
+                   "id":  "tt3061046",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Steven Universe",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZGJjMmI3ZDMtZTgyNi00MTZhLWE2ZjAtN2Q4YTUyMTg4OGY1XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1426
+                                    },
+                   "startYear":  2013,
+                   "endYear":  2019,
+                   "runtimeSeconds":  660,
+                   "genres":  [
+                                  "Animation",
+                                  "Short",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy",
+                                  "Musical",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  45285
+                              },
+                   "plot":  "A team of intergalactic warriors fight to protect the Earth, but the combination of three highly trained beings and one quirky young boy leaves the team struggling to overcome the dangerous scenarios that they face.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1866268",
+                                         "displayName":  "Ian Jones-Quartey",
+                                         "alternativeNames":  [
+                                                                  "Ian Jones-quartey"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm5124810",
+                                         "displayName":  "Joseph D. Johnston",
+                                         "alternativeNames":  [
+                                                                  "Joe Johnston",
+                                                                  "Jose Johnston"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3161792",
+                                         "displayName":  "Kat Morris",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3566987",
+                                       "displayName":  "Rebecca Sugar",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDI5NTkwNjM5MF5BMl5BanBnXkFtZTgwMDU5Mjc3MzI@._V1_.jpg",
+                                                            "width":  1363,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0122411",
+                                       "displayName":  "Matt Burnett",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2334751",
+                                       "displayName":  "Ben Levin",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0536281",
+                                     "displayName":  "Deedee Magno Hall",
+                                     "alternativeNames":  [
+                                                              "Dee Dee Magno Hall",
+                                                              "Dee Dee Hall",
+                                                              "DeeDee Magno Hall",
+                                                              "Deede Magno Hall",
+                                                              "DeeDee Magno",
+                                                              "Deedee Lynn Magno",
+                                                              "Deedee Magno",
+                                                              "The Mickey Mouse Club",
+                                                              "DeeDee Magno Hall - THE PARTY",
+                                                              "The Party"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "cinematographer",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2642131",
+                                     "displayName":  "Zach Callison",
+                                     "alternativeNames":  [
+                                                              "Zachery Callison"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDcwNjM0NWItMzM3MC00YzI1LWFkN2ItZTJkMmNjNWY3YzA0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  600,
+                                                          "height":  900
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2007163",
+                                     "displayName":  "Michaela Dietz",
+                                     "alternativeNames":  [
+                                                              "Michael Dietz"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmRmNWJiNjgtMGZhZC00NWIzLTkwOWEtZGEzNzBjMDY1ZmQ1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1200,
+                                                          "height":  1743
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1678063",
+                                     "displayName":  "Estelle",
+                                     "alternativeNames":  [
+                                                              "Estelle Swaray"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjM1NDMxNzI2OF5BMl5BanBnXkFtZTcwOTQwNTMwNA@@._V1_.jpg",
+                                                          "width":  327,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_artist",
+                                                                "music_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "kor",
+                                               "name":  "Korean"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000019",
+                                         "name":  "Quest",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000133",
+                                         "name":  "Musical"
+                                     },
+                                     {
+                                         "id":  "in0000157",
+                                         "name":  "Alien Invasion",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     },
+                                     {
+                                         "id":  "in0000212",
+                                         "name":  "Short"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  54
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  28
+                    }
+                ]
+}

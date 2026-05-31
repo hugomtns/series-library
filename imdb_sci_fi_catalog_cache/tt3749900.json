@@ -1,0 +1,296 @@
+﻿{
+    "id":  "tt3749900",
+    "detail":  {
+                   "id":  "tt3749900",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Gotham",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTg0ZmM3N2QtYmFiMy00YzUzLWE1M2QtZWVhMzBiNGZjMmVjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  521,
+                                        "height":  755
+                                    },
+                   "startYear":  2014,
+                   "endYear":  2019,
+                   "runtimeSeconds":  2520,
+                   "genres":  [
+                                  "Action",
+                                  "Crime",
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  251740
+                              },
+                   "plot":  "The story behind Detective James Gordon\u0027s rise to prominence in Gotham City in the years before Batman\u0027s arrival.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0047458",
+                                         "displayName":  "Rob Bailey",
+                                         "alternativeNames":  [
+                                                                  "Robert Bailey"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMmIzNzRlMzMtNTc2NS00OWJjLWJjMDMtN2UwODAwYzBmNTU5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  427,
+                                                              "height":  640
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0134176",
+                                         "displayName":  "Danny Cannon",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc0NTYwMDc3OF5BMl5BanBnXkFtZTYwOTgxMjA3._V1_.jpg",
+                                                              "width":  475,
+                                                              "height":  338
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0779830",
+                                         "displayName":  "T.J. Scott",
+                                         "alternativeNames":  [
+                                                                  "TJ Scott",
+                                                                  "Timothy-James Scott"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYWZiZTZhMjYtOGIxMi00NDM2LThkMjYtZjBiZWVkZjZhNTg4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4928,
+                                                              "height":  3264
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0375285",
+                                       "displayName":  "Bruno Heller",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZGY4Y2IyZWEtZjQwYy00YTQ2LWEzYzUtOTJhNWM4ODNjOTRiXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2000,
+                                                            "height":  3000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0277730",
+                                       "displayName":  "Bill Finger",
+                                       "alternativeNames":  [
+                                                                "DC",
+                                                                "William Finger"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZjlhMzBjYjQtMGRmZC00NGViLTk4ODAtOWU3ODE3Njc3NjczXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  780,
+                                                            "height":  971
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0004170",
+                                       "displayName":  "Bob Kane",
+                                       "alternativeNames":  [
+                                                                "DC"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTM2MDQ2MDAyOV5BMl5BanBnXkFtZTcwMDUyMjcxOA@@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1360270",
+                                     "displayName":  "Ben McKenzie",
+                                     "alternativeNames":  [
+                                                              "Benjamin McKenzie",
+                                                              "Benjamin Schenkkan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODcxMDI3NDQ1NF5BMl5BanBnXkFtZTgwNTY1Nzg3MTE@._V1_.jpg",
+                                                          "width":  452,
+                                                          "height":  653
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4800564",
+                                     "displayName":  "Camren Bicondova",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU2MDA1ODY4NF5BMl5BanBnXkFtZTgwMjk4ODY2NjE@._V1_.jpg",
+                                                          "width":  1350,
+                                                          "height":  1801
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0006610",
+                                     "displayName":  "Donal Logue",
+                                     "alternativeNames":  [
+                                                              "Donal F. Logue",
+                                                              "DÃ³nal Logue"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA0MjQ1Njc2NDdeQTJeQWpwZ15BbWU3MDM0OTU2Mzk@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1365
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000586",
+                                     "displayName":  "Jada Pinkett Smith",
+                                     "alternativeNames":  [
+                                                              "Jada",
+                                                              "Jada Pinkett",
+                                                              "Jada Pinkett-Smith",
+                                                              "Jada Smith",
+                                                              "Wicked Wisdom"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYzOTE1MjQ0OF5BMl5BanBnXkFtZTgwMzczNTkwNjE@._V1_.jpg",
+                                                          "width":  1348,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "rus",
+                                               "name":  "Russian"
+                                           },
+                                           {
+                                               "code":  "ita",
+                                               "name":  "Italian"
+                                           },
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           },
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           },
+                                           {
+                                               "code":  "ara",
+                                               "name":  "Arabic"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000051",
+                                         "name":  "Cop Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000057",
+                                         "name":  "Police Procedural",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000182",
+                                         "name":  "Psychological Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  12
+                    }
+                ]
+}

@@ -1,0 +1,181 @@
+﻿{
+    "id":  "tt5670764",
+    "detail":  {
+                   "id":  "tt5670764",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Watership Down",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYjA5MjNmYWYtNzA5MC00YmIwLTljOGUtYTIyODA5MzcyZmU2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  550,
+                                        "height":  787
+                                    },
+                   "startYear":  2018,
+                   "endYear":  2018,
+                   "runtimeSeconds":  3060,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  7631
+                              },
+                   "plot":  "Fleeing their doomed warren, a colony of rabbits struggle to find and defend a new home.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1729171",
+                                         "displayName":  "Noam Murro",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTU1MDUyMzY0MF5BMl5BanBnXkFtZTcwMDYyMTA1NA@@._V1_.jpg",
+                                                              "width":  1680,
+                                                              "height":  1354
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "executive",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0011293",
+                                       "displayName":  "Richard Adams",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjgwMTQxMzM4M15BMl5BanBnXkFtZTgwODE5OTU5MDI@._V1_.jpg",
+                                                            "width":  1367,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3635428",
+                                       "displayName":  "Tom Bidwell",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0564215",
+                                     "displayName":  "James McAvoy",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQzNzIxOTYzMl5BMl5BanBnXkFtZTcwNjYxNTk1Nw@@._V1_.jpg",
+                                                          "width":  1569,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0396558",
+                                     "displayName":  "Nicholas Hoult",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDE2YjY4ODUtZjVmMy00ZmE2LTgwZjgtMWJiZGI0NWY3ODAzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3000,
+                                                          "height":  4500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "executive",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3915784",
+                                     "displayName":  "John Boyega",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU3MTc2MTk3Nl5BMl5BanBnXkFtZTgwMzg4OTQ2NDM@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  857
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "production_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001426",
+                                     "displayName":  "Ben Kingsley",
+                                     "alternativeNames":  [
+                                                              "Sir Ben Kinglsey",
+                                                              "Sir Ben Kingsley"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTU2Njg2NzM4M15BMl5BanBnXkFtZTgwNjYwNjQwMTI@._V1_.jpg",
+                                                          "width":  595,
+                                                          "height":  807
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "IE",
+                                               "name":  "Ireland"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  4
+                    }
+                ]
+}

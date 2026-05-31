@@ -1,0 +1,218 @@
+﻿{
+    "id":  "tt1599357",
+    "detail":  {
+                   "id":  "tt1599357",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Gates",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BODg5NTIxNjgtNGMwMC00NDcxLTk0ZjUtOTM5NWQ3YTU4MTlhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  903,
+                                        "height":  1200
+                                    },
+                   "startYear":  2010,
+                   "endYear":  2010,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.1,
+                                  "voteCount":  8667
+                              },
+                   "plot":  "A metropolitan police officer becomes chief of police in a gated suburban neighborhood where vampires, werewolves, witches, and other supernatural entities reside.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0057106",
+                                         "displayName":  "David Barrett",
+                                         "alternativeNames":  [
+                                                                  "Dave Barrett",
+                                                                  "David M. Barrett",
+                                                                  "David McCoy Barrett"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTYyMWMyNTAtMzdjNC00NGVkLTllZGUtYWU3ODk4YTk4YzUxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4894,
+                                                              "height":  3263
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "stunts"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0314104",
+                                         "displayName":  "Fred Gerber",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BM2MwZWM3NjUtNDM2OC00NzQ5LWFkYWQtYjg0YmI4YjUxNTk1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1024,
+                                                              "height":  764
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "production_manager"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0568192",
+                                         "displayName":  "Terry McDonough",
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0770090",
+                                       "displayName":  "Grant Scharbo",
+                                       "alternativeNames":  [
+                                                                "Grant Sharbo"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjMxNjQyNzg3OF5BMl5BanBnXkFtZTcwMjUyMjY2Nw@@._V1_.jpg",
+                                                            "width":  1619,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0368818",
+                                       "displayName":  "Richard Hatem",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjAwOTQ5MjczN15BMl5BanBnXkFtZTcwMTM1ODgzMQ@@._V1_.jpg",
+                                                            "width":  389,
+                                                            "height":  553
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0822748",
+                                       "displayName":  "Gabrielle G. Stanton",
+                                       "alternativeNames":  [
+                                                                "Gabrielle Stanton"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0342029",
+                                     "displayName":  "Frank Grillo",
+                                     "alternativeNames":  [
+                                                              "Frank J. Grillo"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2NiOTZlYTMtMGNhNS00YWM2LTgxODUtNGM3NzA3NmJlMzU5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1229,
+                                                          "height":  1495
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "executive",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0593961",
+                                     "displayName":  "Rhona Mitra",
+                                     "alternativeNames":  [
+                                                              "Rhona N. Mitra",
+                                                              "Rona Mitra"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjMxNzM4NzE1OF5BMl5BanBnXkFtZTgwMTc2NzU5MDE@._V1_.jpg",
+                                                          "width":  1361,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0531101",
+                                     "displayName":  "Luke Mably",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjg1MmRjZjItZTA0My00YzM0LTllNzgtODIzOTZiY2NjMzgzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  966,
+                                                          "height":  1207
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0629653",
+                                     "displayName":  "Marisol Nichols",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjRhNTY5NjgtNWFiYS00Y2Y0LTk2MGMtMWM1YTc5NDJhNzhhXkEyXkFqcGc@._V1_CR319,181,1168,1753_.jpg",
+                                                          "width":  1168,
+                                                          "height":  1753
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

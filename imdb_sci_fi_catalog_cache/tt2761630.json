@@ -1,0 +1,187 @@
+﻿{
+    "id":  "tt2761630",
+    "detail":  {
+                   "id":  "tt2761630",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Klondike",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTk2NDM2NjEyMV5BMl5BanBnXkFtZTgwOTgxNzQxMTE@._V1_.jpg",
+                                        "width":  510,
+                                        "height":  750
+                                    },
+                   "startYear":  2014,
+                   "endYear":  2014,
+                   "runtimeSeconds":  2760,
+                   "genres":  [
+                                  "Adventure",
+                                  "Biography",
+                                  "Drama",
+                                  "Western"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  6847
+                              },
+                   "plot":  "Two childhood friends, Bill Haskell and Byron Epstein, embark on a journey to Klondike, Yukon, in hopes of discovering a fortune in a remote town.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0148116",
+                                         "displayName":  "Simon Cellan Jones",
+                                         "alternativeNames":  [
+                                                                  "Simon Cellan-Jones"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm4035954",
+                                       "displayName":  "Rachel Abramowitz",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0325662",
+                                       "displayName":  "Joshua Goldin",
+                                       "alternativeNames":  [
+                                                                "Josh Goldin"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTg5NTI3OTg5Nl5BMl5BanBnXkFtZTcwMjE5Mjk5Mg@@._V1_.jpg",
+                                                            "width":  3872,
+                                                            "height":  2592
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1764115",
+                                       "displayName":  "Charlotte Gray",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0180411",
+                                     "displayName":  "Abbie Cornish",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE5Mjk4NDAyN15BMl5BanBnXkFtZTcwMDMyMDY1OA@@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1403
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0190744",
+                                     "displayName":  "Marton Csokas",
+                                     "alternativeNames":  [
+                                                              "Marton CsÃ³kÃ¡s",
+                                                              "MÃ¡rton CsÃ³kÃ¡s"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjQxOTcyNDEyMV5BMl5BanBnXkFtZTgwMjMzMzYyNTE@._V1_.jpg",
+                                                          "width":  2298,
+                                                          "height":  3269
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001324",
+                                     "displayName":  "Ian Hart",
+                                     "alternativeNames":  [
+                                                              "Ian Davies"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAwMTQ2MjI4Ml5BMl5BanBnXkFtZTYwMjUxNDMz._V1_.jpg",
+                                                          "width":  325,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0493222",
+                                     "displayName":  "Greg Lawson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2Y0ZjRiZjUtOWE1OS00ZWFhLWI0OTAtYzkwMmMwMWQ5MWFmXkEyXkFqcGc@._V1_CR1511,1,1727,2591_.jpg",
+                                                          "width":  1727,
+                                                          "height":  2591
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000072",
+                                         "name":  "Biography"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000083",
+                                         "name":  "Period Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000189",
+                                         "name":  "Western Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000191",
+                                         "name":  "Western"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    }
+                ]
+}

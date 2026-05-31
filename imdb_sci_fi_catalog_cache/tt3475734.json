@@ -1,0 +1,249 @@
+﻿{
+    "id":  "tt3475734",
+    "detail":  {
+                   "id":  "tt3475734",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Agent Carter",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzk0MzkxODMwOV5BMl5BanBnXkFtZTgwMjQzODE4NzE@._V1_.jpg",
+                                        "width":  600,
+                                        "height":  888
+                                    },
+                   "startYear":  2015,
+                   "endYear":  2016,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  94959
+                              },
+                   "plot":  "In 1946, Peggy Carter is relegated to secretarial duties in the Strategic Scientific Reserve (SSR). When Howard Stark is accused of treason, he secretly recruits Peggy to clear his name with the help of his butler, Edwin Jarvis.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0315298",
+                                         "displayName":  "Jennifer Getzinger",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZjYwYmM3MDItZDVkNy00NzQwLWIyMDEtMTI1NzAxNjY2ZTU1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3024,
+                                                              "height":  4032
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0406177",
+                                         "displayName":  "Metin HÃ¼seyin",
+                                         "alternativeNames":  [
+                                                                  "Metin Huseyin"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "visual_effects"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0686853",
+                                         "displayName":  "David Platt",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "sound_department"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0456158",
+                                       "displayName":  "Jack Kirby",
+                                       "alternativeNames":  [
+                                                                "Jack \u0027King\u0027 Kirby",
+                                                                "Jack \u0027The King\u0027 Kirby"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzE3OTZiZGUtYjhjOS00YzlmLTlmMzMtNTFhYjgyMjEwMTg3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  921,
+                                                            "height":  1128
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0498278",
+                                       "displayName":  "Stan Lee",
+                                       "alternativeNames":  [
+                                                                "Smilin\u0027 Stan Lee",
+                                                                "Peter Parker",
+                                                                "Stan"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_.jpg",
+                                                            "width":  278,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1321655",
+                                       "displayName":  "Christopher Markus",
+                                       "alternativeNames":  [
+                                                                "Christopher Marks"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjAxMDAwODYwOV5BMl5BanBnXkFtZTcwMjc5OTEwNg@@._V1_.jpg",
+                                                            "width":  1441,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0195439",
+                                     "displayName":  "James D\u0027Arcy",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTE5OTMyMDQtNmM0ZS00ZGY0LWIyNTktYTMzZDAwMDgyYTA1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  930,
+                                                          "height":  1364
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2017943",
+                                     "displayName":  "Hayley Atwell",
+                                     "alternativeNames":  [
+                                                              "Hayley Attwell"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjc1YmI2N2MtYTFkYS00NzcxLTlmN2QtOWQ1OWY0MTkxNTQzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2997,
+                                                          "height":  3840
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2222175",
+                                     "displayName":  "Enver Gjokaj",
+                                     "alternativeNames":  [
+                                                              "Enver G."
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTBhMjFlZmEtNzY1Yy00ZWE3LTg4YjktZmNlMWI5YmE5MWIwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5304,
+                                                          "height":  7952
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0614877",
+                                     "displayName":  "Chad Michael Murray",
+                                     "alternativeNames":  [
+                                                              "Chad M. Murray"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWZlYjJmZWQtYWJmOC00Y2RkLWFiOWYtYWFkNjY2YjczNjAxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  800,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000083",
+                                         "name":  "Period Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    }
+                ]
+}

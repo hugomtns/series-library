@@ -1,0 +1,226 @@
+﻿{
+    "id":  "tt15286302",
+    "detail":  {
+                   "id":  "tt15286302",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Nautilus",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMDAxM2VhZmEtNzExZi00ZjM5LTg1MWEtODk4YzBmMzkzZmQ2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  600,
+                                        "height":  900
+                                    },
+                   "startYear":  2024,
+                   "runtimeSeconds":  3000,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.8,
+                                  "voteCount":  6122
+                              },
+                   "plot":  "Based on Jules Verne\u0027s 20,000 Leagues Under The Sea, this action series will tell the origin story of Captain Nemo.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm3462290",
+                                         "displayName":  "Michael Matthews",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWZlODRhNWMtZmEzYy00YjYwLTkxZjEtMzRlN2Q4YzM5NzU3XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1500,
+                                                              "height":  1512
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2279930",
+                                         "displayName":  "Ben C. Lucas",
+                                         "alternativeNames":  [
+                                                                  "Ben Lucas"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZmVjYTVhNzctNDJlZi00MzFmLTlhYzYtYTYwMGMzNTAwY2M4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  5304,
+                                                              "height":  7952
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm5321975",
+                                         "displayName":  "Isabelle Sieb",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNGY0NzU5ZTctYTNkNi00YThlLWE1ZmUtZGUwYmVmNzdlNjYzXkEyXkFqcGc@._V1_CR520,91,649,974_.jpg",
+                                                              "width":  649,
+                                                              "height":  974
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1825199",
+                                       "displayName":  "James Dormer",
+                                       "alternativeNames":  [
+                                                                "Sofian James"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BODBhNmIwMDMtNDMyMS00Yjk5LWFmZmUtYmFjNTEyNGFlYTQ5XkEyXkFqcGc@._V1_CR71,1,2687,4031_.jpg",
+                                                            "width":  2687,
+                                                            "height":  4031
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1213712",
+                                       "displayName":  "Matthew Parkhill",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMmMzMjg3NjYtNzAwNC00YjE5LWJkZmEtMWRjYWJlOTIyMjMxXkEyXkFqcGc@._V1_CR46,0,1066,1599_.jpg",
+                                                            "width":  1066,
+                                                            "height":  1599
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm16956357",
+                                       "displayName":  "Sonya Desai",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2984397",
+                                     "displayName":  "Georgia Flood",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2IzNmYzN2QtMjVjYi00ZGJlLWEzYzUtZmRjZTQyN2E4ZjNmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2400,
+                                                          "height":  3198
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3691746",
+                                     "displayName":  "Shazad Latif",
+                                     "alternativeNames":  [
+                                                              "Javid Iqbal"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg3MDY1Mzk5MF5BMl5BanBnXkFtZTgwMjQwMDY5NTM@._V1_.jpg",
+                                                          "width":  1607,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1953111",
+                                     "displayName":  "CÃ©line Menville",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWJmNDk3YzUtNThmYy00OWQxLWFhYjItYzI3ZWExMGUxZTgyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1070,
+                                                          "height":  957
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2315197",
+                                     "displayName":  "Luke Arnold",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk0MzQxNTQ0N15BMl5BanBnXkFtZTgwNDQ4NDI1NjE@._V1_.jpg",
+                                                          "width":  1420,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0849312",
+                                     "displayName":  "Ling Cooper Tang",
+                                     "alternativeNames":  [
+                                                              "Ling Cooper Tan",
+                                                              "Ling Hseuh Tang",
+                                                              "Ling Hseu Tang",
+                                                              "Ling Hsueh Tang",
+                                                              "Ling Hsue Tang",
+                                                              "Ling-Hseuh Tang",
+                                                              "Ling-Hsueh Tang"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjUzNGNmMGQtM2VjMC00ODEzLWFmMTEtZGJlODBiNWU2ZmJiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1200,
+                                                          "height":  1500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000021",
+                                         "name":  "Sea Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    }
+                ]
+}

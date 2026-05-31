@@ -1,0 +1,292 @@
+﻿{
+    "id":  "tt0086764",
+    "detail":  {
+                   "id":  "tt0086764",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Muppet Babies",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZTRlMDFiYjYtMDNlMS00NzNkLThkMzUtMjg0Y2M3OTY2OTQwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  1984,
+                   "endYear":  1991,
+                   "runtimeSeconds":  1500,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Musical"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  6201
+                              },
+                   "plot":  "The Muppets, as babies, have adventures with their imaginations inside their nursery.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0498061",
+                                         "displayName":  "Ray Lee",
+                                         "alternativeNames":  [
+                                                                  "Raymond E. Lee",
+                                                                  "Raymond Lee"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "production_manager"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0677235",
+                                         "displayName":  "Karen Peterson",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0791236",
+                                         "displayName":  "Robert Shellhorn",
+                                         "alternativeNames":  [
+                                                                  "Bob Shellhorn"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0001345",
+                                       "displayName":  "Jim Henson",
+                                       "alternativeNames":  [
+                                                                "Jim Henson\u0027s Kermit the Frog",
+                                                                "Kermit the Frog",
+                                                                "Mr. Jim Henson",
+                                                                "Jim Henson \u0026 The Muppets",
+                                                                "Jim Henson\u0027s Muppets",
+                                                                "The Muppets",
+                                                                "Jim Henson and his Puppets",
+                                                                "Disney\u0027s Muppet properties and characters"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjMzMzI3MjAwM15BMl5BanBnXkFtZTcwODIzMDk1OA@@._V1_.jpg",
+                                                            "width":  1343,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0561026",
+                                       "displayName":  "Jeffrey Scott",
+                                       "alternativeNames":  [
+                                                                "Jeffrey Alan",
+                                                                "Jeffery Scott\u0027",
+                                                                "Jeff Maurer",
+                                                                "Jeffery Scott",
+                                                                "Jeffrey Alan Scott",
+                                                                "Jeff Scott"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0571066",
+                                       "displayName":  "Sindy McKay",
+                                       "alternativeNames":  [
+                                                                "Cindy McKay"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0073765",
+                                     "displayName":  "Greg Berg",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjFjZmNlYzQtOWZmMC00YjdlLThkYmUtZGQyNThkMTgxOGU0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  950,
+                                                          "height":  499
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0500246",
+                                     "displayName":  "Katie Leigh",
+                                     "alternativeNames":  [
+                                                              "Liz Joseph",
+                                                              "Katherine Leigh",
+                                                              "Kati Leigh",
+                                                              "Katy Leigh",
+                                                              "Kate Levine"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmQ4ZmQ4MjktY2NhYi00YjNkLWE0NDgtMDcwZjU0YzJmNGFjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2144,
+                                                          "height":  1424
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "sound_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0639667",
+                                     "displayName":  "Laurie O\u0027Brien",
+                                     "alternativeNames":  [
+                                                              "Laurie O\u0027Brian"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTE4YTFmMmMtMWY4OS00MWVlLWE4OGEtOTBlMGE0Nzc1YzRjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  950,
+                                                          "height":  1408
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "costume_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0853122",
+                                     "displayName":  "Russi Taylor",
+                                     "alternativeNames":  [
+                                                              "Touched By An Anvil",
+                                                              "The Rotting Ruins of Russi",
+                                                              "Russi Russian",
+                                                              "Rabid Russi Taylor",
+                                                              "Rancid Russi Taylor",
+                                                              "Russi \u0027I\u0027m In The Well\u0027 Taylor",
+                                                              "Russi Big Tombs Taylor",
+                                                              "Russi Gooey Brains Are Tasty With Fava Beans And A Nice Chianti Taylor",
+                                                              "Russie Taylor"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk1ODEwNTIxNV5BMl5BanBnXkFtZTcwNjA4ODkxOA@@._V1_.jpg",
+                                                          "width":  1436,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000133",
+                                         "name":  "Musical"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  2
+                    }
+                ]
+}

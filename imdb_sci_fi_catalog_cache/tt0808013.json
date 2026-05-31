@@ -1,0 +1,218 @@
+﻿{
+    "id":  "tt0808013",
+    "detail":  {
+                   "id":  "tt0808013",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Blood Ties",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjUwOGE0OTgtMjAyOS00MDIwLWJjNmMtYTM1YzIyYTM3OTRiXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1067,
+                                        "height":  1600
+                                    },
+                   "startYear":  2007,
+                   "endYear":  2007,
+                   "runtimeSeconds":  2580,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  7396
+                              },
+                   "plot":  "Vicki Nelson, a former homicide detective turned private investigator, and Henry Fitzroy, a 470-year-old vampire, form a unique team solving cases and dealing with the supernatural world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0242966",
+                                         "displayName":  "James Dunnison",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjE0NDg4MjI0OV5BMl5BanBnXkFtZTcwODY1MzAxMw@@._V1_.jpg",
+                                                              "width":  2000,
+                                                              "height":  3008
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0372138",
+                                         "displayName":  "James Head",
+                                         "alternativeNames":  [
+                                                                  "James David Head",
+                                                                  "Jim Head"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "camera_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0003941",
+                                         "displayName":  "David Winning",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOGQwNDY3NDItZWQ0My00ZWMwLTg4MjktNmQ2NDk2ZmY4NjQ2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1395,
+                                                              "height":  1978
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2277736",
+                                       "displayName":  "Tanya Huff",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0595913",
+                                       "displayName":  "Peter Mohan",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTI5MDgxOTgtN2ZlNy00NDcwLTk2MmItNmFkZDk5NDRhODkyXkEyXkFqcGc@._V1_CR1336,0,1631,2447_.jpg",
+                                                            "width":  1631,
+                                                            "height":  2447
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0372773",
+                                       "displayName":  "Dennis Heaton",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDVkMmVjZTctNmU1NC00ZWU4LWE1MmUtNGFhOGJjMWExOGU5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3114,
+                                                            "height":  3892
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0184965",
+                                     "displayName":  "Christina Cox",
+                                     "alternativeNames":  [
+                                                              "Christina"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk3MDU1NTg1OV5BMl5BanBnXkFtZTYwNTMxMjE2._V1_.jpg",
+                                                          "width":  245,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "stunts"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0623604",
+                                     "displayName":  "Dylan Neal",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTcxYmYzYjktNmU1Ni00MDgxLTgwYjMtZjdjMzI0ZDRkMzI0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1774,
+                                                          "height":  1674
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0772704",
+                                     "displayName":  "Kyle Schmid",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODQzNzhkYjAtZDNhZi00MGFjLTgzMmYtN2Q3NTZlYzlkNDVkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  427,
+                                                          "height":  640
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1248373",
+                                     "displayName":  "Gina Holden",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzUwNDk0ODIzMl5BMl5BanBnXkFtZTgwOTE4OTUwMDE@._V1_.jpg",
+                                                          "width":  426,
+                                                          "height":  640
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000119",
+                                         "name":  "Vampire Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    }
+                ]
+}

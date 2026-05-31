@@ -1,0 +1,234 @@
+﻿{
+    "id":  "tt6601082",
+    "detail":  {
+                   "id":  "tt6601082",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Rise of the Teenage Mutant Ninja Turtles",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOWRjNGVjNWEtOGQ2OS00ODg2LThkYmQtMDhlZTc4ZWE5N2VhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1500,
+                                        "height":  2000
+                                    },
+                   "startYear":  2018,
+                   "endYear":  2020,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6,
+                                  "voteCount":  6968
+                              },
+                   "plot":  "Four mutant turtle brothers go on adventures where they end up tapping into mystic ninja powers.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1737283",
+                                         "displayName":  "Alan Wan",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0599594",
+                                         "displayName":  "Sebastian Montes",
+                                         "alternativeNames":  [
+                                                                  "Sebastian O. Montes III",
+                                                                  "Sabastian Montes"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2857292",
+                                         "displayName":  "Abe Audish",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0123983",
+                                       "displayName":  "Ian Busch",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3177985",
+                                       "displayName":  "Russ Carney",
+                                       "alternativeNames":  [
+                                                                "Russ Carney of America"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0137180",
+                                       "displayName":  "Ron Corcillo",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2355635",
+                                     "displayName":  "Ben Schwartz",
+                                     "alternativeNames":  [
+                                                              "Ben SCHWARTZ",
+                                                              "Benjamin Schwartz"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjA2ZTI3ZGQtMWYyZi00ZmFjLTg2M2MtMWFjZmNhNDljMjdmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2783,
+                                                          "height":  2525
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0807506",
+                                     "displayName":  "Brandon Mychal Smith",
+                                     "alternativeNames":  [
+                                                              "Brandon Mychal-Smith",
+                                                              "Brandon Smith"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjI0MzI2NzAyOV5BMl5BanBnXkFtZTgwMzgxMjc3OTE@._V1_.jpg",
+                                                          "width":  3000,
+                                                          "height":  2004
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0589077",
+                                     "displayName":  "Omar Benson Miller",
+                                     "alternativeNames":  [
+                                                              "Omar Benson",
+                                                              "Omar Miller"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzk0YzIzMzktNTM5Zi00MzUwLTk1MWQtNjJkZDg3NjY4MGQwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1530,
+                                                          "height":  2300
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3091777",
+                                     "displayName":  "Josh Brener",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDRlZjFjN2YtNGZlNi00NzY1LWJiMjEtNjQxMzZhN2QzYmE0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  900,
+                                                          "height":  600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "AU",
+                                               "name":  "Australia"
+                                           },
+                                           {
+                                               "code":  "IN",
+                                               "name":  "India"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  43
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "unknown",
+                        "episodeCount":  7
+                    }
+                ]
+}

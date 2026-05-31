@@ -1,0 +1,257 @@
+﻿{
+    "id":  "tt18291136",
+    "detail":  {
+                   "id":  "tt18291136",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Knuckles",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BODc1MDA3YWUtZGQ3Mi00ODFlLTlkOGQtNTcwOWM3MzhlZWVhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  573,
+                                        "height":  859
+                                    },
+                   "startYear":  2024,
+                   "endYear":  2024,
+                   "runtimeSeconds":  1740,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.1,
+                                  "voteCount":  10427
+                              },
+                   "plot":  "Knuckles the Echidna teaches deputy Wade Whipple the techniques of the Echidna warrior.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0052059",
+                                         "displayName":  "Carol Banker",
+                                         "alternativeNames":  [
+                                                                  "Carol J. Banker",
+                                                                  "Carol Jean Banker",
+                                                                  "Banker",
+                                                                  "Carol"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzExYWRiYTEtM2UyOS00ODY2LWE0YmYtOTBiNWUyM2U4NWQ4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2701,
+                                                              "height":  3600
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "script_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1733778",
+                                         "displayName":  "Jeff Fowler",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZTVjMGRkODQtYTc3Ny00NmM4LTlhMjAtZTcxMTI3ZWY4NmRkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1248,
+                                                              "height":  1089
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1672246",
+                                         "displayName":  "Jorma Taccone",
+                                         "alternativeNames":  [
+                                                                  "The Dudes",
+                                                                  "Jorm",
+                                                                  "The Lonely Island"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTYyNzY1NzE5NF5BMl5BanBnXkFtZTgwNTQ3MjA0NzM@._V1_.jpg",
+                                                              "width":  612,
+                                                              "height":  758
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm4457111",
+                                       "displayName":  "Toby Ascher",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4465847",
+                                       "displayName":  "John Whittington",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNmQ1ODhkYmMtYjc1My00MjQ2LTgzYmUtZTQ5YjFhZGEyYmQ5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1455,
+                                                            "height":  2422
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4758332",
+                                       "displayName":  "Brian Schacter",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000330",
+                                     "displayName":  "Stockard Channing",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAyOTc0NDQ4NV5BMl5BanBnXkFtZTYwODYyMjA0._V1_.jpg",
+                                                          "width":  268,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0252961",
+                                     "displayName":  "Idris Elba",
+                                     "alternativeNames":  [
+                                                              "Sir Idris Elba",
+                                                              "Idris Nightmare on Elba Street"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_.jpg",
+                                                          "width":  1363,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0666198",
+                                     "displayName":  "Edi Patterson",
+                                     "alternativeNames":  [
+                                                              "Edi Paterson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDFiZTIwMDEtYjBjOS00Njg2LWI1YzYtOTYyOGYwOTc0ZjE1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  533,
+                                                          "height":  800
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1269723",
+                                     "displayName":  "Adam Pally",
+                                     "alternativeNames":  [
+                                                              "Chubby Skinny Kids",
+                                                              "Death By Roo Roo"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU0NzU3NjY5OV5BMl5BanBnXkFtZTgwMzM3MTk2MTE@._V1_.jpg",
+                                                          "width":  1439,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           },
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "AU",
+                                               "name":  "Australia"
+                                           },
+                                           {
+                                               "code":  "NZ",
+                                               "name":  "New Zealand"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    }
+                ]
+}

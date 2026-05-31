@@ -1,0 +1,248 @@
+﻿{
+    "id":  "tt0098900",
+    "detail":  {
+                   "id":  "tt0098900",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Avonlea",
+                   "originalTitle":  "Road to Avonlea",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTg0MDA2MDItYjQ4NC00MTViLWEwNWMtNDg5MTE3MzA0YzQ5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1462
+                                    },
+                   "startYear":  1990,
+                   "endYear":  1998,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Family",
+                                  "Mystery",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.5,
+                                  "voteCount":  5276
+                              },
+                   "plot":  "A young girl is sent to live with her late mother\u0027s relatives in Prince Edward Island. Set in the early 1900\u0027s, the series follows her adventures, as well as that of her family and the town\u0027s people as she grows up in Avonlea.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0296501",
+                                         "displayName":  "Harvey Frost",
+                                         "alternativeNames":  [
+                                                                  "F. Harvey Frost"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0454437",
+                                         "displayName":  "Allan King",
+                                         "alternativeNames":  [
+                                                                  "Allan King and Family",
+                                                                  "Allan Winton King",
+                                                                  "Allen King"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzNiN2MwMzYtZjNlOC00YjA1LWJhODYtMjE5NjVlMDY3MTU2XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  450,
+                                                              "height":  440
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0564260",
+                                         "displayName":  "Don McBrearty",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0599844",
+                                       "displayName":  "Lucy Maud Montgomery",
+                                       "alternativeNames":  [
+                                                                "RÃ»shÃ® MÃ´do Mongomeri",
+                                                                "L.M. Montgomery"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0570448",
+                                       "displayName":  "Fiona McHugh",
+                                       "alternativeNames":  [
+                                                                "Fionna McHugh"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0174673",
+                                       "displayName":  "Heather Conkie",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0072124",
+                                     "displayName":  "Zachary Bennett",
+                                     "alternativeNames":  [
+                                                              "Zachary Bennet",
+                                                              "Zac Bennett"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjYyZTFlNGMtNmJmNC00MzdiLTkzOTEtZjU3ZTBlYWQxODllXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1611,
+                                                          "height":  2417
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0128119",
+                                     "displayName":  "Lally Cadeau",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2FjNWQ1NmUtYzM1YS00ZTg1LTk5OGMtMjE3N2RiNjc1NDk4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  271,
+                                                          "height":  334
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0749316",
+                                     "displayName":  "Mag Ruffman",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzAzNjY5OGEtM2QyZS00Yzk2LThkOTItN2EwZjg2YzE1ZTViXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2400,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0807649",
+                                     "displayName":  "Cedric Smith",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA1NzY0MTY0NTdeQTJeQWpwZ15BbWU3MDc1Nzg5NTg@._V1_.jpg",
+                                                          "width":  884,
+                                                          "height":  1239
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "fra",
+                                               "name":  "French"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000073",
+                                         "name":  "Coming-of-Age",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000083",
+                                         "name":  "Period Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  16
+                    }
+                ]
+}

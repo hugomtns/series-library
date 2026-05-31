@@ -1,0 +1,245 @@
+﻿{
+    "id":  "tt0108921",
+    "detail":  {
+                   "id":  "tt0108921",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Secret World of Alex Mack",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOGE2M2I1ZWQtZThhMy00MGUyLTk0OTAtNjU4MjRmNTEwMGU4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1550,
+                                        "height":  2211
+                                    },
+                   "startYear":  1994,
+                   "endYear":  1998,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  6032
+                              },
+                   "plot":  "Alexandra \"Alex\" Mack develops powerful abilities after a chemical factory accident. She struggles to balance her ordinary life with extraordinary misadventures as a result.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0388505",
+                                         "displayName":  "Paul Hoen",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjI5OTgxMTIwMl5BMl5BanBnXkFtZTcwMzMzOTUwOQ@@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1453
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0509183",
+                                         "displayName":  "Allison Liddi-Brown",
+                                         "alternativeNames":  [
+                                                                  "Allison Liddi Brown",
+                                                                  "Allison Leddi-Brown",
+                                                                  "Allison Liddi"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTk3NTI3ODgwM15BMl5BanBnXkFtZTgwMjM2NTE2NzE@._V1_.jpg",
+                                                              "width":  403,
+                                                              "height":  605
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0090015",
+                                         "displayName":  "Jeff Blyth",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTAzYTZmMDMtYmExYy00MjIxLTliMWUtMWU4MGM0MDFiYTEwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  864,
+                                                              "height":  589
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "visual_effects",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0513516",
+                                       "displayName":  "Ken Lipman",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjllY2NlNDQtNmY5Yi00NTMyLThjYjItYjQ4Nzg4YzM2NmIyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3064,
+                                                            "height":  4290
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0528480",
+                                       "displayName":  "Tommy Lynch",
+                                       "alternativeNames":  [
+                                                                "Thomas W. Lynch",
+                                                                "Thomas W Lynch",
+                                                                "Thomas Lynch",
+                                                                "Tom Lynch"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0213127",
+                                       "displayName":  "Matt Dearborn",
+                                       "alternativeNames":  [
+                                                                "Matt \u0027Bob\u0027 Dearborn",
+                                                                "Matthew Dearborn"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjQ1MjI3OTM0N15BMl5BanBnXkFtZTcwODAyMTU4Mw@@._V1_.jpg",
+                                                            "width":  2592,
+                                                            "height":  3888
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0522307",
+                                     "displayName":  "Darris Love",
+                                     "alternativeNames":  [
+                                                              "Darius Love"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc1MDIzNzU3NV5BMl5BanBnXkFtZTgwMDEyODEwMTE@._V1_.jpg",
+                                                          "width":  1486,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0646351",
+                                     "displayName":  "Larisa Oleynik",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDA3MzU3NzUtZDAzOC00NGE3LTg5NjUtNDM4NGI5YmRiNTlkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1250,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0084140",
+                                     "displayName":  "Meredith Bishop",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUxMDI0NjY4OV5BMl5BanBnXkFtZTgwNTE0NjUyMjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0086866",
+                                     "displayName":  "Michael Blakley",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODg2NTkzODEyN15BMl5BanBnXkFtZTgwOTgzNjUyMjE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000037",
+                                         "name":  "High-Concept Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  25
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  20
+                    }
+                ]
+}

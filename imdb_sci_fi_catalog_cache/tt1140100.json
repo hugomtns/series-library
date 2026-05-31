@@ -1,0 +1,258 @@
+﻿{
+    "id":  "tt1140100",
+    "detail":  {
+                   "id":  "tt1140100",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Chowder",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYTkxM2YzYTYtODY1OS00NjFjLWFiNTgtNDI0MjY4N2FkNjY5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  700,
+                                        "height":  917
+                                    },
+                   "startYear":  2007,
+                   "endYear":  2010,
+                   "runtimeSeconds":  660,
+                   "genres":  [
+                                  "Animation",
+                                  "Short",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  17010
+                              },
+                   "plot":  "In Marzipan City, excitable young food-loving Chowder is the apprentice of Mung Daal, a very old chef who runs a catering company with his wife Truffles and assistant Shnitzel.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0396317",
+                                         "displayName":  "Eddy Houchins",
+                                         "alternativeNames":  [
+                                                                  "William Edwards",
+                                                                  "Eddie Houchins",
+                                                                  "William Houchins"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0916798",
+                                         "displayName":  "Kris Sherwood",
+                                         "alternativeNames":  [
+                                                                  "Kris Weber Sherwood",
+                                                                  "Kristina Sherwood",
+                                                                  "Kristine Sherwood",
+                                                                  "Kristin Sherwood",
+                                                                  "Kris Weber-Sherwood"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "assistant_director",
+                                                                    "editorial_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0590446",
+                                         "displayName":  "Mike Milo",
+                                         "alternativeNames":  [
+                                                                  "Michael A. Milo",
+                                                                  "Michael Milo"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1148951",
+                                       "displayName":  "C.H. Greenblatt",
+                                       "alternativeNames":  [
+                                                                "Carl Greenblat",
+                                                                "Carl Greenblatt"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1208638",
+                                       "displayName":  "William Reiss",
+                                       "alternativeNames":  [
+                                                                "Bill Reiss",
+                                                                "Willaim Reiss",
+                                                                "Williams Reiss"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1584126",
+                                       "displayName":  "Darrick Bachman",
+                                       "alternativeNames":  [
+                                                                "Darrick Backman"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "music_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0152839",
+                                     "displayName":  "Tara Strong",
+                                     "alternativeNames":  [
+                                                              "Tara Charandoff",
+                                                              "Tara Chardenoff",
+                                                              "Tara Charendoff",
+                                                              "Tara Charendoff-Strong",
+                                                              "Tara Charendorf",
+                                                              "Tara"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDk1MTUxYjQtYzNiMC00NmNhLTlhOTUtZDUzYzU0ZjU5YTcxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3792,
+                                                          "height":  5031
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2156569",
+                                     "displayName":  "Nicky Jones",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI4OTY2MTQ3NV5BMl5BanBnXkFtZTcwMzc1MjcxMw@@._V1_.jpg",
+                                                          "width":  864,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0776239",
+                                     "displayName":  "Dwight Schultz",
+                                     "alternativeNames":  [
+                                                              "Dwight Shultz",
+                                                              "Dwight Shultzs"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE1OTU0ODIyMV5BMl5BanBnXkFtZTcwNDc4MDkwMw@@._V1_.jpg",
+                                                          "width":  1884,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0224007",
+                                     "displayName":  "John DiMaggio",
+                                     "alternativeNames":  [
+                                                              "John De Maggio",
+                                                              "Johnny Dee",
+                                                              "John Di Maggio",
+                                                              "John DiImaggio",
+                                                              "Jon DiMaggio",
+                                                              "John Dimaggio",
+                                                              "B.B. Leeland"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzI2NTk1MzYxOV5BMl5BanBnXkFtZTcwMDE2MDQ4Nw@@._V1_.jpg",
+                                                          "width":  1503,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CN",
+                                               "name":  "China"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000036",
+                                         "name":  "Farce",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000212",
+                                         "name":  "Short"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  28
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  17
+                    }
+                ]
+}

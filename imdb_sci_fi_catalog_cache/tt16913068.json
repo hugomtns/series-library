@@ -1,0 +1,184 @@
+﻿{
+    "id":  "tt16913068",
+    "detail":  {
+                   "id":  "tt16913068",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Shahmaran",
+                   "originalTitle":  "Sahmaran",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZjQwNDg4MzktMjhkMS00MWU0LTg4MmUtMGM0NTI0YzRhNmVjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1170,
+                                        "height":  1842
+                                    },
+                   "startYear":  2023,
+                   "endYear":  2024,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.6,
+                                  "voteCount":  23401
+                              },
+                   "plot":  "When Sahsu goes to Adana for a lecture, it\u0027s the perfect chance to face her estranged grandfather. But soon, she finds herself in the midst of a legend.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2763375",
+                                         "displayName":  "Bertan Basaran",
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "talent_agent"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0876834",
+                                         "displayName":  "Umur Turagay",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "cinematographer",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3660814",
+                                       "displayName":  "Pinar Bulut",
+                                       "primaryProfessions":  [
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm16705080",
+                                       "displayName":  "Onur Fahri Sekendur",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm16705079",
+                                       "displayName":  "Sezer ÃstÃ¼ngel",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm3020763",
+                                     "displayName":  "Serenay Sarikaya",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjBkYzkyNWQtOGJkZi00NjFkLTgwMTMtNzA0Zjg1YTQ4YjU5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  800,
+                                                          "height":  1148
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6541188",
+                                     "displayName":  "Burak Deniz",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1579662",
+                                     "displayName":  "Jolene Andersen",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzAzNzI4YTgtMDJmOC00MDQzLTkzNDAtMzhlNDg3Y2JhZjkzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4111,
+                                                          "height":  2736
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9455181",
+                                     "displayName":  "Mert Ramazan Demir",
+                                     "alternativeNames":  [
+                                                              "Ramazan Demir"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA4OWU2OTItZmIyZC00MGYxLWE4M2EtMmM2OWI1ZDA5OGIwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  932,
+                                                          "height":  1116
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "TR",
+                                               "name":  "Turkey"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "tur",
+                                               "name":  "Turkish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000073",
+                                         "name":  "Coming-of-Age",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  1
+                    }
+                ]
+}

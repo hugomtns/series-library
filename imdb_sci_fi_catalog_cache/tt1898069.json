@@ -1,0 +1,242 @@
+﻿{
+    "id":  "tt1898069",
+    "detail":  {
+                   "id":  "tt1898069",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "American Gods",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMmJkNzhhNjEtNWY0Zi00ZmU4LThkZTQtMDU1YWY3MWRjZDM0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1200,
+                                        "height":  1788
+                                    },
+                   "startYear":  2017,
+                   "endYear":  2021,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  98417
+                              },
+                   "plot":  "A recently released ex-convict named Shadow meets a mysterious man who calls himself \"Wednesday\" and who knows more than he first seems to about Shadow\u0027s life and past.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1720541",
+                                         "displayName":  "David Slade",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjE4ODQxMTQzNV5BMl5BanBnXkFtZTcwMDU2MjA2Mw@@._V1_.jpg",
+                                                              "width":  1594,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0437246",
+                                         "displayName":  "Adam Kane",
+                                         "alternativeNames":  [
+                                                                  "Adam M. Kane",
+                                                                  "Enak Mada"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWZmZjI0NGYtNTEwMC00OGE2LTgxYjYtYmVkMjExODk4YzFjXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1449,
+                                                              "height":  1532
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm6501824",
+                                         "displayName":  "Christopher J. Byrne",
+                                         "alternativeNames":  [
+                                                                  "Bonspiel",
+                                                                  "Chris Bryne",
+                                                                  "Christopher J Byrne",
+                                                                  "Christopher Byrne",
+                                                                  "Chris Byrne"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzVmNTcxMWUtN2E4Ny00OGI0LWIxYzgtM2Y1OTk5ZTBjZGEyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  936,
+                                                              "height":  1178
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "composer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0298188",
+                                       "displayName":  "Bryan Fuller",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BODkwMDg5MTE1Ml5BMl5BanBnXkFtZTYwMzQ3MTg3._V1_.jpg",
+                                                            "width":  485,
+                                                            "height":  724
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0301274",
+                                       "displayName":  "Neil Gaiman",
+                                       "alternativeNames":  [
+                                                                "Nails Ghoulman"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTczNjc1NjIzMV5BMl5BanBnXkFtZTYwNDU2MjYz._V1_.jpg",
+                                                            "width":  268,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0338169",
+                                       "displayName":  "Michael Green",
+                                       "alternativeNames":  [
+                                                                "Michael J. Green"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzI0YTMzNjYtZmJjYS00NzZjLWJkYzYtM2FiYWE1ODI1NjQ2XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5087,
+                                                            "height":  5181
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0115161",
+                                     "displayName":  "Emily Browning",
+                                     "alternativeNames":  [
+                                                              "Emily Jane Browning"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDA4ZGZhYjAtNGEzMS00NmRlLTk2M2QtNzAzNDg4ZDFkODJmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1170,
+                                                          "height":  1438
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1340638",
+                                     "displayName":  "Ricky Whittle",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWQwMTA4ZDgtZWFhYi00M2RmLWJiYjAtOWNlN2E5NTE1YjlhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1106,
+                                                          "height":  1512
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1462340",
+                                     "displayName":  "Yetide Badaki",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDhkNGEwMGItOTc3Mi00MjgxLWEzMDktMWUyMGZlYTBhNzI5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  455,
+                                                          "height":  640
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6780817",
+                                     "displayName":  "Bruce Langley",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWZmYzcwMDgtNzMzZi00NzIzLThmODEtNzcyMDk4MGM5MzIyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  750,
+                                                          "height":  703
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    }
+                ]
+}

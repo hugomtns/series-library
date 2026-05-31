@@ -1,0 +1,254 @@
+﻿{
+    "id":  "tt0058815",
+    "detail":  {
+                   "id":  "tt0058815",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "I Dream of Jeannie",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNDNjMzhkOTUtODM0NS00NGNlLTgxNDItN2M2NzE0NWE5MjI5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  1965,
+                   "endYear":  1970,
+                   "runtimeSeconds":  1500,
+                   "genres":  [
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  19211
+                              },
+                   "plot":  "A United States astronaut finds his life vastly complicated when he stumbles on to a bottle containing a female genie.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0178079",
+                                         "displayName":  "Hal Cooper",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0350041",
+                                         "displayName":  "Claudio GuzmÃ¡n",
+                                         "alternativeNames":  [
+                                                                  "C.E. Guzman",
+                                                                  "Claudio Guzman"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0625383",
+                                         "displayName":  "Gene Nelson",
+                                         "alternativeNames":  [
+                                                                  "Gene Berg"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjIyMjEzNzgyNV5BMl5BanBnXkFtZTcwODg2NTcwOA@@._V1_.jpg",
+                                                              "width":  1649,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0791084",
+                                       "displayName":  "Sidney Sheldon",
+                                       "alternativeNames":  [
+                                                                "Allan Devon",
+                                                                "Christopher Golato",
+                                                                "Mark Rowane"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTM1MDE5MDM0OV5BMl5BanBnXkFtZTYwMDc5ODcz._V1_.jpg",
+                                                            "width":  281,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0376967",
+                                       "displayName":  "James S. Henerson",
+                                       "alternativeNames":  [
+                                                                "James Henderson",
+                                                                "James Henerson",
+                                                                "Jim Henerson"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0744929",
+                                       "displayName":  "Martin Roth",
+                                       "alternativeNames":  [
+                                                                "Marty Roth"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001174",
+                                     "displayName":  "Barbara Eden",
+                                     "alternativeNames":  [
+                                                              "Miss San Francisco 1951",
+                                                              "Barbara Huffman"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQyNTk4OTkxMV5BMl5BanBnXkFtZTgwMDk4NTE0MTE@._V1_.jpg",
+                                                          "width":  300,
+                                                          "height":  403
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001306",
+                                     "displayName":  "Larry Hagman",
+                                     "alternativeNames":  [
+                                                              "Larry Hagland"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE3MjMxNjkyMl5BMl5BanBnXkFtZTYwOTcxNjIz._V1_.jpg",
+                                                          "width":  269,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0197349",
+                                     "displayName":  "Bill Daily",
+                                     "alternativeNames":  [
+                                                              "Bill \u0026 Pat"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjg0M2MzMTQtZWYyYi00ZjQ2LWFlOGQtZGUzOTViNjlhZmQ3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2300,
+                                                          "height":  3210
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0740718",
+                                     "displayName":  "Hayden Rorke",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM4ODQxOTU2M15BMl5BanBnXkFtZTcwNjIxOTgxOA@@._V1_.jpg",
+                                                          "width":  1353,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000037",
+                                         "name":  "High-Concept Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000043",
+                                         "name":  "Screwball Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  31
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  26
+                    }
+                ]
+}

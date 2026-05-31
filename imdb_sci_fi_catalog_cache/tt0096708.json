@@ -1,0 +1,282 @@
+﻿{
+    "id":  "tt0096708",
+    "detail":  {
+                   "id":  "tt0096708",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Tales from the Crypt",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMzY2Y2ZkMjctMGEwOS00OGM4LTlmYmQtMTliNDRlNzI5ZDg0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1280,
+                                        "height":  1920
+                                    },
+                   "startYear":  1989,
+                   "endYear":  1996,
+                   "runtimeSeconds":  1500,
+                   "genres":  [
+                                  "Comedy",
+                                  "Crime",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8,
+                                  "voteCount":  29806
+                              },
+                   "plot":  "\"Tales from the Crypt\" was a 1989 horror story anthology series based on the gruesome E.C. comic books of the 1950s presented by the legendary \"Crypt Keeper\", a sinister ghoul obsessed with gallows humor and horrific puns.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0611683",
+                                         "displayName":  "Russell Mulcahy",
+                                         "alternativeNames":  [
+                                                                  "Russ Mulcahy"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzUzZTRhN2UtMTAyMi00MzU2LTllY2MtNjM1MGRkMzQ4YzAxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3529,
+                                                              "height":  3655
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0799033",
+                                         "displayName":  "Elliot Silverstein",
+                                         "alternativeNames":  [
+                                                                  "Elliott Silverstein"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMmZiNWViODktNjFhZC00YzVmLTgxZTItZWFkY2ZhOGIzZTcxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  800,
+                                                              "height":  450
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0000709",
+                                         "displayName":  "Robert Zemeckis",
+                                         "alternativeNames":  [
+                                                                  "Bob Zemeckis"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTgyMTMzMDUyNl5BMl5BanBnXkFtZTcwODA0ODMyMw@@._V1_.jpg",
+                                                              "width":  1352,
+                                                              "height":  2032
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm9763733",
+                                       "displayName":  "Steven Dodd",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0301362",
+                                       "displayName":  "William M. Gaines",
+                                       "alternativeNames":  [
+                                                                "Bill Gaines",
+                                                                "William Gaines",
+                                                                "originally published by"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZTY1ZTRkNzItMmFlYS00ZmVhLWJmYjYtMDlhNWQ3MDY3N2Q3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  900,
+                                                            "height":  1312
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0632350",
+                                       "displayName":  "Scott Nimerfro",
+                                       "alternativeNames":  [
+                                                                "Lloyd Keith",
+                                                                "Scott Lloyd Nimerfro"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjE1MTEwMTMyM15BMl5BanBnXkFtZTgwODE5NTc2ODE@._V1_.jpg",
+                                                            "width":  294,
+                                                            "height":  362
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0440885",
+                                     "displayName":  "John Kassir",
+                                     "alternativeNames":  [
+                                                              "John E. Kassir",
+                                                              "Johnny Kassir"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGFiNmI4MjAtZGYwYS00ZmI1LWJhNDItYzkyMWQ5ZGNlNDFjXkEyXkFqcGc@._V1_CR62,0,1230,1846_.jpg",
+                                                          "width":  1230,
+                                                          "height":  1846
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0110735",
+                                     "displayName":  "Roy Brocksmith",
+                                     "alternativeNames":  [
+                                                              "Ray Brocksmith"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODIyMDQxMDYtY2Q3Ni00NmY1LTllZDctNzk5NWQ4MDM2YmE0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  795,
+                                                          "height":  1047
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001208",
+                                     "displayName":  "Miguel Ferrer",
+                                     "alternativeNames":  [
+                                                              "Miguell Ferrer"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ3MTYxNDE2MV5BMl5BanBnXkFtZTYwMTY0MTU3._V1_.jpg",
+                                                          "width":  2008,
+                                                          "height":  2856
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "cinematographer",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0164682",
+                                     "displayName":  "Cam Clarke",
+                                     "alternativeNames":  [
+                                                              "Kelly Brewster",
+                                                              "Ray Carlin",
+                                                              "Cameron Charles",
+                                                              "Cam Clark",
+                                                              "Cameron A. Clarke",
+                                                              "Cameron Arthur Clarke",
+                                                              "Cameron Clarke",
+                                                              "Cam Clarke/Delem Donaldson",
+                                                              "James Flinders",
+                                                              "Jimmy Flinders",
+                                                              "Nate Herz",
+                                                              "Ren Mortensen",
+                                                              "English version"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMThhM2Y3NGUtYjYwMS00MGQ5LWI5MDUtNTJmMDA5YTRkZGVhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3157,
+                                                          "height":  3554
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  13
+                    }
+                ]
+}

@@ -1,0 +1,336 @@
+﻿{
+    "id":  "tt0105941",
+    "detail":  {
+                   "id":  "tt0105941",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Animaniacs",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZmMyMmViMDYtYTc5Yi00ZmY0LWI4N2YtYzEyMGI0MDI2N2E3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  512,
+                                        "height":  726
+                                    },
+                   "startYear":  1993,
+                   "endYear":  1998,
+                   "runtimeSeconds":  1260,
+                   "genres":  [
+                                  "Animation",
+                                  "Short",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Musical"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  27718
+                              },
+                   "plot":  "The zany adventures of a trio of 1930s animated characters in the modern world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0319791",
+                                         "displayName":  "Alfred Gimeno",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0550825",
+                                         "displayName":  "David Marshall",
+                                         "alternativeNames":  [
+                                                                  "Dave Marshall"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWFjMTc2Y2MtYTVjNy00NmZkLTkyYzEtYTI3YzE5YWQ5MDQwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  960,
+                                                              "height":  1280
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "camera_department",
+                                                                    "visual_effects"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0589278",
+                                         "displayName":  "Rusty Mills",
+                                         "alternativeNames":  [
+                                                                  "Russell Paris Mills",
+                                                                  "Russell Mills"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0736609",
+                                       "displayName":  "Randy Rogel",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0749161",
+                                       "displayName":  "Tom Ruegger",
+                                       "alternativeNames":  [
+                                                                "Dr. Plotz Ruegger",
+                                                                "Thomas Ruegger"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0368614",
+                                       "displayName":  "Peter Hastings",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNTU1MDhkZWMtNTYyYS00MDllLWIzNzQtOTkwYmM5MGNiMDgyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  960,
+                                                            "height":  1280
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0534134",
+                                     "displayName":  "Tress MacNeille",
+                                     "alternativeNames":  [
+                                                              "Tori Jensen",
+                                                              "Tresshouse MacHorror",
+                                                              "Tress MacNeile",
+                                                              "Tress MacNeilie",
+                                                              "Tress MacNeill",
+                                                              "Ress MacNeille",
+                                                              "Terrifying Tress MacNeille",
+                                                              "Terroress MacNeille",
+                                                              "Terror MacNeille",
+                                                              "Tress MacNeille?!",
+                                                              "Tress MacNiell",
+                                                              "Terror MacNihil",
+                                                              "Tress MacNihil",
+                                                              "Teratoid MacNihilist",
+                                                              "Terror MacNihilist",
+                                                              "Terror MacNihl",
+                                                              "Tress MacTerror",
+                                                              "Teratoid Macinhilist",
+                                                              "Tress Macneille",
+                                                              "Tress McNeil",
+                                                              "Tress McNeille",
+                                                              "Tress McNihillist",
+                                                              "Trussed Big Meal",
+                                                              "Tress Mac Neille",
+                                                              "The Real Tress MacNeille"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQxMTQ1NzY5N15BMl5BanBnXkFtZTcwMDY5NDUwOA@@._V1_.jpg",
+                                                          "width":  1331,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0667326",
+                                     "displayName":  "Rob Paulsen",
+                                     "alternativeNames":  [
+                                                              "Robert F. Paulsen III",
+                                                              "Robert F. Paulsen",
+                                                              "Robert Paulsen",
+                                                              "Rob Paulsens",
+                                                              "Robb Paulson",
+                                                              "Rob Paulson",
+                                                              "Raphael"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTAzODc1MTk4MzheQTJeQWpwZ15BbWU3MDY4NjU1MDg@._V1_.jpg",
+                                                          "width":  1380,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0363641",
+                                     "displayName":  "Jess Harnell",
+                                     "alternativeNames":  [
+                                                              "David Jordan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTU3YTIzYmYtMGYwZi00ZDEyLTg2Y2EtYjk3ZWQxMzBlN2RhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  714,
+                                                          "height":  960
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0919798",
+                                     "displayName":  "Frank Welker",
+                                     "alternativeNames":  [
+                                                              "Jack Beanstalk",
+                                                              "Dr. Frankenwelker",
+                                                              "Frank W. Welker",
+                                                              "Franklin Welker",
+                                                              "Tom Welker"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjM2MzU2ODYxMV5BMl5BanBnXkFtZTgwMzQ3MjcwMjE@._V1_.jpg",
+                                                          "width":  480,
+                                                          "height":  640
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "sound_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           },
+                                           {
+                                               "code":  "NZ",
+                                               "name":  "New Zealand"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           },
+                                           {
+                                               "code":  "PH",
+                                               "name":  "Philippines"
+                                           },
+                                           {
+                                               "code":  "TW",
+                                               "name":  "Taiwan (Province of China)"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000036",
+                                         "name":  "Farce",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000045",
+                                         "name":  "Sketch Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000133",
+                                         "name":  "Musical"
+                                     },
+                                     {
+                                         "id":  "in0000212",
+                                         "name":  "Short"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  65
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  4
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  9
+                    }
+                ]
+}

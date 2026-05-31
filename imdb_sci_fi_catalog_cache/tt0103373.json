@@ -1,0 +1,284 @@
+﻿{
+    "id":  "tt0103373",
+    "detail":  {
+                   "id":  "tt0103373",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Bobby\u0027s World",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZTUyYjlhNzItOTM2Yy00YzAxLWFhZTctYjJhOTM1N2NmNjM4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1296,
+                                        "height":  1944
+                                    },
+                   "startYear":  1990,
+                   "endYear":  1998,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  5449
+                              },
+                   "plot":  "A boy named Bobby Generic creates adventures using his overactive imagination.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0130327",
+                                         "displayName":  "John Callas",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOWQ0MDY3OTQtMDFhNi00MjFhLWEyMzctYjhlMjI3NzdkYTMyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  505,
+                                                              "height":  464
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1128933",
+                                         "displayName":  "John Conning",
+                                         "alternativeNames":  [
+                                                                  "John Cummings"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0562053",
+                                         "displayName":  "Marlene Robinson May",
+                                         "alternativeNames":  [
+                                                                  "M.R. May",
+                                                                  "Marelene May",
+                                                                  "Marlene May",
+                                                                  "Marlene Robinson",
+                                                                  "Marlene Robinson-May"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0005177",
+                                       "displayName":  "Howie Mandel",
+                                       "alternativeNames":  [
+                                                                "Mandel Fisher-Staahl",
+                                                                "Gizmo",
+                                                                "Dixon Mandel",
+                                                                "Howie Mandell"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTYzMDM5ODU4M15BMl5BanBnXkFtZTcwODQ5NjQ4NA@@._V1_.jpg",
+                                                            "width":  435,
+                                                            "height":  653
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0820852",
+                                       "displayName":  "Jim Staahl",
+                                       "alternativeNames":  [
+                                                                "J.J. Fisher-Staahl",
+                                                                "Jim Staahk",
+                                                                "Fisher \u0026 Staahl",
+                                                                "James Staahl",
+                                                                "Staahl"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjAxNzUyNTM0MF5BMl5BanBnXkFyZXN1bWU@._V1_.jpg",
+                                                            "width":  327,
+                                                            "height":  500
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0279576",
+                                       "displayName":  "Jim Fisher",
+                                       "alternativeNames":  [
+                                                                "J.J. Fisher-Staahl",
+                                                                "Fisher",
+                                                                "Fisher \u0026 Staahl"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0566833",
+                                       "displayName":  "Craig McCracken",
+                                       "alternativeNames":  [
+                                                                "Craig",
+                                                                "Craig Mccracken"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0005177",
+                                     "displayName":  "Howie Mandel",
+                                     "alternativeNames":  [
+                                                              "Mandel Fisher-Staahl",
+                                                              "Gizmo",
+                                                              "Dixon Mandel",
+                                                              "Howie Mandell"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYzMDM5ODU4M15BMl5BanBnXkFtZTcwODQ5NjQ4NA@@._V1_.jpg",
+                                                          "width":  435,
+                                                          "height":  653
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0560257",
+                                     "displayName":  "Gail Matthius",
+                                     "alternativeNames":  [
+                                                              "Gail Mathius",
+                                                              "Gail S. Matthius",
+                                                              "Gail Matthuius"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTczOTYzNzUyN15BMl5BanBnXkFtZTgwODQ5ODY2NDM@._V1_.jpg",
+                                                          "width":  1335,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0409361",
+                                     "displayName":  "Tino Insana",
+                                     "alternativeNames":  [
+                                                              "Tino Insano"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk5NzE5ODk3NV5BMl5BanBnXkFtZTcwODIzMzExOA@@._V1_.jpg",
+                                                          "width":  849,
+                                                          "height":  879
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0416349",
+                                     "displayName":  "Charity James",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWJjNmFkNWYtOTkzNS00ZjAxLTgzMmUtYTUzYWM3YmRhNzc5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1007,
+                                                          "height":  754
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "FR",
+                                               "name":  "France"
+                                           },
+                                           {
+                                               "code":  "TW",
+                                               "name":  "Taiwan (Province of China)"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  10
+                    }
+                ]
+}

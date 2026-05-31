@@ -1,0 +1,157 @@
+﻿{
+    "id":  "tt6889090",
+    "detail":  {
+                   "id":  "tt6889090",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "The Miniaturist",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZGRiNTRiMjEtYjgxNy00MDU0LWI2YzctMTQ3ZDc1MDNlZDY0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  400,
+                                        "height":  562
+                                    },
+                   "startYear":  2017,
+                   "endYear":  2018,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  7063
+                              },
+                   "plot":  "A young woman moves to 17th century Amsterdam and hires a mysterious local miniaturist to furnish the dollhouse she received from her merchant husband as a present, but the lifelike miniatures somehow start eerily foreshadowing her fate.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0602616",
+                                         "displayName":  "Guillem Morales",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTYyNjc5NzA0NV5BMl5BanBnXkFtZTcwNjYxMjcwNQ@@._V1_.jpg",
+                                                              "width":  1181,
+                                                              "height":  787
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0003164",
+                                       "displayName":  "John Brownlow",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm7422279",
+                                       "displayName":  "Jessie Burton",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1307435",
+                                     "displayName":  "Alex Hassell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzg3MGE5NzgtYWJkYy00MGQwLWI2OTItNTdhMDNjNjU0YzBiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2000,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5896355",
+                                     "displayName":  "Anya Taylor-Joy",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGZjYzcxNDEtNTU1Yi00Nzc3LTlhZjQtZTUwZDQxNjQ5MDIzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "executive",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0304801",
+                                     "displayName":  "Romola Garai",
+                                     "alternativeNames":  [
+                                                              "Romola GaraÃ¯"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY4ODg0NjAyMl5BMl5BanBnXkFtZTcwNjI5MjgyMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  596
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4842197",
+                                     "displayName":  "Hayley Squires",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzhiN2QxMGYtNzQxNi00OTI4LTkxZjgtNGNlYWUzNGNiNDdhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5504,
+                                                          "height":  7242
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000083",
+                                         "name":  "Period Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  3
+                    }
+                ]
+}

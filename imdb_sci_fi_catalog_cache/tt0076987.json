@@ -1,0 +1,195 @@
+﻿{
+    "id":  "tt0076987",
+    "detail":  {
+                   "id":  "tt0076987",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Blake\u0027s 7",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTE5ZjM3MWQtOThkZS00NDcxLTg0MWEtOWNiMGI4OWY5Y2Y4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  819,
+                                        "height":  1150
+                                    },
+                   "startYear":  1978,
+                   "endYear":  1981,
+                   "runtimeSeconds":  3000,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  5008
+                              },
+                   "plot":  "A group of convicts and outcasts fight a guerrilla war against the totalitarian Terran Federation from a highly advanced alien spaceship.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0521154",
+                                         "displayName":  "Vere Lorrimer",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0725880",
+                                         "displayName":  "Mary Ridge",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0108465",
+                                         "displayName":  "Michael E. Briant",
+                                         "alternativeNames":  [
+                                                                  "Michael Edwin Briant",
+                                                                  "Michael E Briant",
+                                                                  "Michael Briant"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "production_department"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0622334",
+                                       "displayName":  "Terry Nation",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0098980",
+                                       "displayName":  "Chris Boucher",
+                                       "alternativeNames":  [
+                                                                "C. Smyth"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZmUyZDNlYmUtNmQ4YS00MjM1LWFmYzUtOWI1NDY4MDFlMWVjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  556,
+                                                            "height":  690
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0697926",
+                                       "displayName":  "Allan Prior",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0152610",
+                                     "displayName":  "Jan Chappell",
+                                     "alternativeNames":  [
+                                                              "Janet Chappell"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjc2MjViNmUtN2RmNC00ZDdiLWEzODEtZDNmZjFiNmI4N2YwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  744,
+                                                          "height":  992
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0444130",
+                                     "displayName":  "Michael Keating",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0201696",
+                                     "displayName":  "Paul Darrow",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDQ5N2Y3ZjMtYjc3My00NmY3LThhMTktNjE4OWNmZDZjMjZiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  530,
+                                                          "height":  628
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0876076",
+                                     "displayName":  "Peter Tuddenham",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    }
+                ]
+}

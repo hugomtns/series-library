@@ -1,0 +1,236 @@
+﻿{
+    "id":  "tt10826054",
+    "detail":  {
+                   "id":  "tt10826054",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Masters of the Universe: Revelation",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTcwZDZmMmQtNTJiNi00NGZlLTljOGItZjFkMzgzZGI3ZDY3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1013,
+                                        "height":  1500
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2021,
+                   "runtimeSeconds":  1500,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.6,
+                                  "voteCount":  29500
+                              },
+                   "plot":  "The war for Eternia begins again in what may be the final battle between He-Man and Skeletor. A new animated series from writer-director Kevin Smith.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm4336077",
+                                         "displayName":  "Adam Conarroe",
+                                         "alternativeNames":  [
+                                                                  "Adam Connarroe"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "production_manager"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm4477367",
+                                         "displayName":  "Patrick Stannard",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm4660381",
+                                       "displayName":  "Eric Carrasco",
+                                       "alternativeNames":  [
+                                                                "Eric Carranaco",
+                                                                "Eric Corrasco"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm7900122",
+                                       "displayName":  "Diya Mishra",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4559033",
+                                       "displayName":  "Marc Bernardin",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTU3NjUyMjA0Ml5BMl5BanBnXkFtZTgwMDkzMDc5MjI@._V1_.jpg",
+                                                            "width":  1731,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000434",
+                                     "displayName":  "Mark Hamill",
+                                     "alternativeNames":  [
+                                                              "?",
+                                                              "Mark Hamil",
+                                                              "Mark",
+                                                              "William M. Patrick",
+                                                              "Patrick Williams"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjZjY2I2NmYtMTMxMC00OTYwLWI0M2UtZWNkYzMyOGNlNmY4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1005,
+                                                          "height":  1280
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001264",
+                                     "displayName":  "Sarah Michelle Gellar",
+                                     "alternativeNames":  [
+                                                              "Sarah Gellar",
+                                                              "Sarah Michelle Prinze"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzA5MDA4MTEwOV5BMl5BanBnXkFtZTcwNzY2MjcyNw@@._V1_.jpg",
+                                                          "width":  1365,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "editorial_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0372176",
+                                     "displayName":  "Lena Headey",
+                                     "alternativeNames":  [
+                                                              "Lena Heady"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzIwMjIwNjg0M15BMl5BanBnXkFtZTgwOTI3MDEzMDE@._V1_.jpg",
+                                                          "width":  1568,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4227751",
+                                     "displayName":  "Tiffany Smith",
+                                     "alternativeNames":  [
+                                                              "Tiffany Marie Smith"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2Y0MzUyNDctZjBiZi00NDNiLWE4MDItM2IxYTAxYmQyMTBkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5016,
+                                                          "height":  3344
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000096",
+                                         "name":  "Fantasy Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000100",
+                                         "name":  "Sword \u0026 Sorcery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  5
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  5
+                    }
+                ]
+}

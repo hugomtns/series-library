@@ -1,0 +1,222 @@
+﻿{
+    "id":  "tt2309405",
+    "detail":  {
+                   "id":  "tt2309405",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Jordskott",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjI5NGMwMDAtMzhkYy00NDkzLWI0NDctMjI3ZWU4ZjM3ZTAzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  360,
+                                        "height":  480
+                                    },
+                   "startYear":  2015,
+                   "endYear":  2017,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.1,
+                                  "voteCount":  5420
+                              },
+                   "plot":  "A detective returns to her hometown seven years after her daughter\u0027s disappearance, trying to find a connection to a current case.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm4954073",
+                                         "displayName":  "Henrik BjÃ¶rn",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzhlMmM5ZDEtNGMxYS00MjdlLWI3ZDYtYWQyNTBlYTNkZmQ4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2362,
+                                                              "height":  1632
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0257775",
+                                         "displayName":  "Anders EngstrÃ¶m",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjgwOGQ3NjMtZjQwOC00ZWY5LThlNGEtYjM0ZDY1NzlmODQwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  5472,
+                                                              "height":  3648
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm6875532",
+                                         "displayName":  "Jakob StrÃ¶m",
+                                         "alternativeNames":  [
+                                                                  "Jakob Strom"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm4954073",
+                                       "displayName":  "Henrik BjÃ¶rn",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzhlMmM5ZDEtNGMxYS00MjdlLWI3ZDYtYWQyNTBlYTNkZmQ4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2362,
+                                                            "height":  1632
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3722859",
+                                       "displayName":  "Alexander KantsjÃ¶",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0648051",
+                                       "displayName":  "Fredrik T. Olsson",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTU1MTc1NDI0OF5BMl5BanBnXkFtZTgwMjc5OTAwMzE@._V1_.jpg",
+                                                            "width":  3463,
+                                                            "height":  4861
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0303973",
+                                     "displayName":  "Moa Gammel",
+                                     "alternativeNames":  [
+                                                              "Moa Gammel Ginsburg"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI3NzA3NzkxNV5BMl5BanBnXkFtZTcwODk1NDMwMg@@._V1_.jpg",
+                                                          "width":  1063,
+                                                          "height":  532
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0706548",
+                                     "displayName":  "GÃ¶ran Ragnerstam",
+                                     "alternativeNames":  [
+                                                              "GÃ¶ran Ragnestam"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmRhZTA5OTktNmQ5My00ZWFkLWFkNWQtNTJlY2U1MjNjZDY4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1045,
+                                                          "height":  1045
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2178084",
+                                     "displayName":  "Richard Forsgren",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2533207",
+                                     "displayName":  "Happy Jankell",
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "SE",
+                                               "name":  "Sweden"
+                                           },
+                                           {
+                                               "code":  "FI",
+                                               "name":  "Finland"
+                                           },
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "NO",
+                                               "name":  "Norway"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "swe",
+                                               "name":  "Swedish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000182",
+                                         "name":  "Psychological Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     },
+                                     {
+                                         "id":  "in0000234",
+                                         "name":  "Swedish"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    }
+                ]
+}

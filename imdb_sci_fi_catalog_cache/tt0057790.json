@@ -1,0 +1,218 @@
+﻿{
+    "id":  "tt0057790",
+    "detail":  {
+                   "id":  "tt0057790",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Thunderbirds",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNDhhNzI0ZjktODgxYy00NWRmLWEzYjQtYzk3MTI3MmFkMzRmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  720,
+                                        "height":  1067
+                                    },
+                   "startYear":  1965,
+                   "endYear":  1966,
+                   "runtimeSeconds":  3000,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Family",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  5674
+                              },
+                   "plot":  "In 2065, the Tracy family secretly run International Rescue, whose mission is to save people trapped in extraordinarily dangerous situations using their advanced Thunderbird machines.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0766777",
+                                         "displayName":  "Desmond Saunders",
+                                         "alternativeNames":  [
+                                                                  "Des Saunders"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0254415",
+                                         "displayName":  "David Elliott",
+                                         "alternativeNames":  [
+                                                                  "David Elliot"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "editorial_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0485298",
+                                         "displayName":  "David Lane",
+                                         "alternativeNames":  [
+                                                                  "Dave Lane",
+                                                                  "Lane"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "editorial_department"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0026755",
+                                       "displayName":  "Gerry Anderson",
+                                       "alternativeNames":  [
+                                                                "G. Anderson",
+                                                                "Gerald Anderson"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjEyMzAyNzU5Nl5BMl5BanBnXkFtZTcwMjQxNjg4OA@@._V1_.jpg",
+                                                            "width":  1091,
+                                                            "height":  1501
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0027487",
+                                       "displayName":  "Sylvia Anderson",
+                                       "alternativeNames":  [
+                                                                "Sylvia Thamm"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BY2I5MGFmNGYtYTA0Mi00MjQ3LTljMWEtMjllZWM3ZWY2MGNjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1222,
+                                                            "height":  1592
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0271892",
+                                       "displayName":  "Alan Fennell",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0027487",
+                                     "displayName":  "Sylvia Anderson",
+                                     "alternativeNames":  [
+                                                              "Sylvia Thamm"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2I5MGFmNGYtYTA0Mi00MjQ3LTljMWEtMjllZWM3ZWY2MGNjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1222,
+                                                          "height":  1592
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "script_department",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0245945",
+                                     "displayName":  "Peter Dyneley",
+                                     "alternativeNames":  [
+                                                              "Peter Dineley",
+                                                              "Peter Dynely"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWUzNDZmNDItMTM2Ni00ZmU5LWEzZjktOTg2NDRhOTZmZWJhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  720,
+                                                          "height":  576
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0333986",
+                                     "displayName":  "David Graham",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGI0NjBkYjctZjYzMS00OTBkLThjYzMtYzM0MTQ0NDZkN2VkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  428,
+                                                          "height":  605
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0727300",
+                                     "displayName":  "Shane Rimmer",
+                                     "alternativeNames":  [
+                                                              "Joe Donnelli",
+                                                              "Bob Grodin"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTkyMDMwNjUxM15BMl5BanBnXkFtZTcwMTM1MDcxOA@@._V1_.jpg",
+                                                          "width":  1638,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  6
+                    }
+                ]
+}

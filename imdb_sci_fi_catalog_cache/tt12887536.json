@@ -1,0 +1,223 @@
+﻿{
+    "id":  "tt12887536",
+    "detail":  {
+                   "id":  "tt12887536",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "CSI: Vegas",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BY2ViMTAyNDMtYjZiOC00YjM1LWI3ODItZDk1ZGE4MzFlMzZjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1382,
+                                        "height":  2048
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2024,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Mystery",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  11234
+                              },
+                   "plot":  "Facing an existential threat that could bring down the Crime Lab, a brilliant team of forensic investigators must welcome back old friends and deploy new techniques to preserve and serve justice in Sin City (aka Las Vegas, Nevada).",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0277830",
+                                         "displayName":  "Kenneth Fink",
+                                         "alternativeNames":  [
+                                                                  "Ken Fink"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjAyMzI0NDgyN15BMl5BanBnXkFtZTgwODU0NDg5MTE@._V1_.jpg",
+                                                              "width":  1600,
+                                                              "height":  2400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1534600",
+                                         "displayName":  "Benny Boom",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzZhNTI0NDYtMjNkYy00MjYxLWExMjAtMzAzNGZhNDhiYWIwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3684,
+                                                              "height":  4605
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0482794",
+                                         "displayName":  "Gina Lamar",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZWViOWM3YjMtN2NiYi00OWMzLWJlOTgtMDgwZTYwOTU0NzllXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  585,
+                                                              "height":  777
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "production_manager"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1222770",
+                                       "displayName":  "Jason Tracey",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0958499",
+                                       "displayName":  "Anthony E. Zuiker",
+                                       "alternativeNames":  [
+                                                                "Anthony Zuiker"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjE3NTk0ODI3MF5BMl5BanBnXkFtZTcwNzEzMTQ5Mg@@._V1_.jpg",
+                                                            "width":  1361,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm11486753",
+                                       "displayName":  "Siena Butterfield",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0628420",
+                                     "displayName":  "Paula Newsome",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWQxZTg1ZTYtNWUyOS00OWRjLTk3NWQtOTFlY2E1N2M2ZTlmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3104,
+                                                          "height":  2848
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2809645",
+                                     "displayName":  "Matt Lauria",
+                                     "alternativeNames":  [
+                                                              "Matthew Lauria"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmFhMGQ3Y2YtZDk5Mi00ODBlLWI0MWMtNjYwNzhkYzQ2YTBiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1700,
+                                                          "height":  2550
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3778244",
+                                     "displayName":  "Mandeep Dhillon",
+                                     "alternativeNames":  [
+                                                              "Manndeep Dhillon"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZWNjNWEyNDEtMzZlZC00MTVhLThiYzQtY2I5MzVhZDdjZjFjXkEyXkFqcGc@._V1_CR1,0,2696,4044_.jpg",
+                                                          "width":  2696,
+                                                          "height":  4044
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7869085",
+                                     "displayName":  "Jay Lee",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTJmMzZkNDAtOTdmYS00NTUyLTk0M2ItMDQ1YzQyM2EwYTdmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  750,
+                                                          "height":  1133
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000051",
+                                         "name":  "Cop Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000057",
+                                         "name":  "Police Procedural",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    }
+                ]
+}

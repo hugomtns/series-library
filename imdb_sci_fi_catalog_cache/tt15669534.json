@@ -1,0 +1,265 @@
+﻿{
+    "id":  "tt15669534",
+    "detail":  {
+                   "id":  "tt15669534",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Tales of the Walking Dead",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZmIyZjIwN2MtN2UwOC00MDA3LWFjMjMtNmUxMDk5YjY1ZTNkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  503,
+                                        "height":  755
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2022,
+                   "runtimeSeconds":  2640,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.9,
+                                  "voteCount":  8372
+                              },
+                   "plot":  "An episodic anthology that will follow individual characters from the The Walking Dead TV universe, both new and old.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0766349",
+                                         "displayName":  "Michael E. Satrazemis",
+                                         "alternativeNames":  [
+                                                                  "Michael Satrazemis Sr.",
+                                                                  "Michael Edison Satrazemis",
+                                                                  "Michael Satrazemis",
+                                                                  "Mike Satrazemis",
+                                                                  "Michael Satrazimas"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDk5MzVjNDAtZjRmZC00ZmUxLTlkZmUtZDU0ZjJhMGFmOGVlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1086,
+                                                              "height":  724
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2223783",
+                                         "displayName":  "Haifaa Al-Mansour",
+                                         "alternativeNames":  [
+                                                                  "Haifa Al-Mansur",
+                                                                  "Haifaa Al Mansour"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMzA1NDIwMjI3OV5BMl5BanBnXkFtZTgwODM2OTAyMDE@._V1_.jpg",
+                                                              "width":  1882,
+                                                              "height":  1296
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1380487",
+                                         "displayName":  "Deborah Kampmeier",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDJhYmQxMGMtMmVhYS00OTMwLWE5MzUtMjc2OGY2ZDc5MWMyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2187,
+                                                              "height":  3280
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1891501",
+                                       "displayName":  "Charlie Adlard",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "art_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0991355",
+                                       "displayName":  "Scott M. Gimple",
+                                       "alternativeNames":  [
+                                                                "Scott Gimple"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTY5MjU5OTY4NV5BMl5BanBnXkFtZTgwNjM0Njc1MzE@._V1_.jpg",
+                                                            "width":  3600,
+                                                            "height":  2403
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "sound_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3079117",
+                                       "displayName":  "Robert Kirkman",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjE4Y2ZiNWQtOWJmNS00NDNmLWFkZWQtMzg3NWQ1ODY5NTE0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  974,
+                                                            "height":  800
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000205",
+                                     "displayName":  "Parker Posey",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjU5NmQxY2UtYTE2MC00N2JhLWIyN2ItZGRjZWI3ZDlkNzZjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  360,
+                                                          "height":  358
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1900772",
+                                     "displayName":  "Jessie T. Usher",
+                                     "alternativeNames":  [
+                                                              "Jessie T Usher",
+                                                              "Jessie Usher"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWNjMWZlNGYtM2VkNi00ZDAxLThmNTEtMzcxZjkwY2FlYzY1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  963,
+                                                          "height":  1294
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000381",
+                                     "displayName":  "Anthony Edwards",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI1NTk5ODY3Nl5BMl5BanBnXkFtZTcwNTE5MjcyMg@@._V1_.jpg",
+                                                          "width":  289,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0608090",
+                                     "displayName":  "Samantha Morton",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUwNjc2MTg3N15BMl5BanBnXkFtZTcwOTQzODI3MQ@@._V1_.jpg",
+                                                          "width":  293,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0187719",
+                                     "displayName":  "Terry Crews",
+                                     "alternativeNames":  [
+                                                              "Terry Crews Jr.",
+                                                              "Terry Alan Crews",
+                                                              "Squeegee Lo",
+                                                              "T-Money",
+                                                              "Henry David Thoreau"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE1ODY0NzE4N15BMl5BanBnXkFtZTcwMTY5Mzk0Mw@@._V1_.jpg",
+                                                          "width":  263,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4427331",
+                                     "displayName":  "Daniella Pineda",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDM4OGNiYzYtZWZkYy00OWQ5LTgyYTUtNjNkYzIyMjk3Y2E4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1920,
+                                                          "height":  2560
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000122",
+                                         "name":  "Zombie Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    }
+                ]
+}

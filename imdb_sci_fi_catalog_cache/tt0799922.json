@@ -1,0 +1,238 @@
+﻿{
+    "id":  "tt0799922",
+    "detail":  {
+                   "id":  "tt0799922",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Wizards of Waverly Place",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjhlMTJiNjctZTY2MC00YTU0LWEzODUtZGM2NDA3N2ZhYWQ2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  856,
+                                        "height":  1285
+                                    },
+                   "startYear":  2007,
+                   "endYear":  2012,
+                   "runtimeSeconds":  1500,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  42340
+                              },
+                   "plot":  "The Russo family may be an ordinary family with an average restaurant, but behind closed doors, all three children must compete to be the next family wizard.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0327591",
+                                         "displayName":  "Victor Gonzalez",
+                                         "alternativeNames":  [
+                                                                  "Victor Gonzales"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYTQ3ZDVlNzQtNzYxZi00ZWM0LTg3ZTYtZTIzMzFjZDZjODEwXkEyXkFqcGc@._V1_CR95,1,613,920_.jpg",
+                                                              "width":  613,
+                                                              "height":  920
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "camera_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0463199",
+                                         "displayName":  "Bob Koherr",
+                                         "alternativeNames":  [
+                                                                  "Bob Kohrherr"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjE4NTQ2NTg3MV5BMl5BanBnXkFtZTcwODg0MjIzMQ@@._V1_.jpg",
+                                                              "width":  450,
+                                                              "height":  300
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0075669",
+                                         "displayName":  "Robert Berlinger",
+                                         "alternativeNames":  [
+                                                                  "Bob Berlinger"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0339261",
+                                       "displayName":  "Todd J. Greenwald",
+                                       "alternativeNames":  [
+                                                                "Todd J. Fields",
+                                                                "Todd Fields",
+                                                                "Todd J Greenwald"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0566998",
+                                       "displayName":  "Gigi McCreery",
+                                       "alternativeNames":  [
+                                                                "Georgia McCreery"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0717885",
+                                       "displayName":  "Perry M. Rein",
+                                       "alternativeNames":  [
+                                                                "Perry Rein"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1273708",
+                                     "displayName":  "David Henrie",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDgxNWZkYjctMjA3YS00MmU4LTk2NWQtZTc3MDc2ZjYwNjZiXkEyXkFqcGc@._V1_CR542,305,879,1319_.jpg",
+                                                          "width":  879,
+                                                          "height":  1319
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1411125",
+                                     "displayName":  "Selena Gomez",
+                                     "alternativeNames":  [
+                                                              "Selena Marie Gomez",
+                                                              "Selena Gomez \u0026 The Scene"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAwNTE2MDMyMl5BMl5BanBnXkFtZTgwMjAyODM3MTI@._V1_.jpg",
+                                                          "width":  1535,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_artist",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1259832",
+                                     "displayName":  "Jennifer Stone",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmJiOTQ2ODUtN2UyYi00ZThkLTliYzYtOTkzOTkyZjdhNTcwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4000,
+                                                          "height":  6000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1545471",
+                                     "displayName":  "Jake T. Austin",
+                                     "alternativeNames":  [
+                                                              "Jake Austin",
+                                                              "Jake Austin Szymanski",
+                                                              "Jake Toranzo Szymanski",
+                                                              "Jake Szymanski",
+                                                              "Jake Toranzo-Szymanski"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGVkMTJlYTMtMjZhYi00OGE5LTg0MjUtZjRhNDBkMjNjMGQxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2832,
+                                                          "height":  3848
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000101",
+                                         "name":  "Teen Fantasy",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  21
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  30
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  28
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  27
+                    }
+                ]
+}

@@ -1,0 +1,246 @@
+﻿{
+    "id":  "tt2632424",
+    "detail":  {
+                   "id":  "tt2632424",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Originals",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZDJkYjg3MDItMjhiMi00NjhjLThlM2EtNzUxNzcyNDJjN2ZhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1500
+                                    },
+                   "startYear":  2013,
+                   "endYear":  2018,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.2,
+                                  "voteCount":  160904
+                              },
+                   "plot":  "A family of power-hungry thousand-year-old vampires look to take back the city that they built and dominate all those who have done them wrong.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0368602",
+                                         "displayName":  "Matthew Hastings",
+                                         "alternativeNames":  [
+                                                                  "Matt Hastings"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTU4NDU4OTIxNV5BMl5BanBnXkFtZTcwNDAzNTk0OQ@@._V1_.jpg",
+                                                              "width":  3456,
+                                                              "height":  2304
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0342603",
+                                         "displayName":  "Chris Grismer",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWJiOWM4MGQtMWMxZC00N2RiLTk4MjQtY2I3MmY2NTAzYWQzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  900,
+                                                              "height":  900
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0402493",
+                                         "displayName":  "Jeffrey G. Hunt",
+                                         "alternativeNames":  [
+                                                                  "Jeffrey Glen Hunt",
+                                                                  "Jeffrey Hunt",
+                                                                  "Jeff Hunt"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZGE1NzQ4MWUtMjQwNS00ZGRiLTk1NDMtODBlMDI2MGUxNDQ4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1882,
+                                                              "height":  1942
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0687096",
+                                       "displayName":  "Julie Plec",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3468606",
+                                       "displayName":  "L.J. Smith",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0532880",
+                                       "displayName":  "Marguerite MacIntyre",
+                                       "alternativeNames":  [
+                                                                "Marguerte MacIntyre",
+                                                                "Marguerite Macintyre"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOTc1MTUxMGEtNmVlMS00OTM1LWIwNzAtYTQ4ZDVjZmY4OWUyXkEyXkFqcGc@._V1_CR105,44,533,800_.jpg",
+                                                            "width":  533,
+                                                            "height":  800
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0604784",
+                                     "displayName":  "Joseph Morgan",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjdjZGNhYjYtMTU4YS00ZTJmLWEzMzktYmI0Y2E5YmU1NDg0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2040,
+                                                          "height":  1360
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2100081",
+                                     "displayName":  "Phoebe Tonkin",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjhjNmVkODgtNWQyMS00ZjExLThmY2ItMzEyYzdjMzY3ZTczXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  819,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0319171",
+                                     "displayName":  "Daniel Gillies",
+                                     "alternativeNames":  [
+                                                              "Daniel J. Gillies"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUwMTExOTkxM15BMl5BanBnXkFtZTgwODQ1NjEyNjE@._V1_.jpg",
+                                                          "width":  1465,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2322853",
+                                     "displayName":  "Claire Holt",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmU0MWM3MWQtZDI3YS00NzkyLWJjODUtMWEwYmE1ZTY3ZTE5XkEyXkFqcGc@._V1_CR125,0,1322,1982_.jpg",
+                                                          "width":  1322,
+                                                          "height":  1982
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000119",
+                                         "name":  "Vampire Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000121",
+                                         "name":  "Witch Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  13
+                    }
+                ]
+}

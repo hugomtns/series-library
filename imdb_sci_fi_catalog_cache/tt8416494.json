@@ -1,0 +1,230 @@
+﻿{
+    "id":  "tt8416494",
+    "detail":  {
+                   "id":  "tt8416494",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Doom Patrol",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYjY1MDExMzctMzQ4Mi00NmU1LWIyMWItZTkzZDk2YmY2NGI2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  810,
+                                        "height":  1200
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2023,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.7,
+                                  "voteCount":  63528
+                              },
+                   "plot":  "The adventures of an idealistic mad scientist and his field team of superpowered outcasts.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0542568",
+                                         "displayName":  "Chris Manley",
+                                         "alternativeNames":  [
+                                                                  "Christopher Manley",
+                                                                  "Christopher Manly"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMDhhZDA0MzktMjhhYi00NmI4LTk1NTQtOTMzZTczY2UxNDUwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  480,
+                                                              "height":  564
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0534850",
+                                         "displayName":  "Omar Madha",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0934663",
+                                         "displayName":  "Kristin Windell",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWI2OWFhNTUtNzM0OC00MzE2LWIyNzQtYzE0MjIwMTljYzRlXkEyXkFqcGc@._V1_CR1,1,1536,2304_.jpg",
+                                                              "width":  1536,
+                                                              "height":  2304
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "editorial_department"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1912955",
+                                       "displayName":  "Jeremy Carver",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjI1MTUxOTA5OV5BMl5BanBnXkFtZTgwODk0MzAzMjE@._V1_.jpg",
+                                                            "width":  1523,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0236854",
+                                       "displayName":  "Arnold Drake",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3095779",
+                                       "displayName":  "Bob Haney",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0093589",
+                                     "displayName":  "Matt Bomer",
+                                     "alternativeNames":  [
+                                                              "Matthew S. Bomer",
+                                                              "Matthew Bomer"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA5NTE4NTE5NV5BMl5BanBnXkFtZTcwMTcyOTY5Mw@@._V1_.jpg",
+                                                          "width":  480,
+                                                          "height":  600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4058898",
+                                     "displayName":  "Diane Guerrero",
+                                     "alternativeNames":  [
+                                                              "Diana Guerrero"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2QwZjlkN2MtODQ3Yy00MGRkLTk2YWYtYzQxMGJlNDE3NmVjXkEyXkFqcGc@._V1_CR1,1,3220,4830_.jpg",
+                                                          "width":  3220,
+                                                          "height":  4830
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1763049",
+                                     "displayName":  "April Bowlby",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGNlNDkzOTktOTFjZi00NTg4LTljOTQtNGNhZWIxMGQ2MTlmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3840,
+                                                          "height":  5760
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6268124",
+                                     "displayName":  "Riley Shanahan",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzQwYTE1YWUtMjM3Yy00YjhkLWI5ZDEtNDU3YWQzZjc1NWViXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1125,
+                                                          "height":  1324
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  15
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  12
+                    }
+                ]
+}

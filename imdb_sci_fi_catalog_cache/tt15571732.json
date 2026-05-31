@@ -1,0 +1,235 @@
+﻿{
+    "id":  "tt15571732",
+    "detail":  {
+                   "id":  "tt15571732",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Agatha All Along",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMDcyZTNjOTEtNzc5Yy00Y2UzLThkMWYtNTY4YmM4OWI5OTMzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1350
+                                    },
+                   "startYear":  2024,
+                   "endYear":  2024,
+                   "runtimeSeconds":  2400,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  88932
+                              },
+                   "plot":  "A spell-bound Agatha Harkness regains freedom thanks to a teen\u0027s help. Intrigued by his plea, she embarks on the Witches\u0027 Road trials to reclaim her powers and discover the teen\u0027s motivations.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0325290",
+                                         "displayName":  "Rachel Goldberg",
+                                         "alternativeNames":  [
+                                                                  "Rachel Lillian Goldberg"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjAwMmViN2EtZWI3MS00ZDI2LWFiYjgtN2Q5YmMzZWZjOTUxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1531,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1499979",
+                                         "displayName":  "Gandja Monteiro",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODFjNzg2OTEtN2MyYi00NzY2LWI2YTUtMWE2OTBiMjI4NTcxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2887,
+                                                              "height":  4316
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm2356614",
+                                         "displayName":  "Jac Schaeffer",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BN2EzMWY2N2MtZTcwNC00NjVjLWFjZTItMTk2YzczZDcyYWZhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2450,
+                                                              "height":  3726
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3341711",
+                                       "displayName":  "Peter Cameron",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMWNiZTBkMmMtNmFhYi00NzFlLWFiMTUtZDQ3Mjk5MDdlYjE3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  886,
+                                                            "height":  1354
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm7152189",
+                                       "displayName":  "Laura Donney",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm16279483",
+                                       "displayName":  "Gia King",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1063517",
+                                     "displayName":  "Kathryn Hahn",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDNmOTIzZTMtNjk1NS00YmI5LWFiNmQtMGM0YWJkZGRhYmExXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4001,
+                                                          "height":  6000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm12509469",
+                                     "displayName":  "Joe Locke",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTVhYWZiYmYtNzhlOS00OTI0LWEwNGEtY2RiZjVjZGUxYWU3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  957,
+                                                          "height":  1435
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3550886",
+                                     "displayName":  "Sasheer Zamata",
+                                     "alternativeNames":  [
+                                                              "Sasheer Zamata Moore",
+                                                              "Sasheer Moore"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTU1Y2Q1NmQtNWRmMC00NDU1LTg0NjItYWM0YWI2NzBjYzg5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2184,
+                                                          "height":  3016
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2416847",
+                                     "displayName":  "Ali Ahn",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTk5MmFhNTMtM2NlNi00YmIxLWI0MWItMDYwNTU3ZjRhZmJjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1170,
+                                                          "height":  1753
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  9
+                    }
+                ]
+}

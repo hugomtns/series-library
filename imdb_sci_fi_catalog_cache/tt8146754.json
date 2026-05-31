@@ -1,0 +1,253 @@
+﻿{
+    "id":  "tt8146754",
+    "detail":  {
+                   "id":  "tt8146754",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Infinity Train",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZGExOTA2MTAtOGEzZi00ZDE4LTlmZDItMzQwMjQ5ZDdlMWM2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1024,
+                                        "height":  1497
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2021,
+                   "runtimeSeconds":  660,
+                   "genres":  [
+                                  "Animation",
+                                  "Short",
+                                  "Action",
+                                  "Adventure",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Romance",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.4,
+                                  "voteCount":  11117
+                              },
+                   "plot":  "Various people get trapped on a mysterious train with an endless number of cars, each one being its own universe, and they must resolve their psychological trauma and emotional issues in order to get home in this animated anthology series.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm3247969",
+                                         "displayName":  "Madeline Queripel",
+                                         "alternativeNames":  [
+                                                                  "Maddie Queripel"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3702629",
+                                         "displayName":  "Owen Dennis",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjI3NjQwODYtZjk5Zi00OWUwLTgxNjQtZWQ1NWVhZmNiZDAyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3021,
+                                                              "height":  3648
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "art_department",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3702629",
+                                       "displayName":  "Owen Dennis",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjI3NjQwODYtZjk5Zi00OWUwLTgxNjQtZWQ1NWVhZmNiZDAyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3021,
+                                                            "height":  3648
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "art_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2162673",
+                                       "displayName":  "Alex Horab",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "production_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3325526",
+                                       "displayName":  "Lindsay Katai",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjU0OWU0OWEtZmZlNi00NDRjLTg0NjUtZDQzMDVjZGJlZTQ5XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1000,
+                                                            "height":  1500
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0424534",
+                                     "displayName":  "Ashley Johnson",
+                                     "alternativeNames":  [
+                                                              "Ashly Stonejaw"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTk5Njc3NzgxOV5BMl5BanBnXkFtZTgwMzgyMjIzNzE@._V1_.jpg",
+                                                          "width":  1024,
+                                                          "height":  683
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3702629",
+                                     "displayName":  "Owen Dennis",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjI3NjQwODYtZjk5Zi00OWUwLTgxNjQtZWQ1NWVhZmNiZDAyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3021,
+                                                          "height":  3648
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "art_department",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0190190",
+                                     "displayName":  "Jeremy Crutchley",
+                                     "alternativeNames":  [
+                                                              "Jeremy G.G. Crutchley"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGU0NDYwYzUtNTMyYy00N2QzLTkwZTQtYzU3Y2Q1N2VkZjM1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3215,
+                                                          "height":  4823
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4624730",
+                                     "displayName":  "Kirby Howell-Baptiste",
+                                     "alternativeNames":  [
+                                                              "Kirby"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmIwZTQ3YjctMGFlNy00YmExLWEyZDQtNzI3Yjc3ZGQ5OTQyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4256,
+                                                          "height":  2832
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000182",
+                                         "name":  "Psychological Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     },
+                                     {
+                                         "id":  "in0000212",
+                                         "name":  "Short"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  10
+                    }
+                ]
+}

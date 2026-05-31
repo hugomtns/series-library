@@ -1,0 +1,233 @@
+﻿{
+    "id":  "tt14688458",
+    "detail":  {
+                   "id":  "tt14688458",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Silo",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjA5ODM4YTEtNDcxZi00N2ViLTg0MTgtNGQxNjBjZWY5YTk3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2023,
+                   "runtimeSeconds":  2940,
+                   "genres":  [
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  214421
+                              },
+                   "plot":  "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2134432",
+                                         "displayName":  "Amber Templemore",
+                                         "alternativeNames":  [
+                                                                  "Bert \u0026 Bertie",
+                                                                  "Bertie",
+                                                                  "Bert",
+                                                                  "Amber Templemore-Finlayson"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTgzODU5ODQ1OF5BMl5BanBnXkFtZTgwODQyOTgyNzM@._V1_.jpg",
+                                                              "width":  1395,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0227781",
+                                         "displayName":  "Michael Dinner",
+                                         "alternativeNames":  [
+                                                                  "Producer \u0026 Director of \u0027The Beast\u0027"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTY0MDQ3MzU1OV5BMl5BanBnXkFtZTYwNjc0MTg3._V1_.jpg",
+                                                              "width":  475,
+                                                              "height":  737
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0002835",
+                                         "displayName":  "Adam Bernstein",
+                                         "alternativeNames":  [
+                                                                  "Adam Berstein",
+                                                                  "Don Pietra"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm5059629",
+                                       "displayName":  "Hugh Howey",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3399536",
+                                       "displayName":  "Jeffery Wang",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0003662",
+                                       "displayName":  "Graham Yost",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjAwMzU5MDU4Ml5BMl5BanBnXkFtZTcwMDkwMDQyMw@@._V1_.jpg",
+                                                            "width":  516,
+                                                            "height":  600
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0272581",
+                                     "displayName":  "Rebecca Ferguson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDVlZjIzOTktYzNmZC00MjIzLTk1YTMtMzdlOTFiNzQ3ZGY0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  406,
+                                                          "height":  464
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0996669",
+                                     "displayName":  "Common",
+                                     "alternativeNames":  [
+                                                              "August Greene",
+                                                              "Rashied Lonnie Lyn",
+                                                              "Lonnie R. Lynn",
+                                                              "Lonnie Lynn",
+                                                              "Common Sense"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzg4MTk5NDM1MV5BMl5BanBnXkFtZTcwMTM5OTQzMw@@._V1_.jpg",
+                                                          "width":  307,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "composer",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0910040",
+                                     "displayName":  "Harriet Walter",
+                                     "alternativeNames":  [
+                                                              "Dame Harriet Walter"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk1Nzc4Mjc4OF5BMl5BanBnXkFtZTcwNjE1OTEzNw@@._V1_.jpg",
+                                                          "width":  2158,
+                                                          "height":  3237
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000209",
+                                     "displayName":  "Tim Robbins",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_.jpg",
+                                                          "width":  311,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  1
+                    }
+                ]
+}

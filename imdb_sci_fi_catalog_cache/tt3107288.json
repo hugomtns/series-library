@@ -1,0 +1,275 @@
+﻿{
+    "id":  "tt3107288",
+    "detail":  {
+                   "id":  "tt3107288",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Flash",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjU0ZjZhNDQtMDhkYi00OWQyLWE3NGYtNzBlY2VmM2I4ZDg5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2001,
+                                        "height":  3000
+                                    },
+                   "startYear":  2014,
+                   "endYear":  2023,
+                   "runtimeSeconds":  2580,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  385889
+                              },
+                   "plot":  "After being struck by lightning, Barry Allen wakes up from his coma to discover he\u0027s been given the power of super speed, becoming the Flash, and fighting crime in Central City.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0687238",
+                                         "displayName":  "Stefan Pleszczynski",
+                                         "alternativeNames":  [
+                                                                  "Stefan Pleszcynski"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BN2M3NjNmNDItMzdkMS00NmJiLTg0YzYtMzVjZTcxZDgwNzAyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  640,
+                                                              "height":  480
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0574765",
+                                         "displayName":  "David McWhirter",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYTUyNjM2ODctNDI5YS00ZTA5LWJiM2MtM2UxMWIwMDI4NWVlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2448,
+                                                              "height":  2448
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0236173",
+                                         "displayName":  "Dermott Downs",
+                                         "alternativeNames":  [
+                                                                  "Demott Daniel Downs",
+                                                                  "Dermit Downs",
+                                                                  "Dermott D. Downs",
+                                                                  "Dermott Daniel Downs",
+                                                                  "Dermott David Downs"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTcxODIyMjQ5N15BMl5BanBnXkFtZTgwMTUxNTU3NTE@._V1_.jpg",
+                                                              "width":  280,
+                                                              "height":  250
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0075528",
+                                       "displayName":  "Greg Berlanti",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTMwOTc4MDAyMF5BMl5BanBnXkFtZTcwNTY5MTY4NA@@._V1_.jpg",
+                                                            "width":  1600,
+                                                            "height":  1067
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0424315",
+                                       "displayName":  "Geoff Johns",
+                                       "alternativeNames":  [
+                                                                "Geoffrey Johns"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOGRhYjY4M2ItODkxOS00NDI1LWE1YzctZTA0YTBmZjNiZDYyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2174,
+                                                            "height":  3042
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1132610",
+                                       "displayName":  "Andrew Kreisberg",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYmMxYjQwODUtMTkyZi00OTkzLWI2NWUtNjM3OTYzMjI1MTBlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  720,
+                                                            "height":  576
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2652716",
+                                     "displayName":  "Grant Gustin",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE3NDUyMTg1MF5BMl5BanBnXkFtZTgwMTQzMjY1NjM@._V1_.jpg",
+                                                          "width":  318,
+                                                          "height":  425
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2765384",
+                                     "displayName":  "Candice Patton",
+                                     "alternativeNames":  [
+                                                              "Candice K. Patton"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2VlNjliNGYtYzE5Ni00ZTE5LThjNjktNzMzN2I3ZDAwY2JlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  800,
+                                                          "height":  1201
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1263939",
+                                     "displayName":  "Danielle Panabaker",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2IyZGY3ZWEtNmRmMi00NGFiLThiY2EtOWNmMDFlODgzOWYxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5334,
+                                                          "height":  7997
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4583876",
+                                     "displayName":  "Carlos Valdes",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDE2ZTZhYWYtODg2Ny00YTI0LWEzZTEtMGY1NzQ2NzU1ZDgzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1700,
+                                                          "height":  2550
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "composer",
+                                                                "music_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000089",
+                                         "name":  "Teen Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000166",
+                                         "name":  "Time Travel",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  19
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  13
+                    }
+                ]
+}

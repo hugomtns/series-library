@@ -1,0 +1,307 @@
+﻿{
+    "id":  "tt2861424",
+    "detail":  {
+                   "id":  "tt2861424",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Rick and Morty",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1280,
+                                        "height":  1920
+                                    },
+                   "startYear":  2013,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  9,
+                                  "voteCount":  696252
+                              },
+                   "plot":  "The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0033741",
+                                         "displayName":  "Wes Archer",
+                                         "alternativeNames":  [
+                                                                  "W.M. \u0027Bud\u0027 Archer",
+                                                                  "Wes M. Archer",
+                                                                  "Wesley M. Archer",
+                                                                  "Wesley Meyer \u0027Bud\u0027 Archer",
+                                                                  "Wesley Meyer Archer",
+                                                                  "Wes Archer"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1194758",
+                                         "displayName":  "Jacob Hair",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZGQyZGQ0Y2EtNTA0Ny00MDg1LWE4N2MtODk1ZmZlZTY0N2VmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1421,
+                                                              "height":  1543
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0585086",
+                                         "displayName":  "Pete Michels",
+                                         "alternativeNames":  [
+                                                                  "Pete J. Michels",
+                                                                  "Pete Scary Spice Michels",
+                                                                  "Peter Michels"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1363595",
+                                       "displayName":  "Dan Harmon",
+                                       "alternativeNames":  [
+                                                                "Channel 101",
+                                                                "The Dead Alewives"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjEzMDY2NzI3MF5BMl5BanBnXkFtZTcwODY5MjI3NA@@._V1_.jpg",
+                                                            "width":  1413,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1551598",
+                                       "displayName":  "Justin Roiland",
+                                       "alternativeNames":  [
+                                                                "Rustin Joyland"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOTYxMTE5MjY2Nl5BMl5BanBnXkFtZTgwMTM3Mzg3MDI@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1363
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3171597",
+                                       "displayName":  "Tom Kauffman",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "production_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0334561",
+                                     "displayName":  "Spencer Grammer",
+                                     "alternativeNames":  [
+                                                              "Spencer Grammar",
+                                                              "Spencer Karen Grammer"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTkxNjE0NzAxMF5BMl5BanBnXkFtZTcwNjQyMjQ4Mg@@._V1_.jpg",
+                                                          "width":  277,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0663177",
+                                     "displayName":  "Chris Parnell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWJjN2RkOTYtYTk4NS00ZDhjLWFmMDMtM2JmMGZjMTAxYmQ4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1074,
+                                                          "height":  1414
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0149950",
+                                     "displayName":  "Sarah Chalke",
+                                     "alternativeNames":  [
+                                                              "Sarah Chalk"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjQyNjg4NDI4NV5BMl5BanBnXkFtZTcwOTAzOTUxMg@@._V1_.jpg",
+                                                          "width":  286,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1551598",
+                                     "displayName":  "Justin Roiland",
+                                     "alternativeNames":  [
+                                                              "Rustin Joyland"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTYxMTE5MjY2Nl5BMl5BanBnXkFtZTgwMTM3Mzg3MDI@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1363
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000036",
+                                         "name":  "Farce",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000042",
+                                         "name":  "Satire",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000166",
+                                         "name":  "Time Travel",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "10",
+                        "episodeCount":  1
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  1
+                    },
+                    {
+                        "season":  "12",
+                        "episodeCount":  1
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  10
+                    }
+                ]
+}

@@ -1,0 +1,226 @@
+﻿{
+    "id":  "tt2170584",
+    "detail":  {
+                   "id":  "tt2170584",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Video Game High School",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOTgxOTMwOTAxMF5BMl5BanBnXkFtZTcwMTY3MTExOA@@._V1_.jpg",
+                                        "width":  1382,
+                                        "height":  2048
+                                    },
+                   "startYear":  2012,
+                   "endYear":  2014,
+                   "runtimeSeconds":  2520,
+                   "genres":  [
+                                  "Action",
+                                  "Comedy",
+                                  "Romance",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  14295
+                              },
+                   "plot":  "In a futuristic world where gaming is the top sport, a teenager attends a school which specializes in a curriculum of video games in each genre.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm5080673",
+                                         "displayName":  "Matthew Arnold",
+                                         "alternativeNames":  [
+                                                                  "Matt Arnold"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMGViZDhiZDktNzY2YS00MjdmLWJlNTctZGI0YzI5Zjk0NDU4XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  681,
+                                                              "height":  1024
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3087799",
+                                         "displayName":  "Freddie Wong",
+                                         "alternativeNames":  [
+                                                                  "FreddieW",
+                                                                  "Freddie",
+                                                                  "Freddie W"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjE4MTEyOTU5OF5BMl5BanBnXkFtZTcwMDM0NTcxOA@@._V1_.jpg",
+                                                              "width":  1578,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3882538",
+                                         "displayName":  "Brandon Laatsch",
+                                         "alternativeNames":  [
+                                                                  "Brandon"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm5080673",
+                                       "displayName":  "Matthew Arnold",
+                                       "alternativeNames":  [
+                                                                "Matt Arnold"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMGViZDhiZDktNzY2YS00MjdmLWJlNTctZGI0YzI5Zjk0NDU4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  681,
+                                                            "height":  1024
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2436456",
+                                       "displayName":  "Will Campos",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4138600",
+                                       "displayName":  "Brian Firenzi",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1668219",
+                                     "displayName":  "Ellary Porterfield",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA5NTI1NDY1M15BMl5BanBnXkFtZTcwNjI3ODIzMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  678
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1988382",
+                                     "displayName":  "Josh Blaylock",
+                                     "alternativeNames":  [
+                                                              "Joshua Blaycock",
+                                                              "Joshua Blaylock"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg4ODk3NDk4N15BMl5BanBnXkFtZTcwMTQyNzIzMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1715189",
+                                     "displayName":  "Johanna Braddy",
+                                     "alternativeNames":  [
+                                                              "Johanna E. Braddy",
+                                                              "Johannna Brady"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2U0ZjEyNDEtNmM4NS00MDY3LWE5NzYtMjZmOTU4ZTNiYjU4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1242,
+                                                          "height":  1431
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4136296",
+                                     "displayName":  "Jimmy Wong",
+                                     "alternativeNames":  [
+                                                              "Feast of Fiction"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BN2M5NmViMjktNzZlZi00ZDEzLWJmMjUtOGExYWYyYjg5NzYxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  804,
+                                                          "height":  1192
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000089",
+                                         "name":  "Teen Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  6
+                    }
+                ]
+}

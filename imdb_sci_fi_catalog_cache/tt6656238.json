@@ -1,0 +1,215 @@
+﻿{
+    "id":  "tt6656238",
+    "detail":  {
+                   "id":  "tt6656238",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Rain",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTU2MjMwNDI2OV5BMl5BanBnXkFtZTgwMDU2NzczNTM@._V1_.jpg",
+                                        "width":  1012,
+                                        "height":  1500
+                                    },
+                   "startYear":  2018,
+                   "endYear":  2020,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Drama",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.3,
+                                  "voteCount":  46205
+                              },
+                   "plot":  "After a brutal virus wipes out most of the population, two young siblings embark on a perilous search for safety.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0435091",
+                                         "displayName":  "Kenneth Kainz",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjgwZTdkYzYtMjBiOS00ZGViLThiNWEtNDdlYzNhZjRjYmExXkEyXkFqcGc@._V1_CR157,14,1134,1700_.jpg",
+                                                              "width":  1134,
+                                                              "height":  1700
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0037874",
+                                         "displayName":  "Natasha Arthy",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0299910",
+                                         "displayName":  "Kasper GaardsÃ¸e",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "camera_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2488511",
+                                       "displayName":  "Jannik Tai Mosholt",
+                                       "alternativeNames":  [
+                                                                "Jannik Mosholt"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0692994",
+                                       "displayName":  "Christian Potalivo",
+                                       "alternativeNames":  [
+                                                                "Christian Steengaard Potalivo"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2593468",
+                                       "displayName":  "Esben Toft Jacobsen",
+                                       "alternativeNames":  [
+                                                                "Esben T. Jacobsen",
+                                                                "Esben Toft Jacobsen"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2110232",
+                                     "displayName":  "Alba August",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg4ODk2NjkyMF5BMl5BanBnXkFtZTgwOTkxMDczNTM@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5455622",
+                                     "displayName":  "Lucas Lynggaard TÃ¸nnesen",
+                                     "alternativeNames":  [
+                                                              "Lucas Lynggaard",
+                                                              "Lucas TÃ¸nnesen"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjgxYmNlZGUtYTE1NC00MzliLTkxMWItOTc0NmRiNDY3ZjViXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1070,
+                                                          "height":  1298
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3140538",
+                                     "displayName":  "Mikkel Boe FÃ¸lsgaard",
+                                     "alternativeNames":  [
+                                                              "Mikkel FÃ¸lsgaard"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjQ3Yjk1MTAtMGNiNS00ODlmLWJiYjQtNzQxNGZmZGVmMWQzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  800,
+                                                          "height":  450
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8014045",
+                                     "displayName":  "Lukas LÃ¸kken",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODM1Mjk0MjM1MF5BMl5BanBnXkFtZTgwNjAyMDczNTM@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1366
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "DK",
+                                               "name":  "Denmark"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "dan",
+                                               "name":  "Danish"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000163",
+                                         "name":  "Sci-Fi Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  6
+                    }
+                ]
+}

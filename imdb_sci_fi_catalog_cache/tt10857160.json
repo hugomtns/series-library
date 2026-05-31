@@ -1,0 +1,201 @@
+﻿{
+    "id":  "tt10857160",
+    "detail":  {
+                   "id":  "tt10857160",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "She-Hulk: Attorney at Law",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNjg4ZTQ1MjctNzEyMS00YWM2LTk1ZTQtNDU3ZDJjNjhhMDhkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1688,
+                                        "height":  2500
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2022,
+                   "runtimeSeconds":  2100,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.2,
+                                  "voteCount":  209296
+                              },
+                   "plot":  "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0192478",
+                                         "displayName":  "Kat Coiro",
+                                         "alternativeNames":  [
+                                                                  "Katherine Cunningham-Eves",
+                                                                  "Katherine Eves"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYWQxYTA1YmEtMDkwOC00NThjLWFlZmUtZWVlNjM3M2RkMTEzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  874,
+                                                              "height":  1390
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3060183",
+                                         "displayName":  "Anu Valia",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOGIxNTM3NGEtNWRkOS00NmZhLWE4ZTEtNThmZjE2YTkzYTJlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2401,
+                                                              "height":  3600
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "production_department"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1815387",
+                                       "displayName":  "John Buscema",
+                                       "alternativeNames":  [
+                                                                "Joe Buschema"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BY2EyMjUwZjgtMmI5Ni00N2I3LTgxOWMtMzE3NmEwYWMxODZhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  164,
+                                                            "height":  300
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3597491",
+                                       "displayName":  "Francesca Gailes",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm6537189",
+                                       "displayName":  "Jacqueline Gailes",
+                                       "alternativeNames":  [
+                                                                "Jacqueline J. Gailes"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1137209",
+                                     "displayName":  "Tatiana Maslany",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzg5NjE4NDgzMl5BMl5BanBnXkFtZTgwNzk5OTQwMjE@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1365
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2668086",
+                                     "displayName":  "Ginger Gonzaga",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmUyNmFlMzYtMmQyOC00Y2QwLTg3NTYtYTU5MzkzMGI3YTZjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1018,
+                                                          "height":  1296
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7070883",
+                                     "displayName":  "Malia Arrayah",
+                                     "alternativeNames":  [
+                                                              "Malia Nahinu"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGM3MDMxMjQtOWFkYi00YjZmLTkyNzUtOTliNGYzNTVlYjNlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3000,
+                                                          "height":  2400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "stunts"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3553139",
+                                     "displayName":  "Jameela Jamil",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA0NDI4OTEwMl5BMl5BanBnXkFtZTgwNDM4NDg4OTE@._V1_.jpg",
+                                                          "width":  750,
+                                                          "height":  1000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "composer",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  9
+                    }
+                ]
+}

@@ -1,0 +1,257 @@
+﻿{
+    "id":  "tt0115378",
+    "detail":  {
+                   "id":  "tt0115378",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Superman: The Animated Series",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYmNiNTY1YjYtNmI1Zi00ODE3LTg4MmYtNWRkYTU2MTkxZjkwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1426
+                                    },
+                   "startYear":  1996,
+                   "endYear":  2000,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Family",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  19825
+                              },
+                   "plot":  "The last son of the planet Krypton protects his adoptive home of Earth as the greatest of the superheroes.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0311435",
+                                         "displayName":  "Curt Geda",
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0722713",
+                                         "displayName":  "Dan Riba",
+                                         "alternativeNames":  [
+                                                                  "Daniel Riba"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0557926",
+                                         "displayName":  "Toshihiko Masuda",
+                                         "alternativeNames":  [
+                                                                  "Sorajima Karuta",
+                                                                  "Toshihiku Masuda"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "miscellaneous"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0795975",
+                                       "displayName":  "Joe Shuster",
+                                       "alternativeNames":  [
+                                                                "Joel Shuster",
+                                                                "Joseph Shuster"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNGY4N2Y4ZjEtMDgwOS00NDYwLWExN2UtMzU0NGMxNWJjYTk1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  488,
+                                                            "height":  608
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0796950",
+                                       "displayName":  "Jerry Siegel",
+                                       "alternativeNames":  [
+                                                                "Joe Carter",
+                                                                "Jerome Siegel"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMmMyMzgyYzUtZTI4OS00MjI1LTgxYjYtNWRkYzM2MmU2ZGIzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  488,
+                                                            "height":  598
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0227704",
+                                       "displayName":  "Paul Dini",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTgxNjUxNDAyNV5BMl5BanBnXkFtZTcwODQ2NTgwOA@@._V1_.jpg",
+                                                            "width":  1471,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001127",
+                                     "displayName":  "Dana Delany",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmVhMjRhZjUtZWVhOS00MDg1LWIyZTgtZjZkMTcxMzAwZTdjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1723,
+                                                          "height":  2148
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0004857",
+                                     "displayName":  "Tim Daly",
+                                     "alternativeNames":  [
+                                                              "Timothy Daly"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTgyZjU2YTgtZDJmYS00MDIxLWI4ZjAtYWQ1MjE1N2U1NzhkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2925,
+                                                          "height":  3203
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0442120",
+                                     "displayName":  "David Kaufman",
+                                     "alternativeNames":  [
+                                                              "Dave Kaufman",
+                                                              "David R. Kaufman"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTUwMmE0NzQtZjYxMS00NjlmLWE5NGEtYTI4MGVhZGNhYmE2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3456,
+                                                          "height":  4787
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0004767",
+                                     "displayName":  "Joseph Bologna",
+                                     "alternativeNames":  [
+                                                              "Joe Bologna"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc1ODk4NTU3Ml5BMl5BanBnXkFtZTcwNjU5Njg5Nw@@._V1_.jpg",
+                                                          "width":  1324,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           },
+                                           {
+                                               "code":  "KR",
+                                               "name":  "Republic of Korea"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000007",
+                                         "name":  "One-Person Army Action",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  28
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    }
+                ]
+}

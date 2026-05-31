@@ -1,0 +1,174 @@
+﻿{
+    "id":  "tt0233044",
+    "detail":  {
+                   "id":  "tt0233044",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Dinotopia",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYjQzNzg1MzAtMzAwMC00OTY2LWIzYmYtZTk4ZDQ4OGI2Nzg0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1200,
+                                        "height":  1800
+                                    },
+                   "startYear":  2002,
+                   "endYear":  2002,
+                   "runtimeSeconds":  4980,
+                   "genres":  [
+                                  "Adventure",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.5,
+                                  "voteCount":  7177
+                              },
+                   "plot":  "After a plane crash, two opposing half-brothers find themselves on an amazing lost island where enlightened pacifist humans and intelligent talking dinosaurs have created a utopian medieval society. But imminent disaster approaches.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0104193",
+                                         "displayName":  "Marco Brambilla",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYmM5YWJjZjgtODgwMi00MDZkLThhMmMtOGJmYjJjNjNlYTY1XkEyXkFqcGc@._V1_CR597,102,829,1244_.jpg",
+                                                              "width":  829,
+                                                              "height":  1244
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1051830",
+                                       "displayName":  "James Gurney",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0601881",
+                                       "displayName":  "Simon Moore",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000667",
+                                     "displayName":  "David Thewlis",
+                                     "alternativeNames":  [
+                                                              "David Thlewis"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTA3MjM4NTE0NV5BMl5BanBnXkFtZTcwOTU1OTY4NQ@@._V1_.jpg",
+                                                          "width":  1366,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0139772",
+                                     "displayName":  "Katie Carr",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ3MjE4NjQ0MF5BMl5BanBnXkFtZTYwOTA1MDM4._V1_.jpg",
+                                                          "width":  360,
+                                                          "height":  540
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000481",
+                                     "displayName":  "Alice Krige",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDBkMTMyODYtYmI0OC00NmNjLThiYzUtMmIwZTVjNDAwN2YyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2664,
+                                                          "height":  3150
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0141697",
+                                     "displayName":  "Jim Carter",
+                                     "alternativeNames":  [
+                                                              "James Carter"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUwOTIzOTk2MF5BMl5BanBnXkFtZTcwMjk1ODI1Nw@@._V1_.jpg",
+                                                          "width":  1366,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "DE",
+                                               "name":  "Germany"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000014",
+                                         "name":  "Dinosaur Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  3
+                    }
+                ]
+}

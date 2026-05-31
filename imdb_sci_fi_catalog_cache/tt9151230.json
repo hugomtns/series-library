@@ -1,0 +1,168 @@
+﻿{
+    "id":  "tt9151230",
+    "detail":  {
+                   "id":  "tt9151230",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "To the Lake",
+                   "originalTitle":  "Epidemiya",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZTEyMmUxNDctMmI5Yy00YmZmLTkxNmYtZjUxNzNiYjA3NGUzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  466,
+                                        "height":  638
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2022,
+                   "runtimeSeconds":  2880,
+                   "genres":  [
+                                  "Drama",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  16734
+                              },
+                   "plot":  "A terrible plague strikes and a group decides to risk their lives. Humanity struggles to survive as they face the end of their civilization.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1018307",
+                                         "displayName":  "Pavel Kostomarov",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMGEyYzExOTEtODYwMS00OTg3LThjNjAtYTljMmExMjQ4NzI1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  357,
+                                                              "height":  538
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm3368610",
+                                         "displayName":  "Dmitriy Tyurin",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2984444",
+                                       "displayName":  "Roman Kantor",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm10300032",
+                                       "displayName":  "Yana Vagner",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm13569777",
+                                       "displayName":  "Rikke Brin",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1874211",
+                                     "displayName":  "Kirill KÃ¤ro",
+                                     "alternativeNames":  [
+                                                              "Kirill Kiaro",
+                                                              "Kyaro Kirill",
+                                                              "Kirill Kyaro"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTA5OTlmYmMtM2UwYy00MDVkLTlhYmEtMjE3NTdlZjI2ZjkxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  683,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3539159",
+                                     "displayName":  "Maryana Spivak",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTc3ODYyNzM2MF5BMl5BanBnXkFtZTgwOTMwMDYzMjI@._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1365
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm4030124",
+                                     "displayName":  "Natalya Zemtsova",
+                                     "alternativeNames":  [
+                                                              "Natalia Zemtsova"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOGVjZGMzNzQtNTg5MC00NjcwLWJkZTQtMDI2MWRmZDhmZGI1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  412,
+                                                          "height":  583
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6995387",
+                                     "displayName":  "Eldar Kalimulin",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "RU",
+                                               "name":  "Russian Federation"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "rus",
+                                               "name":  "Russian"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    }
+                ]
+}

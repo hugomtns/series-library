@@ -1,0 +1,288 @@
+﻿{
+    "id":  "tt0063950",
+    "detail":  {
+                   "id":  "tt0063950",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Scooby Doo, Where Are You!",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZWY2YWM1NzItMTM4OC00OWExLTkxZGItNzNmYzI4MmFiYjVmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  1000
+                                    },
+                   "startYear":  1969,
+                   "endYear":  1970,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  47523
+                              },
+                   "plot":  "Four teenage friends, Fred Jones, Daphne Blake, Velma Dinkley, and Shaggy Rogers, along with their talking dog, Scooby-Doo, travel around in their van, The Mystery Machine, solving strange, spooky, and hilariously kooky mysteries.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0053484",
+                                         "displayName":  "Joseph Barbera",
+                                         "alternativeNames":  [
+                                                                  "Hanna Barbera",
+                                                                  "Joe Barbera",
+                                                                  "Joseph R. Barbera",
+                                                                  "Hanna Barbera-Productions",
+                                                                  "Hanna-Barbera",
+                                                                  "Hanna-Barbera Prods Inc.",
+                                                                  "Hanna Barbera Productions",
+                                                                  "Hanna-Barbera Productions",
+                                                                  "Joseph Roland"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjVjMDQwZjUtN2EzZC00ZTAyLTllNDgtMzkwZWU2MDUwNDhmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1081,
+                                                              "height":  1500
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0360253",
+                                         "displayName":  "William Hanna",
+                                         "alternativeNames":  [
+                                                                  "Hanna Barbera",
+                                                                  "Hanna Barbera-Productions",
+                                                                  "Bill Hanna",
+                                                                  "Hanna-Barbera",
+                                                                  "Hanna-Barbera Prods Inc.",
+                                                                  "Hanna Barbera Productions",
+                                                                  "Hanna-Barbera Productions",
+                                                                  "Denby Williams",
+                                                                  "Hanna-Barbera productions"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjgxZjViMmUtMzNmNS00ZTk3LWJmMGMtMzgwZjQ0ZWJhMGRlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  705,
+                                                              "height":  576
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0527549",
+                                       "displayName":  "Bill Lutz",
+                                       "alternativeNames":  [
+                                                                "William Lutz"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0798908",
+                                       "displayName":  "Fred Silverman",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYmEyZGM1YjAtM2Y4Mi00M2M0LWI5MTYtZWNiYmFhZjFiOTE1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  640,
+                                                            "height":  480
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "executive",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0748445",
+                                       "displayName":  "Joe Ruby",
+                                       "alternativeNames":  [
+                                                                "Joe R. Ruby",
+                                                                "Joseph Ruby"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjQ2NzI2ODctZDg3My00NDQ2LTlhNDMtMjcxZmQyMjVjMDUyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  546,
+                                                            "height":  600
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "editor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0817366",
+                                       "displayName":  "Ken Spears",
+                                       "alternativeNames":  [
+                                                                "Kenneth Spears",
+                                                                "Ken Speers"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "editor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0415476",
+                                     "displayName":  "Nicole Jaffe",
+                                     "alternativeNames":  [
+                                                              "Nicole Jaffe David",
+                                                              "Nichole Jaffe"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTI3ZmI3Y2ItODdkZS00MjhjLWJjNzMtMmUzZTM3Y2M3YmY0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  823,
+                                                          "height":  991
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "art_department",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0440487",
+                                     "displayName":  "Casey Kasem",
+                                     "alternativeNames":  [
+                                                              "Casy Kasem"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODI2MzQ3OTcyOF5BMl5BanBnXkFtZTYwMzQ4NDMz._V1_.jpg",
+                                                          "width":  287,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0582106",
+                                     "displayName":  "Don Messick",
+                                     "alternativeNames":  [
+                                                              "Donald Messick",
+                                                              "Mr Don Messick"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0674775",
+                                     "displayName":  "Vic Perrin",
+                                     "alternativeNames":  [
+                                                              "Victor Perrin"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmI3MjU0NjctMTAxZC00Y2U1LTg3YWYtOGZiM2EzNWI1NzMwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  528,
+                                                          "height":  480
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0827267",
+                                     "displayName":  "John Stephenson",
+                                     "alternativeNames":  [
+                                                              "John Stevenson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGYxZGIyOWEtMzQwYy00NDZkLWFjNTYtMGI5NTFhMzM3NWIzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  596,
+                                                          "height":  840
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000046",
+                                         "name":  "Slapstick",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000049",
+                                         "name":  "Teen Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000136",
+                                         "name":  "Bumbling Detective",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  17
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  16
+                    }
+                ]
+}

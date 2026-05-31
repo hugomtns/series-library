@@ -1,0 +1,271 @@
+﻿{
+    "id":  "tt0844441",
+    "detail":  {
+                   "id":  "tt0844441",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "True Blood",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZGViZTA1ODktNmMyYy00YjBmLWFkMjgtMTYxNjgzMjEyODlkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  750,
+                                        "height":  1124
+                                    },
+                   "startYear":  2008,
+                   "endYear":  2014,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Romance",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.9,
+                                  "voteCount":  271306
+                              },
+                   "plot":  "Telepathic waitress Sookie Stackhouse encounters a strange new supernatural world when she meets the mysterious Bill Compton, a southern Louisiana gentleman and vampire.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0499724",
+                                         "displayName":  "Michael Lehmann",
+                                         "alternativeNames":  [
+                                                                  "Michael Lehman"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc3NTYwMjYxMV5BMl5BanBnXkFtZTYwMjk5MDM1._V1_.jpg",
+                                                              "width":  266,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0934525",
+                                         "displayName":  "Scott Winant",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTU4OTEwNzg5OV5BMl5BanBnXkFtZTYwNTQ3MTg3._V1_.jpg",
+                                                              "width":  485,
+                                                              "height":  717
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0590889",
+                                         "displayName":  "Daniel Minahan",
+                                         "alternativeNames":  [
+                                                                  "Dan Minahan"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTg3NzMzNDM2OF5BMl5BanBnXkFtZTgwNjI0MDk1MzE@._V1_.jpg",
+                                                              "width":  1362,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0050332",
+                                       "displayName":  "Alan Ball",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjA5NDA4MzExMV5BMl5BanBnXkFtZTcwMzA4NDI5MQ@@._V1_.jpg",
+                                                            "width":  282,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2363895",
+                                       "displayName":  "Charlaine Harris",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTg3MDE4ODAwMl5BMl5BanBnXkFtZTcwNjc3NjE4Mg@@._V1_.jpg",
+                                                            "width":  600,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0118748",
+                                       "displayName":  "Brian Buckner",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001593",
+                                     "displayName":  "Anna Paquin",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTcxNzM2NjMzNl5BMl5BanBnXkFtZTgwOTE2Njk0MjE@._V1_.jpg",
+                                                          "width":  634,
+                                                          "height":  482
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0610459",
+                                     "displayName":  "Stephen Moyer",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzU4NzUxMzYtOTc0Yi00ZDU2LThiYzQtMTAyZWJjNmZiYjI0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  727,
+                                                          "height":  989
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0870794",
+                                     "displayName":  "Sam Trammell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTllY2Q1Y2ItNjhhMC00NjBmLTg4YjktZTcxZDY5OWMyNDJkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3030,
+                                                          "height":  3876
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0477127",
+                                     "displayName":  "Ryan Kwanten",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmQ4ZGU2NjYtMDEwOC00MzZmLWIzMjEtODU1YzI5MDczM2IwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2187,
+                                                          "height":  3072
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "deu",
+                                               "name":  "German"
+                                           },
+                                           {
+                                               "code":  "swe",
+                                               "name":  "Swedish"
+                                           },
+                                           {
+                                               "code":  "rus",
+                                               "name":  "Russian"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000035",
+                                         "name":  "Dark Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000154",
+                                         "name":  "Steamy Romance",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  12
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  10
+                    }
+                ]
+}

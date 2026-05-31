@@ -1,0 +1,151 @@
+﻿{
+    "id":  "tt1720619",
+    "detail":  {
+                   "id":  "tt1720619",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "Neverland",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjE3MTAyMjQzMF5BMl5BanBnXkFtZTcwNDI3MzAxNw@@._V1_.jpg",
+                                        "width":  456,
+                                        "height":  607
+                                    },
+                   "startYear":  2011,
+                   "endYear":  2011,
+                   "runtimeSeconds":  5400,
+                   "genres":  [
+                                  "Adventure",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.3,
+                                  "voteCount":  10748
+                              },
+                   "plot":  "Some places may look familiar. Some characters may ring a bell. But in this world, where time stands still, an adventure awaits like none you\u0027ve ever seen before.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0932216",
+                                         "displayName":  "Nick Willing",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWJmODEyM2ItOGExMy00ODQzLTg4ZTgtNGI1YjI2OTFlZDgxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2071,
+                                                              "height":  2070
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0932216",
+                                       "displayName":  "Nick Willing",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNWJmODEyM2ItOGExMy00ODQzLTg4ZTgtNGI1YjI2OTFlZDgxXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2071,
+                                                            "height":  2070
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0461136",
+                                     "displayName":  "Keira Knightley",
+                                     "alternativeNames":  [
+                                                              "Kiera Knightley",
+                                                              "Cecilia Tallis"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTYwNDM0NDA3M15BMl5BanBnXkFtZTcwNTkzMjQ3OA@@._V1_.jpg",
+                                                          "width":  1458,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "camera_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2185462",
+                                     "displayName":  "Charlie Rowe",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmJmMDhiY2UtZGU2Ni00MGRjLTlkOGMtYTE4OTBhYzNjNDdlXkEyXkFqcGc@._V1_CR0,1,959,1439_.jpg",
+                                                          "width":  959,
+                                                          "height":  1439
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1089027",
+                                     "displayName":  "Charlotte Atkinson",
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0295484",
+                                     "displayName":  "Anna Friel",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI1Mjk3NTcyNl5BMl5BanBnXkFtZTcwNDcxMjE2Mg@@._V1_.jpg",
+                                                          "width":  291,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000097",
+                                         "name":  "Fairy Tale",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  2
+                    }
+                ]
+}

@@ -1,0 +1,218 @@
+﻿{
+    "id":  "tt10893694",
+    "detail":  {
+                   "id":  "tt10893694",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Irregulars",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNWMxMjE1NjEtMjg3My00ZDNjLTkzNTEtOGMxZjMxMWU3Njc4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1013,
+                                        "height":  1500
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2021,
+                   "genres":  [
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.1,
+                                  "voteCount":  18748
+                              },
+                   "plot":  "Set in Victorian London, the series follows a gang of troubled street teens who are manipulated into solving crimes for the sinister Doctor Watson and his mysterious business partner, the elusive Sherlock Holmes.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0013140",
+                                         "displayName":  "Joss Agnew",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYTFlNTg1ZGMtMDdmNy00NzUzLWIwZjYtMTdmMmQyMzA4OTVlXkEyXkFqcGc@._V1_CR403,0,886,1329_.jpg",
+                                                              "width":  886,
+                                                              "height":  1329
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editorial_department",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm12181762",
+                                         "displayName":  "Johnny Allan",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm4299757",
+                                         "displayName":  "Weronika Tofilska",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOGFhYThkYjYtMjgwYi00NTZlLWI4NjEtZGY0ZTc4NTE5Y2Y0XkEyXkFqcGc@._V1_CR518,16,1663,2495_.jpg",
+                                                              "width":  1663,
+                                                              "height":  2495
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm3635428",
+                                       "displayName":  "Tom Bidwell",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm12155775",
+                                       "displayName":  "Sarah Simmonds",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDMxOGEyZGMtZmEwOS00MmQzLTliMDktMzEzMmJkMGNlYTcxXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4606,
+                                                            "height":  6905
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0236279",
+                                       "displayName":  "Arthur Conan Doyle",
+                                       "alternativeNames":  [
+                                                                "Sir Arthur Conan-Doyle",
+                                                                "A. Conan Doyle",
+                                                                "Conan Doyle",
+                                                                "Sir Arthur Conan Doyle",
+                                                                "The Late Sir Arthur Conan Doyle"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzI0NjQ1ODg1NF5BMl5BanBnXkFtZTgwOTc2OTI1MDE@._V1_.jpg",
+                                                            "width":  1385,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm4710129",
+                                     "displayName":  "McKell David",
+                                     "alternativeNames":  [
+                                                              "McKell Celaschi-David",
+                                                              "Mickell David"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjI0NjQ3MjE1NV5BMl5BanBnXkFtZTgwNTY4Mzc2NjE@._V1_.jpg",
+                                                          "width":  5760,
+                                                          "height":  3840
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6248154",
+                                     "displayName":  "Thaddea Graham",
+                                     "alternativeNames":  [
+                                                              "Thady Graham"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDdkN2VhMzYtYjAwZC00YzY1LThiZjEtODk4ZmEyNmFiYmY2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  669,
+                                                          "height":  873
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "composer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9381634",
+                                     "displayName":  "Jojo Macari",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDBkNmFiNDYtOTAwZS00Mjg0LTk4NDEtODUzZjRlYjM0YjkxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1920,
+                                                          "height":  1080
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7149222",
+                                     "displayName":  "Harrison Osterfield",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmQ2ZDNjYjktZjNhZS00ZjYxLWIzMGQtN2U4OGExNjAxYjBiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2384,
+                                                          "height":  2995
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "stunts"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000140",
+                                         "name":  "Suspense Mystery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000141",
+                                         "name":  "Whodunnit",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

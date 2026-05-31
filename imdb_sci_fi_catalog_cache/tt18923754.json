@@ -1,0 +1,330 @@
+﻿{
+    "id":  "tt18923754",
+    "detail":  {
+                   "id":  "tt18923754",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Daredevil: Born Again",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNDBkMWRhMzEtM2M0Ny00OGZhLThkZGMtMTY1NWUwZWNhODdiXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1086,
+                                        "height":  1608
+                                    },
+                   "startYear":  2025,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  107269
+                              },
+                   "plot":  "Matt Murdock finds himself on a collision course with Wilson Fisk when their past identities begin to emerge.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1918140",
+                                         "displayName":  "Justin Benson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BODA5ZTIwNGQtMzAyNC00MDU5LTkwNmUtYjk4ZTczNzUyYTJhXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  667,
+                                                              "height":  843
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1823264",
+                                         "displayName":  "Aaron Moorhead",
+                                         "alternativeNames":  [
+                                                                  "Aaron Scott Moorhead"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNThkNmI2YzMtYmNmYi00MGNiLTk1ZGQtZmE4MzA5MGMwOWRmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  683,
+                                                              "height":  886
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0101741",
+                                         "displayName":  "David Boyd",
+                                         "alternativeNames":  [
+                                                                  "D.R. Boyd",
+                                                                  "Dave Boyd",
+                                                                  "David R. Boyd",
+                                                                  "David Russell Boyd"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BY2FkMjdhYzAtMWEzZC00YTU1LWEzNGYtYmM4OGUzOTNlMGU4XkEyXkFqcGc@._V1_CR126,0,621,932_.jpg",
+                                                              "width":  621,
+                                                              "height":  932
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1953304",
+                                       "displayName":  "Matt Corman",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1152450",
+                                       "displayName":  "Bill Everett",
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1999991",
+                                       "displayName":  "Devon Kliger",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTQ5YTQ4NjUtYzdkMC00NDRhLWFhZWItZTk4NWI0YjIwNmY4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2156,
+                                                            "height":  3234
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1951118",
+                                       "displayName":  "Chris Ord",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0769123",
+                                       "displayName":  "Dario Scardapane",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BODcyYzZlYTYtOGI0My00N2JlLWEzNzgtZjhiZWYxNTFlODJhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  5184,
+                                                            "height":  3888
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1214435",
+                                     "displayName":  "Charlie Cox",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjA0Mzg5MTU3MV5BMl5BanBnXkFtZTgwOTUxMTQ5NzE@._V1_.jpg",
+                                                          "width":  1178,
+                                                          "height":  744
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000352",
+                                     "displayName":  "Vincent D\u0027Onofrio",
+                                     "alternativeNames":  [
+                                                              "Vincent Philip D\u0027Onofrio",
+                                                              "Vincent Phillip D\u0027Onofrio",
+                                                              "Vin D\u0027Onofrio"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk0NTE2MDkzNF5BMl5BanBnXkFtZTYwODUzMjcz._V1_.jpg",
+                                                          "width":  285,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6631562",
+                                     "displayName":  "Genneya Walton",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWVkNDljYTUtYzJjYy00MjM3LWI3YjEtMTZlYTFjZTI1ZjJiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1179,
+                                                          "height":  1763
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1446972",
+                                     "displayName":  "Nikki M. James",
+                                     "alternativeNames":  [
+                                                              "Nikki Michelle James",
+                                                              "Nikki James"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzMwYTY3ZTQtMGI3OS00NjdhLWIwZWYtZGMyYzFiOGI0ZDdkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4000,
+                                                          "height":  5600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm8284671",
+                                     "displayName":  "Arty Froushan",
+                                     "alternativeNames":  [
+                                                              "Artemas Froushan"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjJjZDMzZDctMWQxYi00YzJlLThlYzEtZWY3ZDNkMTcwNDU5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5953,
+                                                          "height":  7442
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1760272",
+                                     "displayName":  "Margarita Levieva",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMGE0NzgzMDEtNTY1NS00ZTVjLWJhOGMtMjhiM2UxYTM4N2QwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1426,
+                                                          "height":  1368
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm6408859",
+                                     "displayName":  "Michael Gandolfini",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjYxMjc2NTctYWZmOC00Y2E3LTg3MTYtYWY4NGQxZDc2MDczXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1125,
+                                                          "height":  1406
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000006",
+                                         "name":  "Martial Arts",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000055",
+                                         "name":  "Gangster",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000081",
+                                         "name":  "Legal Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000180",
+                                         "name":  "Legal Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000182",
+                                         "name":  "Psychological Thriller",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  9
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  1
+                    }
+                ]
+}

@@ -1,0 +1,216 @@
+﻿{
+    "id":  "tt13784584",
+    "detail":  {
+                   "id":  "tt13784584",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Fantasy Island",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTQ5ZjlkYmItMzNhMi00N2EwLTk3ZTEtODFkMjU1MTMzNWZjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1013,
+                                        "height":  1500
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2023,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.3,
+                                  "voteCount":  5903
+                              },
+                   "plot":  "People who walk in with a desire, but end up reborn to themselves through the magical realism of Fantasy Island.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0437246",
+                                         "displayName":  "Adam Kane",
+                                         "alternativeNames":  [
+                                                                  "Adam M. Kane",
+                                                                  "Enak Mada"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWZmZjI0NGYtNTEwMC00OGE2LTgxYjYtYmVkMjExODk4YzFjXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1449,
+                                                              "height":  1532
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0884218",
+                                         "displayName":  "Diana Valentine",
+                                         "alternativeNames":  [
+                                                                  "Diana C. Valentine",
+                                                                  "Diana Valentine-Stricklin"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOWJkZmM1ZjEtYzllOS00YmRiLWIwZDAtOGRlNjFmNTQyZGFiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  640,
+                                                              "height":  853
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1325497",
+                                         "displayName":  "Rachel Raimist",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjRlZDU2OTgtZDU5YS00MjMwLWEzYTgtZWQ4ZTVjM2UyMzFmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3648,
+                                                              "height":  5472
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1175237",
+                                       "displayName":  "Elizabeth Craft",
+                                       "alternativeNames":  [
+                                                                "Liz Craft"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1175413",
+                                       "displayName":  "Sarah Fain",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0506215",
+                                       "displayName":  "Gene Levitt",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0761052",
+                                     "displayName":  "Roselyn Sanchez",
+                                     "alternativeNames":  [
+                                                              "Roselyn SÃ¡nchez"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAxNTM5OTQ3Nl5BMl5BanBnXkFtZTgwMTA0MzY3MzE@._V1_.jpg",
+                                                          "width":  1441,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2700452",
+                                     "displayName":  "John Gabriel Rodriquez",
+                                     "alternativeNames":  [
+                                                              "John Gabriel",
+                                                              "John Gabriel Rodriguez",
+                                                              "John Rodriguez",
+                                                              "John Rodriquez"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmEyZDZjNWUtZmI4Ni00ZTNhLTk4OGYtMWMxMzJkYzhiZWQyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4472,
+                                                          "height":  5590
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0525240",
+                                     "displayName":  "Daniel Lugo",
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9138331",
+                                     "displayName":  "Kiara Barnes",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWU1YTc5MzctNmMxOS00MzJmLThjNDQtOWNlNTYzYjlkNmYzXkEyXkFqcGc@._V1_CR0,1,2729,4094_.jpg",
+                                                          "width":  2729,
+                                                          "height":  4094
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  13
+                    }
+                ]
+}

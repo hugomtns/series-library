@@ -1,0 +1,244 @@
+﻿{
+    "id":  "tt12637874",
+    "detail":  {
+                   "id":  "tt12637874",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Fallout",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYzE1MTZmY2ItMTgxNi00OGU5LTk4NTItMmY2ODFhYzhjZjRkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1080,
+                                        "height":  1920
+                                    },
+                   "startYear":  2024,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.3,
+                                  "voteCount":  393864
+                              },
+                   "plot":  "In a future, post-apocalyptic Los Angeles brought about by nuclear decimation, citizens must live in underground bunkers to protect themselves from radiation, mutants and bandits.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0870295",
+                                         "displayName":  "Frederick E.O. Toye",
+                                         "alternativeNames":  [
+                                                                  "Fred E.O. Toye",
+                                                                  "Frederick E. O. Toye",
+                                                                  "Frederick O.E. Toye",
+                                                                  "Frederick Toye",
+                                                                  "Fredrick E.O. Toye",
+                                                                  "Fred Toye"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZGYyYmEzZTktMDkwZC00MTgyLWIzY2EtN2NkZTMyYjQ2MWJmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4032,
+                                                              "height":  3024
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0634300",
+                                         "displayName":  "Jonathan Nolan",
+                                         "alternativeNames":  [
+                                                                  "Jonah Nolan"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTEwNjY2MjgxMTZeQTJeQWpwZ15BbWU3MDY4NjY1Mjc@._V1_.jpg",
+                                                              "width":  1388,
+                                                              "height":  2000
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0453270",
+                                         "displayName":  "Clare Kilner",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNDE0MDkxNjM4NV5BMl5BanBnXkFtZTgwNTAxODU4MjE@._V1_.jpg",
+                                                              "width":  1788,
+                                                              "height":  1714
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm9329350",
+                                       "displayName":  "Chaz Hawkins",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4039044",
+                                       "displayName":  "Geneva Robertson-Dworet",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZGM1YThmNzAtOGJlMy00NDcyLTg0YzctODNlNGM1MWExNjM0XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1592,
+                                                            "height":  1918
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "showrunner",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1635415",
+                                       "displayName":  "Graham Wagner",
+                                       "alternativeNames":  [
+                                                                "Iron Cobra"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNGU0MTE5NWUtZjA1YS00MTEzLWE2MjktNWI1MjNmZDExYjRlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4500,
+                                                            "height":  3002
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2343418",
+                                     "displayName":  "Aaron Moten",
+                                     "alternativeNames":  [
+                                                              "Aaron Clifton Moten"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGIyZDkwNzAtZTMyNS00ZTJkLWJkMTAtZjE0NjFmNTZjYmMwXkEyXkFqcGc@._V1_CR580,540,1366,2050_.jpg",
+                                                          "width":  1366,
+                                                          "height":  2050
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3480246",
+                                     "displayName":  "Ella Purnell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGNkMWI4ZmItN2Y2Mi00Mzc1LWExYTctMjMzMjhmMDE0NWVkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  8708,
+                                                          "height":  11608
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0324658",
+                                     "displayName":  "Walton Goggins",
+                                     "alternativeNames":  [
+                                                              "Walt Goggins"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGI4ZDdiN2YtNTk0Yy00ZDJmLTllYjgtMzAyNGZiYzY2MTY4XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1170,
+                                                          "height":  1653
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2030779",
+                                     "displayName":  "Moises Arias",
+                                     "alternativeNames":  [
+                                                              "490tx",
+                                                              "MoisÃ©s Arias"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTA0MjU1MzA5MzZeQTJeQWpwZ15BbWU4MDMyMTU2MTQz._V1_.jpg",
+                                                          "width":  2048,
+                                                          "height":  1437
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000185",
+                                         "name":  "Survival",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  1
+                    }
+                ]
+}

@@ -1,0 +1,145 @@
+﻿{
+    "id":  "tt0094500",
+    "detail":  {
+                   "id":  "tt0094500",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "The Lion, the Witch and the Wardrobe",
+                   "originalTitle":  "The Lion, the Witch and the Wardrobe",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNWQwZWFmZTUtZGMwMi00NWY2LWFlM2EtNDEwZmI0NmY2ZTJhXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  915,
+                                        "height":  1257
+                                    },
+                   "startYear":  1988,
+                   "endYear":  1988,
+                   "runtimeSeconds":  1740,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Family",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.2,
+                                  "voteCount":  7058
+                              },
+                   "plot":  "Four kids travel to the magical land of Narnia where they must battle an evil queen with the direction of the lion, Aslan.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0289136",
+                                         "displayName":  "Marilyn Fox",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "script_department",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0507000",
+                                       "displayName":  "C.S. Lewis",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BOThmZjc0MmEtMWI0NS00NjExLTlmNzAtMjIxYmI0NTY4Y2Y1XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1250,
+                                                            "height":  1725
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0786795",
+                                       "displayName":  "Alan Seymour",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0177291",
+                                     "displayName":  "Sophie Cook",
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0218759",
+                                     "displayName":  "Richard Dempsey",
+                                     "alternativeNames":  [
+                                                              "Richard Dempsi"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOGNjNTU4YTUtMzc5Zi00ZGY4LWI2MjAtMmMyMTdkNjE2OTUyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3168,
+                                                          "height":  4752
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0051635",
+                                     "displayName":  "Jonathan R. Scott",
+                                     "alternativeNames":  [
+                                                              "Jonathan S. Bancroft",
+                                                              "Jonathan Bancroft",
+                                                              "Jonathan Scott"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0928281",
+                                     "displayName":  "Sophie Wilcox",
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "XWG",
+                                               "name":  "West Germany"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    }
+                ]
+}

@@ -1,0 +1,206 @@
+﻿{
+    "id":  "tt0088610",
+    "detail":  {
+                   "id":  "tt0088610",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Small Wonder",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BM2Q0N2E1OWQtYTI0OC00ZmFjLWI3NTQtZTZjOTBmYmE0ZTVmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  500,
+                                        "height":  706
+                                    },
+                   "startYear":  1985,
+                   "endYear":  1989,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Comedy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  5823
+                              },
+                   "plot":  "The zany adventures of a suburban family, their next-door neighbors, and an innovative robot designed to look like a human child.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0554169",
+                                         "displayName":  "Leslie H. Martinson",
+                                         "alternativeNames":  [
+                                                                  "Leslie H.Martinson",
+                                                                  "Leslie Martinson",
+                                                                  "Les Martinson"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc4MTQ0MDc5NV5BMl5BanBnXkFtZTgwNzc0MTU5OTE@._V1_.jpg",
+                                                              "width":  1478,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "script_department"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0165418",
+                                         "displayName":  "Bob Claver",
+                                         "alternativeNames":  [
+                                                                  "Robert E. Claver"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0291089",
+                                         "displayName":  "Selig Frank",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0498585",
+                                       "displayName":  "Howard Leeds",
+                                       "alternativeNames":  [
+                                                                "Howie Leeds"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0615321",
+                                       "displayName":  "Warren S. Murray",
+                                       "alternativeNames":  [
+                                                                "Warren Murray"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0988773",
+                                       "displayName":  "Bruce Kane",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0160305",
+                                     "displayName":  "Richard Christie",
+                                     "alternativeNames":  [
+                                                              "Dick Christie"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWI0NmNmMTgtZmFjNC00NmY0LWI2ZTAtNDcxYTUzMGNmMGU0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0672188",
+                                     "displayName":  "Marla Pennington",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmUwNjY0ZDgtZWVmNy00NjJiLTkxYjktM2ZlOWVkY2E4MmI0XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  720,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0109890",
+                                     "displayName":  "Tiffany Brissette",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQzNTU0ODg4Nl5BMl5BanBnXkFtZTcwNjcxNTI5Nw@@._V1_.jpg",
+                                                          "width":  1335,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0839481",
+                                     "displayName":  "Jerry Supiran",
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000040",
+                                         "name":  "Quirky Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000044",
+                                         "name":  "Sitcom",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  24
+                    }
+                ]
+}

@@ -1,0 +1,253 @@
+﻿{
+    "id":  "tt3322310",
+    "detail":  {
+                   "id":  "tt3322310",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Iron Fist",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjI5Mjg1NDcyOV5BMl5BanBnXkFtZTgwMjAxOTQ5MTI@._V1_.jpg",
+                                        "width":  1382,
+                                        "height":  2048
+                                    },
+                   "startYear":  2017,
+                   "endYear":  2018,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.4,
+                                  "voteCount":  149308
+                              },
+                   "plot":  "A young man is bestowed with incredible martial arts skills and a mystical force known as the Iron Fist.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0839660",
+                                         "displayName":  "Stephen Surjik",
+                                         "alternativeNames":  [
+                                                                  "Stephen Surjic",
+                                                                  "Stephen D. Surjik",
+                                                                  "Steven Surjik",
+                                                                  "Steve Surjik"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjQzNDA1MjkzNl5BMl5BanBnXkFtZTgwNzU4MjQwOTE@._V1_.jpg",
+                                                              "width":  1242,
+                                                              "height":  1242
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0001093",
+                                         "displayName":  "John Dahl",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTg4OTE2MzQ5MV5BMl5BanBnXkFtZTYwNTg0MTQ1._V1_.jpg",
+                                                              "width":  268,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1879225",
+                                         "displayName":  "Farren Blackburn",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZGRiYjhmZWEtYjFkNC00NjQxLTk3NTAtMGNiMTUxNzVkNDIwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1080,
+                                                              "height":  1440
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0118420",
+                                       "displayName":  "Scott Buck",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTQ5MjYwNTQ2M15BMl5BanBnXkFtZTgwNzI0NTczMDI@._V1_.jpg",
+                                                            "width":  1414,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0437314",
+                                       "displayName":  "Gil Kane",
+                                       "alternativeNames":  [
+                                                                "Scott Edwards"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0859471",
+                                       "displayName":  "Roy Thomas",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDA1NjRhMzUtODQwYS00MTQ1LWI3YmUtMDg5YWIwOTdiZmEwXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  806,
+                                                            "height":  1061
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm3645691",
+                                     "displayName":  "Finn Jones",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTU0NTc1YzUtODdhZi00OWM3LTg1ZjgtYWNhYTMyMDVhMzJkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2506,
+                                                          "height":  3758
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3725055",
+                                     "displayName":  "Jessica Henwick",
+                                     "alternativeNames":  [
+                                                              "Jessica Yu Li Henwick",
+                                                              "Jessica Yu-Li Henwick"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE3MzU5NDc0Nl5BMl5BanBnXkFtZTgwNDMzNjE1NzE@._V1_.jpg",
+                                                          "width":  1000,
+                                                          "height":  1333
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1670601",
+                                     "displayName":  "Tom Pelphrey",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDVjNWQwNjUtZWExMC00NGQ5LThjNTgtNGYyMzdiZGE2MmExXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4380,
+                                                          "height":  6570
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1888211",
+                                     "displayName":  "Jessica Stroup",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODk0YmUzNTAtMTU2NS00NDQ3LWFjN2EtYjliYzM1MDUwMGJmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1000,
+                                                          "height":  1500
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "cmn",
+                                               "name":  "Mandarin Chinese"
+                                           },
+                                           {
+                                               "code":  "jpn",
+                                               "name":  "Japanese"
+                                           },
+                                           {
+                                               "code":  "rus",
+                                               "name":  "Russian"
+                                           },
+                                           {
+                                               "code":  "kor",
+                                               "name":  "Korean"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000006",
+                                         "name":  "Martial Arts",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000198",
+                                         "name":  "Kung Fu",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    }
+                ]
+}

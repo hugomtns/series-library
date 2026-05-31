@@ -1,0 +1,223 @@
+﻿{
+    "id":  "tt1307824",
+    "detail":  {
+                   "id":  "tt1307824",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "V",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTYxNTQ5NTg2Ml5BMl5BanBnXkFtZTcwODUyNTY5Mg@@._V1_.jpg",
+                                        "width":  353,
+                                        "height":  480
+                                    },
+                   "startYear":  2009,
+                   "endYear":  2011,
+                   "runtimeSeconds":  2520,
+                   "genres":  [
+                                  "Drama",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.8,
+                                  "voteCount":  61150
+                              },
+                   "plot":  "An extraterrestrial race arrives on Earth with seemingly good intentions, only to slowly reveal their true machinations the more ingrained into society they become.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0800533",
+                                         "displayName":  "Yves Simoneau",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTQwODI2MDExM15BMl5BanBnXkFtZTYwNTM5NjMz._V1_.jpg",
+                                                              "width":  266,
+                                                              "height":  400
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0057106",
+                                         "displayName":  "David Barrett",
+                                         "alternativeNames":  [
+                                                                  "Dave Barrett",
+                                                                  "David M. Barrett",
+                                                                  "David McCoy Barrett"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTYyMWMyNTAtMzdjNC00NGVkLTllZGUtYWU3ODk4YTk4YzUxXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  4894,
+                                                              "height":  3263
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "stunts"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0818465",
+                                         "displayName":  "Bryan Spicer",
+                                         "alternativeNames":  [
+                                                                  "Brian Spicer"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTU4NjAwMzI0M15BMl5BanBnXkFtZTcwNzkzODYzNg@@._V1_.jpg",
+                                                              "width":  1639,
+                                                              "height":  1536
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0425540",
+                                       "displayName":  "Kenneth Johnson",
+                                       "alternativeNames":  [
+                                                                "Kenny Johnson",
+                                                                "Ken Johnson",
+                                                                "Lillian Weezer"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTM0NTQ1ODY5NV5BMl5BanBnXkFtZTcwOTc5OTgwMw@@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1209
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0676671",
+                                       "displayName":  "Scott Peters",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3884127",
+                                       "displayName":  "Gregg Hurwitz",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYzBkOGQ4ZGEtY2MzYi00NWQxLTlhYjMtNzBlYTJhNzU0ZDU3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2000,
+                                                            "height":  2999
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0004820",
+                                     "displayName":  "Morris Chestnut",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDYzNDQzMTkwMl5BMl5BanBnXkFtZTgwOTYwNDQyMDI@._V1_.jpg",
+                                                          "width":  2880,
+                                                          "height":  1920
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0593310",
+                                     "displayName":  "Elizabeth Mitchell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY4OTk4NjE2N15BMl5BanBnXkFtZTgwNzMxODk1MzE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  627
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0340408",
+                                     "displayName":  "Joel Gretsch",
+                                     "alternativeNames":  [
+                                                              "Joel James Gretsch"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ1MDE5MzQwNV5BMl5BanBnXkFtZTgwNzIyMTg0MjE@._V1_.jpg",
+                                                          "width":  1680,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2943468",
+                                     "displayName":  "Logan Huffman",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAwODIzOTcyN15BMl5BanBnXkFtZTgwNDgxMTEyMDE@._V1_.jpg",
+                                                          "width":  1400,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000157",
+                                         "name":  "Alien Invasion",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    }
+                ]
+}

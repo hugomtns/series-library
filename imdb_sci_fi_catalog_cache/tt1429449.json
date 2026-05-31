@@ -1,0 +1,243 @@
+﻿{
+    "id":  "tt1429449",
+    "detail":  {
+                   "id":  "tt1429449",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Lost Girl",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZWM5NTY3OWEtNTBjMC00NWQ0LWEwZTgtZmQyZDhkYzE3ODIxXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1708,
+                                        "height":  2562
+                                    },
+                   "startYear":  2010,
+                   "endYear":  2016,
+                   "runtimeSeconds":  2640,
+                   "genres":  [
+                                  "Action",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Mystery",
+                                  "Romance"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.6,
+                                  "voteCount":  34761
+                              },
+                   "plot":  "When a succubus finds it difficult to adapt with her unusual traits inspite of being born in a human family, she sets off on a journey to find out the truth of her origin.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0227192",
+                                         "displayName":  "Steve DiMarco",
+                                         "alternativeNames":  [
+                                                                  "Steve Di Marco",
+                                                                  "Steve Dimarco"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0059556",
+                                         "displayName":  "Paolo Barzman",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOTFhNDQyOTgtOTNkYy00OGM0LWFjMjUtZDA1ZmNiNjY4Yzc5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3205,
+                                                              "height":  3205
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0614672",
+                                         "displayName":  "Ron Murphy",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0522757",
+                                       "displayName":  "Michelle Lovretta",
+                                       "alternativeNames":  [
+                                                                "M.A. Lovretta"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1122104",
+                                       "displayName":  "Steve Cochrane",
+                                       "alternativeNames":  [
+                                                                "Stephen Cochrane",
+                                                                "The Dance Party of Newfoundland"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm4956090",
+                                       "displayName":  "Debra Chesley",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0390285",
+                                     "displayName":  "Kris Holden-Ried",
+                                     "alternativeNames":  [
+                                                              "Kristen Holden-Reid",
+                                                              "Kris Holden-Reid",
+                                                              "Kristen Holden-Ried",
+                                                              "Kristan Holdenreid",
+                                                              "Kristen Holdenreid",
+                                                              "Kris Holdenreid",
+                                                              "Kristen J. Holdenried",
+                                                              "Kristen Holdenried",
+                                                              "Kris Holdenried",
+                                                              "Kris Holden Reid",
+                                                              "Kris Holden Ried",
+                                                              "Kristen Holden Ried"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTIxNzg5MDMyOV5BMl5BanBnXkFtZTcwMzMwMDMzMQ@@._V1_.jpg",
+                                                          "width":  348,
+                                                          "height":  480
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0798014",
+                                     "displayName":  "Anna Silk",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY0Nzk4OTY1M15BMl5BanBnXkFtZTcwOTMxODk3MQ@@._V1_.jpg",
+                                                          "width":  300,
+                                                          "height":  463
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "location_management",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0398205",
+                                     "displayName":  "Rick Howland",
+                                     "alternativeNames":  [
+                                                              "Nick Howland",
+                                                              "Richard Howland"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTY0NjQ2Nzg3MV5BMl5BanBnXkFtZTgwMzUzNzM5MDE@._V1_.jpg",
+                                                          "width":  600,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1235776",
+                                     "displayName":  "Zoie Palmer",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTI3MzJkM2YtMzhmZS00MDM2LWJiMTItZjA3OGE2NDRjZTQ1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3000,
+                                                          "height":  2000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000154",
+                                         "name":  "Steamy Romance",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  16
+                    }
+                ]
+}

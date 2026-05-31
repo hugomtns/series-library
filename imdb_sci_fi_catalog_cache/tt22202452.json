@@ -1,0 +1,232 @@
+﻿{
+    "id":  "tt22202452",
+    "detail":  {
+                   "id":  "tt22202452",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Pluribus",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2025,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8,
+                                  "voteCount":  155193
+                              },
+                   "plot":  "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what\u0027s really going on - and save humanity from its artificial bliss.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0319213",
+                                         "displayName":  "Vince Gilligan",
+                                         "alternativeNames":  [
+                                                                  "Vince Gilligan and the BB Gang"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTUyNzUxOTAxMV5BMl5BanBnXkFtZTcwNzk0MDM0Nw@@._V1_.jpg",
+                                                              "width":  1351,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0319213",
+                                       "displayName":  "Vince Gilligan",
+                                       "alternativeNames":  [
+                                                                "Vince Gilligan and the BB Gang"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNTUyNzUxOTAxMV5BMl5BanBnXkFtZTcwNzk0MDM0Nw@@._V1_.jpg",
+                                                            "width":  1351,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3298114",
+                                       "displayName":  "Gordon Smith",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTk5MDYyODY5MF5BMl5BanBnXkFtZTgwMTczNzk3NDM@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1363
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0851266",
+                                       "displayName":  "Alison Tatlock",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0781533",
+                                     "displayName":  "Rhea Seehorn",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmNjZDg5MTktM2JlNi00NjgyLTkyNWUtMWY0ZDMwMzYyMjRkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  722,
+                                                          "height":  424
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0895235",
+                                     "displayName":  "Carlos-Manuel Vesga",
+                                     "alternativeNames":  [
+                                                              "Carlos Manuel Vesga"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTIyZGQ1ZjMtNWUxZi00MWZjLThkZmMtZDc0NGZlMTQzYmJkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1745,
+                                                          "height":  2403
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "assistant_director",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2764521",
+                                     "displayName":  "Karolina Wydra",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmY2MDA3ZTYtMDAyMi00YzI0LThjYjAtZjA1YmJiZTJmNzBkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1042,
+                                                          "height":  1358
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0794896",
+                                     "displayName":  "Miriam Shor",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg2NDI0Nzc5M15BMl5BanBnXkFtZTYwMTgxNzM1._V1_.jpg",
+                                                          "width":  286,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3762487",
+                                     "displayName":  "McKenzie Scott",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmM0NDUwZDAtMDEyYy00ZjMzLThmOTItNWY0MjQxZWY3Mjc5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1400,
+                                                          "height":  2100
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5889540",
+                                     "displayName":  "Monique Lott",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMWRlY2QzOTctMzA5Ny00MTU0LWE0ZDAtYjFkNzRmODdkOGNiXkEyXkFqcGc@._V1_CR59,1,1039,1559_.jpg",
+                                                          "width":  1039,
+                                                          "height":  1559
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "camera_department",
+                                                                "production_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5889544",
+                                     "displayName":  "Monae Lott",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDI4ZDNjM2YtN2U0OC00NDdkLTlkM2UtZmQ2OTNlNjAxOTgzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1179,
+                                                          "height":  1564
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "camera_department",
+                                                                "production_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm9301826",
+                                     "displayName":  "Jennifer Bravo",
+                                     "alternativeNames":  [
+                                                              "Jennifer Bravo HernÃ¡ndez"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2MxMzRkN2QtOTVhZC00YTQwLTk3MWUtNTZhNjg2NTI5MDBiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  4967,
+                                                          "height":  7731
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  1
+                    }
+                ]
+}

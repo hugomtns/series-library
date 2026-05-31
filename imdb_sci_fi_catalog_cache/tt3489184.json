@@ -1,0 +1,252 @@
+﻿{
+    "id":  "tt3489184",
+    "detail":  {
+                   "id":  "tt3489184",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Constantine",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYTUwNTYzOWEtNWE1OS00OWRlLTk1MjYtNjI5ZDc2OGVlMzIxXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1240,
+                                        "height":  1922
+                                    },
+                   "startYear":  2014,
+                   "endYear":  2015,
+                   "runtimeSeconds":  2580,
+                   "genres":  [
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.5,
+                                  "voteCount":  58636
+                              },
+                   "plot":  "A man struggling with his faith who is haunted by the sins of his past is suddenly thrust into the role of defending humanity from the gathering forces of darkness.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0864268",
+                                         "displayName":  "Romeo Tirone",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNWZhNDdkOWYtYmQ3NS00ODY5LWIxNjEtZmY5ZmRlODA1NTJkXkEyXkFqcGc@._V1_CR505,0,719,1079_.jpg",
+                                                              "width":  719,
+                                                              "height":  1079
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0551076",
+                                         "displayName":  "Neil Marshall",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNzZmNTRkOWYtMTZjOS00MWVmLWIzODQtMzM4NzJiNDE1NzIwXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2316,
+                                                              "height":  3088
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0000824",
+                                         "displayName":  "John Badham",
+                                         "alternativeNames":  [
+                                                                  "J. Badham",
+                                                                  "John M. Badham"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTc3NzIxMDk0NV5BMl5BanBnXkFtZTcwODc3NDE0Mw@@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1365
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0148723",
+                                       "displayName":  "Daniel Cerone",
+                                       "alternativeNames":  [
+                                                                "Daniel Howard Cerone"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTI2NjEzMjQxN15BMl5BanBnXkFtZTYwMTAwMTYz._V1_.jpg",
+                                                            "width":  255,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0275286",
+                                       "displayName":  "David S. Goyer",
+                                       "alternativeNames":  [
+                                                                "Ricardo Festiva",
+                                                                "David Goyer",
+                                                                "Cynthia Verlaine"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMWE2YmY1N2ItYzg5MC00MzVkLThmMGQtNmE0NGMyNTcxNjE4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  948,
+                                                            "height":  849
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3054695",
+                                       "displayName":  "Sneha Koorse",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1790682",
+                                     "displayName":  "Matt Ryan",
+                                     "alternativeNames":  [
+                                                              "Matthew Evans"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUwNjM5MTcwM15BMl5BanBnXkFtZTgwNTUzNTAzNDE@._V1_.jpg",
+                                                          "width":  1489,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "editor",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1918575",
+                                     "displayName":  "AngÃ©lica Celaya",
+                                     "alternativeNames":  [
+                                                              "Angelica Celaya"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZGVhYzM3MmMtZTM2Mi00YmI2LThkNzYtM2M4MzVmOTdmMzJmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3414,
+                                                          "height":  5120
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0674782",
+                                     "displayName":  "Harold Perrineau",
+                                     "alternativeNames":  [
+                                                              "Harold Perrineau Jr."
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTQxYmRkMDktMWM5Ni00YjM1LWE2MjEtZGQ1MDIzOTMwZGFkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  430,
+                                                          "height":  641
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0355155",
+                                     "displayName":  "Charles Halford",
+                                     "alternativeNames":  [
+                                                              "Charlie Halford"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNGE4MWM5OGEtZWE4Yi00YzU2LWI5ZDQtODZiNDQzYjBlOGMyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1467,
+                                                          "height":  2200
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "sound_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "arc",
+                                               "name":  "Official Aramaic (700-300 BCE)"
+                                           },
+                                           {
+                                               "code":  "lat",
+                                               "name":  "Latin"
+                                           },
+                                           {
+                                               "code":  "spa",
+                                               "name":  "Spanish"
+                                           },
+                                           {
+                                               "code":  "heb",
+                                               "name":  "Hebrew"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

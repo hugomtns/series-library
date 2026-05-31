@@ -1,0 +1,251 @@
+﻿{
+    "id":  "tt0112173",
+    "detail":  {
+                   "id":  "tt0112173",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Space: Above and Beyond",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTI3MTMxNTg2M15BMl5BanBnXkFtZTcwMjkzMTIzMQ@@._V1_.jpg",
+                                        "width":  373,
+                                        "height":  500
+                                    },
+                   "startYear":  1995,
+                   "endYear":  1996,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  9262
+                              },
+                   "plot":  "The Earth is embroiled in a desperate war against alien invaders, and this series focuses on one squadron of Marine pilots involved in it.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0942869",
+                                         "displayName":  "Thomas J. Wright",
+                                         "alternativeNames":  [
+                                                                  "Thomas J. Wright Jr.",
+                                                                  "Thomas A. Wright",
+                                                                  "Thomas J Wright",
+                                                                  "Thomas Wright",
+                                                                  "Tom Wright"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0001747",
+                                         "displayName":  "Charles Martin Smith",
+                                         "alternativeNames":  [
+                                                                  "Charles Martin-Smith",
+                                                                  "C.M. Smith",
+                                                                  "Charlie Martin Smith"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjgxMTg0MTU1MF5BMl5BanBnXkFtZTgwNzE0MjA1MjE@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1366
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0258066",
+                                         "displayName":  "FÃ©lix EnrÃ­quez AlcalÃ¡",
+                                         "alternativeNames":  [
+                                                                  "Felix Acala",
+                                                                  "Felix Enriquez Alcala",
+                                                                  "Felix EnrÃ­quez Alcala",
+                                                                  "Felix EnrÃ­que Alcala",
+                                                                  "Felix Alcala",
+                                                                  "Felix Enriquez AlcalÃ¡",
+                                                                  "Felix AlcalÃ¡",
+                                                                  "FÃ©lix Enriquez AlcalÃ¡",
+                                                                  "FÃ©lix AlcalÃ¡"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0604688",
+                                       "displayName":  "Glen Morgan",
+                                       "alternativeNames":  [
+                                                                "Baby!\u0027 Morgan Glen \u0027Bolts",
+                                                                "Bill Bludworth"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMDY4ODMzNDEtNTBkOS00ODMwLThkOTgtNzE4MTdiN2Y4ZDA4XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  800,
+                                                            "height":  1113
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0939128",
+                                       "displayName":  "James Wong",
+                                       "alternativeNames":  [
+                                                                "Bill Bludworth",
+                                                                "James \u0027Chargers\u0027 Wong",
+                                                                "Jim Wong"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzc5MDc5NzI1MF5BMl5BanBnXkFtZTYwMjEyNjM0._V1_.jpg",
+                                                            "width":  261,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0651580",
+                                       "displayName":  "Marilyn Osborn",
+                                       "alternativeNames":  [
+                                                                "Marilyn Osborne"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0167028",
+                                     "displayName":  "Kristen Cloke",
+                                     "alternativeNames":  [
+                                                              "Kristin Cloke"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjM3NDlmMDgtZDBhOC00ZDcxLWEwM2YtNzVlMDI1NTYxNmU3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2824,
+                                                          "height":  3109
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0919255",
+                                     "displayName":  "Morgan Weisser",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTc1YzMyMGMtYTA5My00Y2QwLTk5NTItODFlNGJhYzhmZTY3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1920,
+                                                          "height":  1080
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0746737",
+                                     "displayName":  "Rodney Rowland",
+                                     "alternativeNames":  [
+                                                              "Rod Rowland"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BM2ZkYjFiY2ItMWEwNi00OWZiLTg5OTEtZWUxMDhkYWNkOWI1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1920,
+                                                          "height":  1080
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0209249",
+                                     "displayName":  "Joel de la Fuente",
+                                     "alternativeNames":  [
+                                                              "Joel De La Fuente",
+                                                              "Joel DeLaFuente"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDdkYjhhNDQtODk4My00NWY0LWI4OTUtZmE5Yzc2NzhlODNhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2816,
+                                                          "height":  1874
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "AU",
+                                               "name":  "Australia"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000157",
+                                         "name":  "Alien Invasion",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  23
+                    }
+                ]
+}

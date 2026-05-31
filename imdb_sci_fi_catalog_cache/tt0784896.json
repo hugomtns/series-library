@@ -1,0 +1,295 @@
+﻿{
+    "id":  "tt0784896",
+    "detail":  {
+                   "id":  "tt0784896",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Mickey Mouse Clubhouse",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNzQwMGRlNzQtYWI1Yi00NGI0LWI0MDItY2E2ZTg4NzIzM2Q1XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  1000
+                                    },
+                   "startYear":  2006,
+                   "endYear":  2016,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Fantasy",
+                                  "Musical"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.8,
+                                  "voteCount":  6539
+                              },
+                   "plot":  "Mickey and his friends Minnie, Donald, Pluto, Daisy, Goofy, Pete, Clarabelle and more go on fun and educational adventures.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0177015",
+                                         "displayName":  "Donovan Cook",
+                                         "alternativeNames":  [
+                                                                  "Donovan R. Cook III",
+                                                                  "Donny Cook",
+                                                                  "Donovan R. Cook",
+                                                                  "Van Cook"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTQyODEyMDk1NF5BMl5BanBnXkFtZTYwOTYyOTAz._V1_.jpg",
+                                                              "width":  450,
+                                                              "height":  341
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0662810",
+                                         "displayName":  "Howy Parkins",
+                                         "alternativeNames":  [
+                                                                  "Howard Parkins",
+                                                                  "Howie Parkins"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0689412",
+                                         "displayName":  "Sherie Pollack",
+                                         "alternativeNames":  [
+                                                                  "Sheri Pollack",
+                                                                  "Sherrie Pollack"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "animation_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0304432",
+                                       "displayName":  "Bobs Gannaway",
+                                       "alternativeNames":  [
+                                                                "Bobs Ganaway",
+                                                                "Roberts Gannaway"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0455497",
+                                       "displayName":  "Robin Kingsland",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0366554",
+                                       "displayName":  "Thomas Hart",
+                                       "alternativeNames":  [
+                                                                "Thomas D. Hart",
+                                                                "Tom Hart"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0030615",
+                                     "displayName":  "Tony Anselmo",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZTBkMWFhMDctNjA3Mi00NzViLWEyYzAtODAwZjliNzMwNzU3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  800,
+                                                          "height":  1143
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "animation_department",
+                                                                "art_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0534134",
+                                     "displayName":  "Tress MacNeille",
+                                     "alternativeNames":  [
+                                                              "Tori Jensen",
+                                                              "Tresshouse MacHorror",
+                                                              "Tress MacNeile",
+                                                              "Tress MacNeilie",
+                                                              "Tress MacNeill",
+                                                              "Ress MacNeille",
+                                                              "Terrifying Tress MacNeille",
+                                                              "Terroress MacNeille",
+                                                              "Terror MacNeille",
+                                                              "Tress MacNeille?!",
+                                                              "Tress MacNiell",
+                                                              "Terror MacNihil",
+                                                              "Tress MacNihil",
+                                                              "Teratoid MacNihilist",
+                                                              "Terror MacNihilist",
+                                                              "Terror MacNihl",
+                                                              "Tress MacTerror",
+                                                              "Teratoid Macinhilist",
+                                                              "Tress Macneille",
+                                                              "Tress McNeil",
+                                                              "Tress McNeille",
+                                                              "Tress McNihillist",
+                                                              "Trussed Big Meal",
+                                                              "Tress Mac Neille",
+                                                              "The Real Tress MacNeille"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQxMTQ1NzY5N15BMl5BanBnXkFtZTcwMDY5NDUwOA@@._V1_.jpg",
+                                                          "width":  1331,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0267724",
+                                     "displayName":  "Bill Farmer",
+                                     "alternativeNames":  [
+                                                              "William Farmer",
+                                                              "Bill Faruer"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYThhZjYxZDUtNzJkYS00MTM5LWIxNGEtYzQxODA2OGQ3YjYzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  682,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0853122",
+                                     "displayName":  "Russi Taylor",
+                                     "alternativeNames":  [
+                                                              "Touched By An Anvil",
+                                                              "The Rotting Ruins of Russi",
+                                                              "Russi Russian",
+                                                              "Rabid Russi Taylor",
+                                                              "Rancid Russi Taylor",
+                                                              "Russi \u0027I\u0027m In The Well\u0027 Taylor",
+                                                              "Russi Big Tombs Taylor",
+                                                              "Russi Gooey Brains Are Tasty With Fava Beans And A Nice Chianti Taylor",
+                                                              "Russie Taylor"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk1ODEwNTIxNV5BMl5BanBnXkFtZTcwNjA4ODkxOA@@._V1_.jpg",
+                                                          "width":  1436,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "IN",
+                                               "name":  "India"
+                                           },
+                                           {
+                                               "code":  "CN",
+                                               "name":  "China"
+                                           },
+                                           {
+                                               "code":  "PH",
+                                               "name":  "Philippines"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000133",
+                                         "name":  "Musical"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  28
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  45
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  33
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  27
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  2
+                    }
+                ]
+}

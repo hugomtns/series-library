@@ -1,0 +1,232 @@
+﻿{
+    "id":  "tt4132692",
+    "detail":  {
+                   "id":  "tt4132692",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Between",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjgxZDc4NDktMTdhOC00MDBjLWJiNGItMzBlNTU5N2NlM2FmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2392,
+                                        "height":  3546
+                                    },
+                   "startYear":  2015,
+                   "endYear":  2016,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6,
+                                  "voteCount":  10938
+                              },
+                   "plot":  "After a mysterious disease kills every resident over 22 years old, survivors of a town must fend for themselves when the government quarantines them",
+                   "directors":  [
+                                     {
+                                         "id":  "nm1313340",
+                                         "displayName":  "Michael McGowan",
+                                         "alternativeNames":  [
+                                                                  "Mike McGowan"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTQ0NjM0Njk2MF5BMl5BanBnXkFtZTcwODQwODQ3OQ@@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1362
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0098400",
+                                         "displayName":  "Rick Bota",
+                                         "alternativeNames":  [
+                                                                  "Richard Bota"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "cinematographer",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0143984",
+                                         "displayName":  "Jon Cassar",
+                                         "alternativeNames":  [
+                                                                  "John Cassar"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTczNDc3MDEzMF5BMl5BanBnXkFtZTcwNzMyMzU0Mg@@._V1_.jpg",
+                                                              "width":  375,
+                                                              "height":  594
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1313340",
+                                       "displayName":  "Michael McGowan",
+                                       "alternativeNames":  [
+                                                                "Mike McGowan"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTQ0NjM0Njk2MF5BMl5BanBnXkFtZTcwODQwODQ3OQ@@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1362
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3529727",
+                                       "displayName":  "Jason Jeffrey",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "editor",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2991312",
+                                       "displayName":  "Pat Smith",
+                                       "alternativeNames":  [
+                                                                "Patrick B. Smith"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNzNhMDJiZmEtMWMzMC00YTBmLWIxZGYtZGIyYzkxZjc0ZDA3XkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2478,
+                                                            "height":  3008
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1390614",
+                                     "displayName":  "Jennette McCurdy",
+                                     "alternativeNames":  [
+                                                              "Jeanette McCurdy"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjQ1NDM3MjgxNF5BMl5BanBnXkFtZTgwNTExMzYzODE@._V1_.jpg",
+                                                          "width":  2592,
+                                                          "height":  3888
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3349471",
+                                     "displayName":  "Jesse Carere",
+                                     "alternativeNames":  [
+                                                              "Jesse Carrere"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjE2OTU2ODg5OF5BMl5BanBnXkFtZTcwMzgxMTU1NA@@._V1_.jpg",
+                                                          "width":  600,
+                                                          "height":  330
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2683203",
+                                     "displayName":  "Justin Kelly",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZDM0ODM3OTgtNjkwNi00NjU1LWFhZjgtMmY5MTEwYWVhMjdlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1921,
+                                                          "height":  2018
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2830921",
+                                     "displayName":  "Kyle Mac",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmYyYzg0MzgtZjA3My00NThmLTlkZmItN2Q2MzljM2RlNzgzXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1440,
+                                                          "height":  1800
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  6
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  6
+                    }
+                ]
+}

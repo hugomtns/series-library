@@ -1,0 +1,230 @@
+﻿{
+    "id":  "tt1672189",
+    "detail":  {
+                   "id":  "tt1672189",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Camelot",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMTU1NDMxMjI1OV5BMl5BanBnXkFtZTcwNzQ4MjQ1NA@@._V1_.jpg",
+                                        "width":  1200,
+                                        "height":  1800
+                                    },
+                   "startYear":  2011,
+                   "endYear":  2011,
+                   "runtimeSeconds":  2700,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.5,
+                                  "voteCount":  25582
+                              },
+                   "plot":  "When King Uther dies and Britain faces chaos, Merlin presents an unknown named Arthur as the new king by birthright, as the late king\u0027s son, against the ambitious desires of his half-sister, Morgan.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0004121",
+                                         "displayName":  "Mikael Salomon",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BM2VjZWI2M2UtMTM3ZC00ZjY0LTk3MjctNTFmYWRjMDNlYjRiXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3264,
+                                                              "height":  2448
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "cinematographer",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0777447",
+                                         "displayName":  "Stefan Schwartz",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZmM4ODZmMTAtY2NkOC00ZmQ1LWEyNmUtNzBkYmI3MDJhMjg4XkEyXkFqcGc@._V1_CR349,0,873,1309_.jpg",
+                                                              "width":  873,
+                                                              "height":  1309
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1012772",
+                                         "displayName":  "Ciaran Donnelly",
+                                         "alternativeNames":  [
+                                                                  "CiarÃ¡n Donnelly"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZDAzNzY4NTAtMzZhZC00MmY3LWE4YjYtNTJmOGE0ZDIxZWNmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1220,
+                                                              "height":  790
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1163823",
+                                       "displayName":  "Chris Chibnall",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDE3OTAzNTE0MV5BMl5BanBnXkFtZTgwODMwNjY5NTM@._V1_.jpg",
+                                                            "width":  1365,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0386694",
+                                       "displayName":  "Michael Hirst",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTU1MzA4NzcyM15BMl5BanBnXkFtZTgwODkyMDcyMTE@._V1_.jpg",
+                                                            "width":  1589,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "script_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0289125",
+                                       "displayName":  "Louise Fox",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001212",
+                                     "displayName":  "Joseph Fiennes",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTllY2E1NDQtNjIyOS00YzFhLTg4OGItMTZmNjA4YjYxN2UwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1146,
+                                                          "height":  1080
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0989182",
+                                     "displayName":  "Tamsin Egerton",
+                                     "alternativeNames":  [
+                                                              "Tamsin Egerton Dick",
+                                                              "Tasmin Egerton",
+                                                              "Tamsin Egerton-Dick"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjIzOTI4MDAzNV5BMl5BanBnXkFtZTcwNDk4MzYxNw@@._V1_.jpg",
+                                                          "width":  1409,
+                                                          "height":  2000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2570429",
+                                     "displayName":  "Jamie Campbell Bower",
+                                     "alternativeNames":  [
+                                                              "Jamie Bower"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjRiZGUzMTQtZGZlNi00ZDE4LThjNmQtOWY4ZDU3NjA2ZTIxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  5790,
+                                                          "height":  7721
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1312105",
+                                     "displayName":  "Peter Mooney",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjM4MTFmMjYtZjk0My00ZWY1LTljMzQtY2YzNzhhNDI3MDc5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  901,
+                                                          "height":  1350
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "IE",
+                                               "name":  "Ireland"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000009",
+                                         "name":  "Sword \u0026 Sandal",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000096",
+                                         "name":  "Fantasy Epic",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000100",
+                                         "name":  "Sword \u0026 Sorcery",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    }
+                ]
+}

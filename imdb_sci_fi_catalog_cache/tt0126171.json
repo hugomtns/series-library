@@ -1,0 +1,242 @@
+﻿{
+    "id":  "tt0126171",
+    "detail":  {
+                   "id":  "tt0126171",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "She-Ra: Princess of Power",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYmY5MTE1NmEtNmViYS00ODIzLTk4OTEtYzVhZGZlNmE0ZWNjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  600,
+                                        "height":  775
+                                    },
+                   "startYear":  1985,
+                   "endYear":  1987,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Family",
+                                  "Fantasy",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.8,
+                                  "voteCount":  7248
+                              },
+                   "plot":  "Princess Adora raises her magic sword and becomes She-Ra, the most powerful woman in the universe, to aid her friends in defeating the Evil Horde so their planet Etheria can be free.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0715319",
+                                         "displayName":  "Bill Reed",
+                                         "alternativeNames":  [
+                                                                  "William O. Reed",
+                                                                  "William Reed"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0434172",
+                                         "displayName":  "Lou Kachivas",
+                                         "alternativeNames":  [
+                                                                  "Lou N. Kachivas",
+                                                                  "Louie Kachivas",
+                                                                  "Louis Kachivas"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0874104",
+                                         "displayName":  "Richard Trueblood",
+                                         "alternativeNames":  [
+                                                                  "Rich Trueblood"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2987051",
+                                       "displayName":  "Gene Ayres",
+                                       "alternativeNames":  [
+                                                                "John Underwood"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2987132",
+                                       "displayName":  "Tom Bagen",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0062698",
+                                       "displayName":  "Carol Baxter",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTc0MzQ5ODc2OF5BMl5BanBnXkFtZTgwNjg5NzU0NDE@._V1_.jpg",
+                                                            "width":  500,
+                                                            "height":  375
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0110068",
+                                     "displayName":  "Melendy Britt",
+                                     "alternativeNames":  [
+                                                              "The Bottoms Up Revue"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzU4MjE3MTg1MV5BMl5BanBnXkFtZTgwNjU4OTMzOTE@._V1_.jpg",
+                                                          "width":  750,
+                                                          "height":  290
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "sound_department",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0225191",
+                                     "displayName":  "George DiCenzo",
+                                     "alternativeNames":  [
+                                                              "George Di Cenzo",
+                                                              "George Di\u0027Cenzo",
+                                                              "George R. DiCenzo",
+                                                              "George Ralph DiCenzo",
+                                                              "George Dicenzo"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNDczNjUzNDI1N15BMl5BanBnXkFtZTcwMTUzMTYxOA@@._V1_.jpg",
+                                                          "width":  1064,
+                                                          "height":  1556
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0260008",
+                                     "displayName":  "John Erwin",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTVjZjFlMGItZDgwOS00NDM2LWIwYTItOTRhNmJiNDhkMWE5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  431,
+                                                          "height":  398
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "special_effects"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0308881",
+                                     "displayName":  "Linda Gary",
+                                     "alternativeNames":  [
+                                                              "Lynda Gary",
+                                                              "Linda Gray",
+                                                              "Linda Grey",
+                                                              "Lynn Howe",
+                                                              "Joan Lee"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2U4NTk1NWQtNWMzOS00NDMwLWE2MjctNDk3OTgwM2Y3YWIwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  416,
+                                                          "height":  442
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000100",
+                                         "name":  "Sword \u0026 Sorcery",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  65
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  28
+                    }
+                ]
+}

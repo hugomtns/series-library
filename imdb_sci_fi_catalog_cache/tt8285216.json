@@ -1,0 +1,160 @@
+﻿{
+    "id":  "tt8285216",
+    "detail":  {
+                   "id":  "tt8285216",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Better Than Us",
+                   "originalTitle":  "Luchshe, chem lyudi",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BY2I1YzQ0NjMtNGFmOS00OTliLWJkYzgtNzEwODI0MzE2ZmU0XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2018,
+                   "endYear":  2019,
+                   "runtimeSeconds":  3120,
+                   "genres":  [
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.3,
+                                  "voteCount":  12523
+                              },
+                   "plot":  "A family on the brink of splitting up become the owners of a cutting-edge robot being sought by a corporation, homicide investigators and terrorists.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm6301132",
+                                         "displayName":  "Andrey Dzhunkovskiy",
+                                         "alternativeNames":  [
+                                                                  "Andrey Dzhunkov"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm10934771",
+                                       "displayName":  "Alexander Dagan",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm7597550",
+                                       "displayName":  "Alexander Kessel",
+                                       "alternativeNames":  [
+                                                                "Aleksandr Kessel"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm10785437",
+                                       "displayName":  "Andrey Ivanov",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1874211",
+                                     "displayName":  "Kirill KÃ¤ro",
+                                     "alternativeNames":  [
+                                                              "Kirill Kiaro",
+                                                              "Kyaro Kirill",
+                                                              "Kirill Kyaro"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTA5OTlmYmMtM2UwYy00MDVkLTlhYmEtMjE3NTdlZjI2ZjkxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  683,
+                                                          "height":  1024
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5475514",
+                                     "displayName":  "Paulina Andreeva",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTQwYjY1YjQtNjhiMC00MzRiLWJjYWYtMmJmM2UxZjI0ZjAxXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1000,
+                                                          "height":  1503
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1784957",
+                                     "displayName":  "Aleksandr Ustyugov",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTVjNjZjNmYtZjYyOS00MmU0LWJlODMtYWZlMjk0YWNlOTBmXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  800,
+                                                          "height":  1200
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "composer",
+                                                                "director"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2403341",
+                                     "displayName":  "Olga Lomonosova",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNWZkYjEyOTYtYjA5OS00N2IzLThjZTEtZTQ0NDhmMmU4ZTQ3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  368,
+                                                          "height":  550
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "RU",
+                                               "name":  "Russian Federation"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "rus",
+                                               "name":  "Russian"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000158",
+                                         "name":  "Artificial Intelligence",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  16
+                    }
+                ]
+}

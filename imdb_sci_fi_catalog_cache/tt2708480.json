@@ -1,0 +1,221 @@
+﻿{
+    "id":  "tt2708480",
+    "detail":  {
+                   "id":  "tt2708480",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Terror",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNWQxY2Q1NGItZTM5MS00M2EzLTg2MjgtNDQ5ZDBmMWY3ZWY2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2018,
+                   "endYear":  2025,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Adventure",
+                                  "Drama",
+                                  "Horror",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  61892
+                              },
+                   "plot":  "Supernatural, semihistorical horror anthology series, where each season is inspired by a different infamous or mysterious real-life historical tragedy.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2139803",
+                                         "displayName":  "Tim Mielants",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzFkYjAyYzItZmZhZC00MWI4LWE4YzUtNTdiNDRkNzYyNzZmXkEyXkFqcGc@._V1_CR1632,454,1463,2194_.jpg",
+                                                              "width":  1463,
+                                                              "height":  2194
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0074163",
+                                         "displayName":  "Edward Berger",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYWEyZmQ5N2QtZWY1NC00ODU0LTg0ZGItZDlmNzY2OGE5ZTE5XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  350,
+                                                              "height":  525
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0590790",
+                                         "displayName":  "Sergio Mimica-Gezzan",
+                                         "alternativeNames":  [
+                                                                  "Sergio Mimica Gezzan",
+                                                                  "Serdjo Mimica",
+                                                                  "Sergio Mimica",
+                                                                  "Srdjan Mimica"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2877200",
+                                       "displayName":  "Andres Fischer-Centeno",
+                                       "alternativeNames":  [
+                                                                "Dres Fischer-Centeno"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1738734",
+                                       "displayName":  "David Kajganich",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYTBiOTIzYzktYjRkZi00MGU0LTgwYzAtZWZiOTViNjcwYTVkXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3500,
+                                                            "height":  2333
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm3916309",
+                                       "displayName":  "Josh Parkinson",
+                                       "primaryProfessions":  [
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0364813",
+                                     "displayName":  "Jared Harris",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BZjRiMWMzNDUtNDQ0Ny00YjdiLWEzM2UtMTVmZTEyNTRhMmI5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3000,
+                                                          "height":  2999
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5700881",
+                                     "displayName":  "Kiki Sukezane",
+                                     "alternativeNames":  [
+                                                              "Kie Sukezane"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjUzMzYxNDk0M15BMl5BanBnXkFtZTgwMDgzNzA4NjE@._V1_.jpg",
+                                                          "width":  1416,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1218732",
+                                     "displayName":  "Derek Mio",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODcxMmFiZWUtNjAzOC00OTgxLTkxYmQtNzJmNzZkMGQ1ZmM1XkEyXkFqcGc@._V1_CR104,100,1408,2113_.jpg",
+                                                          "width":  1408,
+                                                          "height":  2113
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0580014",
+                                     "displayName":  "Tobias Menzies",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTY1Zjc4MzUtYmVhOC00NzI2LWI4MTMtZmE3NTc3YzcwZWMwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2296,
+                                                          "height":  3000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000083",
+                                         "name":  "Period Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000114",
+                                         "name":  "Psychological Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  6
+                    }
+                ]
+}

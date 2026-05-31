@@ -1,0 +1,275 @@
+﻿{
+    "id":  "tt0147752",
+    "detail":  {
+                   "id":  "tt0147752",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Biker Mice from Mars",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYjA3MzNlMmItZWM1MC00N2JkLThhYWUtMGJjODQ1MzZkZTE2XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1920,
+                                        "height":  1080
+                                    },
+                   "startYear":  1993,
+                   "endYear":  1996,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7,
+                                  "voteCount":  5355
+                              },
+                   "plot":  "When three alien motorcycle riding mice are forced to leave their home planet of Mars thanks to the evil mining Plutarkians, they rebel against their enemies on planet Earth and the city of Chicago.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0851073",
+                                         "displayName":  "Tom Tataranowicz",
+                                         "alternativeNames":  [
+                                                                  "Tom Taranowicz",
+                                                                  "Tom Tartaranowizc",
+                                                                  "Tom Tataranaranaranowicz",
+                                                                  "Thomas V. Tataranowicz",
+                                                                  "Thomas Tataranowicz",
+                                                                  "Thomas Tataranowitz",
+                                                                  "Tom Tatranowicz"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYzIwNmMxOWQtYjU5MC00YzMwLTkxMTYtNDcxMWJmYjIzZGE0XkEyXkFqcGc@._V1_CR768,1,1535,2303_.jpg",
+                                                              "width":  1535,
+                                                              "height":  2303
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "showrunner"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0874104",
+                                         "displayName":  "Richard Trueblood",
+                                         "alternativeNames":  [
+                                                                  "Rich Trueblood"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0287482",
+                                       "displayName":  "Bob Forward",
+                                       "alternativeNames":  [
+                                                                "Robert Forward"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "art_department",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2010164",
+                                       "displayName":  "Eve Forward",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0382655",
+                                       "displayName":  "Pamela Hickey",
+                                       "alternativeNames":  [
+                                                                "Pam Hickey",
+                                                                "Pamela McCoy"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0002126",
+                                     "displayName":  "Dorian Harewood",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjI2MjQzNzcxNV5BMl5BanBnXkFtZTcwMTU1NDg5Nw@@._V1_.jpg",
+                                                          "width":  1420,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0667326",
+                                     "displayName":  "Rob Paulsen",
+                                     "alternativeNames":  [
+                                                              "Robert F. Paulsen III",
+                                                              "Robert F. Paulsen",
+                                                              "Robert Paulsen",
+                                                              "Rob Paulsens",
+                                                              "Robb Paulson",
+                                                              "Rob Paulson",
+                                                              "Raphael"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTAzODc1MTk4MzheQTJeQWpwZ15BbWU3MDY4NjU1MDg@._V1_.jpg",
+                                                          "width":  1380,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005575",
+                                     "displayName":  "Ian Ziering",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjQ4OTkxNDktNmEzNC00ZGZjLWJlOGUtMWU0ZjMxMzMxNmE2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  576,
+                                                          "height":  720
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0004951",
+                                     "displayName":  "Brad Garrett",
+                                     "alternativeNames":  [
+                                                              "Brad Garret",
+                                                              "Brad Gerrett"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjEwMjYyMjYxNF5BMl5BanBnXkFtZTgwNzE0MDU3ODE@._V1_.jpg",
+                                                          "width":  463,
+                                                          "height":  594
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "JP",
+                                               "name":  "Japan"
+                                           },
+                                           {
+                                               "code":  "PH",
+                                               "name":  "Philippines"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000004",
+                                         "name":  "Car Action",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000024",
+                                         "name":  "Urban Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000157",
+                                         "name":  "Alien Invasion",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000159",
+                                         "name":  "Cyberpunk",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000160",
+                                         "name":  "Dystopian Sci-Fi",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  39
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    }
+                ]
+}

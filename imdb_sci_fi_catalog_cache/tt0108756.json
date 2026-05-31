@@ -1,0 +1,249 @@
+﻿{
+    "id":  "tt0108756",
+    "detail":  {
+                   "id":  "tt0108756",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Due South",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BM2EwYjc5ODUtYWJmMS00YTcxLTk2NGItYjFkODljNTNjM2EwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2187,
+                                        "height":  3079
+                                    },
+                   "startYear":  1994,
+                   "endYear":  1999,
+                   "runtimeSeconds":  2760,
+                   "genres":  [
+                                  "Adventure",
+                                  "Comedy",
+                                  "Crime",
+                                  "Drama"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8,
+                                  "voteCount":  8199
+                              },
+                   "plot":  "The adventures of an impossibly upright Royal Canadian Mounted Police constable and his American colleagues in the city of Chicago.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0089276",
+                                         "displayName":  "George Bloomfield",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTcyNjc3MzQwOV5BMl5BanBnXkFtZTYwNTQ0NTc3._V1_.jpg",
+                                                              "width":  485,
+                                                              "height":  730
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0227192",
+                                         "displayName":  "Steve DiMarco",
+                                         "alternativeNames":  [
+                                                                  "Steve Di Marco",
+                                                                  "Steve Dimarco"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0003557",
+                                         "displayName":  "Richard J. Lewis",
+                                         "alternativeNames":  [
+                                                                  "R.J. Lewis",
+                                                                  "Richard J Lewis",
+                                                                  "Richard Lewis"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMjA4NTIzMzAwMF5BMl5BanBnXkFtZTcwODQxMzQ3Mw@@._V1_.jpg",
+                                                              "width":  747,
+                                                              "height":  1024
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0353673",
+                                       "displayName":  "Paul Haggis",
+                                       "alternativeNames":  [
+                                                                "Paul Edward Haggis"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMjEwNzYyODM5N15BMl5BanBnXkFtZTgwMTY4NDcwNjE@._V1_.jpg",
+                                                            "width":  364,
+                                                            "height":  364
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0454835",
+                                       "displayName":  "Jeff King",
+                                       "alternativeNames":  [
+                                                                "Jeff F.King",
+                                                                "Jeff F. King",
+                                                                "Jeff M. King",
+                                                                "Jeff. F. King",
+                                                                "Jeffrey F. King"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNTNkYTg2NDYtYmIyMS00OWZmLTk2NmMtNWQ1Mjk2ZmMwNDU2XkEyXkFqcGc@._V1_CR209,78,264,396_.jpg",
+                                                            "width":  264,
+                                                            "height":  396
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0805778",
+                                       "displayName":  "Kathy Slevin",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0343472",
+                                     "displayName":  "Paul Gross",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTkwNjA5OTgyN15BMl5BanBnXkFtZTcwMjIyNzc5MQ@@._V1_.jpg",
+                                                          "width":  2707,
+                                                          "height":  4572
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0823462",
+                                     "displayName":  "Beau Starr",
+                                     "alternativeNames":  [
+                                                              "Beau Davis"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYThkMjVkMzktMzMwZS00ZWVjLTk0Y2YtOGJkNjNiOTkzOTRjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1920,
+                                                          "height":  1025
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "executive"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0186037",
+                                     "displayName":  "Tony Craig",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWI1OTVjODAtMjM2NC00MjBiLTk1YWQtMDU2ZTg3ZWVlY2IyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  558,
+                                                          "height":  840
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0545687",
+                                     "displayName":  "David Marciano",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQzMDMwMjAyMV5BMl5BanBnXkFtZTcwMTg2NTg2OA@@._V1_.jpg",
+                                                          "width":  1407,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "editor"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000032",
+                                         "name":  "Buddy Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000051",
+                                         "name":  "Cop Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  23
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  18
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  13
+                    }
+                ]
+}

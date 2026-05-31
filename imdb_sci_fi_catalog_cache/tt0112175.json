@@ -1,0 +1,245 @@
+﻿{
+    "id":  "tt0112175",
+    "detail":  {
+                   "id":  "tt0112175",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Spider-Man: The Animated Series",
+                   "originalTitle":  "Spider-Man",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYWRkN2M1NmQtZjhjMi00ODFjLTk2ODctYWJiOWNkNjg1OGY4XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1000,
+                                        "height":  1426
+                                    },
+                   "startYear":  1994,
+                   "endYear":  1998,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Family",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.4,
+                                  "voteCount":  39286
+                              },
+                   "plot":  "When college student, Peter Parker, is bitten by a genetically altered spider, he gains Spider-like powers and must use his gifts to fight crime in New York City as the superhero, Spider-Man, whilst trying to have a normal personal life.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0724436",
+                                         "displayName":  "Bob Richardson",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNmQxYjBjZWItZjUxOC00NmIwLTlmOTQtMmI3ZmFlMDZkNzQzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2592,
+                                                              "height":  2625
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0791236",
+                                         "displayName":  "Robert Shellhorn",
+                                         "alternativeNames":  [
+                                                                  "Bob Shellhorn"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0498278",
+                                       "displayName":  "Stan Lee",
+                                       "alternativeNames":  [
+                                                                "Smilin\u0027 Stan Lee",
+                                                                "Peter Parker",
+                                                                "Stan"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_.jpg",
+                                                            "width":  278,
+                                                            "height":  400
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0783889",
+                                       "displayName":  "John Semper",
+                                       "alternativeNames":  [
+                                                                "John Semper Jr."
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0389280",
+                                       "displayName":  "Mark Hoffmeier",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNDU4YmRhMmYtNGI2My00YTVjLWI3YmItODg4MDllZTI5ZmEyXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1632,
+                                                            "height":  2449
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0050547",
+                                     "displayName":  "Sara Ballantine",
+                                     "alternativeNames":  [
+                                                              "Saratoga Ballantine"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOWFhYTFmZTQtZjUxYS00ZGJjLTgyZDctMzczZjIyNjgzYjNkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  640,
+                                                          "height":  960
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0055549",
+                                     "displayName":  "Christopher Daniel Barnes",
+                                     "alternativeNames":  [
+                                                              "C.B. Barnes",
+                                                              "C.D. Barnes",
+                                                              "Christopher Barnes",
+                                                              "Chris Barnes",
+                                                              "Christopher Daniel Barns",
+                                                              "Chris Barns"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2M0YWFiMzItMzRmMC00MmY2LTlhNTMtMjNiZmY1YmVlMDFhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  690,
+                                                          "height":  511
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000799",
+                                     "displayName":  "Edward Asner",
+                                     "alternativeNames":  [
+                                                              "Ed Asner",
+                                                              "Daniel Royer"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTk0MDI4ODk5NF5BMl5BanBnXkFtZTcwMzg3ODQ3MQ@@._V1_.jpg",
+                                                          "width":  275,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001975",
+                                     "displayName":  "Roscoe Lee Browne",
+                                     "alternativeNames":  [
+                                                              "Roscoe Lee Brown",
+                                                              "Rosco Lee Browne",
+                                                              "Roscoe Browne"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTA5MTE1OTQwOV5BMl5BanBnXkFtZTYwMjI2OTk2._V1_.jpg",
+                                                          "width":  475,
+                                                          "height":  379
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  14
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  11
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  13
+                    }
+                ]
+}

@@ -1,0 +1,219 @@
+﻿{
+    "id":  "tt2953250",
+    "detail":  {
+                   "id":  "tt2953250",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Shining Girls",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjg1MDAzMWEtM2ZkZS00MDdjLWJhOTAtNmEzY2M0ZGU5ZjMwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  675,
+                                        "height":  1000
+                                    },
+                   "startYear":  2022,
+                   "endYear":  2022,
+                   "runtimeSeconds":  3240,
+                   "genres":  [
+                                  "Crime",
+                                  "Drama",
+                                  "Mystery",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  24019
+                              },
+                   "plot":  "Years after a brutal attack left her in a constantly shifting reality, Kirby Mazrachi learns that a recent murder is linked to her assault. She teams with a veteran reporter to understand her ever-changing present and confront her past.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0717225",
+                                         "displayName":  "Daina Reid",
+                                         "alternativeNames":  [
+                                                                  "Diana Reid"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0533713",
+                                         "displayName":  "Michelle MacLaren",
+                                         "alternativeNames":  [
+                                                                  "Michelle Maxwell MacLaren",
+                                                                  "Michelle Maclaren",
+                                                                  "Michelle McLaren"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BY2MwN2JlNDktYmUwNi00YmQ4LWFhNDctODQ2OWU1NTZmMDM1XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1000,
+                                                              "height":  562
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "production_manager"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0005253",
+                                         "displayName":  "Elisabeth Moss",
+                                         "alternativeNames":  [
+                                                                  "Elissabeth Moss",
+                                                                  "Elizabeth Moss",
+                                                                  "Liz Moss"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNTMwMDg1MDkyNV5BMl5BanBnXkFtZTcwNzEwMzg1Nw@@._V1_.jpg",
+                                                              "width":  1296,
+                                                              "height":  864
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actress",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm2971153",
+                                       "displayName":  "Katrina Albright",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2310410",
+                                       "displayName":  "Lauren Beukes",
+                                       "primaryProfessions":  [
+                                                                  "actress",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm5111085",
+                                       "displayName":  "Silka Luisa",
+                                       "alternativeNames":  [
+                                                                "Luisa Silka"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0005253",
+                                     "displayName":  "Elisabeth Moss",
+                                     "alternativeNames":  [
+                                                              "Elissabeth Moss",
+                                                              "Elizabeth Moss",
+                                                              "Liz Moss"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTMwMDg1MDkyNV5BMl5BanBnXkFtZTcwNzEwMzg1Nw@@._V1_.jpg",
+                                                          "width":  1296,
+                                                          "height":  864
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0609944",
+                                     "displayName":  "Wagner Moura",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzE0YTA3MWEtY2ZiYi00ZDFmLTgyY2QtMTUzZDIwOWU5NGFhXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1600,
+                                                          "height":  2000
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1663252",
+                                     "displayName":  "Chris Chalk",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNmVjZjY0ZjMtNzUzYi00ZTAyLTg1ZWUtYTliOTQzNjZhYTIyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1920,
+                                                          "height":  1280
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm5623883",
+                                     "displayName":  "Phillipa Soo",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYjI5NjcxNmEtN2E0ZC00MzM4LWJiOWItZDRkMWEzMGM0NjNlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1237,
+                                                          "height":  1600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "miscellaneous",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000086",
+                                         "name":  "Psychological Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

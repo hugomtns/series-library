@@ -1,0 +1,174 @@
+﻿{
+    "id":  "tt8001226",
+    "detail":  {
+                   "id":  "tt8001226",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "The War of the Worlds",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BY2ZlYTJkMzAtMWZlNC00ZjU2LWI0NTEtZjk4NzA0ZGVkODM5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  960,
+                                        "height":  1440
+                                    },
+                   "startYear":  2019,
+                   "endYear":  2019,
+                   "runtimeSeconds":  2880,
+                   "genres":  [
+                                  "Drama",
+                                  "History",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  5.2,
+                                  "voteCount":  10721
+                              },
+                   "plot":  "In London during the Edwardian era, George and Amy\u0027s attempt to start a life together is interrupted by a Martian invasion of Earth.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm2244239",
+                                         "displayName":  "Craig Viveiros",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOThjMDI1ZDUtMDZmYS00MzYwLThmNmUtYWNhN2E2YzIxY2UzXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1124,
+                                                              "height":  1456
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "camera_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1739929",
+                                       "displayName":  "Peter Harness",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZjMxYzc0OGQtNzA3YS00ZGYwLTg2NGQtOWI5ZTNmOWE2ZDEzXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3881,
+                                                            "height":  3881
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0920229",
+                                       "displayName":  "H.G. Wells",
+                                       "alternativeNames":  [
+                                                                "HGWells Allthewayfrom1899"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTQwOTg3NTEyM15BMl5BanBnXkFtZTcwNzM0NTg2OA@@._V1_.jpg",
+                                                            "width":  1471,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "miscellaneous",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1245863",
+                                     "displayName":  "Rafe Spall",
+                                     "alternativeNames":  [
+                                                              "Rafe"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzU3OTIzMzM1OF5BMl5BanBnXkFtZTcwMDc1MDkwOQ@@._V1_.jpg",
+                                                          "width":  1363,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1870434",
+                                     "displayName":  "Eleanor Tomlinson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODVjZmY3NWYtMGZiMS00ZjU3LWI1ZGUtZDUyZjQwYmFkOTUwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3712,
+                                                          "height":  5568
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001015",
+                                     "displayName":  "Robert Carlyle",
+                                     "alternativeNames":  [
+                                                              "Bobby Carlyle"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM2Njc1MjgyOF5BMl5BanBnXkFtZTcwMjY2NTAwNw@@._V1_.jpg",
+                                                          "width":  1725,
+                                                          "height":  2304
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0001291",
+                                     "displayName":  "Rupert Graves",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOTc0M2U5NDItODVlNS00M2JjLWIxNzYtMGYwOTI1MzIyNzliXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  634,
+                                                          "height":  884
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000080",
+                                         "name":  "History"
+                                     },
+                                     {
+                                         "id":  "in0000083",
+                                         "name":  "Period Drama",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  3
+                    }
+                ]
+}

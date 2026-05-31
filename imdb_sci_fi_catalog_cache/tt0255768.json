@@ -1,0 +1,254 @@
+﻿{
+    "id":  "tt0255768",
+    "detail":  {
+                   "id":  "tt0255768",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Yogi Bear Show",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNzdiNjk5ODgtODNjNi00NDI4LTkyOTctZTFjNTllMmRmOTg5XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  500,
+                                        "height":  750
+                                    },
+                   "startYear":  1961,
+                   "endYear":  1962,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Animation",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.6,
+                                  "voteCount":  11936
+                              },
+                   "plot":  "Yogi, a smooth, talkative forest bear looks to raid park goers\u0027 picnic baskets, while Park Ranger Smith tries to stop him.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0053484",
+                                         "displayName":  "Joseph Barbera",
+                                         "alternativeNames":  [
+                                                                  "Hanna Barbera",
+                                                                  "Joe Barbera",
+                                                                  "Joseph R. Barbera",
+                                                                  "Hanna Barbera-Productions",
+                                                                  "Hanna-Barbera",
+                                                                  "Hanna-Barbera Prods Inc.",
+                                                                  "Hanna Barbera Productions",
+                                                                  "Hanna-Barbera Productions",
+                                                                  "Joseph Roland"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BNjVjMDQwZjUtN2EzZC00ZTAyLTllNDgtMzkwZWU2MDUwNDhmXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  1081,
+                                                              "height":  1500
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0360253",
+                                         "displayName":  "William Hanna",
+                                         "alternativeNames":  [
+                                                                  "Hanna Barbera",
+                                                                  "Hanna Barbera-Productions",
+                                                                  "Bill Hanna",
+                                                                  "Hanna-Barbera",
+                                                                  "Hanna-Barbera Prods Inc.",
+                                                                  "Hanna Barbera Productions",
+                                                                  "Hanna-Barbera Productions",
+                                                                  "Denby Williams",
+                                                                  "Hanna-Barbera productions"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYjgxZjViMmUtMzNmNS00ZTk3LWJmMGMtMzgwZjQ0ZWJhMGRlXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  705,
+                                                              "height":  576
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0288111",
+                                       "displayName":  "Warren Foster",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "music_department",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0053484",
+                                       "displayName":  "Joseph Barbera",
+                                       "alternativeNames":  [
+                                                                "Hanna Barbera",
+                                                                "Joe Barbera",
+                                                                "Joseph R. Barbera",
+                                                                "Hanna Barbera-Productions",
+                                                                "Hanna-Barbera",
+                                                                "Hanna-Barbera Prods Inc.",
+                                                                "Hanna Barbera Productions",
+                                                                "Hanna-Barbera Productions",
+                                                                "Joseph Roland"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjVjMDQwZjUtN2EzZC00ZTAyLTllNDgtMzkwZWU2MDUwNDhmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1081,
+                                                            "height":  1500
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0360253",
+                                       "displayName":  "William Hanna",
+                                       "alternativeNames":  [
+                                                                "Hanna Barbera",
+                                                                "Hanna Barbera-Productions",
+                                                                "Bill Hanna",
+                                                                "Hanna-Barbera",
+                                                                "Hanna-Barbera Prods Inc.",
+                                                                "Hanna Barbera Productions",
+                                                                "Hanna-Barbera Productions",
+                                                                "Denby Williams",
+                                                                "Hanna-Barbera productions"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BYjgxZjViMmUtMzNmNS00ZTk3LWJmMGMtMzgwZjQ0ZWJhMGRlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  705,
+                                                            "height":  576
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0124889",
+                                     "displayName":  "Daws Butler",
+                                     "alternativeNames":  [
+                                                              "Dawes Butler"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTM4NjQ3Mzk3NF5BMl5BanBnXkFtZTcwNjIwOTcyMQ@@._V1_.jpg",
+                                                          "width":  450,
+                                                          "height":  568
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0582106",
+                                     "displayName":  "Don Messick",
+                                     "alternativeNames":  [
+                                                              "Donald Messick",
+                                                              "Mr Don Messick"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0919729",
+                                     "displayName":  "Jimmy Weldon",
+                                     "alternativeNames":  [
+                                                              "\u0027Uncle\u0027 Jimmy Weldon",
+                                                              "Jim Weldon"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0658425",
+                                     "displayName":  "Renzo Palmer",
+                                     "alternativeNames":  [
+                                                              "Lawrence Palmer"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODY2YWY1NzYtMzQzMC00NmJhLWI1ZjYtMjFkZjRhZWIxYWI1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1920,
+                                                          "height":  1080
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "sound_department"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000039",
+                                         "name":  "Parody",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  16
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  17
+                    }
+                ]
+}

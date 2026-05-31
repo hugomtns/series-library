@@ -1,0 +1,275 @@
+﻿{
+    "id":  "tt0083437",
+    "detail":  {
+                   "id":  "tt0083437",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Knight Rider",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZjlmZmMwN2MtOWU5OC00ZTE3LThiNjctNTFmYmQyNzM2NzY3XkEyXkFqcGc@._V1_.jpg",
+                                        "width":  800,
+                                        "height":  1037
+                                    },
+                   "startYear":  1982,
+                   "endYear":  1986,
+                   "runtimeSeconds":  2760,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.9,
+                                  "voteCount":  41058
+                              },
+                   "plot":  "Follows the adventures of lone crime-fighter, Michael Knight, who fights crime and battles criminals with the help of his virtually indestructible and artificially intelligent supercar, KITT (short for Knight Industries Two Thousand).",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0463926",
+                                         "displayName":  "Winrich Kolbe",
+                                         "alternativeNames":  [
+                                                                  "Winrich Kerwin",
+                                                                  "Herbert Kolbe",
+                                                                  "Rick Kolbe"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0271708",
+                                         "displayName":  "Georg Fenady",
+                                         "alternativeNames":  [
+                                                                  "George Feandy",
+                                                                  "G.J. Fenady",
+                                                                  "Georg J. Fenady",
+                                                                  "George J. Fenady",
+                                                                  "George Fenady"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0370868",
+                                         "displayName":  "Sidney Hayers",
+                                         "alternativeNames":  [
+                                                                  "Sidney A. Hayers",
+                                                                  "Sid Hayers"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editor",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0488991",
+                                       "displayName":  "Glen A. Larson",
+                                       "alternativeNames":  [
+                                                                "The Four Preps - Glen",
+                                                                "The Four Preps",
+                                                                "Christopher Eric James",
+                                                                "Glen Larson"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTkxMzg5NzgwOV5BMl5BanBnXkFtZTgwNTg1NzM0MzE@._V1_.jpg",
+                                                            "width":  1361,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "music_department",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0288021",
+                                       "displayName":  "Robert Foster",
+                                       "alternativeNames":  [
+                                                                "Bob Foster",
+                                                                "Willard Walpole"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0140170",
+                                       "displayName":  "David Carren",
+                                       "alternativeNames":  [
+                                                                "David Bennett Caren",
+                                                                "David B. Carren",
+                                                                "David Bennett Carren",
+                                                                "David Bennet Carren",
+                                                                "David B. Karren"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzM2NGUyOWQtZTE3ZC00Y2M3LThiZTAtMzc2N2MzNjBiOWJmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  1200,
+                                                            "height":  1800
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0319484",
+                                       "displayName":  "Rob Gilmer",
+                                       "alternativeNames":  [
+                                                                "Rob W. Gilmer",
+                                                                "Robb Gilmer",
+                                                                "Robert W. Gilmer",
+                                                                "Robert Gilmer",
+                                                                "Robert W. Glimer"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0001327",
+                                     "displayName":  "David Hasselhoff",
+                                     "alternativeNames":  [
+                                                              "Special Guest",
+                                                              "A Hasselhoff",
+                                                              "David Michael Hasselhoff",
+                                                              "The Hoff"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI5OTI0NDkxOF5BMl5BanBnXkFtZTcwMjExMTQxMw@@._V1_.jpg",
+                                                          "width":  310,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0574253",
+                                     "displayName":  "Patricia McPherson",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODA2OTY4MDQ3Ml5BMl5BanBnXkFtZTcwMTU3MDEzOA@@._V1_.jpg",
+                                                          "width":  1335,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0611811",
+                                     "displayName":  "Edward Mulhare",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg2MzI5NDA5M15BMl5BanBnXkFtZTcwMDk2NDYxOA@@._V1_.jpg",
+                                                          "width":  1335,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0000865",
+                                     "displayName":  "Richard Basehart",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAxNzgwMTQ0NF5BMl5BanBnXkFtZTYwNzg3MzEz._V1_.jpg",
+                                                          "width":  304,
+                                                          "height":  438
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000004",
+                                         "name":  "Car Action",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000158",
+                                         "name":  "Artificial Intelligence",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  24
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  22
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  22
+                    }
+                ]
+}

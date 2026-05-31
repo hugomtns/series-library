@@ -1,0 +1,244 @@
+﻿{
+    "id":  "tt0290983",
+    "detail":  {
+                   "id":  "tt0290983",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Spider-Man: The New Animated Series",
+                   "originalTitle":  "Spider-Man: The New Animated Series",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMWQ0OGI4ZjYtOTc0NC00MDQ5LTk2YTYtYzYyZGRmZjdhY2UyXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1056,
+                                        "height":  1500
+                                    },
+                   "startYear":  2003,
+                   "endYear":  2003,
+                   "runtimeSeconds":  1260,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Crime",
+                                  "Drama",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.9,
+                                  "voteCount":  6651
+                              },
+                   "plot":  "A young man with spider like abilities fights crime as a superhero in New York City while trying to have a normal personal life.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0655637",
+                                         "displayName":  "Audu Paden",
+                                         "alternativeNames":  [
+                                                                  "Adu Paden"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "miscellaneous",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0129664",
+                                         "displayName":  "Alan Caldwell",
+                                         "alternativeNames":  [
+                                                                  "Alan Rolan Caldwell"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0250437",
+                                         "displayName":  "Vincent Edwards",
+                                         "alternativeNames":  [
+                                                                  "Vincent Michael Edwards",
+                                                                  "Vince Edwards"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "art_department",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1144314",
+                                       "displayName":  "Brian Michael Bendis",
+                                       "alternativeNames":  [
+                                                                "Brian Bendis"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMzIzOTc2NjYyMl5BMl5BanBnXkFtZTgwMDUzMjEyNTE@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1546
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0312663",
+                                       "displayName":  "Morgan Gendel",
+                                       "alternativeNames":  [
+                                                                "Morgan Gendal"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BZDQ5MDI2ZGYtMjlmYi00MjZmLTg3NDQtOGNlM2I2MjE1ZWJlXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2952,
+                                                            "height":  2752
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0341297",
+                                       "displayName":  "Marsha F. Griffin",
+                                       "alternativeNames":  [
+                                                                "Marsha Griffin"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000439",
+                                     "displayName":  "Neil Patrick Harris",
+                                     "alternativeNames":  [
+                                                              "Neal Patrick Harris",
+                                                              "Neal Harris",
+                                                              "Neil Harris"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUxNjQ4MjU5Ml5BMl5BanBnXkFtZTcwMTY5NzAzNw@@._V1_.jpg",
+                                                          "width":  1567,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005160",
+                                     "displayName":  "Lisa Loeb",
+                                     "alternativeNames":  [
+                                                              "Lisa Anne Loeb",
+                                                              "Lisa Loeb \u0026 Nine Stories"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTIwNzA0OTM3NV5BMl5BanBnXkFtZTYwMzM2NTI1._V1_.jpg",
+                                                          "width":  338,
+                                                          "height":  400
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_artist",
+                                                                "music_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0005575",
+                                     "displayName":  "Ian Ziering",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjQ4OTkxNDktNmEzNC00ZGZjLWJlOGUtMWU0ZjMxMzMxNmE2XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  576,
+                                                          "height":  720
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0111860",
+                                     "displayName":  "Angelle Brooks",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTg0OTE3MDQzN15BMl5BanBnXkFtZTcwOTQwMjAzMQ@@._V1_.jpg",
+                                                          "width":  400,
+                                                          "height":  600
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000028",
+                                         "name":  "Computer Animation"
+                                     },
+                                     {
+                                         "id":  "in0000052",
+                                         "name":  "Crime"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  13
+                    }
+                ]
+}

@@ -1,0 +1,193 @@
+﻿{
+    "id":  "tt1697793",
+    "detail":  {
+                   "id":  "tt1697793",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Outcasts",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BZmNjY2FiYzMtYWNmNC00ZmE5LWJhODItYWE2MDM3MDc3YzZjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1217,
+                                        "height":  1730
+                                    },
+                   "startYear":  2010,
+                   "endYear":  2011,
+                   "runtimeSeconds":  3000,
+                   "genres":  [
+                                  "Drama",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.6,
+                                  "voteCount":  5938
+                              },
+                   "plot":  "With Earth rapidly becoming uninhabitable, pioneers seek to colonize the harsh terrain of the planet Carpathia. 10 years later, the town of Forthaven faces danger as the planet\u0027s dark secrets are revealed.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0323758",
+                                         "displayName":  "Andy Goddard",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0534850",
+                                         "displayName":  "Omar Madha",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0620576",
+                                         "displayName":  "Bharat Nalluri",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZWY2ZjgyNjYtNjk2ZC00MTlmLTgwNmItZWZkZGQ3ZDBiMjc0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  836,
+                                                              "height":  1022
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1522142",
+                                       "displayName":  "Ben Richards",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1016333",
+                                       "displayName":  "David Farr",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNjEyYjNkMTQtNjIxMS00ZGYxLTk3NGEtNGU3ZGE1ZDg5MzhjXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  2579,
+                                                            "height":  2579
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1171030",
+                                       "displayName":  "Simon Block",
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0635820",
+                                     "displayName":  "Hermione Norris",
+                                     "alternativeNames":  [
+                                                              "Hermoine Norris",
+                                                              "the cast"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTUwMDcyMjExMF5BMl5BanBnXkFtZTcwNjAyMjgxOA@@._V1_.jpg",
+                                                          "width":  1363,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "camera_department",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0990547",
+                                     "displayName":  "Daniel Mays",
+                                     "alternativeNames":  [
+                                                              "Daniel Mayes",
+                                                              "Danny Mays"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2YwOTdkNWMtNzI3Mi00ZGQ0LWEzYzctM2Y2ZjU3MjFiMDNiXkEyXkFqcGc@._V1_CR1,1,704,1056_.jpg",
+                                                          "width":  704,
+                                                          "height":  1056
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0910180",
+                                     "displayName":  "Ashley Walters",
+                                     "alternativeNames":  [
+                                                              "Asher D"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWM5NmZkNzAtY2UzMy00ZDUxLTk1YjktOGRlNDc4MDY0YmM3XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3840,
+                                                          "height":  1920
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2240061",
+                                     "displayName":  "Amy Manson",
+                                     "alternativeNames":  [
+                                                              "Margaret Tuttle"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjcwYzRhYjEtMzgxYy00YTM3LWE5YzQtN2FhZjEzMTI4MWJkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1179,
+                                                          "height":  1651
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000164",
+                                         "name":  "Space Sci-Fi",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  8
+                    }
+                ]
+}

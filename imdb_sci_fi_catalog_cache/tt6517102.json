@@ -1,0 +1,231 @@
+﻿{
+    "id":  "tt6517102",
+    "detail":  {
+                   "id":  "tt6517102",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Castlevania",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjAzMjU2MjYzMl5BMl5BanBnXkFtZTgwNTQ4Nzk1NjM@._V1_.jpg",
+                                        "width":  1013,
+                                        "height":  1500
+                                    },
+                   "startYear":  2017,
+                   "endYear":  2021,
+                   "runtimeSeconds":  1380,
+                   "genres":  [
+                                  "Animation",
+                                  "Action",
+                                  "Adventure",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.3,
+                                  "voteCount":  94910
+                              },
+                   "plot":  "A vampire hunter fights to save a besieged city from an army of otherworldly creatures controlled by Dracula.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm4702485",
+                                         "displayName":  "Sam Deats",
+                                         "alternativeNames":  [
+                                                                  "Samuel Deats"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMGJlMDc2ZjYtYTcwMy00YzJmLWFmYjUtODg5Y2FlYTE0YjUyXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3456,
+                                                              "height":  3456
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "production_designer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm4335769",
+                                         "displayName":  "Adam Deats",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BOGY2MWVjYTAtNWUzOC00MGVjLWJiMTAtMWU0MGM3OWM4ZTA0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3456,
+                                                              "height":  3456
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "assistant_director",
+                                                                    "visual_effects"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm6880194",
+                                         "displayName":  "Spencer Wan",
+                                         "alternativeNames":  [
+                                                                  "Spencer Wen"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "visual_effects"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1979137",
+                                       "displayName":  "Warren Ellis",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BM2IzNjE3ZDYtMmE5Ny00YmUxLTlmYzMtNDU2YjVlNDYwMzFmXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  4420,
+                                                            "height":  6624
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0035514",
+                                     "displayName":  "Richard Armitage",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BOGU1NDhiOTAtMTEyOC00ZDdkLThjNDgtMjUzZjdiN2FlMzcyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1212,
+                                                          "height":  1805
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2274825",
+                                     "displayName":  "Alejandra Reynoso",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYTcwYTJkMDctZDBiOC00ZjVlLWIyNzQtMDNlNDMzOTc1YjRlXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  449,
+                                                          "height":  676
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "miscellaneous"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0130536",
+                                     "displayName":  "James Callis",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMDFkNjU3ZTgtNjUxNC00NDk1LTlkZDgtYjNjMWM3NmZhZWEyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2000,
+                                                          "height":  1395
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3772243",
+                                     "displayName":  "Theo James",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmM2NDA1NmItN2MzZS00NmVlLWE5MjYtOTFkMWM2OWRmMTk1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  975,
+                                                          "height":  1300
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "executive",
+                                                                "producer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "lat",
+                                               "name":  "Latin"
+                                           },
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000025",
+                                         "name":  "Adult Animation",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000029",
+                                         "name":  "Hand-Drawn Animation"
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000095",
+                                         "name":  "Dark Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000119",
+                                         "name":  "Vampire Horror",
+                                         "isSubgenre":  true
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  4
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  8
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  10
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  10
+                    }
+                ]
+}

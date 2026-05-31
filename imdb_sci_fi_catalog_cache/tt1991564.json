@@ -1,0 +1,230 @@
+﻿{
+    "id":  "tt1991564",
+    "detail":  {
+                   "id":  "tt1991564",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Lab Rats",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNGI2NjU2ZGMtOWJhZC00OWFhLThjOTEtNDkyZGIyN2RhMDYzXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  2000,
+                                        "height":  3000
+                                    },
+                   "startYear":  2012,
+                   "endYear":  2016,
+                   "runtimeSeconds":  1320,
+                   "genres":  [
+                                  "Action",
+                                  "Comedy",
+                                  "Drama",
+                                  "Family",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.7,
+                                  "voteCount":  8671
+                              },
+                   "plot":  "A scrawny 14-year-old, having discovered his inventor stepdad has three bionic, super-powered teens living cloistered in a secret lab beneath their home, brings them out into the world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0327591",
+                                         "displayName":  "Victor Gonzalez",
+                                         "alternativeNames":  [
+                                                                  "Victor Gonzales"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BYTQ3ZDVlNzQtNzYxZi00ZWM0LTg3ZTYtZTIzMzFjZDZjODEwXkEyXkFqcGc@._V1_CR95,1,613,920_.jpg",
+                                                              "width":  613,
+                                                              "height":  920
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "camera_department",
+                                                                    "director"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0228436",
+                                         "displayName":  "Guy Distad",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BZWFmZGJjNGUtNjg3Mi00MDY3LWFlNzktNzU4ZmFmZWQ4Yjk0XkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  3000,
+                                                              "height":  1928
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "miscellaneous"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0005452",
+                                         "displayName":  "Hal Sparks",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BM2U4OTQxNTQtMTI0Zi00MTNhLWFjYzAtMDQ4NmU2MTgxYjVkXkEyXkFqcGc@._V1_.jpg",
+                                                              "width":  2400,
+                                                              "height":  3600
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm1427967",
+                                       "displayName":  "Bryan Moore",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0677069",
+                                       "displayName":  "Chris Peterson",
+                                       "alternativeNames":  [
+                                                                "Christopher Peterson"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1900962",
+                                       "displayName":  "Ken Blankstein",
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm2399914",
+                                     "displayName":  "Kelli Berglund",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmMyODMyNjYtNjY4Yi00MzIyLWI4Y2QtMjkwMWY3MTMwY2UxXkEyXkFqcGc@._V1_CR296,-1,2383,3575_.jpg",
+                                                          "width":  2383,
+                                                          "height":  3575
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm2598945",
+                                     "displayName":  "William Brent",
+                                     "alternativeNames":  [
+                                                              "Billy Unger"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMmU0YzEyMjEtNjNmNi00MWNmLWJlYTYtZjE1ZWI4NjJkYzZiXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3024,
+                                                          "height":  4032
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "director",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3418619",
+                                     "displayName":  "Spencer Boldman",
+                                     "alternativeNames":  [
+                                                              "Spencer Thomas Boldman"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYzI1YjIzZTAtOTY0ZC00MjQ2LTk5YjktNTNlMmRkZjE3MDE5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1440,
+                                                          "height":  1800
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm1822655",
+                                     "displayName":  "Tyrel Jackson Williams",
+                                     "alternativeNames":  [
+                                                              "Tyrel J. Williams"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNjU5NjFjZWYtZTY3OC00OTQxLTlkMzItYjY0ZWQyYWVlZTEyXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3712,
+                                                          "height":  4983
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000049",
+                                         "name":  "Teen Comedy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  20
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  26
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  26
+                    }
+                ]
+}

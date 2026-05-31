@@ -1,0 +1,219 @@
+﻿{
+    "id":  "tt0059978",
+    "detail":  {
+                   "id":  "tt0059978",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Dark Shadows",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMmVjMDBjMzUtOWEzNy00NTAxLWJhNjgtNzA2MWMzMDI2ODVjXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  680,
+                                        "height":  1000
+                                    },
+                   "startYear":  1966,
+                   "endYear":  1971,
+                   "runtimeSeconds":  1800,
+                   "genres":  [
+                                  "Drama",
+                                  "Fantasy",
+                                  "Horror",
+                                  "Mystery",
+                                  "Romance",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  8.1,
+                                  "voteCount":  5998
+                              },
+                   "plot":  "The rich Collins family of Collinsport, Maine is tormented by strange occurrences.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0842611",
+                                         "displayName":  "Lela Swift",
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0438250",
+                                         "displayName":  "Henry Kaplan",
+                                         "primaryProfessions":  [
+                                                                    "actor",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0781418",
+                                         "displayName":  "John Sedwick",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0193303",
+                                       "displayName":  "Dan Curtis",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0908526",
+                                       "displayName":  "Art Wallace",
+                                       "alternativeNames":  [
+                                                                "Arthur Wallace"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTg3OTE2ODkwM15BMl5BanBnXkFtZTcwNTM4MTY5Ng@@._V1_.jpg",
+                                                            "width":  500,
+                                                            "height":  368
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "miscellaneous",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0751164",
+                                       "displayName":  "Gordon Russell",
+                                       "primaryProfessions":  [
+                                                                  "actor",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0294847",
+                                     "displayName":  "Jonathan Frid",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYmY1MDZlYjktZjQxMi00YzViLWE2ZTYtY2QwZTIzMDYwNjk1XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  2191,
+                                                          "height":  2775
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0355621",
+                                     "displayName":  "Grayson Hall",
+                                     "alternativeNames":  [
+                                                              "Shirley Grayson"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTIwOTEwODI2OV5BMl5BanBnXkFtZTcwOTY2NTcyMQ@@._V1_.jpg",
+                                                          "width":  300,
+                                                          "height":  421
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0411308",
+                                     "displayName":  "Alexandra Isles",
+                                     "alternativeNames":  [
+                                                              "Alexandra M. Isles",
+                                                              "Alexandra Moltke Isles",
+                                                              "Alexandra Moltke"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQzNzA5NTA4M15BMl5BanBnXkFtZTgwMTk5NzkwMzE@._V1_.jpg",
+                                                          "width":  500,
+                                                          "height":  375
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "director",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0057235",
+                                     "displayName":  "Nancy Barrett",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNzM2NzA5Njk1OF5BMl5BanBnXkFtZTcwOTk1NzUxOA@@._V1_.jpg",
+                                                          "width":  1398,
+                                                          "height":  2048
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000112",
+                                         "name":  "Horror"
+                                     },
+                                     {
+                                         "id":  "in0000117",
+                                         "name":  "Supernatural Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000119",
+                                         "name":  "Vampire Horror",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000139",
+                                         "name":  "Mystery"
+                                     },
+                                     {
+                                         "id":  "in0000152",
+                                         "name":  "Romance"
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  1220
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  2
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  11
+                    }
+                ]
+}

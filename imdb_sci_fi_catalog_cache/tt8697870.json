@@ -1,0 +1,227 @@
+﻿{
+    "id":  "tt8697870",
+    "detail":  {
+                   "id":  "tt8697870",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "The Nevers",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BNGJmNDY4YjItZjlmMC00ODE0LTk2NjgtNWFiODA0NDhlYWVmXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  810,
+                                        "height":  1200
+                                    },
+                   "startYear":  2021,
+                   "endYear":  2023,
+                   "runtimeSeconds":  3600,
+                   "genres":  [
+                                  "Action",
+                                  "Drama",
+                                  "Fantasy",
+                                  "Sci-Fi",
+                                  "Thriller"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.4,
+                                  "voteCount":  29688
+                              },
+                   "plot":  "A gang of Victorian women find themselves with unusual abilities, relentless enemies, and a mission that might change the world.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0076997",
+                                         "displayName":  "Andrew Bernstein",
+                                         "primaryProfessions":  [
+                                                                    "assistant_director",
+                                                                    "director",
+                                                                    "producer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0923736",
+                                         "displayName":  "Joss Whedon",
+                                         "alternativeNames":  [
+                                                                  "Joss \u0027The Boss\u0027 Whedon"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTg5MzQ0MDA4MF5BMl5BanBnXkFtZTcwNzUwOTk4OQ@@._V1_.jpg",
+                                                              "width":  1546,
+                                                              "height":  2048
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0783751",
+                                         "displayName":  "David Semel",
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTg4ODYyMTkzMV5BMl5BanBnXkFtZTgwNDkwNDY1NDE@._V1_.jpg",
+                                                              "width":  576,
+                                                              "height":  868
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "editorial_department",
+                                                                    "producer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0923736",
+                                       "displayName":  "Joss Whedon",
+                                       "alternativeNames":  [
+                                                                "Joss \u0027The Boss\u0027 Whedon"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTg5MzQ0MDA4MF5BMl5BanBnXkFtZTcwNzUwOTk4OQ@@._V1_.jpg",
+                                                            "width":  1546,
+                                                            "height":  2048
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm2855042",
+                                       "displayName":  "Melissa Iqbal",
+                                       "alternativeNames":  [
+                                                                "Mel Iqbal"
+                                                            ],
+                                       "primaryProfessions":  [
+                                                                  "assistant_director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1879398",
+                                       "displayName":  "Kevin Lau",
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BNWUzMmZkYjItYzE2Ni00MzQxLTgxZjctYjFjN2YwY2Y4MzhhXkEyXkFqcGc@._V1_.jpg",
+                                                            "width":  3000,
+                                                            "height":  4000
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "assistant_director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm1967827",
+                                     "displayName":  "Laura Donnelly",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMjAwMTY0MDYtMDM1MC00YTRhLTllNjktZTYwZjk3NTU4YjExXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  535,
+                                                          "height":  800
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm3584268",
+                                     "displayName":  "James Norton",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTI5YTgxNGYtODMwMC00ZWZmLWJlYmMtMTVkM2NjMjcxOWVkXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  3269,
+                                                          "height":  4903
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm7024798",
+                                     "displayName":  "Ann Skelly",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BYWJhOTFlOGUtYmJiNC00MTBkLWIwNTMtODdkZmYwMzY1OGVjXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  943,
+                                                          "height":  1179
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0931404",
+                                     "displayName":  "Olivia Williams",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMzIyOTEwMjYyNl5BMl5BanBnXkFtZTgwNTc3NDU0MjE@._V1_.jpg",
+                                                          "width":  2000,
+                                                          "height":  1464
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000008",
+                                         "name":  "Superhero",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000076",
+                                         "name":  "Drama"
+                                     },
+                                     {
+                                         "id":  "in0000098",
+                                         "name":  "Fantasy"
+                                     },
+                                     {
+                                         "id":  "in0000099",
+                                         "name":  "Supernatural Fantasy",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     },
+                                     {
+                                         "id":  "in0000165",
+                                         "name":  "Steampunk",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000186",
+                                         "name":  "Thriller"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  12
+                    }
+                ]
+}

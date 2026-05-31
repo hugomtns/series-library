@@ -1,0 +1,234 @@
+﻿{
+    "id":  "tt0426769",
+    "detail":  {
+                   "id":  "tt0426769",
+                   "type":  "tvSeries",
+                   "primaryTitle":  "Peppa Pig",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BYmZjZWQ0OTktODdlYy00ZjA1LWJlNzYtNmYwMDc4YzQzZmQwXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1200,
+                                        "height":  1765
+                                    },
+                   "startYear":  2004,
+                   "runtimeSeconds":  540,
+                   "genres":  [
+                                  "Animation",
+                                  "Short",
+                                  "Adventure",
+                                  "Comedy",
+                                  "Family"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  6.2,
+                                  "voteCount":  8260
+                              },
+                   "plot":  "A little pig named Peppa and her little brother George have journeys everyday with their family and friends.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0048735",
+                                         "displayName":  "Mark Baker",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm0040029",
+                                         "displayName":  "Neville Astley",
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "director",
+                                                                    "writer"
+                                                                ]
+                                     },
+                                     {
+                                         "id":  "nm1173605",
+                                         "displayName":  "Joris van Hulzen",
+                                         "alternativeNames":  [
+                                                                  "Yoris Van Hulzen"
+                                                              ],
+                                         "primaryProfessions":  [
+                                                                    "animation_department",
+                                                                    "art_department",
+                                                                    "director"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0040029",
+                                       "displayName":  "Neville Astley",
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm0048735",
+                                       "displayName":  "Mark Baker",
+                                       "primaryProfessions":  [
+                                                                  "animation_department",
+                                                                  "director",
+                                                                  "writer"
+                                                              ]
+                                   },
+                                   {
+                                       "id":  "nm1348566",
+                                       "displayName":  "Sam Morrison",
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "editor",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0052218",
+                                     "displayName":  "Morwenna Banks",
+                                     "alternativeNames":  [
+                                                              "Morwena Banks"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTQ1NjI2NTA1Ml5BMl5BanBnXkFtZTcwMjcyMzk5Nw@@._V1_.jpg",
+                                                          "width":  795,
+                                                          "height":  1125
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0816950",
+                                     "displayName":  "John Sparkes",
+                                     "alternativeNames":  [
+                                                              "John Sparks",
+                                                              "Barry Welsh"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "miscellaneous",
+                                                                "writer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm15389350",
+                                     "displayName":  "Oliver May",
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "casting_department"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0725956",
+                                     "displayName":  "Richard Ridings",
+                                     "alternativeNames":  [
+                                                              "Richard Riding"
+                                                          ],
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BMTY5MjgxNTYzNV5BMl5BanBnXkFtZTcwOTU5NjYzNA@@._V1_.jpg",
+                                                          "width":  1023,
+                                                          "height":  679
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "composer",
+                                                                "soundtrack"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "GB",
+                                               "name":  "United Kingdom"
+                                           },
+                                           {
+                                               "code":  "CA",
+                                               "name":  "Canada"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           },
+                                           {
+                                               "code":  "cym",
+                                               "name":  "Welsh"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000026",
+                                         "name":  "Animation"
+                                     },
+                                     {
+                                         "id":  "in0000034",
+                                         "name":  "Comedy"
+                                     },
+                                     {
+                                         "id":  "in0000092",
+                                         "name":  "Animal Adventure",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000093",
+                                         "name":  "Family"
+                                     },
+                                     {
+                                         "id":  "in0000212",
+                                         "name":  "Short"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  53
+                    },
+                    {
+                        "season":  "11",
+                        "episodeCount":  1
+                    },
+                    {
+                        "season":  "2",
+                        "episodeCount":  53
+                    },
+                    {
+                        "season":  "3",
+                        "episodeCount":  52
+                    },
+                    {
+                        "season":  "4",
+                        "episodeCount":  53
+                    },
+                    {
+                        "season":  "5",
+                        "episodeCount":  52
+                    },
+                    {
+                        "season":  "6",
+                        "episodeCount":  52
+                    },
+                    {
+                        "season":  "7",
+                        "episodeCount":  64
+                    },
+                    {
+                        "season":  "8",
+                        "episodeCount":  61
+                    },
+                    {
+                        "season":  "9",
+                        "episodeCount":  17
+                    }
+                ]
+}

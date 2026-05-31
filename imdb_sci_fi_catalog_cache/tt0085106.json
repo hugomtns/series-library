@@ -1,0 +1,160 @@
+﻿{
+    "id":  "tt0085106",
+    "detail":  {
+                   "id":  "tt0085106",
+                   "type":  "tvMiniSeries",
+                   "primaryTitle":  "V",
+                   "primaryImage":  {
+                                        "url":  "https://m.media-amazon.com/images/M/MV5BMjc0Y2Q3YTEtMDkyZi00NTJhLTg1YzgtNTY0MjEyYzQ2YjZkXkEyXkFqcGc@._V1_.jpg",
+                                        "width":  1054,
+                                        "height":  1492
+                                    },
+                   "startYear":  1983,
+                   "endYear":  1983,
+                   "runtimeSeconds":  5940,
+                   "genres":  [
+                                  "Action",
+                                  "Adventure",
+                                  "Sci-Fi"
+                              ],
+                   "rating":  {
+                                  "aggregateRating":  7.8,
+                                  "voteCount":  18852
+                              },
+                   "plot":  "A race of aliens arrives on Earth. Suspicious humans uncover their intentions and prepare to resist.",
+                   "directors":  [
+                                     {
+                                         "id":  "nm0425540",
+                                         "displayName":  "Kenneth Johnson",
+                                         "alternativeNames":  [
+                                                                  "Kenny Johnson",
+                                                                  "Ken Johnson",
+                                                                  "Lillian Weezer"
+                                                              ],
+                                         "primaryImage":  {
+                                                              "url":  "https://m.media-amazon.com/images/M/MV5BMTM0NTQ1ODY5NV5BMl5BanBnXkFtZTcwOTc5OTgwMw@@._V1_.jpg",
+                                                              "width":  2048,
+                                                              "height":  1209
+                                                          },
+                                         "primaryProfessions":  [
+                                                                    "director",
+                                                                    "producer",
+                                                                    "writer"
+                                                                ]
+                                     }
+                                 ],
+                   "writers":  [
+                                   {
+                                       "id":  "nm0425540",
+                                       "displayName":  "Kenneth Johnson",
+                                       "alternativeNames":  [
+                                                                "Kenny Johnson",
+                                                                "Ken Johnson",
+                                                                "Lillian Weezer"
+                                                            ],
+                                       "primaryImage":  {
+                                                            "url":  "https://m.media-amazon.com/images/M/MV5BMTM0NTQ1ODY5NV5BMl5BanBnXkFtZTcwOTc5OTgwMw@@._V1_.jpg",
+                                                            "width":  2048,
+                                                            "height":  1209
+                                                        },
+                                       "primaryProfessions":  [
+                                                                  "director",
+                                                                  "producer",
+                                                                  "writer"
+                                                              ]
+                                   }
+                               ],
+                   "stars":  [
+                                 {
+                                     "id":  "nm0000826",
+                                     "displayName":  "Jane Badler",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BY2Q0Njk3NWMtYmQ4My00MmIxLWExYjctN2E0ZDU0NGExYmI5XkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1133,
+                                                          "height":  1398
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "music_department",
+                                                                "producer"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0244359",
+                                     "displayName":  "Michael Durrell",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BNTU1YWUwZDItYWVlNi00MjM0LThmZjUtZjE2MWM4MWE1ODkwXkEyXkFqcGc@._V1_.jpg",
+                                                          "width":  1920,
+                                                          "height":  1080
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actor"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0002109",
+                                     "displayName":  "Faye Grant",
+                                     "primaryImage":  {
+                                                          "url":  "https://m.media-amazon.com/images/M/MV5BODY5NTQwMTc2Nl5BMl5BanBnXkFtZTgwMTg3OTMyNTE@._V1_.jpg",
+                                                          "width":  2842,
+                                                          "height":  2491
+                                                      },
+                                     "primaryProfessions":  [
+                                                                "actress",
+                                                                "soundtrack"
+                                                            ]
+                                 },
+                                 {
+                                     "id":  "nm0625664",
+                                     "displayName":  "Peter Nelson",
+                                     "alternativeNames":  [
+                                                              "Peter Loren",
+                                                              "Peter C. Nelson",
+                                                              "Peter Calvin Nelson"
+                                                          ],
+                                     "primaryProfessions":  [
+                                                                "actor",
+                                                                "producer",
+                                                                "writer"
+                                                            ]
+                                 }
+                             ],
+                   "originCountries":  [
+                                           {
+                                               "code":  "US",
+                                               "name":  "United States"
+                                           }
+                                       ],
+                   "spokenLanguages":  [
+                                           {
+                                               "code":  "eng",
+                                               "name":  "English"
+                                           }
+                                       ],
+                   "interests":  [
+                                     {
+                                         "id":  "in0000001",
+                                         "name":  "Action"
+                                     },
+                                     {
+                                         "id":  "in0000012",
+                                         "name":  "Adventure"
+                                     },
+                                     {
+                                         "id":  "in0000157",
+                                         "name":  "Alien Invasion",
+                                         "isSubgenre":  true
+                                     },
+                                     {
+                                         "id":  "in0000162",
+                                         "name":  "Sci-Fi"
+                                     }
+                                 ]
+               },
+    "seasons":  [
+                    {
+                        "season":  "1",
+                        "episodeCount":  2
+                    }
+                ]
+}
