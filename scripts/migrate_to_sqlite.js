@@ -43,6 +43,17 @@ function readRefreshMetadata(imdbId) {
   }
 }
 
+function readCachedSeasons(imdbId) {
+  const cachePath = path.join(cacheDir, `${imdbId}.json`);
+  if (!fs.existsSync(cachePath)) return [];
+  try {
+    const cache = JSON.parse(fs.readFileSync(cachePath, "utf8").replace(/^\uFEFF/, ""));
+    return Array.isArray(cache.seasons) ? cache.seasons : [];
+  } catch {
+    return [];
+  }
+}
+
 function addColumnIfMissing(table, columnDefinition) {
   try {
     db.exec(`ALTER TABLE ${table} ADD COLUMN ${columnDefinition}`);
@@ -103,6 +114,20 @@ db.exec(`
     PRIMARY KEY (imdb_id, genre)
   );
 
+  CREATE TABLE IF NOT EXISTS series_seasons (
+    imdb_id TEXT NOT NULL REFERENCES series(imdb_id) ON DELETE CASCADE,
+    season_number INTEGER NOT NULL,
+    label TEXT,
+    episode_count INTEGER,
+    start_year INTEGER,
+    end_year INTEGER,
+    imdb_score REAL,
+    vote_count INTEGER,
+    payload_json TEXT NOT NULL,
+    updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (imdb_id, season_number)
+  );
+
   CREATE TABLE IF NOT EXISTS update_runs (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     started_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
@@ -127,6 +152,7 @@ db.exec(`
   CREATE INDEX IF NOT EXISTS idx_series_primary_origin ON series(primary_origin);
   CREATE INDEX IF NOT EXISTS idx_categories_category ON series_categories(category);
   CREATE INDEX IF NOT EXISTS idx_genres_genre ON series_genres(genre);
+  CREATE INDEX IF NOT EXISTS idx_series_seasons_imdb_id ON series_seasons(imdb_id);
 `);
 
 addColumnIfMissing("series", "last_rating_check_at TEXT");
@@ -148,6 +174,7 @@ const replaceMeta = db.prepare(`
   ON CONFLICT(key) DO UPDATE SET value = excluded.value
 `);
 const deleteSeries = db.prepare("DELETE FROM series");
+const deleteSeasons = db.prepare("DELETE FROM series_seasons");
 const insertSeries = db.prepare(`
   INSERT INTO series (
     imdb_id, title, type, start_year, end_year, imdb_score, vote_count,
@@ -169,11 +196,21 @@ const insertCategory = db.prepare(`
 const insertGenre = db.prepare(`
   INSERT OR IGNORE INTO series_genres (imdb_id, genre) VALUES (?, ?)
 `);
+const insertSeason = db.prepare(`
+  INSERT INTO series_seasons (
+    imdb_id, season_number, label, episode_count, start_year, end_year,
+    imdb_score, vote_count, payload_json, updated_at
+  ) VALUES (
+    @imdb_id, @season_number, @label, @episode_count, @start_year, @end_year,
+    @imdb_score, @vote_count, @payload_json, CURRENT_TIMESTAMP
+  )
+`);
 
 const migrate = db.transaction(() => {
   replaceMeta.run("generatedAt", catalog.generatedAt || new Date().toISOString());
   replaceMeta.run("source", catalog.source || "");
   replaceMeta.run("migratedAt", new Date().toISOString());
+  deleteSeasons.run();
   deleteSeries.run();
 
   for (const item of catalog.series || []) {
@@ -212,6 +249,22 @@ const migrate = db.transaction(() => {
     }
     for (const genre of item.genres || []) {
       insertGenre.run(item.id, genre);
+    }
+
+    for (const season of readCachedSeasons(item.id)) {
+      const seasonNumber = intOrNull(season.season);
+      if (seasonNumber === null) continue;
+      insertSeason.run({
+        imdb_id: item.id,
+        season_number: seasonNumber,
+        label: season.label || `Season ${seasonNumber}`,
+        episode_count: intOrNull(season.episodeCount),
+        start_year: intOrNull(season.startYear),
+        end_year: intOrNull(season.endYear),
+        imdb_score: numberOrNull(season.rating?.aggregateRating ?? season.imdbScore ?? season.score),
+        vote_count: intOrNull(season.rating?.voteCount ?? season.votes),
+        payload_json: JSON.stringify(season),
+      });
     }
   }
 });

@@ -24,10 +24,34 @@ function getMetadata(db) {
   return Object.fromEntries(rows.map((row) => [row.key, row.value]));
 }
 
+function getSeasonsBySeries(db) {
+  const rows = db.prepare(`
+    SELECT imdb_id, season_number, label, episode_count, start_year, end_year, imdb_score, vote_count
+    FROM series_seasons
+    ORDER BY imdb_id ASC, season_number ASC
+  `).all();
+
+  const bySeries = new Map();
+  for (const row of rows) {
+    if (!bySeries.has(row.imdb_id)) bySeries.set(row.imdb_id, []);
+    bySeries.get(row.imdb_id).push({
+      season: row.season_number,
+      label: row.label || `Season ${row.season_number}`,
+      episodeCount: row.episode_count,
+      startYear: row.start_year,
+      endYear: row.end_year,
+      score: row.imdb_score,
+      votes: row.vote_count,
+    });
+  }
+  return bySeries;
+}
+
 function getCatalog() {
   const db = openDb();
   try {
     const meta = getMetadata(db);
+    const seasonsBySeries = getSeasonsBySeries(db);
     const rows = db.prepare(`
       SELECT payload_json, imdb_score, vote_count, season_count, season_label, episode_count
       FROM series
@@ -41,6 +65,7 @@ function getCatalog() {
       item.seasons = row.season_count;
       item.seasonLabel = row.season_label;
       item.episodes = row.episode_count;
+      item.seasonDetails = seasonsBySeries.get(item.id) || [];
       return item;
     });
 

@@ -2,7 +2,7 @@ $ErrorActionPreference = "Stop"
 
 $html = Get-Content -Path "series_library.html" -Raw
 $env:SERIES_LIBRARY_DB = Join-Path (Resolve-Path ".") "series_library.db"
-$dataJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const meta = Object.fromEntries(db.prepare('SELECT key, value FROM metadata').all().map(row => [row.key, row.value])); const rows = db.prepare('SELECT payload_json, imdb_score, vote_count, season_count, season_label, episode_count FROM series ORDER BY start_year ASC, imdb_score DESC, vote_count DESC, title ASC').all(); db.close(); const series = rows.map(row => { const item = JSON.parse(row.payload_json); item.score = row.imdb_score; item.votes = row.vote_count; item.seasons = row.season_count; item.seasonLabel = row.season_label; item.episodes = row.episode_count; return item; }); const yearCounts = new Map(); for (const item of series) yearCounts.set(item.year, (yearCounts.get(item.year) || 0) + 1); process.stdout.write(JSON.stringify({ generatedAt: meta.generatedAt || '', total: series.length, years: Array.from(yearCounts, ([year, count]) => ({ year, count })), series }));"
+$dataJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const meta = Object.fromEntries(db.prepare('SELECT key, value FROM metadata').all().map(row => [row.key, row.value])); const seasonRows = db.prepare('SELECT imdb_id, season_number, label, episode_count, start_year, end_year, imdb_score, vote_count FROM series_seasons ORDER BY imdb_id ASC, season_number ASC').all(); const seasonsBySeries = new Map(); for (const row of seasonRows) { if (!seasonsBySeries.has(row.imdb_id)) seasonsBySeries.set(row.imdb_id, []); seasonsBySeries.get(row.imdb_id).push({ season: row.season_number, label: row.label, episodeCount: row.episode_count, startYear: row.start_year, endYear: row.end_year, score: row.imdb_score, votes: row.vote_count }); } const rows = db.prepare('SELECT payload_json, imdb_score, vote_count, season_count, season_label, episode_count FROM series ORDER BY start_year ASC, imdb_score DESC, vote_count DESC, title ASC').all(); db.close(); const series = rows.map(row => { const item = JSON.parse(row.payload_json); item.score = row.imdb_score; item.votes = row.vote_count; item.seasons = row.season_count; item.seasonLabel = row.season_label; item.episodes = row.episode_count; item.seasonDetails = seasonsBySeries.get(item.id) || []; return item; }); const yearCounts = new Map(); for (const item of series) yearCounts.set(item.year, (yearCounts.get(item.year) || 0) + 1); process.stdout.write(JSON.stringify({ generatedAt: meta.generatedAt || '', total: series.length, seasonRows: seasonRows.length, years: Array.from(yearCounts, ([year, count]) => ({ year, count })), series }));"
 if ($LASTEXITCODE -ne 0) {
   throw "Failed to read catalog from SQLite."
 }
@@ -13,6 +13,9 @@ $badVotes = @($series | Where-Object { [int]$_.votes -lt 5000 })
 $missingPosters = @($series | Where-Object { [string]::IsNullOrWhiteSpace($_.poster) })
 $missingSynopsis = @($series | Where-Object { [string]::IsNullOrWhiteSpace($_.synopsis) -or $_.synopsis -eq "No synopsis available." })
 $missingSeasons = @($series | Where-Object { [int]$_.seasons -eq 0 })
+$seriesWithSeasonDetails = @($series | Where-Object { @($_.seasonDetails).Count -gt 0 })
+$seasonDetailRows = @($series | ForEach-Object { @($_.seasonDetails) })
+$badSeasonDetailRows = @($seasonDetailRows | Where-Object { [int]$_.season -lt 0 -or [int]$_.episodeCount -lt 0 })
 $badJapanExamples = @($series | Where-Object { $_.title -match "Dragon Ball|Trigun" })
 $missingCategories = @($series | Where-Object { -not $_.categories -or @($_.categories).Count -eq 0 })
 $turkishPrimaryRows = @($series | Where-Object { $_.primaryOrigin -eq "TR" })
@@ -30,6 +33,9 @@ $years = @($data.years)
   MissingPosters = $missingPosters.Count
   MissingSynopsis = $missingSynopsis.Count
   MissingSeasons = $missingSeasons.Count
+  SeriesWithSeasonDetails = $seriesWithSeasonDetails.Count
+  SeasonDetailRows = $seasonDetailRows.Count
+  BadSeasonDetailRows = $badSeasonDetailRows.Count
   BadVotes = $badVotes.Count
   DragonBallOrTrigunRows = $badJapanExamples.Count
   SciFiRows = $sciFiRows.Count
@@ -60,6 +66,9 @@ if ((($years | Sort-Object { [int]$_.year } | Select-Object -First 1).year) -gt 
 if ($badVotes.Count -gt 0) { throw "Found rows below 5000 votes." }
 if ($badJapanExamples.Count -gt 0) { throw "Found excluded Japanese-primary examples." }
 if ($missingCategories.Count -gt 0) { throw "Found rows without category metadata." }
+if ($seriesWithSeasonDetails.Count -lt 1000) { throw "Expected most series to include normalized season detail rows." }
+if ($seasonDetailRows.Count -lt $series.Count) { throw "Expected at least one season detail row per series on average." }
+if ($badSeasonDetailRows.Count -gt 0) { throw "Found invalid normalized season detail rows." }
 if ($turkishPrimaryRows.Count -gt 0) { throw "Found Turkish-primary rows." }
 if ($sciFiRows.Count -lt 600) { throw "Expected at least 600 Sci-Fi rows." }
 if ($fantasyRows.Count -lt 500) { throw "Expected at least 500 Fantasy rows." }
