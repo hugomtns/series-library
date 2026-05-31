@@ -106,7 +106,7 @@ function Test-HasCompleteEpisodeCache {
 
   $episodeCount = @($Cached.episodes).Count
   if ($episodeCount -eq 0) { return $false }
-  if ($null -ne $Cached.episodeTotalCount -and $episodeCount -ge [int]$Cached.episodeTotalCount) {
+  if ($null -ne $Cached.episodeTotalCount -and $episodeCount -ge ([int]$Cached.episodeTotalCount - 1)) {
     return $true
   }
 
@@ -118,7 +118,10 @@ $root = Resolve-Path "$PSScriptRoot\.."
 $dbPath = Join-Path $root "series_library.db"
 $cacheDir = Join-Path $root "imdb_sci_fi_catalog_cache"
 $env:SERIES_LIBRARY_DB = $dbPath
-$seriesJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const rows = db.prepare('SELECT payload_json FROM series ORDER BY start_year ASC, title ASC').all(); db.close(); const titleId = process.argv[1] || ''; const limit = Number(process.argv[2] || 0); const all = process.argv[3] === 'true'; let items = rows.map(row => JSON.parse(row.payload_json)); items = titleId ? items.filter(item => item.id === titleId) : all ? items : items.filter(item => String(item.years || '').endsWith('-')); if (limit > 0) items = items.slice(0, limit); process.stdout.write(JSON.stringify(items));" $TitleId $Limit $All.IsPresent
+$env:REFRESH_TITLE_ID = $TitleId
+$env:REFRESH_LIMIT = "$Limit"
+$env:REFRESH_ALL = if ($All) { "1" } else { "0" }
+$seriesJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const rows = db.prepare('SELECT payload_json FROM series ORDER BY start_year ASC, title ASC').all(); db.close(); const titleId = process.env.REFRESH_TITLE_ID || ''; const limit = Number(process.env.REFRESH_LIMIT || 0); const all = process.env.REFRESH_ALL === '1'; let items = rows.map(row => JSON.parse(row.payload_json)); items = titleId ? items.filter(item => item.id === titleId) : all ? items : items.filter(item => String(item.years || '').endsWith('-')); if (limit > 0) items = items.slice(0, limit); process.stdout.write(JSON.stringify(items));"
 if ($LASTEXITCODE -ne 0) {
   throw "Failed to read series from SQLite."
 }
