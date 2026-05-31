@@ -597,7 +597,7 @@
 
     .card-actions {
       display: flex;
-      justify-content: space-between;
+      justify-content: flex-end;
       align-items: center;
       gap: 10px;
       margin-top: 2px;
@@ -606,6 +606,39 @@
     .rank {
       color: var(--muted);
       font-size: 0.78rem;
+    }
+
+    .trend-tag {
+      display: inline-flex;
+      align-items: center;
+      min-height: 22px;
+      padding: 2px 8px;
+      border-radius: 999px;
+      border: 1px solid var(--trend-border);
+      background: var(--trend-bg);
+      color: var(--trend-fg);
+      font-size: 0.76rem;
+      font-weight: 750;
+      white-space: nowrap;
+      margin-right: auto;
+    }
+
+    .trend-up {
+      --trend-bg: oklch(88% 0.115 142);
+      --trend-fg: oklch(28% 0.09 142);
+      --trend-border: oklch(70% 0.12 142);
+    }
+
+    .trend-down {
+      --trend-bg: oklch(91% 0.075 24);
+      --trend-fg: oklch(34% 0.12 24);
+      --trend-border: oklch(76% 0.105 24);
+    }
+
+    .trend-disaster {
+      --trend-bg: oklch(28% 0.12 24);
+      --trend-fg: oklch(97% 0.01 24);
+      --trend-border: oklch(38% 0.14 24);
     }
 
     .imdb-link {
@@ -1065,6 +1098,15 @@
           <label class="category-option"><input type="checkbox" class="category-choice" value="Animation" checked> Animation</label>
         </div>
       </div>
+      <div class="category-filter" id="trendFilter" aria-label="Trend filter">
+        <button type="button" class="category-trigger" id="trendTrigger" aria-expanded="false" aria-controls="trendMenu">All trends</button>
+        <div class="category-menu" id="trendMenu">
+          <label class="category-option all"><input type="checkbox" id="trendAll" checked> Select all</label>
+          <label class="category-option"><input type="checkbox" class="trend-choice" value="up" checked> Trend Up</label>
+          <label class="category-option"><input type="checkbox" class="trend-choice" value="down" checked> Trend Down</label>
+          <label class="category-option"><input type="checkbox" class="trend-choice" value="disaster" checked> Disaster</label>
+        </div>
+      </div>
       <div class="score-filter" aria-label="IMDb score range">
         <div class="score-field">
           <label for="minScore">Min score</label>
@@ -1172,6 +1214,10 @@
     const categoryTrigger = document.getElementById("categoryTrigger");
     const categoryAll = document.getElementById("categoryAll");
     const categoryChoices = Array.from(document.querySelectorAll(".category-choice"));
+    const trendFilter = document.getElementById("trendFilter");
+    const trendTrigger = document.getElementById("trendTrigger");
+    const trendAll = document.getElementById("trendAll");
+    const trendChoices = Array.from(document.querySelectorAll(".trend-choice"));
     const minScoreInput = document.getElementById("minScore");
     const maxScoreInput = document.getElementById("maxScore");
     const updateButton = document.getElementById("updateButton");
@@ -1193,6 +1239,7 @@
     const empty = document.getElementById("empty");
 
     let selectedCategories = new Set(categoryChoices.map(input => input.value));
+    let selectedTrends = new Set(trendChoices.map(input => input.value));
     let shownUpdateLogId = null;
     let shouldReloadAfterModal = false;
     let lastSeriesTrigger = null;
@@ -1205,6 +1252,10 @@
 
     function allCategoriesSelected() {
       return selectedCategories.size === categoryChoices.length;
+    }
+
+    function allTrendsSelected() {
+      return selectedTrends.size === trendChoices.length;
     }
 
     function updateCategoryTrigger() {
@@ -1221,6 +1272,24 @@
 
       for (const input of categoryChoices) {
         input.checked = selectedCategories.has(input.value);
+      }
+    }
+
+    function updateTrendTrigger() {
+      const labels = { up: "Trend Up", down: "Trend Down", disaster: "Disaster" };
+      if (allTrendsSelected()) {
+        trendTrigger.textContent = "All trends";
+        trendAll.checked = true;
+      } else if (selectedTrends.size === 0) {
+        trendTrigger.textContent = "No trends";
+        trendAll.checked = false;
+      } else {
+        trendTrigger.textContent = Array.from(selectedTrends).map(value => labels[value]).join(", ");
+        trendAll.checked = false;
+      }
+
+      for (const input of trendChoices) {
+        input.checked = selectedTrends.has(input.value);
       }
     }
 
@@ -1259,6 +1328,64 @@
       return `--rating-bg: hsl(${h.toFixed(1)} ${s.toFixed(1)}% ${l.toFixed(1)}%); --rating-fg: ${fg}; --rating-border: hsl(${h.toFixed(1)} ${Math.max(30, s - 14).toFixed(1)}% ${Math.max(20, l - 10).toFixed(1)}%);`;
     }
 
+    function trendKind(item) {
+      const seasons = [...(item.seasonDetails || [])].sort((a, b) => Number(a.season) - Number(b.season));
+      const firstScore = finiteSeasonScore(seasons[0]?.score);
+      const lastScore = finiteSeasonScore(seasons[seasons.length - 1]?.score);
+      if (Number(item.seasons) >= 3 && firstScore !== null && lastScore !== null && lastScore - firstScore <= -1.5) {
+        return "disaster";
+      }
+
+      const slope = seasonTrendSlope(item);
+      if (!Number.isFinite(slope)) return null;
+      if (slope >= 0.3) return "up";
+      if (slope <= -0.3) return "down";
+      return null;
+    }
+
+    function finiteSeasonScore(value) {
+      const score = Number(value);
+      return Number.isFinite(score) && score >= 0.1 ? score : null;
+    }
+
+    function seasonTrendSlope(item) {
+      const persisted = Number(item.seasonTrend?.slope);
+      if (Number.isFinite(persisted)) return persisted;
+      if (Number(item.seasons) < 3) return null;
+
+      const points = [...(item.seasonDetails || [])]
+        .map(season => ({ x: Number(season.season), y: finiteSeasonScore(season.score) }))
+        .filter(point => Number.isFinite(point.x) && Number.isFinite(point.y));
+      if (points.length < 3) return null;
+
+      let sumX = 0;
+      let sumY = 0;
+      let sumXY = 0;
+      let sumXX = 0;
+      for (const point of points) {
+        sumX += point.x;
+        sumY += point.y;
+        sumXY += point.x * point.y;
+        sumXX += point.x * point.x;
+      }
+
+      const n = points.length;
+      const denominator = (n * sumXX) - (sumX * sumX);
+      if (denominator === 0) return null;
+      return ((n * sumXY) - (sumX * sumY)) / denominator;
+    }
+
+    function renderTrendTag(item) {
+      const kind = trendKind(item);
+      if (!kind) return "";
+      const label = kind === "up" ? "Trend Up" : kind === "down" ? "Trend Down" : "Disaster";
+      const slope = seasonTrendSlope(item);
+      const title = kind === "disaster"
+        ? "Last season is at least 1.5 IMDb points below the first"
+        : `Season rating trend m=${slope.toFixed(2)}`;
+      return `<span class="trend-tag trend-${kind}" title="${escapeText(title)}">${label}</span>`;
+    }
+
     const yearsByDecade = new Map();
     function itemMatchesCategory(item) {
       if (item.categories.includes("Animation") && !selectedCategories.has("Animation")) {
@@ -1269,10 +1396,16 @@
       return primaryCategories.some(category => selectedCategories.has(category));
     }
 
+    function itemMatchesTrend(item) {
+      if (allTrendsSelected()) return true;
+      const kind = trendKind(item);
+      return Boolean(kind && selectedTrends.has(kind));
+    }
+
     function getVisibleYearInfo() {
       return data.years
         .map(yearInfo => {
-          const count = (byYear.get(yearInfo.year) || []).filter(itemMatchesCategory).length;
+          const count = (byYear.get(yearInfo.year) || []).filter(item => itemMatchesCategory(item) && itemMatchesTrend(item)).length;
           return { year: yearInfo.year, count };
         })
         .filter(yearInfo => yearInfo.count > 0);
@@ -1377,7 +1510,7 @@
         </div>
         <div class="grid">
           ${items.map(item => `
-            <article class="card" tabindex="0" role="button" aria-label="Open details for ${escapeText(item.title)}" data-id="${escapeText(item.id)}" data-categories="${escapeText(item.categories.join(";"))}" data-search="${escapeText(item.title.toLowerCase())}">
+            <article class="card" tabindex="0" role="button" aria-label="Open details for ${escapeText(item.title)}" data-id="${escapeText(item.id)}" data-categories="${escapeText(item.categories.join(";"))}" data-trend="${escapeText(trendKind(item) || "")}" data-search="${escapeText(item.title.toLowerCase())}">
               ${renderPoster(item)}
               <div class="card-main">
                 <div class="card-top">
@@ -1393,7 +1526,7 @@
                   </div>
                 </div>
                 <div class="card-actions">
-                  <span class="rank">#${item.rank} in ${item.year}</span>
+                  ${renderTrendTag(item)}
                   <a class="imdb-link" href="${escapeText(item.imdbUrl)}" target="_blank" rel="noreferrer">IMDb</a>
                 </div>
               </div>
@@ -1508,7 +1641,7 @@
               <span class="fact">${escapeText(item.primaryOrigin || "-")}</span>
             </div>
             <div class="card-actions">
-              <span class="rank">#${escapeText(item.rank || "-")} in ${escapeText(item.year || "-")}</span>
+              ${renderTrendTag(item)}
             </div>
           </section>
           <p class="detail-synopsis">${escapeText(item.synopsis || "No synopsis available.")}</p>
@@ -1571,6 +1704,11 @@
       return categories.filter(category => category !== "Animation").some(category => selectedCategories.has(category));
     }
 
+    function cardMatchesTrend(card) {
+      if (allTrendsSelected()) return true;
+      return Boolean(card.dataset.trend && selectedTrends.has(card.dataset.trend));
+    }
+
     function parseScoreInput(input, fallback) {
       if (!input.value.trim()) return fallback;
       const value = Number(input.value);
@@ -1590,7 +1728,7 @@
       const query = search.value.trim().toLowerCase();
       const minHasValue = minScoreInput.value.trim().length > 0;
       const maxHasValue = maxScoreInput.value.trim().length > 0;
-      const searching = query.length > 0 || !allCategoriesSelected() || minHasValue || maxHasValue;
+      const searching = query.length > 0 || !allCategoriesSelected() || !allTrendsSelected() || minHasValue || maxHasValue;
       document.body.classList.toggle("searching", searching);
       let visibleCards = 0;
       let visibleYears = 0;
@@ -1598,7 +1736,7 @@
       for (const section of sections) {
         let sectionVisible = 0;
         for (const card of section.querySelectorAll(".card")) {
-          const match = cardMatchesCategory(card) && cardMatchesScore(card) && (!query || card.dataset.search.includes(query));
+          const match = cardMatchesCategory(card) && cardMatchesTrend(card) && cardMatchesScore(card) && (!query || card.dataset.search.includes(query));
           card.classList.toggle("hidden", !match);
           if (match) sectionVisible++;
         }
@@ -1610,7 +1748,7 @@
       totalCount.textContent = visibleCards.toLocaleString();
       yearCount.textContent = visibleYears.toLocaleString();
       empty.classList.toggle("visible", searching && visibleCards === 0);
-      metaLine.textContent = query || !allCategoriesSelected() || minHasValue || maxHasValue ? `${visibleCards.toLocaleString()} matching series` : `Generated ${data.generatedAt}`;
+      metaLine.textContent = query || !allCategoriesSelected() || !allTrendsSelected() || minHasValue || maxHasValue ? `${visibleCards.toLocaleString()} matching series` : `Generated ${data.generatedAt}`;
     }
 
     function categorySelectionChanged() {
@@ -1621,9 +1759,26 @@
       applyFilters();
     }
 
+    function trendSelectionChanged() {
+      selectedTrends = new Set(trendChoices.filter(input => input.checked).map(input => input.value));
+      updateTrendTrigger();
+      renderYearNavigation();
+      navLinks = Array.from(yearNav.querySelectorAll("a"));
+      applyFilters();
+    }
+
     categoryTrigger.addEventListener("click", () => {
       const isOpen = categoryFilter.classList.toggle("open");
       categoryTrigger.setAttribute("aria-expanded", String(isOpen));
+      trendFilter.classList.remove("open");
+      trendTrigger.setAttribute("aria-expanded", "false");
+    });
+
+    trendTrigger.addEventListener("click", () => {
+      const isOpen = trendFilter.classList.toggle("open");
+      trendTrigger.setAttribute("aria-expanded", String(isOpen));
+      categoryFilter.classList.remove("open");
+      categoryTrigger.setAttribute("aria-expanded", "false");
     });
 
     categoryAll.addEventListener("change", () => {
@@ -1633,9 +1788,22 @@
       categorySelectionChanged();
     });
 
+    trendAll.addEventListener("change", () => {
+      for (const input of trendChoices) {
+        input.checked = trendAll.checked;
+      }
+      trendSelectionChanged();
+    });
+
     for (const input of categoryChoices) {
       input.addEventListener("change", () => {
         categorySelectionChanged();
+      });
+    }
+
+    for (const input of trendChoices) {
+      input.addEventListener("change", () => {
+        trendSelectionChanged();
       });
     }
 
@@ -1643,6 +1811,10 @@
       if (!categoryFilter.contains(event.target)) {
         categoryFilter.classList.remove("open");
         categoryTrigger.setAttribute("aria-expanded", "false");
+      }
+      if (!trendFilter.contains(event.target)) {
+        trendFilter.classList.remove("open");
+        trendTrigger.setAttribute("aria-expanded", "false");
       }
     });
 

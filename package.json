@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "migrate": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/rebuild_catalog_and_db.ps1",
+    "trends": "node scripts/report_season_rating_trends.js",
     "serve": "node series_library_server.js",
     "test": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File verify_sci_fi_catalog_page.ps1"
   },

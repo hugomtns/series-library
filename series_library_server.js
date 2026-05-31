@@ -53,7 +53,9 @@ function getCatalog() {
     const meta = getMetadata(db);
     const seasonsBySeries = getSeasonsBySeries(db);
     const rows = db.prepare(`
-      SELECT payload_json, imdb_score, vote_count, season_count, season_label, episode_count
+      SELECT
+        payload_json, imdb_score, vote_count, season_count, season_label, episode_count,
+        season_rating_trend_slope, season_rating_trend_intercept, season_rating_trend_points
       FROM series
       ORDER BY start_year ASC, imdb_score DESC, vote_count DESC, title ASC
     `).all();
@@ -65,6 +67,11 @@ function getCatalog() {
       item.seasons = row.season_count;
       item.seasonLabel = row.season_label;
       item.episodes = row.episode_count;
+      item.seasonTrend = {
+        slope: row.season_rating_trend_slope,
+        intercept: row.season_rating_trend_intercept,
+        points: row.season_rating_trend_points,
+      };
       item.seasonDetails = seasonsBySeries.get(item.id) || [];
       return item;
     });

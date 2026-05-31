@@ -71,6 +71,38 @@ function average(values) {
   return Number((total / values.length).toFixed(1));
 }
 
+function roundOrNull(value, decimals = 4) {
+  if (!Number.isFinite(value)) return null;
+  return Number(value.toFixed(decimals));
+}
+
+function linearRegression(points) {
+  if (points.length < 3) return null;
+
+  let sumX = 0;
+  let sumY = 0;
+  let sumXY = 0;
+  let sumXX = 0;
+  for (const point of points) {
+    sumX += point.x;
+    sumY += point.y;
+    sumXY += point.x * point.y;
+    sumXX += point.x * point.x;
+  }
+
+  const n = points.length;
+  const denominator = (n * sumXX) - (sumX * sumX);
+  if (denominator === 0) return null;
+
+  const slope = ((n * sumXY) - (sumX * sumY)) / denominator;
+  const intercept = (sumY - (slope * sumX)) / n;
+  return {
+    slope: roundOrNull(slope),
+    intercept: roundOrNull(intercept),
+    points: n,
+  };
+}
+
 function episodeStatsBySeason(episodes) {
   const statsBySeason = new Map();
   for (const episode of episodes) {
@@ -109,6 +141,58 @@ function maxOrNull(values) {
 
 function firstNonNull(...values) {
   return values.find((value) => value !== null && value !== undefined) ?? null;
+}
+
+function buildSeasonRows(item) {
+  const episodeStats = episodeStatsBySeason(readCachedEpisodes(item.id));
+  const seasonRows = [];
+  for (const season of readCachedSeasons(item.id)) {
+    const seasonNumber = intOrNull(season.season);
+    if (seasonNumber === null) continue;
+    const stats = episodeStats.get(seasonNumber) || { ratings: [], voteCount: 0, years: [] };
+    const seasonScore = firstNonNull(
+      average(stats.ratings),
+      numberOrNull(season.rating?.aggregateRating ?? season.imdbScore ?? season.score)
+    );
+    seasonRows.push({
+      imdb_id: item.id,
+      season_number: seasonNumber,
+      label: season.label || `Season ${seasonNumber}`,
+      episode_count: intOrNull(season.episodeCount),
+      start_year: firstNonNull(intOrNull(season.startYear), minOrNull(stats.years)),
+      end_year: firstNonNull(intOrNull(season.endYear), maxOrNull(stats.years)),
+      imdb_score: seasonScore,
+      vote_count: firstNonNull(intOrNull(season.rating?.voteCount ?? season.votes), stats.ratings.length ? stats.voteCount : null),
+      payload_json: JSON.stringify({
+        ...season,
+        episodeRatingCount: stats.ratings.length,
+      }),
+    });
+  }
+  seasonRows.sort((a, b) => a.season_number - b.season_number);
+  return seasonRows;
+}
+
+function calculateSeasonRatingTrend(item, seasonRows) {
+  const seasonCount = intOrNull(item.seasons) ?? seasonRows.length;
+  if (seasonCount < 3) {
+    return {
+      season_rating_trend_slope: null,
+      season_rating_trend_intercept: null,
+      season_rating_trend_points: 0,
+    };
+  }
+
+  const points = seasonRows
+    .filter((season) => season.imdb_score !== null)
+    .map((season) => ({ x: season.season_number, y: season.imdb_score }));
+  const regression = linearRegression(points);
+
+  return {
+    season_rating_trend_slope: regression?.slope ?? null,
+    season_rating_trend_intercept: regression?.intercept ?? null,
+    season_rating_trend_points: regression?.points ?? points.length,
+  };
 }
 
 function addColumnIfMissing(table, columnDefinition) {
@@ -155,6 +239,9 @@ db.exec(`
     last_rating_check_at TEXT,
     last_season_check_at TEXT,
     last_detail_check_at TEXT,
+    season_rating_trend_slope REAL,
+    season_rating_trend_intercept REAL,
+    season_rating_trend_points INTEGER,
     payload_json TEXT NOT NULL,
     updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
   );
@@ -215,9 +302,13 @@ db.exec(`
 addColumnIfMissing("series", "last_rating_check_at TEXT");
 addColumnIfMissing("series", "last_season_check_at TEXT");
 addColumnIfMissing("series", "last_detail_check_at TEXT");
+addColumnIfMissing("series", "season_rating_trend_slope REAL");
+addColumnIfMissing("series", "season_rating_trend_intercept REAL");
+addColumnIfMissing("series", "season_rating_trend_points INTEGER");
 db.exec(`
   CREATE INDEX IF NOT EXISTS idx_series_last_rating_check ON series(last_rating_check_at);
   CREATE INDEX IF NOT EXISTS idx_series_last_season_check ON series(last_season_check_at);
+  CREATE INDEX IF NOT EXISTS idx_series_season_rating_trend_slope ON series(season_rating_trend_slope);
 `);
 
 const existingRefreshRows = db.prepare(`
@@ -238,13 +329,15 @@ const insertSeries = db.prepare(`
     years_text, imdb_url, poster_url, poster_width, poster_height, synopsis,
     season_count, season_label, episode_count, origin_countries, country_codes,
     primary_origin, last_rating_check_at, last_season_check_at, last_detail_check_at,
+    season_rating_trend_slope, season_rating_trend_intercept, season_rating_trend_points,
     payload_json, updated_at
   ) VALUES (
     @imdb_id, @title, @type, @start_year, @end_year, @imdb_score, @vote_count,
     @years_text, @imdb_url, @poster_url, @poster_width, @poster_height,
     @synopsis, @season_count, @season_label, @episode_count, @origin_countries,
     @country_codes, @primary_origin, @last_rating_check_at, @last_season_check_at,
-    @last_detail_check_at, @payload_json, CURRENT_TIMESTAMP
+    @last_detail_check_at, @season_rating_trend_slope, @season_rating_trend_intercept,
+    @season_rating_trend_points, @payload_json, CURRENT_TIMESTAMP
   )
 `);
 const insertCategory = db.prepare(`
@@ -273,6 +366,8 @@ const migrate = db.transaction(() => {
   for (const item of catalog.series || []) {
     const refresh = readRefreshMetadata(item.id);
     const previousRefresh = existingRefresh.get(item.id) || {};
+    const seasonRows = buildSeasonRows(item);
+    const trend = calculateSeasonRatingTrend(item, seasonRows);
     insertSeries.run({
       imdb_id: item.id,
       title: item.title || item.id,
@@ -298,6 +393,9 @@ const migrate = db.transaction(() => {
       last_rating_check_at: refresh.last_rating_check_at || previousRefresh.last_rating_check_at || null,
       last_season_check_at: refresh.last_season_check_at || previousRefresh.last_season_check_at || null,
       last_detail_check_at: refresh.last_detail_check_at || previousRefresh.last_detail_check_at || null,
+      season_rating_trend_slope: trend.season_rating_trend_slope,
+      season_rating_trend_intercept: trend.season_rating_trend_intercept,
+      season_rating_trend_points: trend.season_rating_trend_points,
       payload_json: JSON.stringify(item),
     });
 
@@ -308,29 +406,8 @@ const migrate = db.transaction(() => {
       insertGenre.run(item.id, genre);
     }
 
-    const episodeStats = episodeStatsBySeason(readCachedEpisodes(item.id));
-    for (const season of readCachedSeasons(item.id)) {
-      const seasonNumber = intOrNull(season.season);
-      if (seasonNumber === null) continue;
-      const stats = episodeStats.get(seasonNumber) || { ratings: [], voteCount: 0, years: [] };
-      const seasonScore = firstNonNull(
-        average(stats.ratings),
-        numberOrNull(season.rating?.aggregateRating ?? season.imdbScore ?? season.score)
-      );
-      insertSeason.run({
-        imdb_id: item.id,
-        season_number: seasonNumber,
-        label: season.label || `Season ${seasonNumber}`,
-        episode_count: intOrNull(season.episodeCount),
-        start_year: firstNonNull(intOrNull(season.startYear), minOrNull(stats.years)),
-        end_year: firstNonNull(intOrNull(season.endYear), maxOrNull(stats.years)),
-        imdb_score: seasonScore,
-        vote_count: firstNonNull(intOrNull(season.rating?.voteCount ?? season.votes), stats.ratings.length ? stats.voteCount : null),
-        payload_json: JSON.stringify({
-          ...season,
-          episodeRatingCount: stats.ratings.length,
-        }),
-      });
+    for (const season of seasonRows) {
+      insertSeason.run(season);
     }
   }
 });
