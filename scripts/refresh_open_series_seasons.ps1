@@ -125,12 +125,13 @@ $seriesJson = & node -e "const Database = require('better-sqlite3'); const db = 
 if ($LASTEXITCODE -ne 0) {
   throw "Failed to read series from SQLite."
 }
-$refreshSeries = @($seriesJson | ConvertFrom-Json)
+$refreshSeries = $seriesJson | ConvertFrom-Json
+$totalSeries = @($refreshSeries | ForEach-Object { $_ }).Count
 
-Write-StepEvent -Current 0 -Total $refreshSeries.Count -Message "Refreshing seasons and episode ratings"
-for ($i = 0; $i -lt $refreshSeries.Count; $i++) {
-  $item = $refreshSeries[$i]
-  Write-StepEvent -Current $i -Total $refreshSeries.Count -Message "Refreshing seasons: $($item.title)"
+Write-StepEvent -Current 0 -Total $totalSeries -Message "Refreshing seasons and episode ratings"
+$i = 0
+foreach ($item in $refreshSeries) {
+  Write-StepEvent -Current $i -Total $totalSeries -Message "Refreshing seasons: $($item.title)"
   $cachePath = Join-Path $cacheDir "$($item.id).json"
   if (Test-Path -Path $cachePath) {
     $cached = Get-Content -Path $cachePath -Raw | ConvertFrom-Json
@@ -138,7 +139,8 @@ for ($i = 0; $i -lt $refreshSeries.Count; $i++) {
     $cached = [pscustomobject]@{ id = $item.id; detail = $null; seasons = $null; episodes = $null }
   }
   if ($SkipExisting -and (Test-HasCompleteEpisodeCache -Cached $cached)) {
-    Write-StepEvent -Current ($i + 1) -Total $refreshSeries.Count -Message "Skipped cached seasons: $($item.title)"
+    $i++
+    Write-StepEvent -Current $i -Total $totalSeries -Message "Skipped cached seasons: $($item.title)"
     continue
   }
 
@@ -150,7 +152,8 @@ for ($i = 0; $i -lt $refreshSeries.Count; $i++) {
   Set-RefreshValue -Cached $cached -Name "lastSeasonCheckAt" -Value $now
   Set-RefreshValue -Cached $cached -Name "lastEpisodeRatingCheckAt" -Value $now
   $cached | ConvertTo-Json -Depth 20 | Set-Content -Path $cachePath -Encoding UTF8
-  Write-StepEvent -Current ($i + 1) -Total $refreshSeries.Count -Message "Finished seasons: $($item.title)"
+  $i++
+  Write-StepEvent -Current $i -Total $totalSeries -Message "Finished seasons: $($item.title)"
 }
 
-Write-StepEvent -Current $refreshSeries.Count -Total $refreshSeries.Count -Status "complete" -Message "Seasons and episode ratings refreshed"
+Write-StepEvent -Current $totalSeries -Total $totalSeries -Status "complete" -Message "Seasons and episode ratings refreshed"
