@@ -1,6 +1,7 @@
 $ErrorActionPreference = "Stop"
 
 $html = Get-Content -Path "series_library.html" -Raw
+$css = Get-Content -Path "series_library.css" -Raw
 $env:SERIES_LIBRARY_DB = Join-Path (Resolve-Path ".") "series_library.db"
 $dataJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const meta = Object.fromEntries(db.prepare('SELECT key, value FROM metadata').all().map(row => [row.key, row.value])); const seasonRows = db.prepare('SELECT imdb_id, season_number, label, episode_count, start_year, end_year, imdb_score, vote_count FROM series_seasons ORDER BY imdb_id ASC, season_number ASC').all(); const seasonsBySeries = new Map(); for (const row of seasonRows) { if (!seasonsBySeries.has(row.imdb_id)) seasonsBySeries.set(row.imdb_id, []); seasonsBySeries.get(row.imdb_id).push({ season: row.season_number, label: row.label, episodeCount: row.episode_count, startYear: row.start_year, endYear: row.end_year, score: row.imdb_score, votes: row.vote_count }); } const rows = db.prepare('SELECT payload_json, imdb_score, vote_count, season_count, season_label, episode_count, season_rating_trend_slope, season_rating_trend_intercept, season_rating_trend_points FROM series ORDER BY start_year ASC, imdb_score DESC, vote_count DESC, title ASC').all(); db.close(); const series = rows.map(row => { const item = JSON.parse(row.payload_json); item.score = row.imdb_score; item.votes = row.vote_count; item.seasons = row.season_count; item.seasonLabel = row.season_label; item.episodes = row.episode_count; item.seasonTrend = { slope: row.season_rating_trend_slope, intercept: row.season_rating_trend_intercept, points: row.season_rating_trend_points }; item.seasonDetails = seasonsBySeries.get(item.id) || []; return item; }); const yearCounts = new Map(); for (const item of series) yearCounts.set(item.year, (yearCounts.get(item.year) || 0) + 1); process.stdout.write(JSON.stringify({ generatedAt: meta.generatedAt || '', total: series.length, seasonRows: seasonRows.length, years: Array.from(yearCounts, ([year, count]) => ({ year, count })), series }));"
 if ($LASTEXITCODE -ne 0) {
@@ -59,6 +60,9 @@ $years = @($data.years)
   MissingCategories = $missingCategories.Count
   TurkishPrimaryRows = $turkishPrimaryRows.Count
   HasYearNavigation = $html.Contains('id="yearNav"')
+  HasStylesheet = $html.Contains('href="series_library.css"')
+  HasInlineStyleBlock = $html.Contains('<style>')
+  HasExtractedCss = $css.Contains('.card') -and $css.Contains('.series-detail-modal')
   HasYearSelect = $html.Contains('id="yearSelect"')
   HasCategoryFilter = $html.Contains('id="categoryFilter"')
   HasTrendFilter = $html.Contains('id="trendFilter"')
@@ -108,6 +112,9 @@ if ($turkishPrimaryRows.Count -gt 0) { throw "Found Turkish-primary rows." }
 if ($sciFiRows.Count -lt 600) { throw "Expected at least 600 Sci-Fi rows." }
 if ($fantasyRows.Count -lt 500) { throw "Expected at least 500 Fantasy rows." }
 if ($bothRows.Count -lt 200) { throw "Expected at least 200 rows in both categories." }
+if (-not $html.Contains('href="series_library.css"')) { throw "Missing extracted stylesheet link." }
+if ($html.Contains('<style>')) { throw "HTML should not contain an inline style block." }
+if (-not ($css.Contains('.card') -and $css.Contains('.series-detail-modal'))) { throw "Extracted stylesheet is missing expected UI styles." }
 if (-not $html.Contains('id="yearNav"')) { throw "Missing year navigation." }
 if (-not $html.Contains('id="yearSelect"')) { throw "Missing year select." }
 if (-not $html.Contains('id="categoryFilter"')) { throw "Missing category filter." }
