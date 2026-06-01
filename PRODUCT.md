@@ -6,7 +6,7 @@ Product UI.
 
 ## Product Purpose
 
-Series Library is a static browsing tool for IMDb-rated genre TV series. It helps a user scan eligible series by year, title, category, score range, and season-rating trend without waiting on live API calls.
+Series Library is a static browsing tool for IMDb-rated genre TV series. It helps a user scan eligible series by year, title, category, score range, rated-season count, and season-rating trend without waiting on live API calls.
 
 The app is intentionally static on Vercel. Data updates happen through CLI workflows only; the browser must never expose update controls or mutable data operations.
 
@@ -19,7 +19,7 @@ The app is intentionally static on Vercel. Data updates happen through CLI workf
 ## Core Workflows
 
 - Browse ranked series by year.
-- Filter by source category, secondary animation tag, trend label, title search, and score range.
+- Filter by source category, secondary animation tag, trend label, title search, score range, and rated-season count range.
 - Jump to a year or decade.
 - Open a detail modal to inspect synopsis and season breakdown.
 - Leave the app and data immutable from the public browser.
@@ -30,7 +30,7 @@ The app is intentionally static on Vercel. Data updates happen through CLI workf
 - Dense but calm: prioritize scanning, comparison, and repeated browsing.
 - Familiar controls: standard inputs and predictable navigation beat novelty.
 - Fast perceived performance: render the first useful catalog quickly, defer the rest.
-- Clear provenance: IMDb ids, ratings, years, country origin, categories, and trends should be easy to inspect.
+- Clear provenance: IMDb ids, ratings, years, country origin, categories, rated-season counts, and trends should be easy to inspect.
 
 ## Anti-References
 

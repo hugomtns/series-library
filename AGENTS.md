@@ -12,7 +12,7 @@
 
 This repo builds and serves a static TV series library from IMDbAPI data.
 
-The public app lets users browse ranked eligible TV series by year, category, trend label, and title search. It is intentionally static for Vercel: users must not be able to trigger data updates from the browser.
+The public app lets users browse ranked eligible TV series by year, category, trend label, title search, IMDb score range, and rated-season count range. It is intentionally static for Vercel: users must not be able to trigger data updates from the browser.
 
 Current tracked categories:
 
@@ -28,9 +28,13 @@ Eligibility is based on IMDbAPI title search results for TV series / TV mini ser
 
 Primary runtime files:
 
-- `series_library.html`: static frontend and client-side app logic.
+- `series_library.html`: static frontend shell and markup.
 - `series_library.css`: all UI styles.
-- `series_library_data.json`: static public catalog consumed by the frontend.
+- `series_library.js`: client-side app state, filtering, modal, and interaction logic.
+- `series_library_rendering.js`: card, section, modal, and filter rendering helpers.
+- `series_library_data_client.js`: static JSON loading and detail lookup helpers.
+- `series_library_data.json`: static public index consumed by the frontend.
+- `series_library_details.json`: static modal detail payload consumed on demand.
 - `series_library.db`: SQLite source of truth for the exported public catalog.
 - `series_library_server.js`: local static-only server. No update API exists.
 - `vercel.json`: Vercel rewrite from `/` to `/series_library.html` plus JSON cache header.
@@ -136,7 +140,7 @@ Use `-SkipJson` unless there is a specific reason to write raw source JSON.
 3. `build_sci_fi_catalog_page.ps1` fetches/caches IMDb title details and seasons, then writes generated catalog JSON.
 4. `scripts/migrate_to_sqlite.js` normalizes series, categories, genres, seasons, ratings, and trends into SQLite.
 5. `scripts/export_public_catalog.js` exports the static JSON used by the frontend.
-6. Vercel serves `series_library.html`, `series_library.css`, and `series_library_data.json`.
+6. Vercel serves the static HTML/CSS/JS files plus `series_library_data.json` and `series_library_details.json`.
 
 The browser never reads SQLite directly.
 
@@ -162,11 +166,15 @@ Important example:
 
 The same trend semantics should be reflected in:
 
-- `series_library.html`
+- `series_library.js`
+- `series_library_data_client.js`
 - `scripts/migrate_to_sqlite.js`
+- `scripts/export_public_catalog.js`
 - `verify_sci_fi_catalog_page.ps1`
 - regenerated `series_library.db`
 - regenerated `series_library_data.json`
+
+The rated-season count filter must use the same rated-season definition: season rows where `score` is numeric and at least `0.1`. Pending or unrated seasons do not count.
 
 ## Frontend Notes
 
@@ -182,6 +190,7 @@ Expected behavior:
 - Detail modal must not duplicate the IMDb link.
 - Detail modal uses only the close `X`, no footer "Done" button.
 - Category and trend filters are multi-select dropdowns.
+- IMDb score and rated-season count filters are min/max range inputs.
 - Trend labels are rendered on both cards and detail modal.
 
 Do not re-add:
@@ -246,6 +255,7 @@ The verification checks:
 - trend labels and thresholds
 - Disaster threshold
 - rated-season guards
+- rated-season count export and filtering
 - modal/card UI invariants
 - static/Vercel readiness
 - absence of update UI/API references
@@ -266,6 +276,7 @@ For trend work, also verify individual examples with `series_library_data.json` 
 - The test script name is historical; it validates all current categories.
 - Pending/unrated seasons must not be treated as `0`.
 - Trend eligibility is based on 3+ rated seasons, not total seasons.
+- Rated-season count filtering must use exported `ratedSeasonCount`, not total season labels or pending seasons.
 - Vercel serves static JSON; changing SQLite alone does not update the public page.
 - Existing primary source folders include tracked CSV and some older tracked JSON. Do not expand this pattern with new raw JSON unless explicitly requested.
 - If local server does not respond on port `3000`, check `8787`; `series_library_server.js` defaults to `127.0.0.1:8787`.

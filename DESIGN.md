@@ -21,7 +21,7 @@ The app is a quiet browsing tool, not a branded media site. The design should su
 
 ## Component Vocabulary
 
-- Filter triggers, selects, search, score inputs, and reset buttons must share the same control system: height, border, radius, fill, focus, and hover treatment.
+- Filter triggers, selects, search, score/rated-season inputs, and reset buttons must share the same control system: height, border, radius, fill, focus, and hover treatment.
 - Cards are repeated catalog items only. Do not wrap page sections in decorative cards.
 - Detail modal uses a poster, compact metadata section, synopsis, and season table. No footer action bar.
 - Trend tags are semantic pills:
