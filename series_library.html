@@ -120,6 +120,14 @@
     let selectedCategories = new Set(categoryChoices.map(input => input.value));
     let selectedTrends = new Set(trendChoices.map(input => input.value));
     let lastSeriesTrigger = null;
+    const focusableSelectors = [
+      "a[href]",
+      "button:not([disabled])",
+      "input:not([disabled])",
+      "select:not([disabled])",
+      "textarea:not([disabled])",
+      "[tabindex]:not([tabindex='-1'])"
+    ].join(",");
 
     totalCount.textContent = data.total.toLocaleString();
     yearCount.textContent = data.years.length.toLocaleString();
@@ -542,6 +550,34 @@
       if (lastSeriesTrigger) lastSeriesTrigger.focus();
     }
 
+    function getModalFocusableElements() {
+      return Array.from(seriesDetailModal.querySelectorAll(focusableSelectors))
+        .filter(element => element.offsetParent !== null);
+    }
+
+    function trapModalFocus(event) {
+      if (event.key !== "Tab" || seriesDetailModal.hidden) return;
+
+      const focusable = getModalFocusableElements();
+      if (!focusable.length) {
+        event.preventDefault();
+        return;
+      }
+
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      if (focusable.length === 1) {
+        event.preventDefault();
+        first.focus();
+      } else if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      }
+    }
+
     catalog.addEventListener("click", event => {
       if (event.target.closest(".imdb-link")) return;
       const card = event.target.closest(".card");
@@ -551,9 +587,10 @@
     });
 
     catalog.addEventListener("keydown", event => {
-      if (event.key !== "Enter") return;
+      if (event.key !== "Enter" && event.key !== " ") return;
       const card = event.target.closest(".card");
       if (!card) return;
+      event.preventDefault();
       const item = seriesById.get(card.dataset.id);
       if (item) openSeriesDetail(item, card);
     });
@@ -694,6 +731,7 @@
 
     document.addEventListener("keydown", event => {
       if (event.key === "Escape" && !seriesDetailModal.hidden) closeSeriesDetail();
+      trapModalFocus(event);
     });
   </script>
 </body>

@@ -93,6 +93,8 @@ $years = @($data.years)
   HasSeriesDetailModal = $html.Contains('id="seriesDetailModal"')
   HasSeriesDetailSynopsis = $html.Contains('class="detail-synopsis"')
   HasClickableCards = $html.Contains('role="button"') -and $html.Contains('data-id="${escapeText(item.id)}"')
+  HasCardSpaceActivation = $html.Contains('event.key !== "Enter" && event.key !== " "')
+  HasModalFocusTrap = $html.Contains('function trapModalFocus') -and $html.Contains('focusableSelectors')
   HasSeriesDetailFooter = $html.Contains('class="series-detail-foot"')
   HasSeriesDetailDone = $html.Contains('id="seriesDetailDone"')
   HasSeriesDetailImdbLink = $html.Contains('<a class="imdb-link fact"')
@@ -162,6 +164,8 @@ if (-not $html.Contains('class="detail-synopsis"')) { throw "Detail modal should
 if ($html.Contains('class="detail-tags"')) { throw "Detail modal should not render a duplicate genre/tag row." }
 if ($html.Contains('class="detail-fact"')) { throw "Detail modal should not restate card facts as separate metric boxes." }
 if (-not ($html.Contains('role="button"') -and $html.Contains('data-id="${escapeText(item.id)}"'))) { throw "Series cards should be keyboard-openable detail triggers." }
+if (-not $html.Contains('event.key !== "Enter" && event.key !== " "')) { throw "Series cards should open with Space as well as Enter." }
+if (-not ($html.Contains('function trapModalFocus') -and $html.Contains('focusableSelectors'))) { throw "Series detail modal should trap keyboard focus while open." }
 if ($html.Contains('class="series-detail-foot"')) { throw "Series detail modal should not have a footer action bar." }
 if ($html.Contains('id="seriesDetailDone"')) { throw "Series detail modal should only use the close button." }
 if ($html.Contains('<a class="imdb-link fact"')) { throw "Series detail modal should not duplicate the IMDb link." }
