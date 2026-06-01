@@ -132,6 +132,8 @@ $years = @($data.years)
   HasTrendDown = $pageSource.Contains('Trend Down')
   HasDisaster = $pageSource.Contains('Disaster')
   HasCardTrendDataset = $pageSource.Contains('data-trend="${escapeText(trendKind(item) || "")}"')
+  HasFilterDataAttributes = $pageSource.Contains('data-score="${escapeText(Number(item.score).toFixed(1))}"') -and $pageSource.Contains('data-primary-categories=')
+  HasBatchedFilterInputs = $pageSource.Contains('function scheduleApplyFilters') -and $pageSource.Contains('requestAnimationFrame')
   HasSoftTrendUpThreshold = $pageSource.Contains('slope >= 0.3')
   HasSoftTrendDownThreshold = $pageSource.Contains('slope <= -0.3')
   HasFiniteSeasonScoreGuard = $pageSource.Contains('function finiteSeasonScore')
@@ -216,6 +218,8 @@ if (-not $pageSource.Contains('Trend Up')) { throw "Series cards should support 
 if (-not $pageSource.Contains('Trend Down')) { throw "Series cards should support Trend Down tags." }
 if (-not $pageSource.Contains('Disaster')) { throw "Series cards should support Disaster tags." }
 if (-not $pageSource.Contains('data-trend="${escapeText(trendKind(item) || "")}"')) { throw "Series cards should expose trend data for filtering." }
+if (-not ($pageSource.Contains('data-score="${escapeText(Number(item.score).toFixed(1))}"') -and $pageSource.Contains('data-primary-categories='))) { throw "Series cards should expose precomputed filter data." }
+if (-not ($pageSource.Contains('function scheduleApplyFilters') -and $pageSource.Contains('requestAnimationFrame'))) { throw "Text and range filter inputs should batch DOM filtering work." }
 if (-not $pageSource.Contains('slope >= 0.3')) { throw "Trend Up should use the softened 0.3 threshold." }
 if (-not $pageSource.Contains('slope <= -0.3')) { throw "Trend Down should use the softened -0.3 threshold." }
 if (-not $pageSource.Contains('function finiteSeasonScore')) { throw "Trend calculations should guard against pending null season scores." }

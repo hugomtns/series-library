@@ -238,6 +238,10 @@ function itemMatchesTrend(item) {
   return Boolean(kind && selectedTrends.has(kind));
 }
 
+function primaryCategoryList(categories) {
+  return categories.filter(category => category !== "Animation");
+}
+
 function getVisibleYearInfo() {
   return data.years
     .map(yearInfo => {
@@ -333,7 +337,7 @@ function renderCatalogSection(year, items) {
     </div>
     <div class="grid">
       ${items.map(item => `
-        <article class="card" tabindex="0" role="button" aria-label="Open details for ${escapeText(item.title)}" data-id="${escapeText(item.id)}" data-categories="${escapeText(item.categories.join(";"))}" data-trend="${escapeText(trendKind(item) || "")}" data-search="${escapeText(item.title.toLowerCase())}">
+        <article class="card" tabindex="0" role="button" aria-label="Open details for ${escapeText(item.title)}" data-id="${escapeText(item.id)}" data-categories="${escapeText(item.categories.join(";"))}" data-primary-categories="${escapeText(primaryCategoryList(item.categories).join(";"))}" data-has-animation="${item.categories.includes("Animation") ? "1" : "0"}" data-trend="${escapeText(trendKind(item) || "")}" data-score="${escapeText(Number(item.score).toFixed(1))}" data-search="${escapeText(item.title.toLowerCase())}">
           ${renderPoster(item)}
           <div class="card-main">
             <div class="card-top">
@@ -627,12 +631,17 @@ seriesDetailModal.addEventListener("click", event => {
 });
 
 function cardMatchesCategory(card) {
-  const categories = card.dataset.categories.split(";");
-  if (categories.includes("Animation") && !selectedCategories.has("Animation")) {
+  if (card.dataset.hasAnimation === "1" && !selectedCategories.has("Animation")) {
     return false;
   }
 
-  return categories.filter(category => category !== "Animation").some(category => selectedCategories.has(category));
+  const primaryCategories = `;${card.dataset.primaryCategories};`;
+  for (const category of selectedCategories) {
+    if (category !== "Animation" && primaryCategories.includes(`;${category};`)) {
+      return true;
+    }
+  }
+  return false;
 }
 
 function cardMatchesTrend(card) {
@@ -648,14 +657,29 @@ function parseScoreInput(input, fallback) {
 }
 
 function cardMatchesScore(card) {
-  const scoreText = card.querySelector(".rating")?.textContent.replace("IMDb", "").trim();
-  const score = Number(scoreText);
+  const score = Number(card.dataset.score);
   const minScore = parseScoreInput(minScoreInput, 1);
   const maxScore = parseScoreInput(maxScoreInput, 10);
   return score >= Math.min(minScore, maxScore) && score <= Math.max(minScore, maxScore);
 }
 
+let pendingFilterFrame = null;
+
+function scheduleApplyFilters() {
+  if (pendingFilterFrame !== null) {
+    cancelAnimationFrame(pendingFilterFrame);
+  }
+  pendingFilterFrame = requestAnimationFrame(() => {
+    pendingFilterFrame = null;
+    applyFilters();
+  });
+}
+
 function applyFilters() {
+  if (pendingFilterFrame !== null) {
+    cancelAnimationFrame(pendingFilterFrame);
+    pendingFilterFrame = null;
+  }
   ensureCatalogRendered();
   const query = search.value.trim().toLowerCase();
   const minHasValue = minScoreInput.value.trim().length > 0;
@@ -751,10 +775,10 @@ document.addEventListener("click", event => {
 });
 
 search.addEventListener("input", () => {
-  applyFilters();
+  scheduleApplyFilters();
 });
-minScoreInput.addEventListener("input", applyFilters);
-maxScoreInput.addEventListener("input", applyFilters);
+minScoreInput.addEventListener("input", scheduleApplyFilters);
+maxScoreInput.addEventListener("input", scheduleApplyFilters);
 
 document.addEventListener("keydown", event => {
   if (event.key === "Escape" && !seriesDetailModal.hidden) closeSeriesDetail();
