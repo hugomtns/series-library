@@ -85,7 +85,21 @@ function getCatalog() {
       synopsis: item.synopsis,
       seasonDetails: item.seasonDetails,
     }));
-    const index = ranked.map(({ synopsis, seasonDetails, imdbUrl, posterWidth, posterHeight, ...item }) => item);
+    const index = ranked.map(({
+      synopsis,
+      seasonDetails,
+      imdbUrl,
+      posterWidth,
+      posterHeight,
+      votes,
+      type,
+      seasons,
+      episodes,
+      genres,
+      countries,
+      countryCodes,
+      ...item
+    }) => item);
 
     return {
       index: {

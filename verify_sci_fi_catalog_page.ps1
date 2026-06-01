@@ -26,6 +26,15 @@ $publicIndexRowsWithDetails = @($publicSeries | Where-Object { $_.PSObject.Prope
 $publicIndexRowsWithTrendPayload = @($publicSeries | Where-Object { $_.PSObject.Properties.Name -contains "seasonTrend" })
 $publicIndexRowsWithImdbUrl = @($publicSeries | Where-Object { $_.PSObject.Properties.Name -contains "imdbUrl" })
 $publicIndexRowsWithPosterDimensions = @($publicSeries | Where-Object { $_.PSObject.Properties.Name -contains "posterWidth" -or $_.PSObject.Properties.Name -contains "posterHeight" })
+$publicIndexRowsWithUnusedMetadata = @($publicSeries | Where-Object {
+  $_.PSObject.Properties.Name -contains "votes" -or
+  $_.PSObject.Properties.Name -contains "type" -or
+  $_.PSObject.Properties.Name -contains "seasons" -or
+  $_.PSObject.Properties.Name -contains "episodes" -or
+  $_.PSObject.Properties.Name -contains "genres" -or
+  $_.PSObject.Properties.Name -contains "countries" -or
+  $_.PSObject.Properties.Name -contains "countryCodes"
+})
 $publicDetailRowsWithDetails = @($publicDetailSeries | Where-Object { $_.PSObject.Properties.Name -contains "synopsis" -and $_.PSObject.Properties.Name -contains "seasonDetails" })
 $badVotes = @($series | Where-Object { [int]$_.votes -lt 5000 })
 $missingPosters = @($series | Where-Object { [string]::IsNullOrWhiteSpace($_.poster) })
@@ -63,6 +72,7 @@ $years = @($data.years)
   PublicIndexRowsWithTrendPayload = $publicIndexRowsWithTrendPayload.Count
   PublicIndexRowsWithImdbUrl = $publicIndexRowsWithImdbUrl.Count
   PublicIndexRowsWithPosterDimensions = $publicIndexRowsWithPosterDimensions.Count
+  PublicIndexRowsWithUnusedMetadata = $publicIndexRowsWithUnusedMetadata.Count
   PublicDetailRowsWithDetails = $publicDetailRowsWithDetails.Count
   SeriesRows = $series.Count
   Years = $years.Count
@@ -154,6 +164,7 @@ if ($publicIndexRowsWithDetails.Count -gt 0) { throw "Public index JSON should n
 if ($publicIndexRowsWithTrendPayload.Count -gt 0) { throw "Public index JSON should expose compact trend fields instead of the full seasonTrend payload." }
 if ($publicIndexRowsWithImdbUrl.Count -gt 0) { throw "Public index JSON should derive IMDb links from title ids instead of storing imdbUrl per row." }
 if ($publicIndexRowsWithPosterDimensions.Count -gt 0) { throw "Public index JSON should not include unused poster dimension fields." }
+if ($publicIndexRowsWithUnusedMetadata.Count -gt 0) { throw "Public index JSON should not include metadata fields unused by the UI." }
 if ($publicDetailRowsWithDetails.Count -ne $data.total) { throw "Public detail JSON should include one detail payload per series." }
 if ($years.Count -lt 60) { throw "Expected at least 60 years with eligible series after extending to 1960." }
 if ((($years | Sort-Object { [int]$_.year } | Select-Object -First 1).year) -gt 1961) { throw "Expected catalog to include early 1960s entries." }
