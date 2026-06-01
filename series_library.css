@@ -522,11 +522,6 @@ h1 {
   margin-top: 2px;
 }
 
-.rank {
-  color: var(--muted);
-  font-size: 0.78rem;
-}
-
 .trend-tag {
   display: inline-flex;
   align-items: center;
@@ -610,13 +605,6 @@ h1 {
   background: var(--panel);
   box-shadow: 0 24px 80px oklch(16% 0.02 250 / 0.28);
   overflow: hidden;
-}
-
-.series-detail-head {
-  position: relative;
-  min-height: 0;
-  padding: 0;
-  display: none;
 }
 
 .series-detail-poster {

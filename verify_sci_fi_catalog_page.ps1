@@ -153,6 +153,7 @@ $years = @($data.years)
   HasSynopsisMarkup = $pageSource.Contains('class="synopsis"')
   CardSearchIncludesSynopsis = $pageSource.Contains('data-search="${escapeText([item.title, item.synopsis')
   HasSeriesDetailModal = $html.Contains('id="seriesDetailModal"')
+  HasDeadSeriesDetailHead = $html.Contains('id="seriesDetailHead"') -or $clientJs.Contains('seriesDetailHead') -or $css.Contains('.series-detail-head')
   HasSeriesDetailSynopsis = $pageSource.Contains('class="detail-synopsis"')
   HasClickableCards = $pageSource.Contains('role="button"') -and $pageSource.Contains('data-id="${escapeText(item.id)}"')
   HasCardSpaceActivation = $pageSource.Contains('event.key !== "Enter" && event.key !== " "')
@@ -179,6 +180,7 @@ $years = @($data.years)
   HasRatedSeasonPoints = $pageSource.Contains('function ratedSeasonPoints')
   HasUnsafeSeasonScoreNumberCast = $pageSource.Contains('y: Number(season.score)')
   HasDisasterThreshold = $pageSource.Contains('lastScore - firstScore <= -1.5')
+  HasDeadRankStyle = $css.Contains('.rank')
 } | Format-List
 
 if ($data.total -ne $series.Count) { throw "Catalog total does not match SQLite series rows." }
@@ -249,6 +251,7 @@ if (-not $html.Contains('placeholder="Search titles..."')) { throw "Search input
 if ($pageSource.Contains('class="synopsis"')) { throw "Cards should not render synopsis markup." }
 if ($pageSource.Contains('data-search="${escapeText([item.title, item.synopsis')) { throw "Card search should not include synopsis." }
 if (-not $html.Contains('id="seriesDetailModal"')) { throw "Missing series detail modal." }
+if ($html.Contains('id="seriesDetailHead"') -or $clientJs.Contains('seriesDetailHead') -or $css.Contains('.series-detail-head')) { throw "Series detail modal should not keep the unused header shell." }
 if (-not $pageSource.Contains('class="detail-layout"')) { throw "Detail modal should use the poster/info/synopsis/season layout." }
 if (-not $pageSource.Contains('class="detail-info"')) { throw "Detail modal should render card-style series info." }
 if (-not $pageSource.Contains('class="detail-synopsis"')) { throw "Detail modal should render synopsis." }
@@ -278,3 +281,4 @@ if (-not $pageSource.Contains('function finiteSeasonScore')) { throw "Trend calc
 if (-not $pageSource.Contains('function ratedSeasonPoints')) { throw "Trend calculations should operate on rated seasons only." }
 if ($pageSource.Contains('y: Number(season.score)')) { throw "Trend fallback should not cast pending null season scores to zero." }
 if (-not $pageSource.Contains('lastScore - firstScore <= -1.5')) { throw "Disaster should use the 1.5 point drop threshold." }
+if ($css.Contains('.rank')) { throw "Stylesheet should not keep unused rank styles." }

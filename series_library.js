@@ -44,7 +44,6 @@ const trendChoices = Array.from(document.querySelectorAll(".trend-choice"));
 const minScoreInput = document.getElementById("minScore");
 const maxScoreInput = document.getElementById("maxScore");
 const seriesDetailModal = document.getElementById("seriesDetailModal");
-const seriesDetailHead = document.getElementById("seriesDetailHead");
 const seriesDetailBody = document.getElementById("seriesDetailBody");
 const catalog = document.getElementById("catalog");
 const totalCount = document.getElementById("totalCount");
@@ -546,7 +545,6 @@ async function getSeriesDetail(item) {
 
 async function openSeriesDetail(item, trigger) {
   lastSeriesTrigger = trigger || null;
-  seriesDetailHead.innerHTML = "";
   const detailItem = await getSeriesDetail(item);
   seriesDetailBody.innerHTML = `
     <div class="detail-layout">
