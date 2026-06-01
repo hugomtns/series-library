@@ -22,6 +22,18 @@ body {
   letter-spacing: 0;
 }
 
+html.modal-open {
+  overflow: hidden;
+}
+
+body.modal-open {
+  position: fixed;
+  left: 0;
+  right: 0;
+  width: 100%;
+  overflow: hidden;
+}
+
 a { color: inherit; }
 
 .shell {

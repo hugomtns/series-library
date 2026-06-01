@@ -55,6 +55,7 @@ const empty = document.getElementById("empty");
 let selectedCategories = new Set(categoryChoices.map(input => input.value));
 let selectedTrends = new Set(trendChoices.map(input => input.value));
 let lastSeriesTrigger = null;
+let lockedScrollY = 0;
 const focusableSelectors = [
   "a[href]",
   "button:not([disabled])",
@@ -527,13 +528,43 @@ async function openSeriesDetail(item, trigger) {
       </div>
     </div>
   `;
+  lockPageScroll();
   seriesDetailModal.hidden = false;
   document.getElementById("seriesDetailClose").focus();
 }
 
+function lockPageScroll() {
+  if (document.body.classList.contains("modal-open")) return;
+  lockedScrollY = window.scrollY;
+  document.documentElement.classList.add("modal-open");
+  document.body.classList.add("modal-open");
+  document.body.style.top = `-${lockedScrollY}px`;
+}
+
+function unlockPageScroll() {
+  if (!document.body.classList.contains("modal-open")) return;
+  document.documentElement.classList.remove("modal-open");
+  document.body.classList.remove("modal-open");
+  document.body.style.top = "";
+  window.scrollTo(0, lockedScrollY);
+}
+
+function restoreSeriesTriggerFocus() {
+  if (!lastSeriesTrigger) return;
+  try {
+    lastSeriesTrigger.focus({ preventScroll: true });
+  } catch {
+    lastSeriesTrigger.focus();
+  }
+}
+
 function closeSeriesDetail() {
+  const restoreScrollY = lockedScrollY;
   seriesDetailModal.hidden = true;
-  if (lastSeriesTrigger) lastSeriesTrigger.focus();
+  unlockPageScroll();
+  restoreSeriesTriggerFocus();
+  window.scrollTo(0, restoreScrollY);
+  requestAnimationFrame(() => window.scrollTo(0, restoreScrollY));
 }
 
 function getModalFocusableElements() {
