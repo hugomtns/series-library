@@ -174,8 +174,10 @@ function buildSeasonRows(item) {
 }
 
 function calculateSeasonRatingTrend(item, seasonRows) {
-  const seasonCount = intOrNull(item.seasons) ?? seasonRows.length;
-  if (seasonCount < 3) {
+  const points = seasonRows
+    .filter((season) => season.imdb_score !== null)
+    .map((season) => ({ x: season.season_number, y: season.imdb_score }));
+  if (points.length < 3) {
     return {
       season_rating_trend_slope: null,
       season_rating_trend_intercept: null,
@@ -183,9 +185,6 @@ function calculateSeasonRatingTrend(item, seasonRows) {
     };
   }
 
-  const points = seasonRows
-    .filter((season) => season.imdb_score !== null)
-    .map((season) => ({ x: season.season_number, y: season.imdb_score }));
   const regression = linearRegression(points);
 
   return {

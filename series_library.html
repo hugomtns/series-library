@@ -206,10 +206,12 @@
     }
 
     function trendKind(item) {
-      const seasons = [...(item.seasonDetails || [])].sort((a, b) => Number(a.season) - Number(b.season));
-      const firstScore = finiteSeasonScore(seasons[0]?.score);
-      const lastScore = finiteSeasonScore(seasons[seasons.length - 1]?.score);
-      if (Number(item.seasons) >= 3 && firstScore !== null && lastScore !== null && lastScore - firstScore <= -1.5) {
+      const points = ratedSeasonPoints(item);
+      if (points.length < 3) return null;
+
+      const firstScore = points[0].y;
+      const lastScore = points[points.length - 1].y;
+      if (lastScore - firstScore <= -1.5) {
         return "disaster";
       }
 
@@ -228,11 +230,8 @@
     function seasonTrendSlope(item) {
       const persisted = Number(item.seasonTrend?.slope);
       if (Number.isFinite(persisted)) return persisted;
-      if (Number(item.seasons) < 3) return null;
 
-      const points = [...(item.seasonDetails || [])]
-        .map(season => ({ x: Number(season.season), y: finiteSeasonScore(season.score) }))
-        .filter(point => Number.isFinite(point.x) && Number.isFinite(point.y));
+      const points = ratedSeasonPoints(item);
       if (points.length < 3) return null;
 
       let sumX = 0;
@@ -250,6 +249,13 @@
       const denominator = (n * sumXX) - (sumX * sumX);
       if (denominator === 0) return null;
       return ((n * sumXY) - (sumX * sumY)) / denominator;
+    }
+
+    function ratedSeasonPoints(item) {
+      return [...(item.seasonDetails || [])]
+        .map(season => ({ x: Number(season.season), y: finiteSeasonScore(season.score) }))
+        .filter(point => Number.isFinite(point.x) && point.y !== null)
+        .sort((a, b) => a.x - b.x);
     }
 
     function renderTrendTag(item) {

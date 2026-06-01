@@ -18,12 +18,12 @@ $missingPosters = @($series | Where-Object { [string]::IsNullOrWhiteSpace($_.pos
 $missingSynopsis = @($series | Where-Object { [string]::IsNullOrWhiteSpace($_.synopsis) -or $_.synopsis -eq "No synopsis available." })
 $missingSeasons = @($series | Where-Object { [int]$_.seasons -eq 0 })
 $seriesWithSeasonDetails = @($series | Where-Object { @($_.seasonDetails).Count -gt 0 })
-$trendEligibleRows = @($series | Where-Object { [int]$_.seasons -ge 3 })
+$trendEligibleRows = @($series | Where-Object { @($_.seasonDetails | Where-Object { $null -ne $_.score }).Count -ge 3 })
 $trendCalculatedRows = @($trendEligibleRows | Where-Object { $null -ne $_.seasonTrend.slope })
 $disasterRows = @()
 foreach ($item in $series) {
-  $seasons = @($item.seasonDetails | Sort-Object { [int]$_.season })
-  if ([int]$item.seasons -ge 3 -and $seasons.Count -ge 2 -and $null -ne $seasons[0].score -and $null -ne $seasons[-1].score) {
+  $seasons = @($item.seasonDetails | Where-Object { $null -ne $_.score } | Sort-Object { [int]$_.season })
+  if ($seasons.Count -ge 3) {
     $delta = [double]$seasons[-1].score - [double]$seasons[0].score
     if ($delta -le -1.5) {
       $disasterRows += $item
@@ -105,6 +105,7 @@ $years = @($data.years)
   HasSoftTrendUpThreshold = $html.Contains('slope >= 0.3')
   HasSoftTrendDownThreshold = $html.Contains('slope <= -0.3')
   HasFiniteSeasonScoreGuard = $html.Contains('function finiteSeasonScore')
+  HasRatedSeasonPoints = $html.Contains('function ratedSeasonPoints')
   HasUnsafeSeasonScoreNumberCast = $html.Contains('y: Number(season.score)')
   HasDisasterThreshold = $html.Contains('lastScore - firstScore <= -1.5')
 } | Format-List
@@ -117,9 +118,10 @@ if ($badVotes.Count -gt 0) { throw "Found rows below 5000 votes." }
 if ($badJapanExamples.Count -gt 0) { throw "Found excluded Japanese-primary examples." }
 if ($missingCategories.Count -gt 0) { throw "Found rows without category metadata." }
 if ($seriesWithSeasonDetails.Count -lt 1000) { throw "Expected most series to include normalized season detail rows." }
-if ($trendEligibleRows.Count -lt 500) { throw "Expected many series to be eligible for season rating trends." }
+if ($trendEligibleRows.Count -lt 500) { throw "Expected many series to have at least 3 rated seasons for rating trends." }
 if ($trendCalculatedRows.Count -lt 450) { throw "Expected most eligible series with rated seasons to have trend slopes." }
 if ($disasterRows.Count -lt 10) { throw "Expected several series to match the Disaster first-vs-last-season drop." }
+if (-not (@($series | Where-Object { $_.title -eq "The Witcher" -and $_.year -eq 2019 -and @($_.seasonDetails | Where-Object { $null -ne $_.score }).Count -ge 3 }))) { throw "Expected The Witcher to have at least 3 rated seasons." }
 if ($seasonDetailRows.Count -lt $series.Count) { throw "Expected at least one season detail row per series on average." }
 if ($badSeasonDetailRows.Count -gt 0) { throw "Found invalid normalized season detail rows." }
 if ($turkishPrimaryRows.Count -gt 0) { throw "Found Turkish-primary rows." }
@@ -169,5 +171,6 @@ if (-not $html.Contains('data-trend="${escapeText(trendKind(item) || "")}"')) { 
 if (-not $html.Contains('slope >= 0.3')) { throw "Trend Up should use the softened 0.3 threshold." }
 if (-not $html.Contains('slope <= -0.3')) { throw "Trend Down should use the softened -0.3 threshold." }
 if (-not $html.Contains('function finiteSeasonScore')) { throw "Trend calculations should guard against pending null season scores." }
+if (-not $html.Contains('function ratedSeasonPoints')) { throw "Trend calculations should operate on rated seasons only." }
 if ($html.Contains('y: Number(season.score)')) { throw "Trend fallback should not cast pending null season scores to zero." }
 if (-not $html.Contains('lastScore - firstScore <= -1.5')) { throw "Disaster should use the 1.5 point drop threshold." }
