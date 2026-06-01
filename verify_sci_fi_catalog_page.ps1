@@ -102,6 +102,8 @@ $years = @($data.years)
 $hasExternalClientScript = $html.Contains('<script type="module" src="series_library.js"></script>') -and $clientJs.Contains('async function loadCatalogData')
 $hasCatalogBuilderHtmlOutput = $catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')
 $hasExtractedCss = $css.Contains('.card') -and $css.Contains('.series-detail-modal')
+$hasOrganizedCssSections = Test-ContainsAll $css @('/* Foundation */', '/* App Layout */', '/* Filters */', '/* Year Navigation */', '/* Toolbar */', '/* Catalog */', '/* Detail Modal */', '/* State Utilities */', '/* Responsive */')
+$hasSharedFocusTokens = Test-ContainsAll $css @('--focus-ring:', '--card-focus-ring:', 'outline: var(--focus-ring)', 'box-shadow: var(--card-focus-ring)')
 $hasYearSectionRenderContainment = Test-ContainsAll $css @('content-visibility: auto', 'contain-intrinsic-size')
 $hasIncrementalCatalogRender = Test-ContainsAll $pageSource @('requestIdleCallback', 'function ensureCatalogRendered')
 $hasTouchSizedControls = -not ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px'))
@@ -178,6 +180,8 @@ $hasSharedTrendThresholds = Test-ContainsAll $trendRulesScript @('minRatedSeason
   HasInlineStyleBlock = $html.Contains('<style>')
   HasCatalogBuilderHtmlOutput = $hasCatalogBuilderHtmlOutput
   HasExtractedCss = $hasExtractedCss
+  HasOrganizedCssSections = $hasOrganizedCssSections
+  HasSharedFocusTokens = $hasSharedFocusTokens
   HasYearSectionRenderContainment = $hasYearSectionRenderContainment
   HasIncrementalCatalogRender = $hasIncrementalCatalogRender
   HasTouchSizedControls = $hasTouchSizedControls
@@ -289,6 +293,8 @@ if ($verifyScript.Contains('node ' + '-e')) { throw "Verification should use a c
 if ($html.Contains('<style>')) { throw "HTML should not contain an inline style block." }
 Assert-Condition (-not $hasCatalogBuilderHtmlOutput) "Catalog builder should not contain dead HTML generation code."
 Assert-Condition $hasExtractedCss "Extracted stylesheet is missing expected UI styles."
+Assert-Condition $hasOrganizedCssSections "Stylesheet should keep major UI regions organized into labeled sections."
+Assert-Condition $hasSharedFocusTokens "Stylesheet should use shared focus ring tokens instead of repeated literal rings."
 Assert-Condition $hasYearSectionRenderContainment "Year sections should use render containment for offscreen catalog performance."
 Assert-Condition $hasIncrementalCatalogRender "Catalog should incrementally render year sections after the initial viewport."
 Assert-Condition $hasTouchSizedControls "Primary interactive controls should meet 44px touch target sizing."

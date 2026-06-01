@@ -9,8 +9,12 @@
   --accent: oklch(54% 0.17 35);
   --accent-soft: oklch(91% 0.052 35);
   --focus: oklch(58% 0.18 250);
+  --focus-ring: 2px solid oklch(70% 0.12 250 / 0.38);
+  --card-focus-ring: 0 0 0 2px oklch(70% 0.12 250 / 0.18);
   --shadow: 0 18px 55px oklch(22% 0.018 250 / 0.13);
 }
+
+/* Foundation */
 
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
@@ -31,6 +35,8 @@ body.modal-open {
 }
 
 a { color: inherit; }
+
+/* App Layout */
 
 .shell {
   min-height: 100vh;
@@ -74,6 +80,8 @@ h1 {
   gap: 8px;
   margin: 18px 0;
 }
+
+/* Filters */
 
 .filter-panel {
   display: grid;
@@ -180,11 +188,6 @@ h1 {
   font: inherit;
 }
 
-.score-field input:focus {
-  outline: 2px solid oklch(70% 0.12 250 / 0.38);
-  border-color: var(--focus);
-}
-
 .filter-status {
   min-height: 20px;
   margin: -2px 0 8px;
@@ -259,6 +262,8 @@ h1 {
   margin-top: 2px;
 }
 
+/* Year Navigation */
+
 .year-picker {
   display: grid;
   gap: 6px;
@@ -283,11 +288,6 @@ h1 {
   color: var(--ink);
   padding: 0 10px;
   font: inherit;
-}
-
-.year-picker select:focus {
-  outline: 2px solid oklch(70% 0.12 250 / 0.38);
-  border-color: var(--focus);
 }
 
 .year-nav {
@@ -370,6 +370,8 @@ h1 {
   font-size: 0.68rem;
 }
 
+/* Toolbar */
+
 .content {
   padding: 28px 34px 60px;
   min-width: 0;
@@ -404,16 +406,20 @@ h1 {
   font: inherit;
 }
 
-.search:focus {
-  outline: 2px solid oklch(70% 0.12 250 / 0.38);
-  border-color: var(--focus);
-}
-
 .meta-line {
   justify-self: end;
   color: var(--muted);
   font-size: 0.86rem;
 }
+
+.score-field input:focus,
+.year-picker select:focus,
+.search:focus {
+  outline: var(--focus-ring);
+  border-color: var(--focus);
+}
+
+/* Catalog */
 
 .year-section {
   scroll-margin-top: 82px;
@@ -466,7 +472,7 @@ h1 {
 .card:hover,
 .card:focus-visible {
   border-color: var(--focus);
-  box-shadow: 0 0 0 2px oklch(70% 0.12 250 / 0.18);
+  box-shadow: var(--card-focus-ring);
   outline: none;
 }
 
@@ -626,6 +632,8 @@ h1 {
   color: var(--muted);
   background: var(--panel);
 }
+
+/* Detail Modal */
 
 .series-detail-backdrop {
   position: fixed;
@@ -844,9 +852,13 @@ h1 {
   font-variant-numeric: tabular-nums;
 }
 
+/* State Utilities */
+
 body.searching .empty.visible { display: block; }
 body.searching .year-section.empty-year { display: none; }
 .card.hidden { display: none; }
+
+/* Responsive */
 
 @media (max-width: 980px) {
   .shell { grid-template-columns: 1fr; }
