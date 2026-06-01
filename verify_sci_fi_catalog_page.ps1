@@ -29,6 +29,7 @@ $publicData = $publicDataJson | ConvertFrom-Json
 $publicDetails = if ($publicDetailsJson) { $publicDetailsJson | ConvertFrom-Json } else { $null }
 $vercelConfig = Get-Content -Path "vercel.json" -Raw
 $publicSchemaDoc = Get-TextOrEmpty "docs/public_data_schema.md"
+$releaseDeployNotes = Get-TextOrEmpty "docs/release_deploy_notes.md"
 $env:SERIES_LIBRARY_DB = Join-Path (Resolve-Path ".") "series_library.db"
 $dataJson = & node "scripts/read_catalog_for_verify.js"
 if ($LASTEXITCODE -ne 0) {
@@ -147,6 +148,7 @@ $hasStaticServerAllowlist = Test-ContainsAll $serverScript @('const publicFiles 
 $hasStaticServerHeadHandling = Test-ContainsAll $serverScript @('req.method === "HEAD"', '"content-length": content.length')
 $hasStaticServerHostConfig = Test-ContainsAll $serverScript @('process.env.HOST || "127.0.0.1"', 'server.listen(port, host')
 $hasDeployCheck = $packageJson.Contains('"deploy:check"') -and $packageJson.Contains('npm run deploy:check') -and (Test-ContainsAll $deployCheckScript @('requiredPublicFiles', 'requiredIgnoredPaths', 'vercel.json should rewrite /', 'Deploy readiness check passed.'))
+$hasReleaseDeployNotes = Test-ContainsAll $releaseDeployNotes @('Release and Deploy Notes', 'npm test', 'npm run migrate', 'git push', 'SQLite is not deployed', 'No browser update controls')
 
 [pscustomobject]@{
   Total = $data.total
@@ -203,6 +205,7 @@ $hasDeployCheck = $packageJson.Contains('"deploy:check"') -and $packageJson.Cont
   HasStaticServerHeadHandling = $hasStaticServerHeadHandling
   HasStaticServerHostConfig = $hasStaticServerHostConfig
   HasDeployCheck = $hasDeployCheck
+  HasReleaseDeployNotes = $hasReleaseDeployNotes
   HasYearSectionRenderContainment = $hasYearSectionRenderContainment
   HasIncrementalCatalogRender = $hasIncrementalCatalogRender
   HasTouchSizedControls = $hasTouchSizedControls
@@ -325,6 +328,7 @@ Assert-Condition $hasStaticServerAllowlist "Local static server should only expo
 Assert-Condition $hasStaticServerHeadHandling "Local static server should handle HEAD without sending a response body."
 Assert-Condition $hasStaticServerHostConfig "Local static server should allow HOST override while defaulting to loopback."
 Assert-Condition $hasDeployCheck "Deployment readiness should be covered by npm test."
+Assert-Condition $hasReleaseDeployNotes "Release and deploy notes should document test, data rebuild, and static deploy expectations."
 Assert-Condition $hasYearSectionRenderContainment "Year sections should use render containment for offscreen catalog performance."
 Assert-Condition $hasIncrementalCatalogRender "Catalog should incrementally render year sections after the initial viewport."
 Assert-Condition $hasTouchSizedControls "Primary interactive controls should meet 44px touch target sizing."
