@@ -29,7 +29,6 @@ function getSeasonsBySeries(db) {
       startYear: row.start_year,
       endYear: row.end_year,
       score: row.imdb_score,
-      votes: row.vote_count,
     });
   }
   return bySeries;
