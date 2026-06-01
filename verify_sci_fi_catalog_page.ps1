@@ -115,6 +115,7 @@ $years = @($data.years)
   HasYearSelect = $html.Contains('id="yearSelect"')
   HasCategoryFilter = $html.Contains('id="categoryFilter"')
   HasMobileFilterPanel = $html.Contains('id="filterPanel"') -and $css.Contains('.filter-summary') -and $pageSource.Contains('mobileFilterQuery')
+  HasNonOverlappingFilterMenus = $css.Contains('.category-menu') -and $css.Contains('margin-top: 5px') -and -not $css.Contains('top: calc(100% + 5px)')
   HasActionCategoryFilter = $html.Contains('class="category-choice" value="Action"')
   HasActionSeasonRefresh = $packageJson.Contains('refresh:action-seasons') -and (Get-Content -Path "scripts/refresh_open_series_seasons.ps1" -Raw).Contains('REFRESH_CATEGORY')
   HasCachedSeasonRefreshDefault = $updateScript.Contains('refresh_open_series_seasons.ps1') -and $updateScript.Contains('"-SkipExisting"')
@@ -207,6 +208,7 @@ if (-not $html.Contains('id="yearNav"')) { throw "Missing year navigation." }
 if (-not $html.Contains('id="yearSelect"')) { throw "Missing year select." }
 if (-not $html.Contains('id="categoryFilter"')) { throw "Missing category filter." }
 if (-not ($html.Contains('id="filterPanel"') -and $css.Contains('.filter-summary') -and $pageSource.Contains('mobileFilterQuery'))) { throw "Mobile filters should collapse behind a responsive filter panel." }
+if (-not ($css.Contains('.category-menu') -and $css.Contains('margin-top: 5px') -and -not $css.Contains('top: calc(100% + 5px)'))) { throw "Filter menus should not overlap adjacent filter controls." }
 if (-not $html.Contains('id="trendFilter"')) { throw "Missing trend filter." }
 if (-not ($html.Contains('class="trend-choice"') -and $html.Contains('value="up"') -and $html.Contains('value="down"') -and $html.Contains('value="disaster"'))) { throw "Missing trend filter choices." }
 if (-not $pageSource.Contains('"decade-group"')) { throw "Missing decade group renderer." }
