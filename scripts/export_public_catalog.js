@@ -14,7 +14,7 @@ function getMetadata(db) {
 
 function getSeasonsBySeries(db) {
   const rows = db.prepare(`
-    SELECT imdb_id, season_number, label, episode_count, start_year, end_year, imdb_score, vote_count
+    SELECT imdb_id, season_number, episode_count, start_year, end_year, imdb_score
     FROM series_seasons
     ORDER BY imdb_id ASC, season_number ASC
   `).all();
@@ -24,7 +24,6 @@ function getSeasonsBySeries(db) {
     if (!bySeries.has(row.imdb_id)) bySeries.set(row.imdb_id, []);
     bySeries.get(row.imdb_id).push({
       season: row.season_number,
-      label: row.label || `Season ${row.season_number}`,
       episodeCount: row.episode_count,
       startYear: row.start_year,
       endYear: row.end_year,

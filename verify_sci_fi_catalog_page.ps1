@@ -37,6 +37,7 @@ $publicIndexRowsWithUnusedMetadata = @($publicSeries | Where-Object {
 })
 $publicDetailRowsWithDetails = @($publicDetailSeries | Where-Object { $_.PSObject.Properties.Name -contains "synopsis" -and $_.PSObject.Properties.Name -contains "seasonDetails" })
 $publicDetailSeasonRowsWithVotes = @($publicDetailSeries | ForEach-Object { @($_.seasonDetails) } | Where-Object { $_.PSObject.Properties.Name -contains "votes" })
+$publicDetailSeasonRowsWithLabels = @($publicDetailSeries | ForEach-Object { @($_.seasonDetails) } | Where-Object { $_.PSObject.Properties.Name -contains "label" })
 $badVotes = @($series | Where-Object { [int]$_.votes -lt 5000 })
 $missingPosters = @($series | Where-Object { [string]::IsNullOrWhiteSpace($_.poster) })
 $missingSynopsis = @($series | Where-Object { [string]::IsNullOrWhiteSpace($_.synopsis) -or $_.synopsis -eq "No synopsis available." })
@@ -76,6 +77,7 @@ $years = @($data.years)
   PublicIndexRowsWithUnusedMetadata = $publicIndexRowsWithUnusedMetadata.Count
   PublicDetailRowsWithDetails = $publicDetailRowsWithDetails.Count
   PublicDetailSeasonRowsWithVotes = $publicDetailSeasonRowsWithVotes.Count
+  PublicDetailSeasonRowsWithLabels = $publicDetailSeasonRowsWithLabels.Count
   SeriesRows = $series.Count
   Years = $years.Count
   FirstYear = ($years | Sort-Object { [int]$_.year } | Select-Object -First 1).year
@@ -170,6 +172,7 @@ if ($publicIndexRowsWithPosterDimensions.Count -gt 0) { throw "Public index JSON
 if ($publicIndexRowsWithUnusedMetadata.Count -gt 0) { throw "Public index JSON should not include metadata fields unused by the UI." }
 if ($publicDetailRowsWithDetails.Count -ne $data.total) { throw "Public detail JSON should include one detail payload per series." }
 if ($publicDetailSeasonRowsWithVotes.Count -gt 0) { throw "Public detail JSON should not include unused season vote counts." }
+if ($publicDetailSeasonRowsWithLabels.Count -gt 0) { throw "Public detail JSON should not include unused season label fields." }
 if ($years.Count -lt 60) { throw "Expected at least 60 years with eligible series after extending to 1960." }
 if ((($years | Sort-Object { [int]$_.year } | Select-Object -First 1).year) -gt 1961) { throw "Expected catalog to include early 1960s entries." }
 if ($badVotes.Count -gt 0) { throw "Found rows below 5000 votes." }
