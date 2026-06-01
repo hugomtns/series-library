@@ -27,10 +27,6 @@ html.modal-open {
 }
 
 body.modal-open {
-  position: fixed;
-  left: 0;
-  right: 0;
-  width: 100%;
   overflow: hidden;
 }
 
@@ -602,6 +598,7 @@ h1 {
   place-items: center;
   padding: 24px;
   background: oklch(18% 0.018 250 / 0.45);
+  overscroll-behavior: contain;
 }
 
 .series-detail-backdrop[hidden] { display: none; }
@@ -661,6 +658,7 @@ h1 {
 
 .series-detail-body {
   overflow: auto;
+  overscroll-behavior: contain;
   padding: 18px;
   display: grid;
   gap: 16px;

@@ -159,7 +159,7 @@ $years = @($data.years)
   HasClickableCards = $pageSource.Contains('role="button"') -and $pageSource.Contains('data-id="${escapeText(item.id)}"')
   HasCardSpaceActivation = $pageSource.Contains('event.key !== "Enter" && event.key !== " "')
   HasModalFocusTrap = $pageSource.Contains('function trapModalFocus') -and $pageSource.Contains('focusableSelectors')
-  HasModalScrollLock = $pageSource.Contains('function lockPageScroll') -and $pageSource.Contains('function unlockPageScroll') -and $pageSource.Contains('preventScroll: true') -and $pageSource.Contains('requestAnimationFrame(() => window.scrollTo(0, restoreScrollY))') -and $css.Contains('body.modal-open')
+  HasModalScrollLock = $pageSource.Contains('function lockPageScroll') -and $pageSource.Contains('function unlockPageScroll') -and $pageSource.Contains('const modalScrollY = window.scrollY') -and $pageSource.Contains('window.scrollTo(0, modalScrollY)') -and $css.Contains('body.modal-open') -and $css.Contains('overscroll-behavior: contain') -and -not $pageSource.Contains('body.style.top') -and -not $pageSource.Contains('lastSeriesTrigger.focus')
   HasSeriesDetailFooter = $pageSource.Contains('class="series-detail-foot"')
   HasSeriesDetailDone = $pageSource.Contains('id="seriesDetailDone"')
   HasSeriesDetailImdbLink = $pageSource.Contains('<a class="imdb-link fact"')
@@ -263,7 +263,7 @@ if ($pageSource.Contains('class="detail-fact"')) { throw "Detail modal should no
 if (-not ($pageSource.Contains('role="button"') -and $pageSource.Contains('data-id="${escapeText(item.id)}"'))) { throw "Series cards should be keyboard-openable detail triggers." }
 if (-not $pageSource.Contains('event.key !== "Enter" && event.key !== " "')) { throw "Series cards should open with Space as well as Enter." }
 if (-not ($pageSource.Contains('function trapModalFocus') -and $pageSource.Contains('focusableSelectors'))) { throw "Series detail modal should trap keyboard focus while open." }
-if (-not ($pageSource.Contains('function lockPageScroll') -and $pageSource.Contains('function unlockPageScroll') -and $pageSource.Contains('preventScroll: true') -and $pageSource.Contains('requestAnimationFrame(() => window.scrollTo(0, restoreScrollY))') -and $css.Contains('body.modal-open'))) { throw "Series detail modal should lock background scrolling while open." }
+if (-not ($pageSource.Contains('function lockPageScroll') -and $pageSource.Contains('function unlockPageScroll') -and $pageSource.Contains('const modalScrollY = window.scrollY') -and $pageSource.Contains('window.scrollTo(0, modalScrollY)') -and $css.Contains('body.modal-open') -and $css.Contains('overscroll-behavior: contain') -and -not $pageSource.Contains('body.style.top') -and -not $pageSource.Contains('lastSeriesTrigger.focus'))) { throw "Series detail modal should lock background scrolling while open without forcing focus-driven scroll restoration." }
 if ($pageSource.Contains('class="series-detail-foot"')) { throw "Series detail modal should not have a footer action bar." }
 if ($pageSource.Contains('id="seriesDetailDone"')) { throw "Series detail modal should only use the close button." }
 if ($pageSource.Contains('<a class="imdb-link fact"')) { throw "Series detail modal should not duplicate the IMDb link." }
