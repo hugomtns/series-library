@@ -142,8 +142,19 @@ function getTrendKind(item) {
   return null;
 }
 
+function omitNullValues(value) {
+  if (Array.isArray(value)) return value.map(omitNullValues);
+  if (!value || typeof value !== "object") return value;
+
+  return Object.fromEntries(
+    Object.entries(value)
+      .filter(([, entryValue]) => entryValue !== null && entryValue !== undefined)
+      .map(([key, entryValue]) => [key, omitNullValues(entryValue)])
+  );
+}
+
 const catalog = getCatalog();
-fs.writeFileSync(outPath, `${JSON.stringify(catalog.index)}\n`);
-fs.writeFileSync(detailsOutPath, `${JSON.stringify(catalog.details)}\n`);
+fs.writeFileSync(outPath, `${JSON.stringify(omitNullValues(catalog.index))}\n`);
+fs.writeFileSync(detailsOutPath, `${JSON.stringify(omitNullValues(catalog.details))}\n`);
 console.log(`Exported ${catalog.index.total} series to ${outPath}`);
 console.log(`Exported ${catalog.details.total} series details to ${detailsOutPath}`);

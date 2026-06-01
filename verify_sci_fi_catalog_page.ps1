@@ -9,8 +9,10 @@ $catalogBuilder = Get-Content -Path "build_sci_fi_catalog_page.ps1" -Raw
 $seasonRefreshScript = Get-Content -Path "scripts/refresh_open_series_seasons.ps1" -Raw
 $updateScript = Get-Content -Path "scripts/update_library.js" -Raw
 $verifyScript = Get-Content -Path "verify_sci_fi_catalog_page.ps1" -Raw
-$publicData = Get-Content -Path "series_library_data.json" -Raw | ConvertFrom-Json
-$publicDetails = if (Test-Path -Path "series_library_details.json") { Get-Content -Path "series_library_details.json" -Raw | ConvertFrom-Json } else { $null }
+$publicDataJson = Get-Content -Path "series_library_data.json" -Raw
+$publicDetailsJson = if (Test-Path -Path "series_library_details.json") { Get-Content -Path "series_library_details.json" -Raw } else { "" }
+$publicData = $publicDataJson | ConvertFrom-Json
+$publicDetails = if ($publicDetailsJson) { $publicDetailsJson | ConvertFrom-Json } else { $null }
 $vercelConfig = Get-Content -Path "vercel.json" -Raw
 $env:SERIES_LIBRARY_DB = Join-Path (Resolve-Path ".") "series_library.db"
 $dataJson = & node "scripts/read_catalog_for_verify.js"
@@ -38,6 +40,7 @@ $publicIndexRowsWithUnusedMetadata = @($publicSeries | Where-Object {
 $publicDetailRowsWithDetails = @($publicDetailSeries | Where-Object { $_.PSObject.Properties.Name -contains "synopsis" -and $_.PSObject.Properties.Name -contains "seasonDetails" })
 $publicDetailSeasonRowsWithVotes = @($publicDetailSeries | ForEach-Object { @($_.seasonDetails) } | Where-Object { $_.PSObject.Properties.Name -contains "votes" })
 $publicDetailSeasonRowsWithLabels = @($publicDetailSeries | ForEach-Object { @($_.seasonDetails) } | Where-Object { $_.PSObject.Properties.Name -contains "label" })
+$publicPayloadHasNullFields = $publicDataJson.Contains(':null') -or $publicDetailsJson.Contains(':null')
 $badVotes = @($series | Where-Object { [int]$_.votes -lt 5000 })
 $missingPosters = @($series | Where-Object { [string]::IsNullOrWhiteSpace($_.poster) })
 $missingSynopsis = @($series | Where-Object { [string]::IsNullOrWhiteSpace($_.synopsis) -or $_.synopsis -eq "No synopsis available." })
@@ -78,6 +81,7 @@ $years = @($data.years)
   PublicDetailRowsWithDetails = $publicDetailRowsWithDetails.Count
   PublicDetailSeasonRowsWithVotes = $publicDetailSeasonRowsWithVotes.Count
   PublicDetailSeasonRowsWithLabels = $publicDetailSeasonRowsWithLabels.Count
+  PublicPayloadHasNullFields = $publicPayloadHasNullFields
   SeriesRows = $series.Count
   Years = $years.Count
   FirstYear = ($years | Sort-Object { [int]$_.year } | Select-Object -First 1).year
@@ -173,6 +177,7 @@ if ($publicIndexRowsWithUnusedMetadata.Count -gt 0) { throw "Public index JSON s
 if ($publicDetailRowsWithDetails.Count -ne $data.total) { throw "Public detail JSON should include one detail payload per series." }
 if ($publicDetailSeasonRowsWithVotes.Count -gt 0) { throw "Public detail JSON should not include unused season vote counts." }
 if ($publicDetailSeasonRowsWithLabels.Count -gt 0) { throw "Public detail JSON should not include unused season label fields." }
+if ($publicPayloadHasNullFields) { throw "Public JSON should omit null-valued fields." }
 if ($years.Count -lt 60) { throw "Expected at least 60 years with eligible series after extending to 1960." }
 if ((($years | Sort-Object { [int]$_.year } | Select-Object -First 1).year) -gt 1961) { throw "Expected catalog to include early 1960s entries." }
 if ($badVotes.Count -gt 0) { throw "Found rows below 5000 votes." }
