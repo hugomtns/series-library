@@ -211,7 +211,6 @@ function renderTrendTag(item) {
   return `<span class="trend-tag trend-${kind}" title="${escapeText(title)}">${label}</span>`;
 }
 
-const yearsByDecade = new Map();
 function itemMatchesCategory(item) {
   if (item.categories.includes("Animation") && !selectedCategories.has("Animation")) {
     return false;
@@ -278,40 +277,6 @@ function renderYearNavigation() {
 }
 
 renderYearNavigation();
-
-/*
-for (const yearInfo of data.years) {
-  const option = document.createElement("option");
-  option.value = String(yearInfo.year);
-  option.textContent = `${yearInfo.year} (${yearInfo.count})`;
-  yearSelect.appendChild(option);
-
-  const decade = Math.floor(yearInfo.year / 10) * 10;
-  if (!yearsByDecade.has(decade)) yearsByDecade.set(decade, []);
-  yearsByDecade.get(decade).push(yearInfo);
-}
-
-for (const [decade, years] of yearsByDecade) {
-  const details = document.createElement("details");
-  details.className = "decade-group";
-  details.dataset.decade = String(decade);
-  details.open = decade === Math.floor(data.years[0].year / 10) * 10;
-  const decadeCount = years.reduce((sum, year) => sum + year.count, 0);
-  details.innerHTML = `
-    <summary><span>${decade}s</span><span class="decade-count">${decadeCount} series</span></summary>
-    <div class="decade-years"></div>
-  `;
-  const decadeYears = details.querySelector(".decade-years");
-  for (const yearInfo of years) {
-    const link = document.createElement("a");
-    link.href = `#year-${yearInfo.year}`;
-    link.dataset.year = String(yearInfo.year);
-    link.innerHTML = `<span>${yearInfo.year}</span><small>${yearInfo.count}</small>`;
-    decadeYears.appendChild(link);
-  }
-  yearNav.appendChild(details);
-}
-*/
 
 yearSelect.addEventListener("change", () => {
   const target = document.getElementById(`year-${yearSelect.value}`);

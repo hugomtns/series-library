@@ -74,6 +74,7 @@ $years = @($data.years)
   HasStylesheet = $html.Contains('href="series_library.css"')
   HasExternalClientScript = $html.Contains('<script type="module" src="series_library.js"></script>') -and $clientJs.Contains('async function loadCatalogData')
   HasInlineModuleScript = $html.Contains('<script type="module">')
+  HasDeadYearNavigationCode = $clientJs.Contains('for (const yearInfo of data.years)')
   HasInlineStyleBlock = $html.Contains('<style>')
   HasCatalogBuilderHtmlOutput = $catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')
   HasExtractedCss = $css.Contains('.card') -and $css.Contains('.series-detail-modal')
@@ -149,6 +150,7 @@ if (-not ((Get-Content -Path "build_combined_genre_catalog_source.ps1" -Raw).Con
 if (-not $html.Contains('href="series_library.css"')) { throw "Missing extracted stylesheet link." }
 if (-not ($html.Contains('<script type="module" src="series_library.js"></script>') -and $clientJs.Contains('async function loadCatalogData'))) { throw "Public page should load extracted client JavaScript." }
 if ($html.Contains('<script type="module">')) { throw "HTML should not contain the inline app module." }
+if ($clientJs.Contains('for (const yearInfo of data.years)')) { throw "Client script should not keep dead year navigation code." }
 if ($html.Contains('<style>')) { throw "HTML should not contain an inline style block." }
 if ($catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')) { throw "Catalog builder should not contain dead HTML generation code." }
 if (-not ($css.Contains('.card') -and $css.Contains('.series-detail-modal'))) { throw "Extracted stylesheet is missing expected UI styles." }
