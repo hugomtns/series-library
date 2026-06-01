@@ -31,6 +31,7 @@ $publicDetails = if ($publicDetailsJson) { $publicDetailsJson | ConvertFrom-Json
 $vercelConfig = Get-Content -Path "vercel.json" -Raw
 $publicSchemaDoc = Get-TextOrEmpty "docs/public_data_schema.md"
 $releaseDeployNotes = Get-TextOrEmpty "docs/release_deploy_notes.md"
+$ciWorkflow = Get-TextOrEmpty ".github/workflows/test.yml"
 $env:SERIES_LIBRARY_DB = Join-Path (Resolve-Path ".") "series_library.db"
 $dataJson = & node "scripts/read_catalog_for_verify.js"
 if ($LASTEXITCODE -ne 0) {
@@ -151,6 +152,7 @@ $hasStaticServerHostConfig = Test-ContainsAll $serverScript @('process.env.HOST 
 $hasDeployCheck = $packageJson.Contains('"deploy:check"') -and $packageJson.Contains('npm run deploy:check') -and (Test-ContainsAll $deployCheckScript @('requiredPublicFiles', 'requiredIgnoredPaths', 'vercel.json should rewrite /', 'Deploy readiness check passed.'))
 $hasReleaseDeployNotes = Test-ContainsAll $releaseDeployNotes @('Release and Deploy Notes', 'npm test', 'npm run migrate', 'git push', 'SQLite is not deployed', 'No browser update controls')
 $hasPosterDeliveryReport = $packageJson.Contains('"posters:report"') -and (Test-ContainsAll $posterDeliveryReportScript @('series_library_data.json', 'defaultAmazonVariantUrls', 'currentDeliveryControls', 'nextStepIfBandwidthIsHigh'))
+$hasCiWorkflow = Test-ContainsAll $ciWorkflow @('runs-on: windows-latest', 'actions/setup-node@v4', 'node-version: 22', 'npm ci', 'npm test')
 
 [pscustomobject]@{
   Total = $data.total
@@ -209,6 +211,7 @@ $hasPosterDeliveryReport = $packageJson.Contains('"posters:report"') -and (Test-
   HasDeployCheck = $hasDeployCheck
   HasReleaseDeployNotes = $hasReleaseDeployNotes
   HasPosterDeliveryReport = $hasPosterDeliveryReport
+  HasCiWorkflow = $hasCiWorkflow
   HasYearSectionRenderContainment = $hasYearSectionRenderContainment
   HasIncrementalCatalogRender = $hasIncrementalCatalogRender
   HasTouchSizedControls = $hasTouchSizedControls
@@ -333,6 +336,7 @@ Assert-Condition $hasStaticServerHostConfig "Local static server should allow HO
 Assert-Condition $hasDeployCheck "Deployment readiness should be covered by npm test."
 Assert-Condition $hasReleaseDeployNotes "Release and deploy notes should document test, data rebuild, and static deploy expectations."
 Assert-Condition $hasPosterDeliveryReport "Poster delivery should have a local report before adding thumbnail/proxy complexity."
+Assert-Condition $hasCiWorkflow "GitHub Actions should run npm test on push and pull requests."
 Assert-Condition $hasYearSectionRenderContainment "Year sections should use render containment for offscreen catalog performance."
 Assert-Condition $hasIncrementalCatalogRender "Catalog should incrementally render year sections after the initial viewport."
 Assert-Condition $hasTouchSizedControls "Primary interactive controls should meet 44px touch target sizing."
