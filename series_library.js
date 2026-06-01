@@ -727,18 +727,34 @@ function trendSelectionChanged() {
   applyFilters();
 }
 
+function closeFilterMenu(filter, trigger, restoreFocus = false) {
+  filter.classList.remove("open");
+  trigger.setAttribute("aria-expanded", "false");
+  if (restoreFocus) trigger.focus();
+}
+
+function closeOpenFilterMenu(restoreFocus = false) {
+  if (categoryFilter.classList.contains("open")) {
+    closeFilterMenu(categoryFilter, categoryTrigger, restoreFocus);
+    return true;
+  }
+  if (trendFilter.classList.contains("open")) {
+    closeFilterMenu(trendFilter, trendTrigger, restoreFocus);
+    return true;
+  }
+  return false;
+}
+
 categoryTrigger.addEventListener("click", () => {
   const isOpen = categoryFilter.classList.toggle("open");
   categoryTrigger.setAttribute("aria-expanded", String(isOpen));
-  trendFilter.classList.remove("open");
-  trendTrigger.setAttribute("aria-expanded", "false");
+  closeFilterMenu(trendFilter, trendTrigger);
 });
 
 trendTrigger.addEventListener("click", () => {
   const isOpen = trendFilter.classList.toggle("open");
   trendTrigger.setAttribute("aria-expanded", String(isOpen));
-  categoryFilter.classList.remove("open");
-  categoryTrigger.setAttribute("aria-expanded", "false");
+  closeFilterMenu(categoryFilter, categoryTrigger);
 });
 
 categoryAll.addEventListener("change", () => {
@@ -769,12 +785,10 @@ for (const input of trendChoices) {
 
 document.addEventListener("click", event => {
   if (!categoryFilter.contains(event.target)) {
-    categoryFilter.classList.remove("open");
-    categoryTrigger.setAttribute("aria-expanded", "false");
+    closeFilterMenu(categoryFilter, categoryTrigger);
   }
   if (!trendFilter.contains(event.target)) {
-    trendFilter.classList.remove("open");
-    trendTrigger.setAttribute("aria-expanded", "false");
+    closeFilterMenu(trendFilter, trendTrigger);
   }
 });
 
@@ -785,6 +799,10 @@ minScoreInput.addEventListener("input", scheduleApplyFilters);
 maxScoreInput.addEventListener("input", scheduleApplyFilters);
 
 document.addEventListener("keydown", event => {
-  if (event.key === "Escape" && !seriesDetailModal.hidden) closeSeriesDetail();
+  if (event.key === "Escape" && !seriesDetailModal.hidden) {
+    closeSeriesDetail();
+  } else if (event.key === "Escape" && closeOpenFilterMenu(true)) {
+    event.preventDefault();
+  }
   trapModalFocus(event);
 });
