@@ -185,6 +185,43 @@ h1 {
   border-color: var(--focus);
 }
 
+.filter-status {
+  min-height: 20px;
+  margin: -2px 0 8px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  line-height: 1.35;
+}
+
+.reset-filters {
+  width: 100%;
+  min-height: 44px;
+  margin: 0 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: oklch(38% 0.105 35);
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 750;
+  cursor: pointer;
+  transition: border-color 160ms ease, background-color 160ms ease, color 160ms ease;
+}
+
+.reset-filters:hover,
+.reset-filters:focus-visible {
+  outline: none;
+  border-color: var(--focus);
+  background: var(--accent-soft);
+}
+
+.reset-filters:disabled {
+  cursor: default;
+  opacity: 0.55;
+  color: var(--muted);
+  background: var(--panel);
+}
+
 .category-option:hover {
   background: var(--panel-2);
 }
@@ -854,13 +891,6 @@ body.searching .year-section.empty-year { display: none; }
     font-weight: 650;
     text-transform: uppercase;
     letter-spacing: 0.04em;
-  }
-  .filter-panel[open] .filter-summary span:last-child {
-    font-size: 0;
-  }
-  .filter-panel[open] .filter-summary span:last-child::after {
-    content: "Close";
-    font-size: 0.72rem;
   }
   .filter-panel-body {
     padding-top: 14px;

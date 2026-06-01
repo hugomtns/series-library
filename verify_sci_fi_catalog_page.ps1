@@ -107,9 +107,11 @@ $hasIncrementalCatalogRender = Test-ContainsAll $pageSource @('requestIdleCallba
 $hasTouchSizedControls = -not ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px'))
 $usesKeyedSeriesDetails = Test-ContainsAll $pageSource @('details.series || {}', 'detailMap[item.id]')
 $hasVercelRootRewrite = Test-ContainsAll $vercelConfig @('"source": "/"', '"destination": "/series_library.html"')
-$hasMobileFilterPanel = (Test-ContainsAll $html @('id="filterPanel"')) -and $css.Contains('.filter-summary') -and $pageSource.Contains('mobileFilterQuery')
+$hasMobileFilterPanel = (Test-ContainsAll $html @('id="filterPanel"', 'id="filterPanelState"')) -and $css.Contains('.filter-summary') -and (Test-ContainsAll $pageSource @('mobileFilterQuery', 'function syncFilterPanelState'))
 $hasNonOverlappingFilterMenus = $css.Contains('.category-menu') -and $css.Contains('margin-top: 5px') -and -not $css.Contains('top: calc(100% + 5px)')
 $hasFilterMenuEscape = Test-ContainsAll $pageSource @('function closeOpenFilterMenu', 'closeOpenFilterMenu(true)')
+$hasFilterReset = (Test-ContainsAll $html @('id="filterStatus"', 'id="resetFilters"')) -and (Test-ContainsAll $pageSource @('function updateFilterStatus', 'resetFilters.addEventListener("click"'))
+$hasLiveFilterResults = (Test-ContainsAll $html @('id="metaLine" aria-live="polite"', 'id="empty" role="status"'))
 $hasActionSeasonRefresh = $packageJson.Contains('refresh:action-seasons') -and $seasonRefreshScript.Contains('REFRESH_CATEGORY')
 $hasCachedSeasonRefreshDefault = Test-ContainsAll $updateScript @('refresh_open_series_seasons.ps1', '"-SkipExisting"')
 $hasParallelSeasonRefresh = (Test-ContainsAll $seasonRefreshScript @('[int]$Concurrency', 'Start-Job')) -and $updateScript.Contains('"-Concurrency", "2"')
@@ -188,6 +190,8 @@ $hasSharedTrendThresholds = Test-ContainsAll $trendRulesScript @('minRatedSeason
   HasMobileFilterPanel = $hasMobileFilterPanel
   HasNonOverlappingFilterMenus = $hasNonOverlappingFilterMenus
   HasFilterMenuEscape = $hasFilterMenuEscape
+  HasFilterReset = $hasFilterReset
+  HasLiveFilterResults = $hasLiveFilterResults
   HasActionCategoryFilter = $html.Contains('class="category-choice" value="Action"')
   HasActionSeasonRefresh = $hasActionSeasonRefresh
   HasCachedSeasonRefreshDefault = $hasCachedSeasonRefreshDefault
@@ -296,6 +300,8 @@ if (-not $html.Contains('id="categoryFilter"')) { throw "Missing category filter
 Assert-Condition $hasMobileFilterPanel "Mobile filters should collapse behind a responsive filter panel."
 Assert-Condition $hasNonOverlappingFilterMenus "Filter menus should not overlap adjacent filter controls."
 Assert-Condition $hasFilterMenuEscape "Filter menus should close with Escape and restore trigger focus."
+Assert-Condition $hasFilterReset "Filters should expose a reset control and active-filter status."
+Assert-Condition $hasLiveFilterResults "Filter result counts should be announced to assistive technology."
 if (-not $html.Contains('id="trendFilter"')) { throw "Missing trend filter." }
 Assert-Condition $hasTrendFilterChoices "Missing trend filter choices."
 if (-not $pageSource.Contains('"decade-group"')) { throw "Missing decade group renderer." }

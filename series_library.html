@@ -21,7 +21,7 @@
       <details class="filter-panel" id="filterPanel" open>
         <summary class="filter-summary">
           <span>Filters and years</span>
-          <span>Open</span>
+          <span id="filterPanelState">Open</span>
         </summary>
         <div class="filter-panel-body">
           <div class="category-filter" id="categoryFilter" aria-label="Category filter">
@@ -54,6 +54,8 @@
               <input id="maxScore" type="number" min="1" max="10" step="0.1" inputmode="decimal" placeholder="10.0">
             </div>
           </div>
+          <div class="filter-status" id="filterStatus" aria-live="polite">No filters active</div>
+          <button type="button" class="reset-filters" id="resetFilters" disabled>Reset filters</button>
           <label class="year-picker" for="yearSelect">
             <span>Jump to year</span>
             <select id="yearSelect"></select>
@@ -67,10 +69,10 @@
       <div class="toolbar">
         <input class="search" id="search" type="search" placeholder="Search titles..." aria-label="Search titles">
         <div class="toolbar-actions">
-          <div class="meta-line" id="metaLine"></div>
+          <div class="meta-line" id="metaLine" aria-live="polite"></div>
         </div>
       </div>
-      <div class="empty" id="empty">No matching series.</div>
+      <div class="empty" id="empty" role="status">No matching series.</div>
       <div id="catalog"></div>
     </main>
   </div>

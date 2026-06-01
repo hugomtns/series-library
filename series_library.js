@@ -32,12 +32,15 @@ const categoryTrigger = document.getElementById("categoryTrigger");
 const categoryAll = document.getElementById("categoryAll");
 const categoryChoices = Array.from(document.querySelectorAll(".category-choice"));
 const filterPanel = document.getElementById("filterPanel");
+const filterPanelState = document.getElementById("filterPanelState");
 const trendFilter = document.getElementById("trendFilter");
 const trendTrigger = document.getElementById("trendTrigger");
 const trendAll = document.getElementById("trendAll");
 const trendChoices = Array.from(document.querySelectorAll(".trend-choice"));
 const minScoreInput = document.getElementById("minScore");
 const maxScoreInput = document.getElementById("maxScore");
+const filterStatus = document.getElementById("filterStatus");
+const resetFilters = document.getElementById("resetFilters");
 const seriesDetailModal = document.getElementById("seriesDetailModal");
 const seriesDetailBody = document.getElementById("seriesDetailBody");
 const catalog = document.getElementById("catalog");
@@ -62,10 +65,16 @@ const mobileFilterQuery = window.matchMedia("(max-width: 620px)");
 
 function syncFilterPanelForViewport(event = mobileFilterQuery) {
   filterPanel.open = !event.matches;
+  syncFilterPanelState();
+}
+
+function syncFilterPanelState() {
+  filterPanelState.textContent = filterPanel.open ? "Close" : "Open";
 }
 
 syncFilterPanelForViewport();
 mobileFilterQuery.addEventListener("change", syncFilterPanelForViewport);
+filterPanel.addEventListener("toggle", syncFilterPanelState);
 
 totalCount.textContent = data.total.toLocaleString();
 yearCount.textContent = data.years.length.toLocaleString();
@@ -86,8 +95,11 @@ function updateCategoryTrigger() {
   } else if (selectedCategories.size === 0) {
     categoryTrigger.textContent = "No categories";
     categoryAll.checked = false;
+  } else if (selectedCategories.size === 1) {
+    categoryTrigger.textContent = Array.from(selectedCategories)[0];
+    categoryAll.checked = false;
   } else {
-    categoryTrigger.textContent = Array.from(selectedCategories).join(", ");
+    categoryTrigger.textContent = `${selectedCategories.size} categories selected`;
     categoryAll.checked = false;
   }
 
@@ -104,8 +116,11 @@ function updateTrendTrigger() {
   } else if (selectedTrends.size === 0) {
     trendTrigger.textContent = "No trends";
     trendAll.checked = false;
+  } else if (selectedTrends.size === 1) {
+    trendTrigger.textContent = labels[Array.from(selectedTrends)[0]];
+    trendAll.checked = false;
   } else {
-    trendTrigger.textContent = Array.from(selectedTrends).map(value => labels[value]).join(", ");
+    trendTrigger.textContent = `${selectedTrends.size} trends selected`;
     trendAll.checked = false;
   }
 
@@ -457,6 +472,27 @@ function parseScoreInput(input, fallback) {
   return Math.max(1, Math.min(10, Math.round(value * 10) / 10));
 }
 
+function hasActiveFilters() {
+  return search.value.trim().length > 0 ||
+    !allCategoriesSelected() ||
+    !allTrendsSelected() ||
+    minScoreInput.value.trim().length > 0 ||
+    maxScoreInput.value.trim().length > 0;
+}
+
+function updateFilterStatus(visibleCards = data.total) {
+  const active = [];
+  if (search.value.trim()) active.push("title search");
+  if (!allCategoriesSelected()) active.push(selectedCategories.size === 1 ? "1 category" : `${selectedCategories.size} categories`);
+  if (!allTrendsSelected()) active.push(selectedTrends.size === 1 ? "1 trend" : `${selectedTrends.size} trends`);
+  if (minScoreInput.value.trim() || maxScoreInput.value.trim()) active.push("score range");
+
+  resetFilters.disabled = active.length === 0;
+  filterStatus.textContent = active.length
+    ? `${visibleCards.toLocaleString()} matches: ${active.join(", ")}`
+    : "No filters active";
+}
+
 function cardMatchesScore(card) {
   const score = Number(card.dataset.score);
   const minScore = parseScoreInput(minScoreInput, 1);
@@ -485,7 +521,7 @@ function applyFilters() {
   const query = search.value.trim().toLowerCase();
   const minHasValue = minScoreInput.value.trim().length > 0;
   const maxHasValue = maxScoreInput.value.trim().length > 0;
-  const searching = query.length > 0 || !allCategoriesSelected() || !allTrendsSelected() || minHasValue || maxHasValue;
+  const searching = hasActiveFilters();
   document.body.classList.toggle("searching", searching);
   let visibleCards = 0;
   let visibleYears = 0;
@@ -506,6 +542,7 @@ function applyFilters() {
   yearCount.textContent = visibleYears.toLocaleString();
   empty.classList.toggle("visible", searching && visibleCards === 0);
   metaLine.textContent = query || !allCategoriesSelected() || !allTrendsSelected() || minHasValue || maxHasValue ? `${visibleCards.toLocaleString()} matching series` : `Generated ${data.generatedAt}`;
+  updateFilterStatus(visibleCards);
 }
 
 function categorySelectionChanged() {
@@ -594,6 +631,19 @@ search.addEventListener("input", () => {
 });
 minScoreInput.addEventListener("input", scheduleApplyFilters);
 maxScoreInput.addEventListener("input", scheduleApplyFilters);
+
+resetFilters.addEventListener("click", () => {
+  search.value = "";
+  minScoreInput.value = "";
+  maxScoreInput.value = "";
+  selectedCategories = new Set(categoryChoices.map(input => input.value));
+  selectedTrends = new Set(trendChoices.map(input => input.value));
+  updateCategoryTrigger();
+  updateTrendTrigger();
+  renderYearNavigation();
+  navLinks = Array.from(yearNav.querySelectorAll("a"));
+  applyFilters();
+});
 
 document.addEventListener("keydown", event => {
   if (event.key === "Escape" && !seriesDetailModal.hidden) {
