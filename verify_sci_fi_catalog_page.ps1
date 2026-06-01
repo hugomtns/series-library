@@ -112,6 +112,8 @@ $hasNonOverlappingFilterMenus = $css.Contains('.category-menu') -and $css.Contai
 $hasFilterMenuEscape = Test-ContainsAll $pageSource @('function closeOpenFilterMenu', 'closeOpenFilterMenu(true)')
 $hasFilterReset = (Test-ContainsAll $html @('id="filterStatus"', 'id="resetFilters"')) -and (Test-ContainsAll $pageSource @('function updateFilterStatus', 'resetFilters.addEventListener("click"'))
 $hasLiveFilterResults = (Test-ContainsAll $html @('id="metaLine" aria-live="polite"', 'id="empty" role="status"'))
+$hasPosterPriorityLoading = Test-ContainsAll $pageSource @('priorityPosterBudgetStart', 'priorityPosterCount', 'isPriority ? "eager" : "lazy"', 'isPriority ? "high" : "auto"', 'decoding="async"')
+$hasPosterErrorFallback = Test-ContainsAll $pageSource @('function handlePosterImageError', 'addEventListener("error", handlePosterImageError, true)')
 $hasActionSeasonRefresh = $packageJson.Contains('refresh:action-seasons') -and $seasonRefreshScript.Contains('REFRESH_CATEGORY')
 $hasCachedSeasonRefreshDefault = Test-ContainsAll $updateScript @('refresh_open_series_seasons.ps1', '"-SkipExisting"')
 $hasParallelSeasonRefresh = (Test-ContainsAll $seasonRefreshScript @('[int]$Concurrency', 'Start-Job')) -and $updateScript.Contains('"-Concurrency", "2"')
@@ -192,6 +194,8 @@ $hasSharedTrendThresholds = Test-ContainsAll $trendRulesScript @('minRatedSeason
   HasFilterMenuEscape = $hasFilterMenuEscape
   HasFilterReset = $hasFilterReset
   HasLiveFilterResults = $hasLiveFilterResults
+  HasPosterPriorityLoading = $hasPosterPriorityLoading
+  HasPosterErrorFallback = $hasPosterErrorFallback
   HasActionCategoryFilter = $html.Contains('class="category-choice" value="Action"')
   HasActionSeasonRefresh = $hasActionSeasonRefresh
   HasCachedSeasonRefreshDefault = $hasCachedSeasonRefreshDefault
@@ -306,6 +310,8 @@ if (-not $html.Contains('id="trendFilter"')) { throw "Missing trend filter." }
 Assert-Condition $hasTrendFilterChoices "Missing trend filter choices."
 if (-not $pageSource.Contains('"decade-group"')) { throw "Missing decade group renderer." }
 if (-not $pageSource.Contains('class="poster"')) { throw "Missing poster markup." }
+Assert-Condition $hasPosterPriorityLoading "Poster images should prioritize the initial viewport and lazy-load the rest."
+Assert-Condition $hasPosterErrorFallback "Poster images should fall back cleanly when a poster URL fails."
 if (-not $html.Contains('id="search"')) { throw "Missing search input." }
 if (-not $html.Contains('placeholder="Search titles..."')) { throw "Search input should be title-focused." }
 if ($pageSource.Contains('class="synopsis"')) { throw "Cards should not render synopsis markup." }

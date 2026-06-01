@@ -54,14 +54,21 @@ export function primaryCategoryList(categories) {
   return categories.filter(category => category !== "Animation");
 }
 
-export function renderPoster(item) {
+function posterImageAttributes(item, isPriority = false) {
+  const loading = isPriority ? "eager" : "lazy";
+  const fetchPriority = isPriority ? "high" : "auto";
+  return `loading="${loading}" decoding="async" fetchpriority="${fetchPriority}" src="${escapeText(item.poster)}" alt="Poster for ${escapeText(item.title)}"`;
+}
+
+export function renderPoster(item, isPriority = false) {
   if (!item.poster) {
     return `<div class="poster"><div class="poster-fallback">No poster</div></div>`;
   }
-  return `<div class="poster"><img loading="lazy" src="${escapeText(item.poster)}" alt="Poster for ${escapeText(item.title)}"></div>`;
+  return `<div class="poster"><img ${posterImageAttributes(item, isPriority)}></div>`;
 }
 
-export function renderCatalogSection(year, items) {
+export function renderCatalogSection(year, items, options = {}) {
+  const priorityPosterCount = options.priorityPosterCount || 0;
   const section = document.createElement("section");
   section.className = "year-section";
   section.id = `year-${year}`;
@@ -72,9 +79,9 @@ export function renderCatalogSection(year, items) {
       <span>${items.length} series</span>
     </div>
     <div class="grid">
-      ${items.map(item => `
+      ${items.map((item, index) => `
         <article class="card" tabindex="0" role="button" aria-label="Open details for ${escapeText(item.title)}" data-id="${escapeText(item.id)}" data-categories="${escapeText(item.categories.join(";"))}" data-primary-categories="${escapeText(primaryCategoryList(item.categories).join(";"))}" data-has-animation="${item.categories.includes("Animation") ? "1" : "0"}" data-trend="${escapeText(trendKind(item) || "")}" data-score="${escapeText(Number(item.score).toFixed(1))}" data-search="${escapeText(item.title.toLowerCase())}">
-          ${renderPoster(item)}
+          ${renderPoster(item, index < priorityPosterCount)}
           <div class="card-main">
             <div class="card-top">
               <div class="title-row">
@@ -104,7 +111,7 @@ export function renderDetailPoster(item) {
   if (!item.poster) {
     return `<div class="series-detail-poster"><div class="poster-fallback">No poster</div></div>`;
   }
-  return `<div class="series-detail-poster"><img src="${escapeText(item.poster)}" alt="Poster for ${escapeText(item.title)}"></div>`;
+  return `<div class="series-detail-poster"><img loading="eager" decoding="async" fetchpriority="high" src="${escapeText(item.poster)}" alt="Poster for ${escapeText(item.title)}"></div>`;
 }
 
 export function renderSeasonDetails(item) {

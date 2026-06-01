@@ -203,6 +203,8 @@ let pendingCatalogRenderIsIdle = false;
 const yearEntries = Array.from(byYear.entries());
 const initialRenderYearCount = 8;
 const renderBatchYearCount = 8;
+const priorityPosterBudgetStart = 8;
+let priorityPosterBudget = priorityPosterBudgetStart;
 
 const observer = new IntersectionObserver(entries => {
   const visible = entries
@@ -233,7 +235,9 @@ function appendCatalogSections(targetCount) {
   const newSections = [];
   for (let index = renderedYearCount; index < end; index++) {
     const [year, items] = yearEntries[index];
-    const section = renderCatalogSection(year, items);
+    const priorityPosterCount = Math.min(priorityPosterBudget, items.length);
+    const section = renderCatalogSection(year, items, { priorityPosterCount });
+    priorityPosterBudget -= priorityPosterCount;
     fragment.appendChild(section);
     newSections.push(section);
   }
@@ -296,6 +300,7 @@ function renderCatalogSections() {
   sections = [];
   renderedYearCount = 0;
   catalogFullyRendered = false;
+  priorityPosterBudget = priorityPosterBudgetStart;
   appendCatalogSections(initialRenderYearCount);
   scheduleCatalogRender();
 }
@@ -445,6 +450,21 @@ seriesDetailModal.addEventListener("click", event => {
   if (event.target === seriesDetailModal) closeSeriesDetail();
   if (event.target.id === "seriesDetailClose") closeSeriesDetail();
 });
+
+function handlePosterImageError(event) {
+  const image = event.target;
+  if (!(image instanceof HTMLImageElement)) return;
+  const frame = image.closest(".poster, .series-detail-poster");
+  if (!frame) return;
+  frame.textContent = "";
+  const fallback = document.createElement("div");
+  fallback.className = "poster-fallback";
+  fallback.textContent = "No poster";
+  frame.appendChild(fallback);
+}
+
+catalog.addEventListener("error", handlePosterImageError, true);
+seriesDetailModal.addEventListener("error", handlePosterImageError, true);
 
 function cardMatchesCategory(card) {
   if (card.dataset.hasAnimation === "1" && !selectedCategories.has("Animation")) {
