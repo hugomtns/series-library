@@ -1,5 +1,7 @@
 $ErrorActionPreference = "Stop"
 
+. "scripts/verify_helpers.ps1"
+
 $html = Get-Content -Path "series_library.html" -Raw
 $css = Get-Content -Path "series_library.css" -Raw
 $clientModulePaths = @(
@@ -19,37 +21,20 @@ $seasonRefreshScript = Get-Content -Path "scripts/refresh_open_series_seasons.ps
 $currentYearSourcesScript = Get-Content -Path "scripts/update_current_year_sources.ps1" -Raw
 $updateScript = Get-Content -Path "scripts/update_library.js" -Raw
 $serverScript = Get-Content -Path "series_library_server.js" -Raw
-$deployCheckScript = if (Test-Path -Path "scripts/check_deploy_ready.js") { Get-Content -Path "scripts/check_deploy_ready.js" -Raw } else { "" }
+$deployCheckScript = Get-TextOrEmpty "scripts/check_deploy_ready.js"
 $verifyScript = Get-Content -Path "verify_sci_fi_catalog_page.ps1" -Raw
 $publicDataJson = Get-Content -Path "series_library_data.json" -Raw
-$publicDetailsJson = if (Test-Path -Path "series_library_details.json") { Get-Content -Path "series_library_details.json" -Raw } else { "" }
+$publicDetailsJson = Get-TextOrEmpty "series_library_details.json"
 $publicData = $publicDataJson | ConvertFrom-Json
 $publicDetails = if ($publicDetailsJson) { $publicDetailsJson | ConvertFrom-Json } else { $null }
 $vercelConfig = Get-Content -Path "vercel.json" -Raw
-$publicSchemaDoc = if (Test-Path -Path "docs/public_data_schema.md") { Get-Content -Path "docs/public_data_schema.md" -Raw } else { "" }
+$publicSchemaDoc = Get-TextOrEmpty "docs/public_data_schema.md"
 $env:SERIES_LIBRARY_DB = Join-Path (Resolve-Path ".") "series_library.db"
 $dataJson = & node "scripts/read_catalog_for_verify.js"
 if ($LASTEXITCODE -ne 0) {
   throw "Failed to read catalog from SQLite."
 }
 $data = $dataJson | ConvertFrom-Json
-
-function Get-DetailRows($detailsPayload) {
-  if ($null -eq $detailsPayload -or $null -eq $detailsPayload.series) { return @() }
-  if ($detailsPayload.series -is [array]) { return @($detailsPayload.series) }
-  return @($detailsPayload.series.PSObject.Properties | ForEach-Object { $_.Value })
-}
-
-function Test-ContainsAll($text, [string[]]$patterns) {
-  foreach ($pattern in $patterns) {
-    if (-not $text.Contains($pattern)) { return $false }
-  }
-  return $true
-}
-
-function Assert-Condition($condition, $message) {
-  if (-not $condition) { throw $message }
-}
 
 $series = @($data.series)
 $publicSeries = @($publicData.series)
