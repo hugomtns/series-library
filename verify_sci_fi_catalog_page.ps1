@@ -8,10 +8,11 @@ $packageJson = Get-Content -Path "package.json" -Raw
 $catalogBuilder = Get-Content -Path "build_sci_fi_catalog_page.ps1" -Raw
 $seasonRefreshScript = Get-Content -Path "scripts/refresh_open_series_seasons.ps1" -Raw
 $updateScript = Get-Content -Path "scripts/update_library.js" -Raw
+$verifyScript = Get-Content -Path "verify_sci_fi_catalog_page.ps1" -Raw
 $publicData = Get-Content -Path "series_library_data.json" -Raw | ConvertFrom-Json
 $vercelConfig = Get-Content -Path "vercel.json" -Raw
 $env:SERIES_LIBRARY_DB = Join-Path (Resolve-Path ".") "series_library.db"
-$dataJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const meta = Object.fromEntries(db.prepare('SELECT key, value FROM metadata').all().map(row => [row.key, row.value])); const seasonRows = db.prepare('SELECT imdb_id, season_number, label, episode_count, start_year, end_year, imdb_score, vote_count FROM series_seasons ORDER BY imdb_id ASC, season_number ASC').all(); const seasonsBySeries = new Map(); for (const row of seasonRows) { if (!seasonsBySeries.has(row.imdb_id)) seasonsBySeries.set(row.imdb_id, []); seasonsBySeries.get(row.imdb_id).push({ season: row.season_number, label: row.label, episodeCount: row.episode_count, startYear: row.start_year, endYear: row.end_year, score: row.imdb_score, votes: row.vote_count }); } const rows = db.prepare('SELECT payload_json, imdb_score, vote_count, season_count, season_label, episode_count, season_rating_trend_slope, season_rating_trend_intercept, season_rating_trend_points FROM series ORDER BY start_year ASC, imdb_score DESC, vote_count DESC, title ASC').all(); db.close(); const series = rows.map(row => { const item = JSON.parse(row.payload_json); item.score = row.imdb_score; item.votes = row.vote_count; item.seasons = row.season_count; item.seasonLabel = row.season_label; item.episodes = row.episode_count; item.seasonTrend = { slope: row.season_rating_trend_slope, intercept: row.season_rating_trend_intercept, points: row.season_rating_trend_points }; item.seasonDetails = seasonsBySeries.get(item.id) || []; return item; }); const yearCounts = new Map(); for (const item of series) yearCounts.set(item.year, (yearCounts.get(item.year) || 0) + 1); process.stdout.write(JSON.stringify({ generatedAt: meta.generatedAt || '', total: series.length, seasonRows: seasonRows.length, years: Array.from(yearCounts, ([year, count]) => ({ year, count })), series }));"
+$dataJson = & node "scripts/read_catalog_for_verify.js"
 if ($LASTEXITCODE -ne 0) {
   throw "Failed to read catalog from SQLite."
 }
@@ -75,6 +76,7 @@ $years = @($data.years)
   HasExternalClientScript = $html.Contains('<script type="module" src="series_library.js"></script>') -and $clientJs.Contains('async function loadCatalogData')
   HasInlineModuleScript = $html.Contains('<script type="module">')
   HasDeadYearNavigationCode = $clientJs.Contains('for (const yearInfo of data.years)')
+  HasInlineNodeVerificationReader = $verifyScript.Contains('node ' + '-e')
   HasInlineStyleBlock = $html.Contains('<style>')
   HasCatalogBuilderHtmlOutput = $catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')
   HasExtractedCss = $css.Contains('.card') -and $css.Contains('.series-detail-modal')
@@ -151,6 +153,7 @@ if (-not $html.Contains('href="series_library.css"')) { throw "Missing extracted
 if (-not ($html.Contains('<script type="module" src="series_library.js"></script>') -and $clientJs.Contains('async function loadCatalogData'))) { throw "Public page should load extracted client JavaScript." }
 if ($html.Contains('<script type="module">')) { throw "HTML should not contain the inline app module." }
 if ($clientJs.Contains('for (const yearInfo of data.years)')) { throw "Client script should not keep dead year navigation code." }
+if ($verifyScript.Contains('node ' + '-e')) { throw "Verification should use a checked-in Node helper instead of inline JavaScript." }
 if ($html.Contains('<style>')) { throw "HTML should not contain an inline style block." }
 if ($catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')) { throw "Catalog builder should not contain dead HTML generation code." }
 if (-not ($css.Contains('.card') -and $css.Contains('.series-detail-modal'))) { throw "Extracted stylesheet is missing expected UI styles." }
