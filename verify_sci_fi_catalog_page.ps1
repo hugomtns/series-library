@@ -80,6 +80,7 @@ $years = @($data.years)
   HasInlineStyleBlock = $html.Contains('<style>')
   HasCatalogBuilderHtmlOutput = $catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')
   HasExtractedCss = $css.Contains('.card') -and $css.Contains('.series-detail-modal')
+  HasYearSectionRenderContainment = $css.Contains('content-visibility: auto') -and $css.Contains('contain-intrinsic-size')
   UsesStaticCatalogJson = $pageSource.Contains('fetch("series_library_data.json"')
   HasUpdateButton = $html.Contains('id="updateButton"')
   HasUpdateApiReference = $pageSource.Contains('/api/update') -or $pageSource.Contains('EventSource')
@@ -157,6 +158,7 @@ if ($verifyScript.Contains('node ' + '-e')) { throw "Verification should use a c
 if ($html.Contains('<style>')) { throw "HTML should not contain an inline style block." }
 if ($catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')) { throw "Catalog builder should not contain dead HTML generation code." }
 if (-not ($css.Contains('.card') -and $css.Contains('.series-detail-modal'))) { throw "Extracted stylesheet is missing expected UI styles." }
+if (-not ($css.Contains('content-visibility: auto') -and $css.Contains('contain-intrinsic-size'))) { throw "Year sections should use render containment for offscreen catalog performance." }
 if (-not $pageSource.Contains('fetch("series_library_data.json"')) { throw "Public page should load static catalog JSON." }
 if ($html.Contains('id="updateButton"')) { throw "Public page should not expose update controls." }
 if ($pageSource.Contains('/api/update') -or $pageSource.Contains('EventSource')) { throw "Public page should not reference update APIs." }

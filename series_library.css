@@ -376,6 +376,8 @@ h1 {
 .year-section {
   scroll-margin-top: 82px;
   margin-bottom: 44px;
+  content-visibility: auto;
+  contain-intrinsic-size: auto 720px;
 }
 
 .year-heading {
