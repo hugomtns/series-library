@@ -424,7 +424,7 @@ function renderSeasonDetails(item) {
     return `
       <section class="season-detail">
         <h3>Seasons</h3>
-        <p class="update-log-empty">No season details available.</p>
+        <p class="season-empty">No season details available.</p>
       </section>
     `;
   }

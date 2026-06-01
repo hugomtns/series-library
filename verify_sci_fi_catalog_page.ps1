@@ -167,6 +167,7 @@ $years = @($data.years)
   HasSeriesDetailInfo = $pageSource.Contains('class="detail-info"')
   HasDetailDuplicateTags = $pageSource.Contains('class="detail-tags"')
   HasSeasonDetailTable = $pageSource.Contains('class="season-table"')
+  HasDeadUpdateLogClass = $pageSource.Contains('update-log-') -or $css.Contains('update-log-')
   HasSeasonPendingState = $pageSource.Contains('Pending')
   HasTrendTag = $pageSource.Contains('class="trend-tag')
   HasTrendUp = $pageSource.Contains('Trend Up')
@@ -268,6 +269,7 @@ if ($pageSource.Contains('class="series-detail-foot"')) { throw "Series detail m
 if ($pageSource.Contains('id="seriesDetailDone"')) { throw "Series detail modal should only use the close button." }
 if ($pageSource.Contains('<a class="imdb-link fact"')) { throw "Series detail modal should not duplicate the IMDb link." }
 if (-not $pageSource.Contains('class="season-table"')) { throw "Series detail modal should render season details." }
+if ($pageSource.Contains('update-log-') -or $css.Contains('update-log-')) { throw "Public page should not keep update-log UI class names." }
 if (-not $pageSource.Contains('<span>Year</span>')) { throw "Series detail modal should render season years." }
 if (-not $pageSource.Contains('class="season-score"')) { throw "Rated seasons should render as score pills." }
 if (-not $pageSource.Contains('Pending')) { throw "Season ratings should show a pending state when rating data is unavailable." }
