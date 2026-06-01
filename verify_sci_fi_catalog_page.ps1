@@ -99,6 +99,7 @@ $hasControlSystem = Test-ContainsAll $css @('--control-bg:', '--control-border:'
 $hasPolishedControlIndicators = (Test-ContainsAll $css @('--active-shift:', 'border-right: 2px solid var(--muted)', 'linear-gradient(var(--muted), var(--muted)) center / 10px 2px no-repeat', '@media (prefers-reduced-motion: reduce)')) -and $hasControlSystem
 $hasYearSectionRenderContainment = Test-ContainsAll $css @('content-visibility: auto', 'contain-intrinsic-size')
 $hasIncrementalCatalogRender = Test-ContainsAll $pageSource @('requestIdleCallback', 'function ensureCatalogRendered')
+$hasImmediateYearJump = Test-ContainsAll $pageSource @('function scrollToYear', 'previousScrollBehavior', 'document.documentElement.style.scrollBehavior = "auto"', 'target.scrollIntoView({ behavior: "auto", block: "start" })')
 $hasTouchSizedControls = -not ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px'))
 $usesKeyedSeriesDetails = Test-ContainsAll $pageSource @('details.series || {}', 'detailMap[item.id]')
 $hasVercelRootRewrite = Test-ContainsAll $vercelConfig @('"source": "/"', '"destination": "/series_library.html"')
@@ -214,6 +215,7 @@ $hasCiWorkflow = Test-ContainsAll $ciWorkflow @('runs-on: windows-latest', 'acti
   HasCiWorkflow = $hasCiWorkflow
   HasYearSectionRenderContainment = $hasYearSectionRenderContainment
   HasIncrementalCatalogRender = $hasIncrementalCatalogRender
+  HasImmediateYearJump = $hasImmediateYearJump
   HasTouchSizedControls = $hasTouchSizedControls
   UsesStaticCatalogJson = $pageSource.Contains('fetch("series_library_data.json"')
   UsesLazySeriesDetailsJson = $pageSource.Contains('fetch("series_library_details.json"')
@@ -339,6 +341,7 @@ Assert-Condition $hasPosterDeliveryReport "Poster delivery should have a local r
 Assert-Condition $hasCiWorkflow "GitHub Actions should run npm test on push and pull requests."
 Assert-Condition $hasYearSectionRenderContainment "Year sections should use render containment for offscreen catalog performance."
 Assert-Condition $hasIncrementalCatalogRender "Catalog should incrementally render year sections after the initial viewport."
+Assert-Condition $hasImmediateYearJump "Year jumps should force immediate programmatic scrolling instead of inheriting smooth page scrolling."
 Assert-Condition $hasTouchSizedControls "Primary interactive controls should meet 44px touch target sizing."
 if (-not $pageSource.Contains('fetch("series_library_data.json"')) { throw "Public page should load static catalog JSON." }
 if (-not $pageSource.Contains('fetch("series_library_details.json"')) { throw "Series detail modal should lazy-load detail JSON." }

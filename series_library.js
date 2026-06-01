@@ -227,7 +227,10 @@ const observer = new IntersectionObserver(entries => {
 function scrollToYear(year) {
   const target = document.getElementById(`year-${year}`);
   if (target) {
+    const previousScrollBehavior = document.documentElement.style.scrollBehavior;
+    document.documentElement.style.scrollBehavior = "auto";
     target.scrollIntoView({ behavior: "auto", block: "start" });
+    document.documentElement.style.scrollBehavior = previousScrollBehavior;
     history.replaceState(null, "", `#year-${year}`);
   }
 }
