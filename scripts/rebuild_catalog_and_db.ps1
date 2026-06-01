@@ -29,7 +29,7 @@ Write-StepEvent -Current 0 -Total 4 -Message "Combining genre sources"
 & "$root\build_combined_genre_catalog_source.ps1" -OutCsv $sourceCsv -OutTxt $sourceTxt
 
 Write-StepEvent -Current 1 -Total 4 -Message "Rebuilding catalog JSON"
-& "$root\build_sci_fi_catalog_page.ps1" -SourceCsv $sourceCsv -OutData $catalogJson -SkipHtml
+& "$root\build_sci_fi_catalog_page.ps1" -SourceCsv $sourceCsv -OutData $catalogJson
 
 Write-StepEvent -Current 2 -Total 4 -Message "Migrating to SQLite"
 & node "$root\scripts\migrate_to_sqlite.js" --input $catalogJson

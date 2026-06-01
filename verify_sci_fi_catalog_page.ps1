@@ -3,6 +3,7 @@ $ErrorActionPreference = "Stop"
 $html = Get-Content -Path "series_library.html" -Raw
 $css = Get-Content -Path "series_library.css" -Raw
 $packageJson = Get-Content -Path "package.json" -Raw
+$catalogBuilder = Get-Content -Path "build_sci_fi_catalog_page.ps1" -Raw
 $publicData = Get-Content -Path "series_library_data.json" -Raw | ConvertFrom-Json
 $vercelConfig = Get-Content -Path "vercel.json" -Raw
 $env:SERIES_LIBRARY_DB = Join-Path (Resolve-Path ".") "series_library.db"
@@ -68,6 +69,7 @@ $years = @($data.years)
   HasYearNavigation = $html.Contains('id="yearNav"')
   HasStylesheet = $html.Contains('href="series_library.css"')
   HasInlineStyleBlock = $html.Contains('<style>')
+  HasCatalogBuilderHtmlOutput = $catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')
   HasExtractedCss = $css.Contains('.card') -and $css.Contains('.series-detail-modal')
   UsesStaticCatalogJson = $html.Contains('fetch("series_library_data.json"')
   HasUpdateButton = $html.Contains('id="updateButton"')
@@ -133,6 +135,7 @@ if (-not ($packageJson.Contains('refresh:action-seasons') -and (Get-Content -Pat
 if (-not ((Get-Content -Path "build_combined_genre_catalog_source.ps1" -Raw).Contains('imdb_action_year_files_primary_origin') -and (Get-Content -Path "scripts/update_current_year_sources.ps1" -Raw).Contains('Genre = "Action"'))) { throw "Missing Action source configuration." }
 if (-not $html.Contains('href="series_library.css"')) { throw "Missing extracted stylesheet link." }
 if ($html.Contains('<style>')) { throw "HTML should not contain an inline style block." }
+if ($catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')) { throw "Catalog builder should not contain dead HTML generation code." }
 if (-not ($css.Contains('.card') -and $css.Contains('.series-detail-modal'))) { throw "Extracted stylesheet is missing expected UI styles." }
 if (-not $html.Contains('fetch("series_library_data.json"')) { throw "Public page should load static catalog JSON." }
 if ($html.Contains('id="updateButton"')) { throw "Public page should not expose update controls." }
