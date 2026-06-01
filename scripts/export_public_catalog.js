@@ -72,8 +72,7 @@ function getCatalog() {
         (Number(b.votes) || 0) - (Number(a.votes) || 0) ||
         String(a.title).localeCompare(String(b.title))
       );
-      items.forEach((item, index) => {
-        item.rank = index + 1;
+      items.forEach((item) => {
         ranked.push(item);
       });
     }
@@ -92,6 +91,7 @@ function getCatalog() {
       posterWidth,
       posterHeight,
       votes,
+      rank,
       type,
       seasons,
       episodes,
@@ -104,7 +104,6 @@ function getCatalog() {
     return {
       index: {
         generatedAt: meta.generatedAt || "",
-        source: meta.source || "",
         total: index.length,
         years: Array.from(byYear.entries()).map(([year, items]) => ({ year, count: items.length })),
         series: index,

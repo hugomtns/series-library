@@ -37,6 +37,7 @@ $publicIndexRowsWithImdbUrl = @($publicSeries | Where-Object { $_.PSObject.Prope
 $publicIndexRowsWithPosterDimensions = @($publicSeries | Where-Object { $_.PSObject.Properties.Name -contains "posterWidth" -or $_.PSObject.Properties.Name -contains "posterHeight" })
 $publicIndexRowsWithUnusedMetadata = @($publicSeries | Where-Object {
   $_.PSObject.Properties.Name -contains "votes" -or
+  $_.PSObject.Properties.Name -contains "rank" -or
   $_.PSObject.Properties.Name -contains "type" -or
   $_.PSObject.Properties.Name -contains "seasons" -or
   $_.PSObject.Properties.Name -contains "episodes" -or
@@ -44,6 +45,7 @@ $publicIndexRowsWithUnusedMetadata = @($publicSeries | Where-Object {
   $_.PSObject.Properties.Name -contains "countries" -or
   $_.PSObject.Properties.Name -contains "countryCodes"
 })
+$publicCatalogHasSource = $publicData.PSObject.Properties.Name -contains "source"
 $publicDetailRowsWithDetails = @($publicDetailSeries | Where-Object { $_.PSObject.Properties.Name -contains "synopsis" -and $_.PSObject.Properties.Name -contains "seasonDetails" })
 $publicDetailSeasonRowsWithVotes = @($publicDetailSeries | ForEach-Object { @($_.seasonDetails) } | Where-Object { $_.PSObject.Properties.Name -contains "votes" })
 $publicDetailSeasonRowsWithLabels = @($publicDetailSeries | ForEach-Object { @($_.seasonDetails) } | Where-Object { $_.PSObject.Properties.Name -contains "label" })
@@ -86,6 +88,7 @@ $years = @($data.years)
   PublicIndexRowsWithImdbUrl = $publicIndexRowsWithImdbUrl.Count
   PublicIndexRowsWithPosterDimensions = $publicIndexRowsWithPosterDimensions.Count
   PublicIndexRowsWithUnusedMetadata = $publicIndexRowsWithUnusedMetadata.Count
+  PublicCatalogHasSource = $publicCatalogHasSource
   PublicDetailRowsWithDetails = $publicDetailRowsWithDetails.Count
   PublicDetailKeys = $publicDetailKeys.Count
   PublicDetailRowsWithIds = $publicDetailRowsWithIds.Count
@@ -185,6 +188,7 @@ if ($publicIndexRowsWithTrendPayload.Count -gt 0) { throw "Public index JSON sho
 if ($publicIndexRowsWithImdbUrl.Count -gt 0) { throw "Public index JSON should derive IMDb links from title ids instead of storing imdbUrl per row." }
 if ($publicIndexRowsWithPosterDimensions.Count -gt 0) { throw "Public index JSON should not include unused poster dimension fields." }
 if ($publicIndexRowsWithUnusedMetadata.Count -gt 0) { throw "Public index JSON should not include metadata fields unused by the UI." }
+if ($publicCatalogHasSource) { throw "Public index JSON should not include unused source metadata." }
 if ($publicDetailRowsWithDetails.Count -ne $data.total) { throw "Public detail JSON should include one detail payload per series." }
 if ($publicDetailKeys.Count -ne $data.total) { throw "Public detail JSON should be keyed by series id." }
 if ($publicDetailRowsWithIds.Count -gt 0) { throw "Public detail JSON should not repeat id fields inside detail rows." }
