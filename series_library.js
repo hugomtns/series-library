@@ -6,7 +6,17 @@ async function loadCatalogData() {
   return response.json();
 }
 
+async function loadSeriesDetails() {
+  const response = await fetch("series_library_details.json", { cache: "no-store" });
+  if (!response.ok) {
+    throw new Error(`Series detail request failed: ${response.status}`);
+  }
+  return response.json();
+}
+
 let data = await loadCatalogData();
+let detailsById = null;
+let detailsPromise = null;
 let byYear = new Map();
 let seriesById = new Map();
 function rebuildYearMap() {
@@ -148,6 +158,8 @@ function ratingTone(score) {
 }
 
 function trendKind(item) {
+  if (item.trendKind) return item.trendKind;
+
   const points = ratedSeasonPoints(item);
   if (points.length < 3) return null;
 
@@ -410,33 +422,58 @@ function renderSeasonDetails(item) {
   `;
 }
 
-function openSeriesDetail(item, trigger) {
+async function getSeriesDetail(item) {
+  if (!detailsPromise) {
+    detailsPromise = loadSeriesDetails().then(details => {
+      detailsById = new Map((details.series || []).map(detail => [detail.id, detail]));
+      return detailsById;
+    }).catch(error => {
+      detailsPromise = null;
+      detailsById = null;
+      throw error;
+    });
+  }
+
+  try {
+    const detailMap = detailsById || await detailsPromise;
+    return {
+      ...item,
+      ...(detailMap.get(item.id) || {}),
+    };
+  } catch (error) {
+    console.error(error);
+    return item;
+  }
+}
+
+async function openSeriesDetail(item, trigger) {
   lastSeriesTrigger = trigger || null;
   seriesDetailHead.innerHTML = "";
+  const detailItem = await getSeriesDetail(item);
   seriesDetailBody.innerHTML = `
     <div class="detail-layout">
-      <div class="detail-poster-frame">${renderDetailPoster(item)}</div>
+      <div class="detail-poster-frame">${renderDetailPoster(detailItem)}</div>
       <section class="detail-info" aria-labelledby="seriesDetailTitle">
         <div class="title-row">
-          <h2 class="title" id="seriesDetailTitle">${escapeText(item.title)}</h2>
+          <h2 class="title" id="seriesDetailTitle">${escapeText(detailItem.title)}</h2>
           <div class="detail-title-actions">
-            <div class="rating" title="IMDb rating" style="${ratingTone(item.score)}">IMDb ${escapeText(Number(item.score).toFixed(1))}</div>
+            <div class="rating" title="IMDb rating" style="${ratingTone(detailItem.score)}">IMDb ${escapeText(Number(detailItem.score).toFixed(1))}</div>
             <button type="button" class="series-detail-close" id="seriesDetailClose" aria-label="Close series details">&times;</button>
           </div>
         </div>
         <div class="facts">
-          ${(item.categories || []).map(category => `<span class="fact category-chip">${escapeText(category)}</span>`).join("")}
-          <span class="fact">${escapeText(item.seasonLabel || item.seasons || "-")}</span>
-          <span class="fact">${escapeText(item.years || "-")}</span>
-          <span class="fact">${escapeText(item.primaryOrigin || "-")}</span>
+          ${(detailItem.categories || []).map(category => `<span class="fact category-chip">${escapeText(category)}</span>`).join("")}
+          <span class="fact">${escapeText(detailItem.seasonLabel || detailItem.seasons || "-")}</span>
+          <span class="fact">${escapeText(detailItem.years || "-")}</span>
+          <span class="fact">${escapeText(detailItem.primaryOrigin || "-")}</span>
         </div>
         <div class="card-actions">
-          ${renderTrendTag(item)}
+          ${renderTrendTag(detailItem)}
         </div>
       </section>
-      <p class="detail-synopsis">${escapeText(item.synopsis || "No synopsis available.")}</p>
+      <p class="detail-synopsis">${escapeText(detailItem.synopsis || "No synopsis available.")}</p>
       <div class="detail-season-panel">
-        ${renderSeasonDetails(item)}
+        ${renderSeasonDetails(detailItem)}
       </div>
     </div>
   `;
@@ -477,21 +514,21 @@ function trapModalFocus(event) {
   }
 }
 
-catalog.addEventListener("click", event => {
+catalog.addEventListener("click", async event => {
   if (event.target.closest(".imdb-link")) return;
   const card = event.target.closest(".card");
   if (!card) return;
   const item = seriesById.get(card.dataset.id);
-  if (item) openSeriesDetail(item, card);
+  if (item) await openSeriesDetail(item, card);
 });
 
-catalog.addEventListener("keydown", event => {
+catalog.addEventListener("keydown", async event => {
   if (event.key !== "Enter" && event.key !== " ") return;
   const card = event.target.closest(".card");
   if (!card) return;
   event.preventDefault();
   const item = seriesById.get(card.dataset.id);
-  if (item) openSeriesDetail(item, card);
+  if (item) await openSeriesDetail(item, card);
 });
 
 seriesDetailModal.addEventListener("click", event => {

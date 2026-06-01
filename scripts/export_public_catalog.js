@@ -5,6 +5,7 @@ const Database = require("better-sqlite3");
 const root = path.resolve(__dirname, "..");
 const dbPath = path.join(root, "series_library.db");
 const outPath = path.join(root, "series_library_data.json");
+const detailsOutPath = path.join(root, "series_library_details.json");
 
 function getMetadata(db) {
   const rows = db.prepare("SELECT key, value FROM metadata").all();
@@ -60,6 +61,7 @@ function getCatalog() {
         points: row.season_rating_trend_points,
       };
       item.seasonDetails = seasonsBySeries.get(item.id) || [];
+      item.trendKind = getTrendKind(item);
       return item;
     });
 
@@ -82,18 +84,58 @@ function getCatalog() {
       });
     }
 
+    const details = ranked.map((item) => ({
+      id: item.id,
+      synopsis: item.synopsis,
+      seasonDetails: item.seasonDetails,
+    }));
+    const index = ranked.map(({ synopsis, seasonDetails, ...item }) => item);
+
     return {
-      generatedAt: meta.generatedAt || "",
-      source: meta.source || "",
-      total: ranked.length,
-      years: Array.from(byYear.entries()).map(([year, items]) => ({ year, count: items.length })),
-      series: ranked,
+      index: {
+        generatedAt: meta.generatedAt || "",
+        source: meta.source || "",
+        total: index.length,
+        years: Array.from(byYear.entries()).map(([year, items]) => ({ year, count: items.length })),
+        series: index,
+      },
+      details: {
+        generatedAt: meta.generatedAt || "",
+        total: details.length,
+        series: details,
+      },
     };
   } finally {
     db.close();
   }
 }
 
+function finiteSeasonScore(value) {
+  const score = Number(value);
+  return Number.isFinite(score) && score >= 0.1 ? score : null;
+}
+
+function getTrendKind(item) {
+  const points = [...(item.seasonDetails || [])]
+    .map((season) => ({ x: Number(season.season), y: finiteSeasonScore(season.score) }))
+    .filter((point) => Number.isFinite(point.x) && point.y !== null)
+    .sort((a, b) => a.x - b.x);
+
+  if (points.length < 3) return null;
+
+  const firstScore = points[0].y;
+  const lastScore = points[points.length - 1].y;
+  if (lastScore - firstScore <= -1.5) return "disaster";
+
+  const slope = Number(item.seasonTrend?.slope);
+  if (!Number.isFinite(slope)) return null;
+  if (slope >= 0.3) return "up";
+  if (slope <= -0.3) return "down";
+  return null;
+}
+
 const catalog = getCatalog();
-fs.writeFileSync(outPath, `${JSON.stringify(catalog)}\n`);
-console.log(`Exported ${catalog.total} series to ${outPath}`);
+fs.writeFileSync(outPath, `${JSON.stringify(catalog.index)}\n`);
+fs.writeFileSync(detailsOutPath, `${JSON.stringify(catalog.details)}\n`);
+console.log(`Exported ${catalog.index.total} series to ${outPath}`);
+console.log(`Exported ${catalog.details.total} series details to ${detailsOutPath}`);

@@ -10,6 +10,7 @@ $seasonRefreshScript = Get-Content -Path "scripts/refresh_open_series_seasons.ps
 $updateScript = Get-Content -Path "scripts/update_library.js" -Raw
 $verifyScript = Get-Content -Path "verify_sci_fi_catalog_page.ps1" -Raw
 $publicData = Get-Content -Path "series_library_data.json" -Raw | ConvertFrom-Json
+$publicDetails = if (Test-Path -Path "series_library_details.json") { Get-Content -Path "series_library_details.json" -Raw | ConvertFrom-Json } else { $null }
 $vercelConfig = Get-Content -Path "vercel.json" -Raw
 $env:SERIES_LIBRARY_DB = Join-Path (Resolve-Path ".") "series_library.db"
 $dataJson = & node "scripts/read_catalog_for_verify.js"
@@ -19,6 +20,10 @@ if ($LASTEXITCODE -ne 0) {
 $data = $dataJson | ConvertFrom-Json
 
 $series = @($data.series)
+$publicSeries = @($publicData.series)
+$publicDetailSeries = if ($null -ne $publicDetails) { @($publicDetails.series) } else { @() }
+$publicIndexRowsWithDetails = @($publicSeries | Where-Object { $_.PSObject.Properties.Name -contains "synopsis" -or $_.PSObject.Properties.Name -contains "seasonDetails" })
+$publicDetailRowsWithDetails = @($publicDetailSeries | Where-Object { $_.PSObject.Properties.Name -contains "synopsis" -and $_.PSObject.Properties.Name -contains "seasonDetails" })
 $badVotes = @($series | Where-Object { [int]$_.votes -lt 5000 })
 $missingPosters = @($series | Where-Object { [string]::IsNullOrWhiteSpace($_.poster) })
 $missingSynopsis = @($series | Where-Object { [string]::IsNullOrWhiteSpace($_.synopsis) -or $_.synopsis -eq "No synopsis available." })
@@ -50,6 +55,9 @@ $years = @($data.years)
 [pscustomobject]@{
   Total = $data.total
   PublicDataTotal = $publicData.total
+  PublicDetailsTotal = if ($null -ne $publicDetails) { $publicDetails.total } else { 0 }
+  PublicIndexRowsWithDetails = $publicIndexRowsWithDetails.Count
+  PublicDetailRowsWithDetails = $publicDetailRowsWithDetails.Count
   SeriesRows = $series.Count
   Years = $years.Count
   FirstYear = ($years | Sort-Object { [int]$_.year } | Select-Object -First 1).year
@@ -83,6 +91,7 @@ $years = @($data.years)
   HasYearSectionRenderContainment = $css.Contains('content-visibility: auto') -and $css.Contains('contain-intrinsic-size')
   HasTouchSizedControls = -not ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px'))
   UsesStaticCatalogJson = $pageSource.Contains('fetch("series_library_data.json"')
+  UsesLazySeriesDetailsJson = $pageSource.Contains('fetch("series_library_details.json"')
   HasUpdateButton = $html.Contains('id="updateButton"')
   HasUpdateApiReference = $pageSource.Contains('/api/update') -or $pageSource.Contains('EventSource')
   HasVercelRootRewrite = $vercelConfig.Contains('"source": "/"') -and $vercelConfig.Contains('"destination": "/series_library.html"')
@@ -130,6 +139,9 @@ $years = @($data.years)
 
 if ($data.total -ne $series.Count) { throw "Catalog total does not match SQLite series rows." }
 if ($publicData.total -ne $data.total) { throw "Public JSON total does not match SQLite catalog total." }
+if ($null -eq $publicDetails -or $publicDetails.total -ne $data.total) { throw "Public detail JSON total does not match SQLite catalog total." }
+if ($publicIndexRowsWithDetails.Count -gt 0) { throw "Public index JSON should not include modal-only synopsis or season detail payloads." }
+if ($publicDetailRowsWithDetails.Count -ne $data.total) { throw "Public detail JSON should include one detail payload per series." }
 if ($years.Count -lt 60) { throw "Expected at least 60 years with eligible series after extending to 1960." }
 if ((($years | Sort-Object { [int]$_.year } | Select-Object -First 1).year) -gt 1961) { throw "Expected catalog to include early 1960s entries." }
 if ($badVotes.Count -gt 0) { throw "Found rows below 5000 votes." }
@@ -162,6 +174,7 @@ if (-not ($css.Contains('.card') -and $css.Contains('.series-detail-modal'))) { 
 if (-not ($css.Contains('content-visibility: auto') -and $css.Contains('contain-intrinsic-size'))) { throw "Year sections should use render containment for offscreen catalog performance." }
 if ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px')) { throw "Primary interactive controls should meet 44px touch target sizing." }
 if (-not $pageSource.Contains('fetch("series_library_data.json"')) { throw "Public page should load static catalog JSON." }
+if (-not $pageSource.Contains('fetch("series_library_details.json"')) { throw "Series detail modal should lazy-load detail JSON." }
 if ($html.Contains('id="updateButton"')) { throw "Public page should not expose update controls." }
 if ($pageSource.Contains('/api/update') -or $pageSource.Contains('EventSource')) { throw "Public page should not reference update APIs." }
 if (-not ($vercelConfig.Contains('"source": "/"') -and $vercelConfig.Contains('"destination": "/series_library.html"'))) { throw "Missing Vercel root rewrite." }
