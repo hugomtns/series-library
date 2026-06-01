@@ -74,7 +74,11 @@
           <div class="meta-line" id="metaLine" aria-live="polite"></div>
         </div>
       </div>
-      <div class="empty" id="empty" role="status">No matching series.</div>
+      <div class="empty" id="empty" role="status">
+        <strong id="emptyTitle">No matching series</strong>
+        <span id="emptyMessage">Try widening the current filters.</span>
+        <button type="button" class="empty-reset" id="emptyReset">Reset filters</button>
+      </div>
       <div id="catalog"></div>
     </main>
   </div>

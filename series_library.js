@@ -49,6 +49,9 @@ const yearCount = document.getElementById("yearCount");
 const metaLine = document.getElementById("metaLine");
 const search = document.getElementById("search");
 const empty = document.getElementById("empty");
+const emptyTitle = document.getElementById("emptyTitle");
+const emptyMessage = document.getElementById("emptyMessage");
+const emptyReset = document.getElementById("emptyReset");
 
 let selectedCategories = new Set(categoryChoices.map(input => input.value));
 let selectedTrends = new Set(trendChoices.map(input => input.value));
@@ -513,6 +516,25 @@ function updateFilterStatus(visibleCards = data.total) {
     : "No filters active";
 }
 
+function updateEmptyState(query) {
+  if (selectedCategories.size === 0) {
+    emptyTitle.textContent = "No categories selected";
+    emptyMessage.textContent = "Select at least one category or reset filters.";
+  } else if (selectedTrends.size === 0) {
+    emptyTitle.textContent = "No trends selected";
+    emptyMessage.textContent = "Select at least one trend label or reset filters.";
+  } else if (query) {
+    emptyTitle.textContent = "No title matches";
+    emptyMessage.textContent = `No series title contains "${query}".`;
+  } else if (minScoreInput.value.trim() || maxScoreInput.value.trim()) {
+    emptyTitle.textContent = "No scores in range";
+    emptyMessage.textContent = "Widen the score range or reset filters.";
+  } else {
+    emptyTitle.textContent = "No matching series";
+    emptyMessage.textContent = "Try widening the current filters.";
+  }
+}
+
 function cardMatchesScore(card) {
   const score = Number(card.dataset.score);
   const minScore = parseScoreInput(minScoreInput, 1);
@@ -561,6 +583,7 @@ function applyFilters() {
   totalCount.textContent = visibleCards.toLocaleString();
   yearCount.textContent = visibleYears.toLocaleString();
   empty.classList.toggle("visible", searching && visibleCards === 0);
+  updateEmptyState(query);
   metaLine.textContent = query || !allCategoriesSelected() || !allTrendsSelected() || minHasValue || maxHasValue ? `${visibleCards.toLocaleString()} matching series` : `Generated ${data.generatedAt}`;
   updateFilterStatus(visibleCards);
 }
@@ -652,7 +675,7 @@ search.addEventListener("input", () => {
 minScoreInput.addEventListener("input", scheduleApplyFilters);
 maxScoreInput.addEventListener("input", scheduleApplyFilters);
 
-resetFilters.addEventListener("click", () => {
+function resetAllFilters() {
   search.value = "";
   minScoreInput.value = "";
   maxScoreInput.value = "";
@@ -663,7 +686,10 @@ resetFilters.addEventListener("click", () => {
   renderYearNavigation();
   navLinks = Array.from(yearNav.querySelectorAll("a"));
   applyFilters();
-});
+}
+
+resetFilters.addEventListener("click", resetAllFilters);
+emptyReset.addEventListener("click", resetAllFilters);
 
 document.addEventListener("keydown", event => {
   if (event.key === "Escape" && !seriesDetailModal.hidden) {

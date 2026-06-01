@@ -104,6 +104,7 @@ $hasNonOverlappingFilterMenus = $css.Contains('.category-menu') -and $css.Contai
 $hasFilterMenuEscape = Test-ContainsAll $pageSource @('function closeOpenFilterMenu', 'closeOpenFilterMenu(true)')
 $hasFilterReset = (Test-ContainsAll $html @('id="filterStatus"', 'id="resetFilters"')) -and (Test-ContainsAll $pageSource @('function updateFilterStatus', 'resetFilters.addEventListener("click"'))
 $hasLiveFilterResults = (Test-ContainsAll $html @('id="metaLine" aria-live="polite"', 'id="empty" role="status"'))
+$hasRecoverableEmptyState = (Test-ContainsAll $html @('id="emptyTitle"', 'id="emptyMessage"', 'id="emptyReset"')) -and (Test-ContainsAll $pageSource @('function updateEmptyState', 'function resetAllFilters', 'emptyReset.addEventListener("click"', 'No categories selected', 'No title matches'))
 $hasPosterPriorityLoading = Test-ContainsAll $pageSource @('priorityPosterBudgetStart', 'priorityPosterCount', 'isPriority ? "eager" : "lazy"', 'isPriority ? "high" : "auto"', 'decoding="async"')
 $hasPosterErrorFallback = Test-ContainsAll $pageSource @('function handlePosterImageError', 'addEventListener("error", handlePosterImageError, true)')
 $hasActionSeasonRefresh = $packageJson.Contains('refresh:action-seasons') -and $seasonRefreshScript.Contains('REFRESH_CATEGORY')
@@ -217,6 +218,7 @@ $hasDeployCheck = $packageJson.Contains('"deploy:check"') -and $packageJson.Cont
   HasFilterMenuEscape = $hasFilterMenuEscape
   HasFilterReset = $hasFilterReset
   HasLiveFilterResults = $hasLiveFilterResults
+  HasRecoverableEmptyState = $hasRecoverableEmptyState
   HasPosterPriorityLoading = $hasPosterPriorityLoading
   HasPosterErrorFallback = $hasPosterErrorFallback
   HasActionCategoryFilter = $html.Contains('class="category-choice" value="Action"')
@@ -338,6 +340,7 @@ Assert-Condition $hasNonOverlappingFilterMenus "Filter menus should not overlap 
 Assert-Condition $hasFilterMenuEscape "Filter menus should close with Escape and restore trigger focus."
 Assert-Condition $hasFilterReset "Filters should expose a reset control and active-filter status."
 Assert-Condition $hasLiveFilterResults "Filter result counts should be announced to assistive technology."
+Assert-Condition $hasRecoverableEmptyState "Empty filter results should explain the state and offer recovery."
 if (-not $html.Contains('id="trendFilter"')) { throw "Missing trend filter." }
 Assert-Condition $hasTrendFilterChoices "Missing trend filter choices."
 if (-not $pageSource.Contains('"decade-group"')) { throw "Missing decade group renderer." }
