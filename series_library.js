@@ -288,19 +288,40 @@ function renderYearNavigation() {
   yearCount.textContent = visibleYears.length.toLocaleString();
 }
 
-renderYearNavigation();
+let sections = [];
+let navLinks = [];
+let renderedYearCount = 0;
+let catalogFullyRendered = false;
+let pendingCatalogRenderHandle = null;
+let pendingCatalogRenderIsIdle = false;
+const yearEntries = Array.from(byYear.entries());
+const initialRenderYearCount = 8;
+const renderBatchYearCount = 8;
 
-yearSelect.addEventListener("change", () => {
-  const target = document.getElementById(`year-${yearSelect.value}`);
+const observer = new IntersectionObserver(entries => {
+  const visible = entries
+    .filter(entry => entry.isIntersecting)
+    .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
+  if (!visible) return;
+  for (const link of navLinks) {
+    link.classList.toggle("active", link.dataset.year === visible.target.dataset.year);
+  }
+  yearSelect.value = visible.target.dataset.year;
+  const activeDecade = Math.floor(Number(visible.target.dataset.year) / 10) * 10;
+  for (const decadeGroup of yearNav.querySelectorAll(".decade-group")) {
+    decadeGroup.open = decadeGroup.dataset.decade === String(activeDecade);
+  }
+}, { rootMargin: "-15% 0px -65% 0px", threshold: [0.01, 0.2, 0.5] });
+
+function scrollToYear(year) {
+  const target = document.getElementById(`year-${year}`);
   if (target) {
     target.scrollIntoView({ behavior: "auto", block: "start" });
-    history.replaceState(null, "", `#year-${yearSelect.value}`);
+    history.replaceState(null, "", `#year-${year}`);
   }
-});
+}
 
-function renderCatalogSections() {
-  catalog.textContent = "";
-  for (const [year, items] of byYear) {
+function renderCatalogSection(year, items) {
   const section = document.createElement("section");
   section.className = "year-section";
   section.id = `year-${year}`;
@@ -336,29 +357,98 @@ function renderCatalogSections() {
       `).join("")}
     </div>
   `;
-  catalog.appendChild(section);
-}
+  return section;
 }
 
+function appendCatalogSections(targetCount) {
+  const end = Math.min(targetCount, yearEntries.length);
+  const fragment = document.createDocumentFragment();
+  const newSections = [];
+  for (let index = renderedYearCount; index < end; index++) {
+    const [year, items] = yearEntries[index];
+    const section = renderCatalogSection(year, items);
+    fragment.appendChild(section);
+    newSections.push(section);
+  }
+
+  catalog.appendChild(fragment);
+  for (const section of newSections) {
+    sections.push(section);
+    observer.observe(section);
+  }
+  renderedYearCount = end;
+  catalogFullyRendered = renderedYearCount >= yearEntries.length;
+}
+
+function scheduleCatalogRender() {
+  if (catalogFullyRendered || pendingCatalogRenderHandle !== null) return;
+
+  const renderNextBatch = deadline => {
+    pendingCatalogRenderHandle = null;
+    pendingCatalogRenderIsIdle = false;
+    const hasIdleBudget = () => !deadline || deadline.timeRemaining() > 4;
+
+    do {
+      appendCatalogSections(renderedYearCount + renderBatchYearCount);
+    } while (!catalogFullyRendered && hasIdleBudget());
+
+    scheduleCatalogRender();
+  };
+
+  if ("requestIdleCallback" in window) {
+    pendingCatalogRenderIsIdle = true;
+    pendingCatalogRenderHandle = window.requestIdleCallback(renderNextBatch, { timeout: 500 });
+  } else {
+    pendingCatalogRenderHandle = window.setTimeout(() => renderNextBatch(null), 16);
+  }
+}
+
+function cancelScheduledCatalogRender() {
+  if (pendingCatalogRenderHandle === null) return;
+  if (pendingCatalogRenderIsIdle && "cancelIdleCallback" in window) {
+    window.cancelIdleCallback(pendingCatalogRenderHandle);
+  } else {
+    window.clearTimeout(pendingCatalogRenderHandle);
+  }
+  pendingCatalogRenderHandle = null;
+  pendingCatalogRenderIsIdle = false;
+}
+
+function ensureCatalogRendered() {
+  if (catalogFullyRendered) return;
+  cancelScheduledCatalogRender();
+  appendCatalogSections(yearEntries.length);
+}
+
+function renderCatalogSections() {
+  cancelScheduledCatalogRender();
+  for (const section of sections) {
+    observer.unobserve(section);
+  }
+  catalog.textContent = "";
+  sections = [];
+  renderedYearCount = 0;
+  catalogFullyRendered = false;
+  appendCatalogSections(initialRenderYearCount);
+  scheduleCatalogRender();
+}
+
+renderYearNavigation();
+navLinks = Array.from(yearNav.querySelectorAll("a"));
 renderCatalogSections();
 
-let sections = Array.from(document.querySelectorAll(".year-section"));
-let navLinks = Array.from(yearNav.querySelectorAll("a"));
-const observer = new IntersectionObserver(entries => {
-  const visible = entries
-    .filter(entry => entry.isIntersecting)
-    .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
-  if (!visible) return;
-  for (const link of navLinks) {
-    link.classList.toggle("active", link.dataset.year === visible.target.dataset.year);
-  }
-  yearSelect.value = visible.target.dataset.year;
-  const activeDecade = Math.floor(Number(visible.target.dataset.year) / 10) * 10;
-  for (const decadeGroup of yearNav.querySelectorAll(".decade-group")) {
-    decadeGroup.open = decadeGroup.dataset.decade === String(activeDecade);
-  }
-}, { rootMargin: "-15% 0px -65% 0px", threshold: [0.01, 0.2, 0.5] });
-sections.forEach(section => observer.observe(section));
+yearSelect.addEventListener("change", () => {
+  ensureCatalogRendered();
+  scrollToYear(yearSelect.value);
+});
+
+yearNav.addEventListener("click", event => {
+  const link = event.target.closest("a[data-year]");
+  if (!link) return;
+  event.preventDefault();
+  ensureCatalogRendered();
+  scrollToYear(link.dataset.year);
+});
 
 function renderDetailPoster(item) {
   if (!item.poster) {
@@ -566,6 +656,7 @@ function cardMatchesScore(card) {
 }
 
 function applyFilters() {
+  ensureCatalogRendered();
   const query = search.value.trim().toLowerCase();
   const minHasValue = minScoreInput.value.trim().length > 0;
   const maxHasValue = maxScoreInput.value.trim().length > 0;

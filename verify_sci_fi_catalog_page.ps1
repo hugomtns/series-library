@@ -89,6 +89,7 @@ $years = @($data.years)
   HasCatalogBuilderHtmlOutput = $catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')
   HasExtractedCss = $css.Contains('.card') -and $css.Contains('.series-detail-modal')
   HasYearSectionRenderContainment = $css.Contains('content-visibility: auto') -and $css.Contains('contain-intrinsic-size')
+  HasIncrementalCatalogRender = $pageSource.Contains('requestIdleCallback') -and $pageSource.Contains('function ensureCatalogRendered')
   HasTouchSizedControls = -not ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px'))
   UsesStaticCatalogJson = $pageSource.Contains('fetch("series_library_data.json"')
   UsesLazySeriesDetailsJson = $pageSource.Contains('fetch("series_library_details.json"')
@@ -172,6 +173,7 @@ if ($html.Contains('<style>')) { throw "HTML should not contain an inline style 
 if ($catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')) { throw "Catalog builder should not contain dead HTML generation code." }
 if (-not ($css.Contains('.card') -and $css.Contains('.series-detail-modal'))) { throw "Extracted stylesheet is missing expected UI styles." }
 if (-not ($css.Contains('content-visibility: auto') -and $css.Contains('contain-intrinsic-size'))) { throw "Year sections should use render containment for offscreen catalog performance." }
+if (-not ($pageSource.Contains('requestIdleCallback') -and $pageSource.Contains('function ensureCatalogRendered'))) { throw "Catalog should incrementally render year sections after the initial viewport." }
 if ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px')) { throw "Primary interactive controls should meet 44px touch target sizing." }
 if (-not $pageSource.Contains('fetch("series_library_data.json"')) { throw "Public page should load static catalog JSON." }
 if (-not $pageSource.Contains('fetch("series_library_details.json"')) { throw "Series detail modal should lazy-load detail JSON." }
