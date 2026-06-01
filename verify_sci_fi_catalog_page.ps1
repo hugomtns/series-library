@@ -4,6 +4,7 @@ $html = Get-Content -Path "series_library.html" -Raw
 $css = Get-Content -Path "series_library.css" -Raw
 $packageJson = Get-Content -Path "package.json" -Raw
 $catalogBuilder = Get-Content -Path "build_sci_fi_catalog_page.ps1" -Raw
+$seasonRefreshScript = Get-Content -Path "scripts/refresh_open_series_seasons.ps1" -Raw
 $updateScript = Get-Content -Path "scripts/update_library.js" -Raw
 $publicData = Get-Content -Path "series_library_data.json" -Raw | ConvertFrom-Json
 $vercelConfig = Get-Content -Path "vercel.json" -Raw
@@ -82,6 +83,7 @@ $years = @($data.years)
   HasActionCategoryFilter = $html.Contains('class="category-choice" value="Action"')
   HasActionSeasonRefresh = $packageJson.Contains('refresh:action-seasons') -and (Get-Content -Path "scripts/refresh_open_series_seasons.ps1" -Raw).Contains('REFRESH_CATEGORY')
   HasCachedSeasonRefreshDefault = $updateScript.Contains('refresh_open_series_seasons.ps1') -and $updateScript.Contains('"-SkipExisting"')
+  HasParallelSeasonRefresh = $seasonRefreshScript.Contains('[int]$Concurrency') -and $seasonRefreshScript.Contains('Start-Job') -and $updateScript.Contains('"-Concurrency", "2"')
   HasTrendFilter = $html.Contains('id="trendFilter"')
   HasActionSourceConfig = (Get-Content -Path "build_combined_genre_catalog_source.ps1" -Raw).Contains('imdb_action_year_files_primary_origin') -and (Get-Content -Path "scripts/update_current_year_sources.ps1" -Raw).Contains('Genre = "Action"')
   HasTrendFilterChoices = $html.Contains('class="trend-choice"') -and $html.Contains('value="up"') -and $html.Contains('value="down"') -and $html.Contains('value="disaster"')
@@ -138,6 +140,7 @@ if ($bothRows.Count -lt 200) { throw "Expected at least 200 rows in both categor
 if (-not $html.Contains('class="category-choice" value="Action"')) { throw "Missing Action category filter." }
 if (-not ($packageJson.Contains('refresh:action-seasons') -and (Get-Content -Path "scripts/refresh_open_series_seasons.ps1" -Raw).Contains('REFRESH_CATEGORY'))) { throw "Missing Action season refresh command." }
 if (-not ($updateScript.Contains('refresh_open_series_seasons.ps1') -and $updateScript.Contains('"-SkipExisting"'))) { throw "Full update should skip complete season caches by default." }
+if (-not ($seasonRefreshScript.Contains('[int]$Concurrency') -and $seasonRefreshScript.Contains('Start-Job') -and $updateScript.Contains('"-Concurrency", "2"'))) { throw "Season refresh should support bounded parallelism for full updates." }
 if (-not ((Get-Content -Path "build_combined_genre_catalog_source.ps1" -Raw).Contains('imdb_action_year_files_primary_origin') -and (Get-Content -Path "scripts/update_current_year_sources.ps1" -Raw).Contains('Genre = "Action"'))) { throw "Missing Action source configuration." }
 if (-not $html.Contains('href="series_library.css"')) { throw "Missing extracted stylesheet link." }
 if ($html.Contains('<style>')) { throw "HTML should not contain an inline style block." }

@@ -3,7 +3,8 @@ param(
   [string]$Category = "",
   [int]$Limit = 0,
   [switch]$All,
-  [switch]$SkipExisting
+  [switch]$SkipExisting,
+  [int]$Concurrency = 1
 )
 
 $ErrorActionPreference = "Stop"
@@ -115,7 +116,40 @@ function Test-HasCompleteEpisodeCache {
   return $expectedCount -gt 0 -and $episodeCount -ge $expectedCount
 }
 
+function Start-SeriesRefreshJob {
+  param(
+    [string]$ScriptPath,
+    [string]$RefreshTitleId,
+    [bool]$ShouldSkipExisting
+  )
+
+  Start-Job -ArgumentList $ScriptPath, $RefreshTitleId, $ShouldSkipExisting -ScriptBlock {
+    param($ScriptPath, $RefreshTitleId, $ShouldSkipExisting)
+
+    $arguments = @(
+      "-NoProfile",
+      "-ExecutionPolicy",
+      "Bypass",
+      "-File",
+      $ScriptPath,
+      "-TitleId",
+      $RefreshTitleId,
+      "-Concurrency",
+      "1"
+    )
+    if ($ShouldSkipExisting) {
+      $arguments += "-SkipExisting"
+    }
+
+    & powershell.exe @arguments
+    if ($LASTEXITCODE -ne 0) {
+      throw "Season refresh failed for $RefreshTitleId."
+    }
+  }
+}
+
 $root = Resolve-Path "$PSScriptRoot\.."
+Set-Location $root
 $dbPath = Join-Path $root "series_library.db"
 $cacheDir = Join-Path $root "imdb_sci_fi_catalog_cache"
 $env:SERIES_LIBRARY_DB = $dbPath
@@ -131,6 +165,46 @@ $refreshSeries = $seriesJson | ConvertFrom-Json
 $totalSeries = @($refreshSeries | ForEach-Object { $_ }).Count
 
 Write-StepEvent -Current 0 -Total $totalSeries -Message "Refreshing seasons and episode ratings"
+
+if ($Concurrency -gt 1 -and [string]::IsNullOrWhiteSpace($TitleId) -and $totalSeries -gt 1) {
+  $scriptPath = $PSCommandPath
+  $pending = New-Object System.Collections.Queue
+  foreach ($item in @($refreshSeries)) {
+    [void]$pending.Enqueue($item)
+  }
+
+  $activeJobs = @()
+  $completedJobs = 0
+  while ($pending.Count -gt 0 -and $activeJobs.Count -lt $Concurrency) {
+    $nextItem = $pending.Dequeue()
+    Write-StepEvent -Current $completedJobs -Total $totalSeries -Message "Queued seasons: $($nextItem.title)"
+    $activeJobs += Start-SeriesRefreshJob -ScriptPath $scriptPath -RefreshTitleId $nextItem.id -ShouldSkipExisting $SkipExisting.IsPresent
+  }
+
+  while ($activeJobs.Count -gt 0) {
+    $finishedJob = Wait-Job -Job $activeJobs -Any
+    $jobOutput = Receive-Job -Job $finishedJob
+    if ($finishedJob.State -ne "Completed") {
+      Remove-Job -Job $finishedJob -Force
+      throw (($jobOutput | Out-String).Trim())
+    }
+
+    Remove-Job -Job $finishedJob
+    $activeJobs = @($activeJobs | Where-Object { $_.Id -ne $finishedJob.Id })
+    $completedJobs++
+    Write-StepEvent -Current $completedJobs -Total $totalSeries -Message "Finished queued season refresh $completedJobs of $totalSeries"
+
+    while ($pending.Count -gt 0 -and $activeJobs.Count -lt $Concurrency) {
+      $nextItem = $pending.Dequeue()
+      Write-StepEvent -Current $completedJobs -Total $totalSeries -Message "Queued seasons: $($nextItem.title)"
+      $activeJobs += Start-SeriesRefreshJob -ScriptPath $scriptPath -RefreshTitleId $nextItem.id -ShouldSkipExisting $SkipExisting.IsPresent
+    }
+  }
+
+  Write-StepEvent -Current $totalSeries -Total $totalSeries -Status "complete" -Message "Seasons and episode ratings refreshed"
+  return
+}
+
 $i = 0
 foreach ($item in $refreshSeries) {
   Write-StepEvent -Current $i -Total $totalSeries -Message "Refreshing seasons: $($item.title)"

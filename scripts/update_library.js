@@ -20,7 +20,7 @@ const tasks = [
     key: "seasons",
     label: "Refresh seasons and episode ratings",
     command: "powershell.exe",
-    args: ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "scripts/refresh_open_series_seasons.ps1", "-SkipExisting"],
+    args: ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "scripts/refresh_open_series_seasons.ps1", "-SkipExisting", "-Concurrency", "2"],
   },
   {
     key: "ratings",
