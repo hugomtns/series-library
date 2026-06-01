@@ -11,6 +11,7 @@
     "trends": "node scripts/report_season_rating_trends.js",
     "serve": "node series_library_server.js",
     "deploy:check": "node scripts/check_deploy_ready.js",
+    "test:browser": "node scripts/browser_regression_check.js",
     "test": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File verify_sci_fi_catalog_page.ps1 && npm run deploy:check"
   },
   "keywords": [],
