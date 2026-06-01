@@ -43,7 +43,7 @@ function getCatalog() {
     const rows = db.prepare(`
       SELECT
         payload_json, imdb_score, vote_count, season_count, season_label, episode_count,
-        season_rating_trend_slope, season_rating_trend_intercept, season_rating_trend_points
+        season_rating_trend_slope
       FROM series
       ORDER BY start_year ASC, imdb_score DESC, vote_count DESC, title ASC
     `).all();
@@ -55,11 +55,7 @@ function getCatalog() {
       item.seasons = row.season_count;
       item.seasonLabel = row.season_label;
       item.episodes = row.episode_count;
-      item.seasonTrend = {
-        slope: row.season_rating_trend_slope,
-        intercept: row.season_rating_trend_intercept,
-        points: row.season_rating_trend_points,
-      };
+      item.trendSlope = row.season_rating_trend_slope;
       item.seasonDetails = seasonsBySeries.get(item.id) || [];
       item.trendKind = getTrendKind(item);
       return item;
@@ -127,7 +123,7 @@ function getTrendKind(item) {
   const lastScore = points[points.length - 1].y;
   if (lastScore - firstScore <= -1.5) return "disaster";
 
-  const slope = Number(item.seasonTrend?.slope);
+  const slope = Number(item.trendSlope);
   if (!Number.isFinite(slope)) return null;
   if (slope >= 0.3) return "up";
   if (slope <= -0.3) return "down";

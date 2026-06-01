@@ -23,6 +23,7 @@ $series = @($data.series)
 $publicSeries = @($publicData.series)
 $publicDetailSeries = if ($null -ne $publicDetails) { @($publicDetails.series) } else { @() }
 $publicIndexRowsWithDetails = @($publicSeries | Where-Object { $_.PSObject.Properties.Name -contains "synopsis" -or $_.PSObject.Properties.Name -contains "seasonDetails" })
+$publicIndexRowsWithTrendPayload = @($publicSeries | Where-Object { $_.PSObject.Properties.Name -contains "seasonTrend" })
 $publicDetailRowsWithDetails = @($publicDetailSeries | Where-Object { $_.PSObject.Properties.Name -contains "synopsis" -and $_.PSObject.Properties.Name -contains "seasonDetails" })
 $badVotes = @($series | Where-Object { [int]$_.votes -lt 5000 })
 $missingPosters = @($series | Where-Object { [string]::IsNullOrWhiteSpace($_.poster) })
@@ -57,6 +58,7 @@ $years = @($data.years)
   PublicDataTotal = $publicData.total
   PublicDetailsTotal = if ($null -ne $publicDetails) { $publicDetails.total } else { 0 }
   PublicIndexRowsWithDetails = $publicIndexRowsWithDetails.Count
+  PublicIndexRowsWithTrendPayload = $publicIndexRowsWithTrendPayload.Count
   PublicDetailRowsWithDetails = $publicDetailRowsWithDetails.Count
   SeriesRows = $series.Count
   Years = $years.Count
@@ -142,6 +144,7 @@ if ($data.total -ne $series.Count) { throw "Catalog total does not match SQLite 
 if ($publicData.total -ne $data.total) { throw "Public JSON total does not match SQLite catalog total." }
 if ($null -eq $publicDetails -or $publicDetails.total -ne $data.total) { throw "Public detail JSON total does not match SQLite catalog total." }
 if ($publicIndexRowsWithDetails.Count -gt 0) { throw "Public index JSON should not include modal-only synopsis or season detail payloads." }
+if ($publicIndexRowsWithTrendPayload.Count -gt 0) { throw "Public index JSON should expose compact trend fields instead of the full seasonTrend payload." }
 if ($publicDetailRowsWithDetails.Count -ne $data.total) { throw "Public detail JSON should include one detail payload per series." }
 if ($years.Count -lt 60) { throw "Expected at least 60 years with eligible series after extending to 1960." }
 if ((($years | Sort-Object { [int]$_.year } | Select-Object -First 1).year) -gt 1961) { throw "Expected catalog to include early 1960s entries." }

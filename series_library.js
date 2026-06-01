@@ -182,7 +182,7 @@ function finiteSeasonScore(value) {
 }
 
 function seasonTrendSlope(item) {
-  const persisted = Number(item.seasonTrend?.slope);
+  const persisted = Number(item.trendSlope ?? item.seasonTrend?.slope);
   if (Number.isFinite(persisted)) return persisted;
 
   const points = ratedSeasonPoints(item);
