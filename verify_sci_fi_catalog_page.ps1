@@ -24,6 +24,7 @@ $publicDetailsJson = if (Test-Path -Path "series_library_details.json") { Get-Co
 $publicData = $publicDataJson | ConvertFrom-Json
 $publicDetails = if ($publicDetailsJson) { $publicDetailsJson | ConvertFrom-Json } else { $null }
 $vercelConfig = Get-Content -Path "vercel.json" -Raw
+$publicSchemaDoc = if (Test-Path -Path "docs/public_data_schema.md") { Get-Content -Path "docs/public_data_schema.md" -Raw } else { "" }
 $env:SERIES_LIBRARY_DB = Join-Path (Resolve-Path ".") "series_library.db"
 $dataJson = & node "scripts/read_catalog_for_verify.js"
 if ($LASTEXITCODE -ne 0) {
@@ -133,6 +134,24 @@ $usesSharedTrendRulesInExport = Test-ContainsAll $catalogExporter @('require("./
 $usesSharedTrendRulesInMigration = Test-ContainsAll $migrationScript @('require("./trend_rules")', 'calculateSeasonRatingTrend')
 $hasExporterTrendPoints = Test-ContainsAll $trendRulesScript @('function getTrendKind', 'seasonTrendPoints(seasonDetails)')
 $hasSharedTrendThresholds = Test-ContainsAll $trendRulesScript @('minRatedSeasons: 3', 'minRatedScore: 0.1', 'disasterDrop: -1.5', 'trendUpSlope: 0.3', 'trendDownSlope: -0.3')
+$hasPublicSchemaDoc = Test-ContainsAll $publicSchemaDoc @(
+  'series_library_data.json',
+  'series_library_details.json',
+  'id',
+  'title',
+  'year',
+  'score',
+  'poster',
+  'seasonLabel',
+  'primaryOrigin',
+  'categories',
+  'trendSlope',
+  'trendKind',
+  'synopsis',
+  'seasonDetails',
+  'Null Handling',
+  'scripts/trend_rules.js'
+)
 
 [pscustomobject]@{
   Total = $data.total
@@ -182,6 +201,7 @@ $hasSharedTrendThresholds = Test-ContainsAll $trendRulesScript @('minRatedSeason
   HasExtractedCss = $hasExtractedCss
   HasOrganizedCssSections = $hasOrganizedCssSections
   HasSharedFocusTokens = $hasSharedFocusTokens
+  HasPublicSchemaDoc = $hasPublicSchemaDoc
   HasYearSectionRenderContainment = $hasYearSectionRenderContainment
   HasIncrementalCatalogRender = $hasIncrementalCatalogRender
   HasTouchSizedControls = $hasTouchSizedControls
@@ -295,6 +315,7 @@ Assert-Condition (-not $hasCatalogBuilderHtmlOutput) "Catalog builder should not
 Assert-Condition $hasExtractedCss "Extracted stylesheet is missing expected UI styles."
 Assert-Condition $hasOrganizedCssSections "Stylesheet should keep major UI regions organized into labeled sections."
 Assert-Condition $hasSharedFocusTokens "Stylesheet should use shared focus ring tokens instead of repeated literal rings."
+Assert-Condition $hasPublicSchemaDoc "Public JSON schema should be documented."
 Assert-Condition $hasYearSectionRenderContainment "Year sections should use render containment for offscreen catalog performance."
 Assert-Condition $hasIncrementalCatalogRender "Catalog should incrementally render year sections after the initial viewport."
 Assert-Condition $hasTouchSizedControls "Primary interactive controls should meet 44px touch target sizing."
