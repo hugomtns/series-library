@@ -99,7 +99,7 @@ $hasControlSystem = Test-ContainsAll $css @('--control-bg:', '--control-border:'
 $hasPolishedControlIndicators = (Test-ContainsAll $css @('--active-shift:', 'border-right: 2px solid var(--muted)', 'linear-gradient(var(--muted), var(--muted)) center / 10px 2px no-repeat', '@media (prefers-reduced-motion: reduce)')) -and $hasControlSystem
 $hasYearSectionRenderContainment = Test-ContainsAll $css @('content-visibility: auto', 'contain-intrinsic-size')
 $hasIncrementalCatalogRender = Test-ContainsAll $pageSource @('requestIdleCallback', 'function ensureCatalogRendered')
-$hasImmediateYearJump = Test-ContainsAll $pageSource @('function scrollToYear', 'previousScrollBehavior', 'document.documentElement.style.scrollBehavior = "auto"', 'target.scrollIntoView({ behavior: "auto", block: "start" })')
+$hasImmediateYearJump = (Test-ContainsAll $pageSource @('function scrollToYear', 'previousScrollBehavior', 'document.documentElement.style.scrollBehavior = "auto"', 'target.scrollIntoView({ behavior: "auto", block: "start" })')) -and (Test-ContainsAll $css @('body.year-jumping .year-section', 'content-visibility: visible')) -and (Test-ContainsAll $pageSource @('activeYearJumpTarget', 'function setActiveYear', 'document.body.classList.add("year-jumping")', 'document.body.classList.remove("year-jumping")'))
 $hasTouchSizedControls = -not ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px'))
 $usesKeyedSeriesDetails = Test-ContainsAll $pageSource @('details.series || {}', 'detailMap[item.id]')
 $hasVercelRootRewrite = Test-ContainsAll $vercelConfig @('"source": "/"', '"destination": "/series_library.html"')

@@ -203,35 +203,53 @@ let renderedYearCount = 0;
 let catalogFullyRendered = false;
 let pendingCatalogRenderHandle = null;
 let pendingCatalogRenderIsIdle = false;
+let activeYearJumpTarget = null;
 const yearEntries = Array.from(byYear.entries());
 const initialRenderYearCount = 8;
 const renderBatchYearCount = 8;
 const priorityPosterBudgetStart = 8;
 let priorityPosterBudget = priorityPosterBudgetStart;
 
+function setActiveYear(year) {
+  for (const link of navLinks) {
+    link.classList.toggle("active", link.dataset.year === String(year));
+  }
+  yearSelect.value = String(year);
+  const activeDecade = Math.floor(Number(year) / 10) * 10;
+  for (const decadeGroup of yearNav.querySelectorAll(".decade-group")) {
+    decadeGroup.open = decadeGroup.dataset.decade === String(activeDecade);
+  }
+}
+
 const observer = new IntersectionObserver(entries => {
+  if (activeYearJumpTarget) return;
   const visible = entries
     .filter(entry => entry.isIntersecting)
     .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
   if (!visible) return;
-  for (const link of navLinks) {
-    link.classList.toggle("active", link.dataset.year === visible.target.dataset.year);
-  }
-  yearSelect.value = visible.target.dataset.year;
-  const activeDecade = Math.floor(Number(visible.target.dataset.year) / 10) * 10;
-  for (const decadeGroup of yearNav.querySelectorAll(".decade-group")) {
-    decadeGroup.open = decadeGroup.dataset.decade === String(activeDecade);
-  }
+  setActiveYear(visible.target.dataset.year);
 }, { rootMargin: "-15% 0px -65% 0px", threshold: [0.01, 0.2, 0.5] });
 
 function scrollToYear(year) {
   const target = document.getElementById(`year-${year}`);
   if (target) {
+    activeYearJumpTarget = String(year);
+    setActiveYear(year);
+    document.body.classList.add("year-jumping");
     const previousScrollBehavior = document.documentElement.style.scrollBehavior;
     document.documentElement.style.scrollBehavior = "auto";
-    target.scrollIntoView({ behavior: "auto", block: "start" });
-    document.documentElement.style.scrollBehavior = previousScrollBehavior;
-    history.replaceState(null, "", `#year-${year}`);
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        target.scrollIntoView({ behavior: "auto", block: "start" });
+        document.documentElement.style.scrollBehavior = previousScrollBehavior;
+        history.replaceState(null, "", `#year-${year}`);
+        window.setTimeout(() => {
+          document.body.classList.remove("year-jumping");
+          activeYearJumpTarget = null;
+          setActiveYear(year);
+        }, 500);
+      });
+    });
   }
 }
 

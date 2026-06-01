@@ -935,6 +935,7 @@ h1 {
 
 body.searching .empty.visible { display: grid; }
 body.searching .year-section.empty-year { display: none; }
+body.year-jumping .year-section { content-visibility: visible; }
 .card.hidden { display: none; }
 
 @media (prefers-reduced-motion: reduce) {
