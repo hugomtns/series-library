@@ -161,58 +161,12 @@ function ratingTone(score) {
 }
 
 function trendKind(item) {
-  if (item.trendKind) return item.trendKind;
-
-  const points = ratedSeasonPoints(item);
-  if (points.length < 3) return null;
-
-  const firstScore = points[0].y;
-  const lastScore = points[points.length - 1].y;
-  if (lastScore - firstScore <= -1.5) {
-    return "disaster";
-  }
-
-  const slope = seasonTrendSlope(item);
-  if (!Number.isFinite(slope)) return null;
-  if (slope >= 0.3) return "up";
-  if (slope <= -0.3) return "down";
-  return null;
-}
-
-function finiteSeasonScore(value) {
-  const score = Number(value);
-  return Number.isFinite(score) && score >= 0.1 ? score : null;
+  return item.trendKind || null;
 }
 
 function seasonTrendSlope(item) {
-  const persisted = Number(item.trendSlope ?? item.seasonTrend?.slope);
-  if (Number.isFinite(persisted)) return persisted;
-
-  const points = ratedSeasonPoints(item);
-  if (points.length < 3) return null;
-
-  let sumX = 0;
-  let sumY = 0;
-  let sumXY = 0;
-  let sumXX = 0;
-  for (const point of points) {
-    sumX += point.x;
-    sumY += point.y;
-    sumXY += point.x * point.y;
-    sumXX += point.x * point.x;
-  }
-
-  const n = points.length;
-  const denominator = (n * sumXX) - (sumX * sumX);
-  if (denominator === 0) return null;
-  return ((n * sumXY) - (sumX * sumY)) / denominator;
-}
-
-function ratedSeasonPoints(item) {
-  return [...(item.seasonDetails || [])]
-    .map(season => ({ x: Number(season.season), y: finiteSeasonScore(season.score) }))
-    .filter(point => Number.isFinite(point.x) && point.y !== null)
-    .sort((a, b) => a.x - b.x);
+  const slope = Number(item.trendSlope);
+  return Number.isFinite(slope) ? slope : null;
 }
 
 function renderTrendTag(item) {
@@ -222,7 +176,7 @@ function renderTrendTag(item) {
   const slope = seasonTrendSlope(item);
   const title = kind === "disaster"
     ? "Last season is at least 1.5 IMDb points below the first"
-    : `Season rating trend m=${slope.toFixed(2)}`;
+    : Number.isFinite(slope) ? `Season rating trend m=${slope.toFixed(2)}` : "Season rating trend";
   return `<span class="trend-tag trend-${kind}" title="${escapeText(title)}">${label}</span>`;
 }
 

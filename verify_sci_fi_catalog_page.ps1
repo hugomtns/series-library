@@ -6,6 +6,7 @@ $clientJs = if (Test-Path -Path "series_library.js") { Get-Content -Path "series
 $pageSource = "$html`n$clientJs"
 $packageJson = Get-Content -Path "package.json" -Raw
 $catalogBuilder = Get-Content -Path "build_sci_fi_catalog_page.ps1" -Raw
+$catalogExporter = Get-Content -Path "scripts/export_public_catalog.js" -Raw
 $seasonRefreshScript = Get-Content -Path "scripts/refresh_open_series_seasons.ps1" -Raw
 $updateScript = Get-Content -Path "scripts/update_library.js" -Raw
 $verifyScript = Get-Content -Path "verify_sci_fi_catalog_page.ps1" -Raw
@@ -174,12 +175,13 @@ $years = @($data.years)
   HasDerivedImdbUrl = $pageSource.Contains('function imdbTitleUrl') -and $pageSource.Contains('href="${escapeText(imdbTitleUrl(item))}"')
   HasFilterDataAttributes = $pageSource.Contains('data-score="${escapeText(Number(item.score).toFixed(1))}"') -and $pageSource.Contains('data-primary-categories=')
   HasBatchedFilterInputs = $pageSource.Contains('function scheduleApplyFilters') -and $pageSource.Contains('requestAnimationFrame')
-  HasSoftTrendUpThreshold = $pageSource.Contains('slope >= 0.3')
-  HasSoftTrendDownThreshold = $pageSource.Contains('slope <= -0.3')
-  HasFiniteSeasonScoreGuard = $pageSource.Contains('function finiteSeasonScore')
-  HasRatedSeasonPoints = $pageSource.Contains('function ratedSeasonPoints')
+  UsesExportedTrendFields = $pageSource.Contains('return item.trendKind || null') -and $pageSource.Contains('Number(item.trendSlope)')
+  HasSoftTrendUpThreshold = $catalogExporter.Contains('slope >= 0.3')
+  HasSoftTrendDownThreshold = $catalogExporter.Contains('slope <= -0.3')
+  HasFiniteSeasonScoreGuard = $catalogExporter.Contains('function finiteSeasonScore')
+  HasExporterTrendPoints = $catalogExporter.Contains('getTrendKind') -and $catalogExporter.Contains('finiteSeasonScore(season.score)')
   HasUnsafeSeasonScoreNumberCast = $pageSource.Contains('y: Number(season.score)')
-  HasDisasterThreshold = $pageSource.Contains('lastScore - firstScore <= -1.5')
+  HasDisasterThreshold = $catalogExporter.Contains('lastScore - firstScore <= -1.5')
   HasDeadRankStyle = $css.Contains('.rank')
 } | Format-List
 
@@ -275,10 +277,11 @@ if (-not $pageSource.Contains('data-trend="${escapeText(trendKind(item) || "")}"
 if (-not ($pageSource.Contains('function imdbTitleUrl') -and $pageSource.Contains('href="${escapeText(imdbTitleUrl(item))}"'))) { throw "Series cards should derive IMDb links from title ids." }
 if (-not ($pageSource.Contains('data-score="${escapeText(Number(item.score).toFixed(1))}"') -and $pageSource.Contains('data-primary-categories='))) { throw "Series cards should expose precomputed filter data." }
 if (-not ($pageSource.Contains('function scheduleApplyFilters') -and $pageSource.Contains('requestAnimationFrame'))) { throw "Text and range filter inputs should batch DOM filtering work." }
-if (-not $pageSource.Contains('slope >= 0.3')) { throw "Trend Up should use the softened 0.3 threshold." }
-if (-not $pageSource.Contains('slope <= -0.3')) { throw "Trend Down should use the softened -0.3 threshold." }
-if (-not $pageSource.Contains('function finiteSeasonScore')) { throw "Trend calculations should guard against pending null season scores." }
-if (-not $pageSource.Contains('function ratedSeasonPoints')) { throw "Trend calculations should operate on rated seasons only." }
+if (-not ($pageSource.Contains('return item.trendKind || null') -and $pageSource.Contains('Number(item.trendSlope)'))) { throw "Series cards should use exported trend fields." }
+if (-not $catalogExporter.Contains('slope >= 0.3')) { throw "Trend Up should use the softened 0.3 threshold." }
+if (-not $catalogExporter.Contains('slope <= -0.3')) { throw "Trend Down should use the softened -0.3 threshold." }
+if (-not $catalogExporter.Contains('function finiteSeasonScore')) { throw "Trend calculations should guard against pending null season scores." }
+if (-not ($catalogExporter.Contains('getTrendKind') -and $catalogExporter.Contains('finiteSeasonScore(season.score)'))) { throw "Trend calculations should operate on rated seasons only." }
 if ($pageSource.Contains('y: Number(season.score)')) { throw "Trend fallback should not cast pending null season scores to zero." }
-if (-not $pageSource.Contains('lastScore - firstScore <= -1.5')) { throw "Disaster should use the 1.5 point drop threshold." }
+if (-not $catalogExporter.Contains('lastScore - firstScore <= -1.5')) { throw "Disaster should use the 1.5 point drop threshold." }
 if ($css.Contains('.rank')) { throw "Stylesheet should not keep unused rank styles." }
