@@ -18,6 +18,7 @@ $trendRulesScript = Get-Content -Path "scripts/trend_rules.js" -Raw
 $seasonRefreshScript = Get-Content -Path "scripts/refresh_open_series_seasons.ps1" -Raw
 $currentYearSourcesScript = Get-Content -Path "scripts/update_current_year_sources.ps1" -Raw
 $updateScript = Get-Content -Path "scripts/update_library.js" -Raw
+$serverScript = Get-Content -Path "series_library_server.js" -Raw
 $verifyScript = Get-Content -Path "verify_sci_fi_catalog_page.ps1" -Raw
 $publicDataJson = Get-Content -Path "series_library_data.json" -Raw
 $publicDetailsJson = if (Test-Path -Path "series_library_details.json") { Get-Content -Path "series_library_details.json" -Raw } else { "" }
@@ -152,6 +153,9 @@ $hasPublicSchemaDoc = Test-ContainsAll $publicSchemaDoc @(
   'Null Handling',
   'scripts/trend_rules.js'
 )
+$hasStaticServerAllowlist = Test-ContainsAll $serverScript @('const publicFiles = new Set', 'resolvePublicFile', 'publicFiles.has', 'series_library_data_client.js', 'series_library_rendering.js')
+$hasStaticServerHeadHandling = Test-ContainsAll $serverScript @('req.method === "HEAD"', '"content-length": content.length')
+$hasStaticServerHostConfig = Test-ContainsAll $serverScript @('process.env.HOST || "127.0.0.1"', 'server.listen(port, host')
 
 [pscustomobject]@{
   Total = $data.total
@@ -202,6 +206,9 @@ $hasPublicSchemaDoc = Test-ContainsAll $publicSchemaDoc @(
   HasOrganizedCssSections = $hasOrganizedCssSections
   HasSharedFocusTokens = $hasSharedFocusTokens
   HasPublicSchemaDoc = $hasPublicSchemaDoc
+  HasStaticServerAllowlist = $hasStaticServerAllowlist
+  HasStaticServerHeadHandling = $hasStaticServerHeadHandling
+  HasStaticServerHostConfig = $hasStaticServerHostConfig
   HasYearSectionRenderContainment = $hasYearSectionRenderContainment
   HasIncrementalCatalogRender = $hasIncrementalCatalogRender
   HasTouchSizedControls = $hasTouchSizedControls
@@ -316,6 +323,9 @@ Assert-Condition $hasExtractedCss "Extracted stylesheet is missing expected UI s
 Assert-Condition $hasOrganizedCssSections "Stylesheet should keep major UI regions organized into labeled sections."
 Assert-Condition $hasSharedFocusTokens "Stylesheet should use shared focus ring tokens instead of repeated literal rings."
 Assert-Condition $hasPublicSchemaDoc "Public JSON schema should be documented."
+Assert-Condition $hasStaticServerAllowlist "Local static server should only expose public app files."
+Assert-Condition $hasStaticServerHeadHandling "Local static server should handle HEAD without sending a response body."
+Assert-Condition $hasStaticServerHostConfig "Local static server should allow HOST override while defaulting to loopback."
 Assert-Condition $hasYearSectionRenderContainment "Year sections should use render containment for offscreen catalog performance."
 Assert-Condition $hasIncrementalCatalogRender "Catalog should incrementally render year sections after the initial viewport."
 Assert-Condition $hasTouchSizedControls "Primary interactive controls should meet 44px touch target sizing."

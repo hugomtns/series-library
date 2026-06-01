@@ -4,36 +4,70 @@ const path = require("node:path");
 
 const root = __dirname;
 const port = Number(process.env.PORT || 8787);
+const host = process.env.HOST || "127.0.0.1";
+
+const publicFiles = new Set([
+  "/series_library.html",
+  "/series_library.css",
+  "/series_library.js",
+  "/series_library_data.json",
+  "/series_library_data_client.js",
+  "/series_library_details.json",
+  "/series_library_rendering.js",
+]);
+
+const contentTypes = {
+  ".html": "text/html; charset=utf-8",
+  ".json": "application/json; charset=utf-8",
+  ".css": "text/css; charset=utf-8",
+  ".js": "text/javascript; charset=utf-8",
+};
+
+function resolvePublicFile(req) {
+  let requested;
+  try {
+    requested = decodeURIComponent(new URL(req.url, `http://${host}:${port}`).pathname);
+  } catch {
+    return { status: 400, message: "Bad request" };
+  }
+
+  const safePath = requested === "/" ? "/series_library.html" : requested;
+  if (!publicFiles.has(safePath)) {
+    return { status: 404, message: "Not found" };
+  }
+
+  const filePath = path.resolve(root, `.${safePath}`);
+  if (!filePath.startsWith(`${root}${path.sep}`)) {
+    return { status: 403, message: "Forbidden" };
+  }
+  return { filePath };
+}
 
 function serveStatic(req, res) {
-  const requested = decodeURIComponent(new URL(req.url, `http://localhost:${port}`).pathname);
-  const safePath = requested === "/" ? "/series_library.html" : requested;
-  const filePath = path.normalize(path.join(root, safePath));
-  if (!filePath.startsWith(root)) {
-    res.writeHead(403);
-    res.end("Forbidden");
+  const resolved = resolvePublicFile(req);
+  if (resolved.status) {
+    res.writeHead(resolved.status, {
+      "content-type": "text/plain; charset=utf-8",
+      "cache-control": "no-store",
+    });
+    res.end(req.method === "HEAD" ? undefined : resolved.message);
     return;
   }
 
-  fs.readFile(filePath, (error, content) => {
+  fs.readFile(resolved.filePath, (error, content) => {
     if (error) {
       res.writeHead(404);
-      res.end("Not found");
+      res.end(req.method === "HEAD" ? undefined : "Not found");
       return;
     }
 
-    const ext = path.extname(filePath).toLowerCase();
-    const types = {
-      ".html": "text/html; charset=utf-8",
-      ".json": "application/json; charset=utf-8",
-      ".css": "text/css; charset=utf-8",
-      ".js": "text/javascript; charset=utf-8",
-    };
+    const ext = path.extname(resolved.filePath).toLowerCase();
     res.writeHead(200, {
-      "content-type": types[ext] || "application/octet-stream",
+      "content-type": contentTypes[ext] || "application/octet-stream",
       "cache-control": ext === ".json" ? "no-store" : "public, max-age=0, must-revalidate",
+      "content-length": content.length,
     });
-    res.end(content);
+    res.end(req.method === "HEAD" ? undefined : content);
   });
 }
 
@@ -48,13 +82,13 @@ const server = http.createServer((req, res) => {
 
 server.on("error", (error) => {
   if (error.code === "EADDRINUSE") {
-    console.error(`Port ${port} is already in use. The Series Library server may already be running at http://127.0.0.1:${port}/series_library.html`);
+    console.error(`Port ${port} is already in use. The Series Library server may already be running at http://${host}:${port}/series_library.html`);
     console.error(`To use another port, run: $env:PORT=8788; npm run serve`);
     process.exit(1);
   }
   throw error;
 });
 
-server.listen(port, "127.0.0.1", () => {
-  console.log(`Series Library running at http://127.0.0.1:${port}/series_library.html`);
+server.listen(port, host, () => {
+  console.log(`Series Library running at http://${host}:${port}/series_library.html`);
 });
