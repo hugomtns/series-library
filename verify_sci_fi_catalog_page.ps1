@@ -78,6 +78,7 @@ $years = @($data.years)
   HasVercelRootRewrite = $vercelConfig.Contains('"source": "/"') -and $vercelConfig.Contains('"destination": "/series_library.html"')
   HasYearSelect = $html.Contains('id="yearSelect"')
   HasCategoryFilter = $html.Contains('id="categoryFilter"')
+  HasMobileFilterPanel = $html.Contains('id="filterPanel"') -and $css.Contains('.filter-summary') -and $html.Contains('mobileFilterQuery')
   HasActionCategoryFilter = $html.Contains('class="category-choice" value="Action"')
   HasActionSeasonRefresh = $packageJson.Contains('refresh:action-seasons') -and (Get-Content -Path "scripts/refresh_open_series_seasons.ps1" -Raw).Contains('REFRESH_CATEGORY')
   HasCachedSeasonRefreshDefault = $updateScript.Contains('refresh_open_series_seasons.ps1') -and $updateScript.Contains('"-SkipExisting"')
@@ -149,6 +150,7 @@ if (-not ($vercelConfig.Contains('"source": "/"') -and $vercelConfig.Contains('"
 if (-not $html.Contains('id="yearNav"')) { throw "Missing year navigation." }
 if (-not $html.Contains('id="yearSelect"')) { throw "Missing year select." }
 if (-not $html.Contains('id="categoryFilter"')) { throw "Missing category filter." }
+if (-not ($html.Contains('id="filterPanel"') -and $css.Contains('.filter-summary') -and $html.Contains('mobileFilterQuery'))) { throw "Mobile filters should collapse behind a responsive filter panel." }
 if (-not $html.Contains('id="trendFilter"')) { throw "Missing trend filter." }
 if (-not ($html.Contains('class="trend-choice"') -and $html.Contains('value="up"') -and $html.Contains('value="down"') -and $html.Contains('value="disaster"'))) { throw "Missing trend filter choices." }
 if (-not $html.Contains('"decade-group"')) { throw "Missing decade group renderer." }

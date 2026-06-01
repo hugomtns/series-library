@@ -67,6 +67,14 @@ h1 {
   margin: 18px 0;
 }
 
+.filter-panel {
+  display: grid;
+}
+
+.filter-summary {
+  display: none;
+}
+
 .category-filter {
   position: relative;
   margin: 0 0 14px;
@@ -810,6 +818,45 @@ body.searching .year-section.empty-year { display: none; }
 }
 
 @media (max-width: 620px) {
+  .sidebar {
+    padding: 24px 18px 14px;
+  }
+  .filter-panel {
+    margin-top: 18px;
+  }
+  .filter-summary {
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 0 12px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: var(--panel);
+    cursor: pointer;
+    font-size: 0.86rem;
+    font-weight: 750;
+    list-style: none;
+  }
+  .filter-summary::-webkit-details-marker { display: none; }
+  .filter-summary span:last-child {
+    color: var(--muted);
+    font-size: 0.72rem;
+    font-weight: 650;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .filter-panel[open] .filter-summary span:last-child {
+    font-size: 0;
+  }
+  .filter-panel[open] .filter-summary span:last-child::after {
+    content: "Close";
+    font-size: 0.72rem;
+  }
+  .filter-panel-body {
+    padding-top: 14px;
+  }
   .decade-years { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .grid { grid-template-columns: 1fr; }
   .card { grid-template-columns: 78px minmax(0, 1fr); }
