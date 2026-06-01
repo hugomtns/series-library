@@ -11,8 +11,10 @@ $clientJs = ($clientModulePaths | Where-Object { Test-Path -Path $_ } | ForEach-
 $pageSource = "$html`n$clientJs"
 $packageJson = Get-Content -Path "package.json" -Raw
 $catalogBuilder = Get-Content -Path "build_sci_fi_catalog_page.ps1" -Raw
+$combinedSourceScript = Get-Content -Path "build_combined_genre_catalog_source.ps1" -Raw
 $catalogExporter = Get-Content -Path "scripts/export_public_catalog.js" -Raw
 $seasonRefreshScript = Get-Content -Path "scripts/refresh_open_series_seasons.ps1" -Raw
+$currentYearSourcesScript = Get-Content -Path "scripts/update_current_year_sources.ps1" -Raw
 $updateScript = Get-Content -Path "scripts/update_library.js" -Raw
 $verifyScript = Get-Content -Path "verify_sci_fi_catalog_page.ps1" -Raw
 $publicDataJson = Get-Content -Path "series_library_data.json" -Raw
@@ -31,6 +33,17 @@ function Get-DetailRows($detailsPayload) {
   if ($null -eq $detailsPayload -or $null -eq $detailsPayload.series) { return @() }
   if ($detailsPayload.series -is [array]) { return @($detailsPayload.series) }
   return @($detailsPayload.series.PSObject.Properties | ForEach-Object { $_.Value })
+}
+
+function Test-ContainsAll($text, [string[]]$patterns) {
+  foreach ($pattern in $patterns) {
+    if (-not $text.Contains($pattern)) { return $false }
+  }
+  return $true
+}
+
+function Assert-Condition($condition, $message) {
+  if (-not $condition) { throw $message }
 }
 
 $series = @($data.series)
@@ -84,6 +97,31 @@ $fantasyRows = @($series | Where-Object { @($_.categories) -contains "Fantasy" }
 $actionRows = @($series | Where-Object { @($_.categories) -contains "Action" })
 $bothRows = @($series | Where-Object { @($_.categories) -contains "Sci-Fi" -and @($_.categories) -contains "Fantasy" })
 $years = @($data.years)
+$hasExternalClientScript = $html.Contains('<script type="module" src="series_library.js"></script>') -and $clientJs.Contains('async function loadCatalogData')
+$hasCatalogBuilderHtmlOutput = $catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')
+$hasExtractedCss = $css.Contains('.card') -and $css.Contains('.series-detail-modal')
+$hasYearSectionRenderContainment = Test-ContainsAll $css @('content-visibility: auto', 'contain-intrinsic-size')
+$hasIncrementalCatalogRender = Test-ContainsAll $pageSource @('requestIdleCallback', 'function ensureCatalogRendered')
+$hasTouchSizedControls = -not ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px'))
+$usesKeyedSeriesDetails = Test-ContainsAll $pageSource @('details.series || {}', 'detailMap[item.id]')
+$hasVercelRootRewrite = Test-ContainsAll $vercelConfig @('"source": "/"', '"destination": "/series_library.html"')
+$hasMobileFilterPanel = (Test-ContainsAll $html @('id="filterPanel"')) -and $css.Contains('.filter-summary') -and $pageSource.Contains('mobileFilterQuery')
+$hasNonOverlappingFilterMenus = $css.Contains('.category-menu') -and $css.Contains('margin-top: 5px') -and -not $css.Contains('top: calc(100% + 5px)')
+$hasFilterMenuEscape = Test-ContainsAll $pageSource @('function closeOpenFilterMenu', 'closeOpenFilterMenu(true)')
+$hasActionSeasonRefresh = $packageJson.Contains('refresh:action-seasons') -and $seasonRefreshScript.Contains('REFRESH_CATEGORY')
+$hasCachedSeasonRefreshDefault = Test-ContainsAll $updateScript @('refresh_open_series_seasons.ps1', '"-SkipExisting"')
+$hasParallelSeasonRefresh = (Test-ContainsAll $seasonRefreshScript @('[int]$Concurrency', 'Start-Job')) -and $updateScript.Contains('"-Concurrency", "2"')
+$hasActionSourceConfig = $combinedSourceScript.Contains('imdb_action_year_files_primary_origin') -and $currentYearSourcesScript.Contains('Genre = "Action"')
+$hasTrendFilterChoices = (Test-ContainsAll $html @('class="trend-choice"', 'value="up"', 'value="down"', 'value="disaster"'))
+$hasDeadSeriesDetailHead = $html.Contains('id="seriesDetailHead"') -or $clientJs.Contains('seriesDetailHead') -or $css.Contains('.series-detail-head')
+$hasClickableCards = Test-ContainsAll $pageSource @('role="button"', 'data-id="${escapeText(item.id)}"')
+$hasModalFocusTrap = Test-ContainsAll $pageSource @('function trapModalFocus', 'focusableSelectors')
+$hasModalScrollLock = (Test-ContainsAll $pageSource @('function lockPageScroll', 'function unlockPageScroll', 'const modalScrollY = window.scrollY', 'window.scrollTo(0, modalScrollY)')) -and (Test-ContainsAll $css @('body.modal-open', 'overscroll-behavior: contain')) -and -not $pageSource.Contains('body.style.top') -and -not $pageSource.Contains('lastSeriesTrigger.focus')
+$hasDerivedImdbUrl = Test-ContainsAll $pageSource @('function imdbTitleUrl', 'href="${escapeText(imdbTitleUrl(item))}"')
+$hasFilterDataAttributes = Test-ContainsAll $pageSource @('data-score="${escapeText(Number(item.score).toFixed(1))}"', 'data-primary-categories=')
+$hasBatchedFilterInputs = Test-ContainsAll $pageSource @('function scheduleApplyFilters', 'requestAnimationFrame')
+$usesExportedTrendFields = Test-ContainsAll $pageSource @('return item.trendKind || null', 'Number(item.trendSlope)')
+$hasExporterTrendPoints = Test-ContainsAll $catalogExporter @('getTrendKind', 'finiteSeasonScore(season.score)')
 
 [pscustomobject]@{
   Total = $data.total
@@ -124,34 +162,34 @@ $years = @($data.years)
   TurkishPrimaryRows = $turkishPrimaryRows.Count
   HasYearNavigation = $html.Contains('id="yearNav"')
   HasStylesheet = $html.Contains('href="series_library.css"')
-  HasExternalClientScript = $html.Contains('<script type="module" src="series_library.js"></script>') -and $clientJs.Contains('async function loadCatalogData')
+  HasExternalClientScript = $hasExternalClientScript
   HasInlineModuleScript = $html.Contains('<script type="module">')
   HasDeadYearNavigationCode = $clientJs.Contains('for (const yearInfo of data.years)')
   HasInlineNodeVerificationReader = $verifyScript.Contains('node ' + '-e')
   HasInlineStyleBlock = $html.Contains('<style>')
-  HasCatalogBuilderHtmlOutput = $catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')
-  HasExtractedCss = $css.Contains('.card') -and $css.Contains('.series-detail-modal')
-  HasYearSectionRenderContainment = $css.Contains('content-visibility: auto') -and $css.Contains('contain-intrinsic-size')
-  HasIncrementalCatalogRender = $pageSource.Contains('requestIdleCallback') -and $pageSource.Contains('function ensureCatalogRendered')
-  HasTouchSizedControls = -not ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px'))
+  HasCatalogBuilderHtmlOutput = $hasCatalogBuilderHtmlOutput
+  HasExtractedCss = $hasExtractedCss
+  HasYearSectionRenderContainment = $hasYearSectionRenderContainment
+  HasIncrementalCatalogRender = $hasIncrementalCatalogRender
+  HasTouchSizedControls = $hasTouchSizedControls
   UsesStaticCatalogJson = $pageSource.Contains('fetch("series_library_data.json"')
   UsesLazySeriesDetailsJson = $pageSource.Contains('fetch("series_library_details.json"')
-  UsesKeyedSeriesDetails = $pageSource.Contains('details.series || {}') -and $pageSource.Contains('detailMap[item.id]')
+  UsesKeyedSeriesDetails = $usesKeyedSeriesDetails
   HasUpdateButton = $html.Contains('id="updateButton"')
   HasUpdateApiReference = $pageSource.Contains('/api/update') -or $pageSource.Contains('EventSource')
-  HasVercelRootRewrite = $vercelConfig.Contains('"source": "/"') -and $vercelConfig.Contains('"destination": "/series_library.html"')
+  HasVercelRootRewrite = $hasVercelRootRewrite
   HasYearSelect = $html.Contains('id="yearSelect"')
   HasCategoryFilter = $html.Contains('id="categoryFilter"')
-  HasMobileFilterPanel = $html.Contains('id="filterPanel"') -and $css.Contains('.filter-summary') -and $pageSource.Contains('mobileFilterQuery')
-  HasNonOverlappingFilterMenus = $css.Contains('.category-menu') -and $css.Contains('margin-top: 5px') -and -not $css.Contains('top: calc(100% + 5px)')
-  HasFilterMenuEscape = $pageSource.Contains('function closeOpenFilterMenu') -and $pageSource.Contains('closeOpenFilterMenu(true)')
+  HasMobileFilterPanel = $hasMobileFilterPanel
+  HasNonOverlappingFilterMenus = $hasNonOverlappingFilterMenus
+  HasFilterMenuEscape = $hasFilterMenuEscape
   HasActionCategoryFilter = $html.Contains('class="category-choice" value="Action"')
-  HasActionSeasonRefresh = $packageJson.Contains('refresh:action-seasons') -and (Get-Content -Path "scripts/refresh_open_series_seasons.ps1" -Raw).Contains('REFRESH_CATEGORY')
-  HasCachedSeasonRefreshDefault = $updateScript.Contains('refresh_open_series_seasons.ps1') -and $updateScript.Contains('"-SkipExisting"')
-  HasParallelSeasonRefresh = $seasonRefreshScript.Contains('[int]$Concurrency') -and $seasonRefreshScript.Contains('Start-Job') -and $updateScript.Contains('"-Concurrency", "2"')
+  HasActionSeasonRefresh = $hasActionSeasonRefresh
+  HasCachedSeasonRefreshDefault = $hasCachedSeasonRefreshDefault
+  HasParallelSeasonRefresh = $hasParallelSeasonRefresh
   HasTrendFilter = $html.Contains('id="trendFilter"')
-  HasActionSourceConfig = (Get-Content -Path "build_combined_genre_catalog_source.ps1" -Raw).Contains('imdb_action_year_files_primary_origin') -and (Get-Content -Path "scripts/update_current_year_sources.ps1" -Raw).Contains('Genre = "Action"')
-  HasTrendFilterChoices = $html.Contains('class="trend-choice"') -and $html.Contains('value="up"') -and $html.Contains('value="down"') -and $html.Contains('value="disaster"')
+  HasActionSourceConfig = $hasActionSourceConfig
+  HasTrendFilterChoices = $hasTrendFilterChoices
   HasDecadeGroups = $pageSource.Contains('"decade-group"')
   HasPosterMarkup = $pageSource.Contains('class="poster"')
   HasSearch = $html.Contains('id="search"')
@@ -159,12 +197,12 @@ $years = @($data.years)
   HasSynopsisMarkup = $pageSource.Contains('class="synopsis"')
   CardSearchIncludesSynopsis = $pageSource.Contains('data-search="${escapeText([item.title, item.synopsis')
   HasSeriesDetailModal = $html.Contains('id="seriesDetailModal"')
-  HasDeadSeriesDetailHead = $html.Contains('id="seriesDetailHead"') -or $clientJs.Contains('seriesDetailHead') -or $css.Contains('.series-detail-head')
+  HasDeadSeriesDetailHead = $hasDeadSeriesDetailHead
   HasSeriesDetailSynopsis = $pageSource.Contains('class="detail-synopsis"')
-  HasClickableCards = $pageSource.Contains('role="button"') -and $pageSource.Contains('data-id="${escapeText(item.id)}"')
+  HasClickableCards = $hasClickableCards
   HasCardSpaceActivation = $pageSource.Contains('event.key !== "Enter" && event.key !== " "')
-  HasModalFocusTrap = $pageSource.Contains('function trapModalFocus') -and $pageSource.Contains('focusableSelectors')
-  HasModalScrollLock = $pageSource.Contains('function lockPageScroll') -and $pageSource.Contains('function unlockPageScroll') -and $pageSource.Contains('const modalScrollY = window.scrollY') -and $pageSource.Contains('window.scrollTo(0, modalScrollY)') -and $css.Contains('body.modal-open') -and $css.Contains('overscroll-behavior: contain') -and -not $pageSource.Contains('body.style.top') -and -not $pageSource.Contains('lastSeriesTrigger.focus')
+  HasModalFocusTrap = $hasModalFocusTrap
+  HasModalScrollLock = $hasModalScrollLock
   HasSeriesDetailFooter = $pageSource.Contains('class="series-detail-foot"')
   HasSeriesDetailDone = $pageSource.Contains('id="seriesDetailDone"')
   HasSeriesDetailImdbLink = $pageSource.Contains('<a class="imdb-link fact"')
@@ -179,14 +217,14 @@ $years = @($data.years)
   HasTrendDown = $pageSource.Contains('Trend Down')
   HasDisaster = $pageSource.Contains('Disaster')
   HasCardTrendDataset = $pageSource.Contains('data-trend="${escapeText(trendKind(item) || "")}"')
-  HasDerivedImdbUrl = $pageSource.Contains('function imdbTitleUrl') -and $pageSource.Contains('href="${escapeText(imdbTitleUrl(item))}"')
-  HasFilterDataAttributes = $pageSource.Contains('data-score="${escapeText(Number(item.score).toFixed(1))}"') -and $pageSource.Contains('data-primary-categories=')
-  HasBatchedFilterInputs = $pageSource.Contains('function scheduleApplyFilters') -and $pageSource.Contains('requestAnimationFrame')
-  UsesExportedTrendFields = $pageSource.Contains('return item.trendKind || null') -and $pageSource.Contains('Number(item.trendSlope)')
+  HasDerivedImdbUrl = $hasDerivedImdbUrl
+  HasFilterDataAttributes = $hasFilterDataAttributes
+  HasBatchedFilterInputs = $hasBatchedFilterInputs
+  UsesExportedTrendFields = $usesExportedTrendFields
   HasSoftTrendUpThreshold = $catalogExporter.Contains('slope >= 0.3')
   HasSoftTrendDownThreshold = $catalogExporter.Contains('slope <= -0.3')
   HasFiniteSeasonScoreGuard = $catalogExporter.Contains('function finiteSeasonScore')
-  HasExporterTrendPoints = $catalogExporter.Contains('getTrendKind') -and $catalogExporter.Contains('finiteSeasonScore(season.score)')
+  HasExporterTrendPoints = $hasExporterTrendPoints
   HasUnsafeSeasonScoreNumberCast = $pageSource.Contains('y: Number(season.score)')
   HasDisasterThreshold = $catalogExporter.Contains('lastScore - firstScore <= -1.5')
   HasDeadRankStyle = $css.Contains('.rank')
@@ -224,35 +262,35 @@ if ($sciFiRows.Count -lt 600) { throw "Expected at least 600 Sci-Fi rows." }
 if ($fantasyRows.Count -lt 500) { throw "Expected at least 500 Fantasy rows." }
 if ($bothRows.Count -lt 200) { throw "Expected at least 200 rows in both categories." }
 if (-not $html.Contains('class="category-choice" value="Action"')) { throw "Missing Action category filter." }
-if (-not ($packageJson.Contains('refresh:action-seasons') -and (Get-Content -Path "scripts/refresh_open_series_seasons.ps1" -Raw).Contains('REFRESH_CATEGORY'))) { throw "Missing Action season refresh command." }
-if (-not ($updateScript.Contains('refresh_open_series_seasons.ps1') -and $updateScript.Contains('"-SkipExisting"'))) { throw "Full update should skip complete season caches by default." }
-if (-not ($seasonRefreshScript.Contains('[int]$Concurrency') -and $seasonRefreshScript.Contains('Start-Job') -and $updateScript.Contains('"-Concurrency", "2"'))) { throw "Season refresh should support bounded parallelism for full updates." }
-if (-not ((Get-Content -Path "build_combined_genre_catalog_source.ps1" -Raw).Contains('imdb_action_year_files_primary_origin') -and (Get-Content -Path "scripts/update_current_year_sources.ps1" -Raw).Contains('Genre = "Action"'))) { throw "Missing Action source configuration." }
+Assert-Condition $hasActionSeasonRefresh "Missing Action season refresh command."
+Assert-Condition $hasCachedSeasonRefreshDefault "Full update should skip complete season caches by default."
+Assert-Condition $hasParallelSeasonRefresh "Season refresh should support bounded parallelism for full updates."
+Assert-Condition $hasActionSourceConfig "Missing Action source configuration."
 if (-not $html.Contains('href="series_library.css"')) { throw "Missing extracted stylesheet link." }
-if (-not ($html.Contains('<script type="module" src="series_library.js"></script>') -and $clientJs.Contains('async function loadCatalogData'))) { throw "Public page should load extracted client JavaScript." }
+Assert-Condition $hasExternalClientScript "Public page should load extracted client JavaScript."
 if ($html.Contains('<script type="module">')) { throw "HTML should not contain the inline app module." }
 if ($clientJs.Contains('for (const yearInfo of data.years)')) { throw "Client script should not keep dead year navigation code." }
 if ($verifyScript.Contains('node ' + '-e')) { throw "Verification should use a checked-in Node helper instead of inline JavaScript." }
 if ($html.Contains('<style>')) { throw "HTML should not contain an inline style block." }
-if ($catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')) { throw "Catalog builder should not contain dead HTML generation code." }
-if (-not ($css.Contains('.card') -and $css.Contains('.series-detail-modal'))) { throw "Extracted stylesheet is missing expected UI styles." }
-if (-not ($css.Contains('content-visibility: auto') -and $css.Contains('contain-intrinsic-size'))) { throw "Year sections should use render containment for offscreen catalog performance." }
-if (-not ($pageSource.Contains('requestIdleCallback') -and $pageSource.Contains('function ensureCatalogRendered'))) { throw "Catalog should incrementally render year sections after the initial viewport." }
-if ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px')) { throw "Primary interactive controls should meet 44px touch target sizing." }
+Assert-Condition (-not $hasCatalogBuilderHtmlOutput) "Catalog builder should not contain dead HTML generation code."
+Assert-Condition $hasExtractedCss "Extracted stylesheet is missing expected UI styles."
+Assert-Condition $hasYearSectionRenderContainment "Year sections should use render containment for offscreen catalog performance."
+Assert-Condition $hasIncrementalCatalogRender "Catalog should incrementally render year sections after the initial viewport."
+Assert-Condition $hasTouchSizedControls "Primary interactive controls should meet 44px touch target sizing."
 if (-not $pageSource.Contains('fetch("series_library_data.json"')) { throw "Public page should load static catalog JSON." }
 if (-not $pageSource.Contains('fetch("series_library_details.json"')) { throw "Series detail modal should lazy-load detail JSON." }
-if (-not ($pageSource.Contains('details.series || {}') -and $pageSource.Contains('detailMap[item.id]'))) { throw "Series detail modal should read id-keyed detail JSON." }
+Assert-Condition $usesKeyedSeriesDetails "Series detail modal should read id-keyed detail JSON."
 if ($html.Contains('id="updateButton"')) { throw "Public page should not expose update controls." }
 if ($pageSource.Contains('/api/update') -or $pageSource.Contains('EventSource')) { throw "Public page should not reference update APIs." }
-if (-not ($vercelConfig.Contains('"source": "/"') -and $vercelConfig.Contains('"destination": "/series_library.html"'))) { throw "Missing Vercel root rewrite." }
+Assert-Condition $hasVercelRootRewrite "Missing Vercel root rewrite."
 if (-not $html.Contains('id="yearNav"')) { throw "Missing year navigation." }
 if (-not $html.Contains('id="yearSelect"')) { throw "Missing year select." }
 if (-not $html.Contains('id="categoryFilter"')) { throw "Missing category filter." }
-if (-not ($html.Contains('id="filterPanel"') -and $css.Contains('.filter-summary') -and $pageSource.Contains('mobileFilterQuery'))) { throw "Mobile filters should collapse behind a responsive filter panel." }
-if (-not ($css.Contains('.category-menu') -and $css.Contains('margin-top: 5px') -and -not $css.Contains('top: calc(100% + 5px)'))) { throw "Filter menus should not overlap adjacent filter controls." }
-if (-not ($pageSource.Contains('function closeOpenFilterMenu') -and $pageSource.Contains('closeOpenFilterMenu(true)'))) { throw "Filter menus should close with Escape and restore trigger focus." }
+Assert-Condition $hasMobileFilterPanel "Mobile filters should collapse behind a responsive filter panel."
+Assert-Condition $hasNonOverlappingFilterMenus "Filter menus should not overlap adjacent filter controls."
+Assert-Condition $hasFilterMenuEscape "Filter menus should close with Escape and restore trigger focus."
 if (-not $html.Contains('id="trendFilter"')) { throw "Missing trend filter." }
-if (-not ($html.Contains('class="trend-choice"') -and $html.Contains('value="up"') -and $html.Contains('value="down"') -and $html.Contains('value="disaster"'))) { throw "Missing trend filter choices." }
+Assert-Condition $hasTrendFilterChoices "Missing trend filter choices."
 if (-not $pageSource.Contains('"decade-group"')) { throw "Missing decade group renderer." }
 if (-not $pageSource.Contains('class="poster"')) { throw "Missing poster markup." }
 if (-not $html.Contains('id="search"')) { throw "Missing search input." }
@@ -260,16 +298,16 @@ if (-not $html.Contains('placeholder="Search titles..."')) { throw "Search input
 if ($pageSource.Contains('class="synopsis"')) { throw "Cards should not render synopsis markup." }
 if ($pageSource.Contains('data-search="${escapeText([item.title, item.synopsis')) { throw "Card search should not include synopsis." }
 if (-not $html.Contains('id="seriesDetailModal"')) { throw "Missing series detail modal." }
-if ($html.Contains('id="seriesDetailHead"') -or $clientJs.Contains('seriesDetailHead') -or $css.Contains('.series-detail-head')) { throw "Series detail modal should not keep the unused header shell." }
+Assert-Condition (-not $hasDeadSeriesDetailHead) "Series detail modal should not keep the unused header shell."
 if (-not $pageSource.Contains('class="detail-layout"')) { throw "Detail modal should use the poster/info/synopsis/season layout." }
 if (-not $pageSource.Contains('class="detail-info"')) { throw "Detail modal should render card-style series info." }
 if (-not $pageSource.Contains('class="detail-synopsis"')) { throw "Detail modal should render synopsis." }
 if ($pageSource.Contains('class="detail-tags"')) { throw "Detail modal should not render a duplicate genre/tag row." }
 if ($pageSource.Contains('class="detail-fact"')) { throw "Detail modal should not restate card facts as separate metric boxes." }
-if (-not ($pageSource.Contains('role="button"') -and $pageSource.Contains('data-id="${escapeText(item.id)}"'))) { throw "Series cards should be keyboard-openable detail triggers." }
+Assert-Condition $hasClickableCards "Series cards should be keyboard-openable detail triggers."
 if (-not $pageSource.Contains('event.key !== "Enter" && event.key !== " "')) { throw "Series cards should open with Space as well as Enter." }
-if (-not ($pageSource.Contains('function trapModalFocus') -and $pageSource.Contains('focusableSelectors'))) { throw "Series detail modal should trap keyboard focus while open." }
-if (-not ($pageSource.Contains('function lockPageScroll') -and $pageSource.Contains('function unlockPageScroll') -and $pageSource.Contains('const modalScrollY = window.scrollY') -and $pageSource.Contains('window.scrollTo(0, modalScrollY)') -and $css.Contains('body.modal-open') -and $css.Contains('overscroll-behavior: contain') -and -not $pageSource.Contains('body.style.top') -and -not $pageSource.Contains('lastSeriesTrigger.focus'))) { throw "Series detail modal should lock background scrolling while open without forcing focus-driven scroll restoration." }
+Assert-Condition $hasModalFocusTrap "Series detail modal should trap keyboard focus while open."
+Assert-Condition $hasModalScrollLock "Series detail modal should lock background scrolling while open without forcing focus-driven scroll restoration."
 if ($pageSource.Contains('class="series-detail-foot"')) { throw "Series detail modal should not have a footer action bar." }
 if ($pageSource.Contains('id="seriesDetailDone"')) { throw "Series detail modal should only use the close button." }
 if ($pageSource.Contains('<a class="imdb-link fact"')) { throw "Series detail modal should not duplicate the IMDb link." }
@@ -283,14 +321,14 @@ if (-not $pageSource.Contains('Trend Up')) { throw "Series cards should support 
 if (-not $pageSource.Contains('Trend Down')) { throw "Series cards should support Trend Down tags." }
 if (-not $pageSource.Contains('Disaster')) { throw "Series cards should support Disaster tags." }
 if (-not $pageSource.Contains('data-trend="${escapeText(trendKind(item) || "")}"')) { throw "Series cards should expose trend data for filtering." }
-if (-not ($pageSource.Contains('function imdbTitleUrl') -and $pageSource.Contains('href="${escapeText(imdbTitleUrl(item))}"'))) { throw "Series cards should derive IMDb links from title ids." }
-if (-not ($pageSource.Contains('data-score="${escapeText(Number(item.score).toFixed(1))}"') -and $pageSource.Contains('data-primary-categories='))) { throw "Series cards should expose precomputed filter data." }
-if (-not ($pageSource.Contains('function scheduleApplyFilters') -and $pageSource.Contains('requestAnimationFrame'))) { throw "Text and range filter inputs should batch DOM filtering work." }
-if (-not ($pageSource.Contains('return item.trendKind || null') -and $pageSource.Contains('Number(item.trendSlope)'))) { throw "Series cards should use exported trend fields." }
+Assert-Condition $hasDerivedImdbUrl "Series cards should derive IMDb links from title ids."
+Assert-Condition $hasFilterDataAttributes "Series cards should expose precomputed filter data."
+Assert-Condition $hasBatchedFilterInputs "Text and range filter inputs should batch DOM filtering work."
+Assert-Condition $usesExportedTrendFields "Series cards should use exported trend fields."
 if (-not $catalogExporter.Contains('slope >= 0.3')) { throw "Trend Up should use the softened 0.3 threshold." }
 if (-not $catalogExporter.Contains('slope <= -0.3')) { throw "Trend Down should use the softened -0.3 threshold." }
 if (-not $catalogExporter.Contains('function finiteSeasonScore')) { throw "Trend calculations should guard against pending null season scores." }
-if (-not ($catalogExporter.Contains('getTrendKind') -and $catalogExporter.Contains('finiteSeasonScore(season.score)'))) { throw "Trend calculations should operate on rated seasons only." }
+Assert-Condition $hasExporterTrendPoints "Trend calculations should operate on rated seasons only."
 if ($pageSource.Contains('y: Number(season.score)')) { throw "Trend fallback should not cast pending null season scores to zero." }
 if (-not $catalogExporter.Contains('lastScore - firstScore <= -1.5')) { throw "Disaster should use the 1.5 point drop threshold." }
 if ($css.Contains('.rank')) { throw "Stylesheet should not keep unused rank styles." }
