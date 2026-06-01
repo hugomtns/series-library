@@ -56,6 +56,7 @@ function validateIndexPayload(payload) {
       "years",
       "poster",
       "seasonLabel",
+      "ratedSeasonCount",
       "primaryOrigin",
       "categories",
       "trendSlope",
@@ -68,6 +69,7 @@ function validateIndexPayload(payload) {
     assertOptionalString("series.years", item.years);
     assertOptionalString("series.poster", item.poster);
     assertOptionalString("series.seasonLabel", item.seasonLabel);
+    assert(Number.isInteger(item.ratedSeasonCount) && item.ratedSeasonCount >= 0, `ratedSeasonCount should be a non-negative integer: ${item.id}`);
     assertOptionalString("series.primaryOrigin", item.primaryOrigin);
     assert(Array.isArray(item.categories) && item.categories.length > 0, `series categories missing: ${item.id}`);
     for (const category of item.categories) {

@@ -53,6 +53,16 @@
               <input id="maxScore" type="number" min="1" max="10" step="0.1" inputmode="decimal" placeholder="10.0">
             </div>
           </div>
+          <div class="score-filter" aria-label="Rated season count range">
+            <div class="score-field">
+              <label for="minSeasons">Min seasons</label>
+              <input id="minSeasons" type="number" min="0" step="1" inputmode="numeric" placeholder="0">
+            </div>
+            <div class="score-field">
+              <label for="maxSeasons">Max seasons</label>
+              <input id="maxSeasons" type="number" min="0" step="1" inputmode="numeric" placeholder="56">
+            </div>
+          </div>
           <div class="filter-status" id="filterStatus" aria-live="polite">No filters active</div>
           <button type="button" class="reset-filters" id="resetFilters" disabled>Reset filters</button>
           <div class="year-picker">

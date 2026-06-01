@@ -39,6 +39,8 @@ const trendAll = document.getElementById("trendAll");
 const trendChoices = Array.from(document.querySelectorAll(".trend-choice"));
 const minScoreInput = document.getElementById("minScore");
 const maxScoreInput = document.getElementById("maxScore");
+const minSeasonsInput = document.getElementById("minSeasons");
+const maxSeasonsInput = document.getElementById("maxSeasons");
 const filterStatus = document.getElementById("filterStatus");
 const resetFilters = document.getElementById("resetFilters");
 const seriesDetailModal = document.getElementById("seriesDetailModal");
@@ -516,12 +518,21 @@ function parseScoreInput(input, fallback) {
   return Math.max(1, Math.min(10, Math.round(value * 10) / 10));
 }
 
+function parseSeasonCountInput(input, fallback) {
+  if (!input.value.trim()) return fallback;
+  const value = Number(input.value);
+  if (!Number.isFinite(value)) return fallback;
+  return Math.max(0, Math.round(value));
+}
+
 function hasActiveFilters() {
   return search.value.trim().length > 0 ||
     !allCategoriesSelected() ||
     !allTrendsSelected() ||
     minScoreInput.value.trim().length > 0 ||
-    maxScoreInput.value.trim().length > 0;
+    maxScoreInput.value.trim().length > 0 ||
+    minSeasonsInput.value.trim().length > 0 ||
+    maxSeasonsInput.value.trim().length > 0;
 }
 
 function updateFilterStatus(visibleCards = data.total) {
@@ -530,6 +541,7 @@ function updateFilterStatus(visibleCards = data.total) {
   if (!allCategoriesSelected()) active.push(selectedCategories.size === 1 ? "1 category" : `${selectedCategories.size} categories`);
   if (!allTrendsSelected()) active.push(selectedTrends.size === 1 ? "1 trend" : `${selectedTrends.size} trends`);
   if (minScoreInput.value.trim() || maxScoreInput.value.trim()) active.push("score range");
+  if (minSeasonsInput.value.trim() || maxSeasonsInput.value.trim()) active.push("rated seasons");
 
   resetFilters.disabled = active.length === 0;
   filterStatus.textContent = active.length
@@ -547,6 +559,9 @@ function updateEmptyState(query) {
   } else if (query) {
     emptyTitle.textContent = "No title matches";
     emptyMessage.textContent = `No series title contains "${query}".`;
+  } else if (minSeasonsInput.value.trim() || maxSeasonsInput.value.trim()) {
+    emptyTitle.textContent = "No rated season counts in range";
+    emptyMessage.textContent = "Widen the rated season range or reset filters.";
   } else if (minScoreInput.value.trim() || maxScoreInput.value.trim()) {
     emptyTitle.textContent = "No scores in range";
     emptyMessage.textContent = "Widen the score range or reset filters.";
@@ -561,6 +576,13 @@ function cardMatchesScore(card) {
   const minScore = parseScoreInput(minScoreInput, 1);
   const maxScore = parseScoreInput(maxScoreInput, 10);
   return score >= Math.min(minScore, maxScore) && score <= Math.max(minScore, maxScore);
+}
+
+function cardMatchesRatedSeasonCount(card) {
+  const count = Number(card.dataset.ratedSeasons);
+  const minCount = parseSeasonCountInput(minSeasonsInput, 0);
+  const maxCount = parseSeasonCountInput(maxSeasonsInput, Number.MAX_SAFE_INTEGER);
+  return count >= Math.min(minCount, maxCount) && count <= Math.max(minCount, maxCount);
 }
 
 let pendingFilterFrame = null;
@@ -584,6 +606,8 @@ function applyFilters() {
   const query = search.value.trim().toLowerCase();
   const minHasValue = minScoreInput.value.trim().length > 0;
   const maxHasValue = maxScoreInput.value.trim().length > 0;
+  const minSeasonsHasValue = minSeasonsInput.value.trim().length > 0;
+  const maxSeasonsHasValue = maxSeasonsInput.value.trim().length > 0;
   const searching = hasActiveFilters();
   document.body.classList.toggle("searching", searching);
   let visibleCards = 0;
@@ -592,7 +616,7 @@ function applyFilters() {
   for (const section of sections) {
     let sectionVisible = 0;
     for (const card of section.querySelectorAll(".card")) {
-      const match = cardMatchesCategory(card) && cardMatchesTrend(card) && cardMatchesScore(card) && (!query || card.dataset.search.includes(query));
+      const match = cardMatchesCategory(card) && cardMatchesTrend(card) && cardMatchesScore(card) && cardMatchesRatedSeasonCount(card) && (!query || card.dataset.search.includes(query));
       card.classList.toggle("hidden", !match);
       if (match) sectionVisible++;
     }
@@ -605,7 +629,7 @@ function applyFilters() {
   yearCount.textContent = visibleYears.toLocaleString();
   empty.classList.toggle("visible", searching && visibleCards === 0);
   updateEmptyState(query);
-  metaLine.textContent = query || !allCategoriesSelected() || !allTrendsSelected() || minHasValue || maxHasValue ? `${visibleCards.toLocaleString()} matching series` : `Generated ${data.generatedAt}`;
+  metaLine.textContent = query || !allCategoriesSelected() || !allTrendsSelected() || minHasValue || maxHasValue || minSeasonsHasValue || maxSeasonsHasValue ? `${visibleCards.toLocaleString()} matching series` : `Generated ${data.generatedAt}`;
   updateFilterStatus(visibleCards);
 }
 
@@ -768,11 +792,15 @@ search.addEventListener("input", () => {
 });
 minScoreInput.addEventListener("input", scheduleApplyFilters);
 maxScoreInput.addEventListener("input", scheduleApplyFilters);
+minSeasonsInput.addEventListener("input", scheduleApplyFilters);
+maxSeasonsInput.addEventListener("input", scheduleApplyFilters);
 
 function resetAllFilters() {
   search.value = "";
   minScoreInput.value = "";
   maxScoreInput.value = "";
+  minSeasonsInput.value = "";
+  maxSeasonsInput.value = "";
   selectedCategories = new Set(categoryChoices.map(input => input.value));
   selectedTrends = new Set(trendChoices.map(input => input.value));
   updateCategoryTrigger();

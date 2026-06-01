@@ -62,6 +62,8 @@ $publicDetailRowsWithDetails = @($publicDetailSeries | Where-Object { $_.PSObjec
 $publicDetailSeasonRowsWithVotes = @($publicDetailSeries | ForEach-Object { @($_.seasonDetails) } | Where-Object { $_.PSObject.Properties.Name -contains "votes" })
 $publicDetailSeasonRowsWithLabels = @($publicDetailSeries | ForEach-Object { @($_.seasonDetails) } | Where-Object { $_.PSObject.Properties.Name -contains "label" })
 $publicDetailRowsWithIds = @($publicDetailSeries | Where-Object { $_.PSObject.Properties.Name -contains "id" })
+$publicRowsWithRatedSeasonCount = @($publicSeries | Where-Object { $_.PSObject.Properties.Name -contains "ratedSeasonCount" })
+$publicRowsWithBadRatedSeasonCount = @($publicSeries | Where-Object { -not ($_.PSObject.Properties.Name -contains "ratedSeasonCount") -or -not ($_.ratedSeasonCount -is [int]) -or [int]$_.ratedSeasonCount -lt 0 })
 $publicPayloadHasNullFields = $publicDataJson.Contains(':null') -or $publicDetailsJson.Contains(':null')
 $badVotes = @($series | Where-Object { [int]$_.votes -lt 5000 })
 $missingPosters = @($series | Where-Object { [string]::IsNullOrWhiteSpace($_.poster) })
@@ -108,6 +110,7 @@ $hasNonOverlappingFilterMenus = $css.Contains('.category-menu') -and $css.Contai
 $hasFilterMenuEscape = Test-ContainsAll $pageSource @('function closeOpenFilterMenu', 'closeOpenFilterMenu(true)')
 $hasFilterKeyboardNavigation = (Test-ContainsAll $html @('aria-haspopup="true"', 'aria-controls="categoryMenu"', 'aria-controls="trendMenu"')) -and (Test-ContainsAll $pageSource @('function handleFilterTriggerKeydown', 'function handleFilterMenuKeydown', 'event.target === trigger', 'ArrowDown', 'ArrowUp', 'Home', 'End', 'document.activeElement.click()')) -and $css.Contains('.category-option:focus-within')
 $hasFilterReset = (Test-ContainsAll $html @('id="filterStatus"', 'id="resetFilters"')) -and (Test-ContainsAll $pageSource @('function updateFilterStatus', 'resetFilters.addEventListener("click"'))
+$hasRatedSeasonFilter = (Test-ContainsAll $html @('id="minSeasons"', 'id="maxSeasons"', 'Rated season count range')) -and (Test-ContainsAll $pageSource @('data-rated-seasons=', 'function cardMatchesRatedSeasonCount', 'parseSeasonCountInput', 'rated seasons', 'No rated season counts in range')) -and (Test-ContainsAll $catalogExporter @('ratedSeasonCount = seasonTrendPoints', 'item.seasonDetails'))
 $hasLiveFilterResults = (Test-ContainsAll $html @('id="metaLine" aria-live="polite"', 'id="empty" role="status"'))
 $hasRecoverableEmptyState = (Test-ContainsAll $html @('id="emptyTitle"', 'id="emptyMessage"', 'id="emptyReset"')) -and (Test-ContainsAll $pageSource @('function updateEmptyState', 'function resetAllFilters', 'emptyReset.addEventListener("click"', 'No categories selected', 'No title matches'))
 $hasPosterPriorityLoading = Test-ContainsAll $pageSource @('priorityPosterBudgetStart', 'priorityPosterCount', 'isPriority ? "eager" : "lazy"', 'isPriority ? "high" : "auto"', 'decoding="async"')
@@ -122,7 +125,7 @@ $hasClickableCards = Test-ContainsAll $pageSource @('role="button"', 'data-id="$
 $hasModalFocusTrap = Test-ContainsAll $pageSource @('function trapModalFocus', 'focusableSelectors')
 $hasModalScrollLock = (Test-ContainsAll $pageSource @('function lockPageScroll', 'function unlockPageScroll', 'const modalScrollY = window.scrollY', 'window.scrollTo(0, modalScrollY)')) -and (Test-ContainsAll $css @('body.modal-open', 'overscroll-behavior: contain')) -and -not $pageSource.Contains('body.style.top') -and -not $pageSource.Contains('lastSeriesTrigger.focus')
 $hasDerivedImdbUrl = Test-ContainsAll $pageSource @('function imdbTitleUrl', 'href="${escapeText(imdbTitleUrl(item))}"')
-$hasFilterDataAttributes = Test-ContainsAll $pageSource @('data-score="${escapeText(Number(item.score).toFixed(1))}"', 'data-primary-categories=')
+$hasFilterDataAttributes = Test-ContainsAll $pageSource @('data-score="${escapeText(Number(item.score).toFixed(1))}"', 'data-rated-seasons=', 'data-primary-categories=')
 $hasBatchedFilterInputs = Test-ContainsAll $pageSource @('function scheduleApplyFilters', 'requestAnimationFrame')
 $usesExportedTrendFields = Test-ContainsAll $pageSource @('return item.trendKind || null', 'Number(item.trendSlope)')
 $usesSharedTrendRulesInExport = Test-ContainsAll $catalogExporter @('require("./trend_rules")', 'getTrendKind')
@@ -138,6 +141,7 @@ $hasPublicSchemaDoc = Test-ContainsAll $publicSchemaDoc @(
   'score',
   'poster',
   'seasonLabel',
+  'ratedSeasonCount',
   'primaryOrigin',
   'categories',
   'trendSlope',
@@ -168,6 +172,8 @@ $hasCiWorkflow = Test-ContainsAll $ciWorkflow @('runs-on: windows-latest', 'acti
   PublicDetailRowsWithDetails = $publicDetailRowsWithDetails.Count
   PublicDetailKeys = $publicDetailKeys.Count
   PublicDetailRowsWithIds = $publicDetailRowsWithIds.Count
+  PublicRowsWithRatedSeasonCount = $publicRowsWithRatedSeasonCount.Count
+  PublicRowsWithBadRatedSeasonCount = $publicRowsWithBadRatedSeasonCount.Count
   PublicDetailSeasonRowsWithVotes = $publicDetailSeasonRowsWithVotes.Count
   PublicDetailSeasonRowsWithLabels = $publicDetailSeasonRowsWithLabels.Count
   PublicPayloadHasNullFields = $publicPayloadHasNullFields
@@ -230,6 +236,7 @@ $hasCiWorkflow = Test-ContainsAll $ciWorkflow @('runs-on: windows-latest', 'acti
   HasFilterMenuEscape = $hasFilterMenuEscape
   HasFilterKeyboardNavigation = $hasFilterKeyboardNavigation
   HasFilterReset = $hasFilterReset
+  HasRatedSeasonFilter = $hasRatedSeasonFilter
   HasLiveFilterResults = $hasLiveFilterResults
   HasRecoverableEmptyState = $hasRecoverableEmptyState
   HasPosterPriorityLoading = $hasPosterPriorityLoading
@@ -295,6 +302,7 @@ if ($publicCatalogHasSource) { throw "Public index JSON should not include unuse
 if ($publicDetailRowsWithDetails.Count -ne $data.total) { throw "Public detail JSON should include one detail payload per series." }
 if ($publicDetailKeys.Count -ne $data.total) { throw "Public detail JSON should be keyed by series id." }
 if ($publicDetailRowsWithIds.Count -gt 0) { throw "Public detail JSON should not repeat id fields inside detail rows." }
+if ($publicRowsWithRatedSeasonCount.Count -ne $data.total -or $publicRowsWithBadRatedSeasonCount.Count -gt 0) { throw "Public index JSON should expose a non-negative ratedSeasonCount for every row." }
 if ($publicDetailSeasonRowsWithVotes.Count -gt 0) { throw "Public detail JSON should not include unused season vote counts." }
 if ($publicDetailSeasonRowsWithLabels.Count -gt 0) { throw "Public detail JSON should not include unused season label fields." }
 if ($publicPayloadHasNullFields) { throw "Public JSON should omit null-valued fields." }
@@ -357,6 +365,7 @@ Assert-Condition $hasNonOverlappingFilterMenus "Filter menus should not overlap 
 Assert-Condition $hasFilterMenuEscape "Filter menus should close with Escape and restore trigger focus."
 Assert-Condition $hasFilterKeyboardNavigation "Filter menus should support arrow-key navigation between options."
 Assert-Condition $hasFilterReset "Filters should expose a reset control and active-filter status."
+Assert-Condition $hasRatedSeasonFilter "Filters should expose a rated-season range based on rated seasons only."
 Assert-Condition $hasLiveFilterResults "Filter result counts should be announced to assistive technology."
 Assert-Condition $hasRecoverableEmptyState "Empty filter results should explain the state and offer recovery."
 if (-not $html.Contains('id="trendFilter"')) { throw "Missing trend filter." }

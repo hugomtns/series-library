@@ -80,7 +80,7 @@ export function renderCatalogSection(year, items, options = {}) {
     </div>
     <div class="grid">
       ${items.map((item, index) => `
-        <article class="card" tabindex="0" role="button" aria-label="Open details for ${escapeText(item.title)}" data-id="${escapeText(item.id)}" data-categories="${escapeText(item.categories.join(";"))}" data-primary-categories="${escapeText(primaryCategoryList(item.categories).join(";"))}" data-has-animation="${item.categories.includes("Animation") ? "1" : "0"}" data-trend="${escapeText(trendKind(item) || "")}" data-score="${escapeText(Number(item.score).toFixed(1))}" data-search="${escapeText(item.title.toLowerCase())}">
+        <article class="card" tabindex="0" role="button" aria-label="Open details for ${escapeText(item.title)}" data-id="${escapeText(item.id)}" data-categories="${escapeText(item.categories.join(";"))}" data-primary-categories="${escapeText(primaryCategoryList(item.categories).join(";"))}" data-has-animation="${item.categories.includes("Animation") ? "1" : "0"}" data-trend="${escapeText(trendKind(item) || "")}" data-score="${escapeText(Number(item.score).toFixed(1))}" data-rated-seasons="${escapeText(Number(item.ratedSeasonCount || 0))}" data-search="${escapeText(item.title.toLowerCase())}">
           ${renderPoster(item, index < priorityPosterCount)}
           <div class="card-main">
             <div class="card-top">

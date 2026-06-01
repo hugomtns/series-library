@@ -20,6 +20,7 @@ Public index row fields:
 - `score`: IMDb title score.
 - `poster`: poster image URL.
 - `seasonLabel`: compact season count label.
+- `ratedSeasonCount`: number of seasons with a usable IMDb season rating. Pending or unrated seasons do not count.
 - `primaryOrigin`: primary origin country code.
 - `categories`: display/filter categories. `Animation` is secondary and can appear alongside source categories.
 - `trendSlope`: season rating regression slope, omitted when null.

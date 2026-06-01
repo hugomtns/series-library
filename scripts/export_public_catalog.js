@@ -1,7 +1,7 @@
 const fs = require("node:fs");
 const path = require("node:path");
 const Database = require("better-sqlite3");
-const { getTrendKind } = require("./trend_rules");
+const { getTrendKind, seasonTrendPoints } = require("./trend_rules");
 
 const root = path.resolve(__dirname, "..");
 const dbPath = path.join(root, "series_library.db");
@@ -56,6 +56,7 @@ function getCatalog() {
       item.episodes = row.episode_count;
       item.trendSlope = row.season_rating_trend_slope;
       item.seasonDetails = seasonsBySeries.get(item.id) || [];
+      item.ratedSeasonCount = seasonTrendPoints(item.seasonDetails).length;
       item.trendKind = getTrendKind(item);
       return item;
     });
