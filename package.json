@@ -7,6 +7,7 @@
     "migrate": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/rebuild_catalog_and_db.ps1",
     "update": "node scripts/update_library.js",
     "export": "node scripts/export_public_catalog.js",
+    "refresh:action-seasons": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/refresh_open_series_seasons.ps1 -Category Action -SkipExisting",
     "trends": "node scripts/report_season_rating_trends.js",
     "serve": "node series_library_server.js",
     "test": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File verify_sci_fi_catalog_page.ps1"

@@ -1,5 +1,6 @@
 param(
   [string]$TitleId = "",
+  [string]$Category = "",
   [int]$Limit = 0,
   [switch]$All,
   [switch]$SkipExisting
@@ -119,9 +120,10 @@ $dbPath = Join-Path $root "series_library.db"
 $cacheDir = Join-Path $root "imdb_sci_fi_catalog_cache"
 $env:SERIES_LIBRARY_DB = $dbPath
 $env:REFRESH_TITLE_ID = $TitleId
+$env:REFRESH_CATEGORY = $Category
 $env:REFRESH_LIMIT = "$Limit"
 $env:REFRESH_ALL = if ($All) { "1" } else { "0" }
-$seriesJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const rows = db.prepare('SELECT payload_json FROM series ORDER BY start_year ASC, title ASC').all(); db.close(); const titleId = process.env.REFRESH_TITLE_ID || ''; const limit = Number(process.env.REFRESH_LIMIT || 0); const all = process.env.REFRESH_ALL === '1'; let items = rows.map(row => JSON.parse(row.payload_json)); items = titleId ? items.filter(item => item.id === titleId) : all ? items : items.filter(item => String(item.years || '').endsWith('-')); if (limit > 0) items = items.slice(0, limit); process.stdout.write(JSON.stringify(items));"
+$seriesJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const rows = db.prepare('SELECT payload_json FROM series ORDER BY start_year ASC, title ASC').all(); db.close(); const titleId = process.env.REFRESH_TITLE_ID || ''; const category = process.env.REFRESH_CATEGORY || ''; const limit = Number(process.env.REFRESH_LIMIT || 0); const all = process.env.REFRESH_ALL === '1'; let items = rows.map(row => JSON.parse(row.payload_json)); items = titleId ? items.filter(item => item.id === titleId) : category ? items.filter(item => Array.isArray(item.categories) && item.categories.includes(category)) : all ? items : items.filter(item => String(item.years || '').endsWith('-')); if (limit > 0) items = items.slice(0, limit); process.stdout.write(JSON.stringify(items));"
 if ($LASTEXITCODE -ne 0) {
   throw "Failed to read series from SQLite."
 }
