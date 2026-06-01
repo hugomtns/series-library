@@ -22,6 +22,7 @@ $currentYearSourcesScript = Get-Content -Path "scripts/update_current_year_sourc
 $updateScript = Get-Content -Path "scripts/update_library.js" -Raw
 $serverScript = Get-Content -Path "series_library_server.js" -Raw
 $deployCheckScript = Get-TextOrEmpty "scripts/check_deploy_ready.js"
+$posterDeliveryReportScript = Get-TextOrEmpty "scripts/report_poster_delivery.js"
 $verifyScript = Get-Content -Path "verify_sci_fi_catalog_page.ps1" -Raw
 $publicDataJson = Get-Content -Path "series_library_data.json" -Raw
 $publicDetailsJson = Get-TextOrEmpty "series_library_details.json"
@@ -149,6 +150,7 @@ $hasStaticServerHeadHandling = Test-ContainsAll $serverScript @('req.method === 
 $hasStaticServerHostConfig = Test-ContainsAll $serverScript @('process.env.HOST || "127.0.0.1"', 'server.listen(port, host')
 $hasDeployCheck = $packageJson.Contains('"deploy:check"') -and $packageJson.Contains('npm run deploy:check') -and (Test-ContainsAll $deployCheckScript @('requiredPublicFiles', 'requiredIgnoredPaths', 'vercel.json should rewrite /', 'Deploy readiness check passed.'))
 $hasReleaseDeployNotes = Test-ContainsAll $releaseDeployNotes @('Release and Deploy Notes', 'npm test', 'npm run migrate', 'git push', 'SQLite is not deployed', 'No browser update controls')
+$hasPosterDeliveryReport = $packageJson.Contains('"posters:report"') -and (Test-ContainsAll $posterDeliveryReportScript @('series_library_data.json', 'defaultAmazonVariantUrls', 'currentDeliveryControls', 'nextStepIfBandwidthIsHigh'))
 
 [pscustomobject]@{
   Total = $data.total
@@ -206,6 +208,7 @@ $hasReleaseDeployNotes = Test-ContainsAll $releaseDeployNotes @('Release and Dep
   HasStaticServerHostConfig = $hasStaticServerHostConfig
   HasDeployCheck = $hasDeployCheck
   HasReleaseDeployNotes = $hasReleaseDeployNotes
+  HasPosterDeliveryReport = $hasPosterDeliveryReport
   HasYearSectionRenderContainment = $hasYearSectionRenderContainment
   HasIncrementalCatalogRender = $hasIncrementalCatalogRender
   HasTouchSizedControls = $hasTouchSizedControls
@@ -329,6 +332,7 @@ Assert-Condition $hasStaticServerHeadHandling "Local static server should handle
 Assert-Condition $hasStaticServerHostConfig "Local static server should allow HOST override while defaulting to loopback."
 Assert-Condition $hasDeployCheck "Deployment readiness should be covered by npm test."
 Assert-Condition $hasReleaseDeployNotes "Release and deploy notes should document test, data rebuild, and static deploy expectations."
+Assert-Condition $hasPosterDeliveryReport "Poster delivery should have a local report before adding thumbnail/proxy complexity."
 Assert-Condition $hasYearSectionRenderContainment "Year sections should use render containment for offscreen catalog performance."
 Assert-Condition $hasIncrementalCatalogRender "Catalog should incrementally render year sections after the initial viewport."
 Assert-Condition $hasTouchSizedControls "Primary interactive controls should meet 44px touch target sizing."
