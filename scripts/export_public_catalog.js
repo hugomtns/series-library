@@ -1,6 +1,7 @@
 const fs = require("node:fs");
 const path = require("node:path");
 const Database = require("better-sqlite3");
+const { getTrendKind } = require("./trend_rules");
 
 const root = path.resolve(__dirname, "..");
 const dbPath = path.join(root, "series_library.db");
@@ -117,30 +118,6 @@ function getCatalog() {
   } finally {
     db.close();
   }
-}
-
-function finiteSeasonScore(value) {
-  const score = Number(value);
-  return Number.isFinite(score) && score >= 0.1 ? score : null;
-}
-
-function getTrendKind(item) {
-  const points = [...(item.seasonDetails || [])]
-    .map((season) => ({ x: Number(season.season), y: finiteSeasonScore(season.score) }))
-    .filter((point) => Number.isFinite(point.x) && point.y !== null)
-    .sort((a, b) => a.x - b.x);
-
-  if (points.length < 3) return null;
-
-  const firstScore = points[0].y;
-  const lastScore = points[points.length - 1].y;
-  if (lastScore - firstScore <= -1.5) return "disaster";
-
-  const slope = Number(item.trendSlope);
-  if (!Number.isFinite(slope)) return null;
-  if (slope >= 0.3) return "up";
-  if (slope <= -0.3) return "down";
-  return null;
 }
 
 function omitNullValues(value) {

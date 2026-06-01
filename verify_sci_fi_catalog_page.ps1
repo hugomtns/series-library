@@ -13,6 +13,8 @@ $packageJson = Get-Content -Path "package.json" -Raw
 $catalogBuilder = Get-Content -Path "build_sci_fi_catalog_page.ps1" -Raw
 $combinedSourceScript = Get-Content -Path "build_combined_genre_catalog_source.ps1" -Raw
 $catalogExporter = Get-Content -Path "scripts/export_public_catalog.js" -Raw
+$migrationScript = Get-Content -Path "scripts/migrate_to_sqlite.js" -Raw
+$trendRulesScript = Get-Content -Path "scripts/trend_rules.js" -Raw
 $seasonRefreshScript = Get-Content -Path "scripts/refresh_open_series_seasons.ps1" -Raw
 $currentYearSourcesScript = Get-Content -Path "scripts/update_current_year_sources.ps1" -Raw
 $updateScript = Get-Content -Path "scripts/update_library.js" -Raw
@@ -121,7 +123,10 @@ $hasDerivedImdbUrl = Test-ContainsAll $pageSource @('function imdbTitleUrl', 'hr
 $hasFilterDataAttributes = Test-ContainsAll $pageSource @('data-score="${escapeText(Number(item.score).toFixed(1))}"', 'data-primary-categories=')
 $hasBatchedFilterInputs = Test-ContainsAll $pageSource @('function scheduleApplyFilters', 'requestAnimationFrame')
 $usesExportedTrendFields = Test-ContainsAll $pageSource @('return item.trendKind || null', 'Number(item.trendSlope)')
-$hasExporterTrendPoints = Test-ContainsAll $catalogExporter @('getTrendKind', 'finiteSeasonScore(season.score)')
+$usesSharedTrendRulesInExport = Test-ContainsAll $catalogExporter @('require("./trend_rules")', 'getTrendKind')
+$usesSharedTrendRulesInMigration = Test-ContainsAll $migrationScript @('require("./trend_rules")', 'calculateSeasonRatingTrend')
+$hasExporterTrendPoints = Test-ContainsAll $trendRulesScript @('function getTrendKind', 'seasonTrendPoints(seasonDetails)')
+$hasSharedTrendThresholds = Test-ContainsAll $trendRulesScript @('minRatedSeasons: 3', 'minRatedScore: 0.1', 'disasterDrop: -1.5', 'trendUpSlope: 0.3', 'trendDownSlope: -0.3')
 
 [pscustomobject]@{
   Total = $data.total
@@ -221,12 +226,14 @@ $hasExporterTrendPoints = Test-ContainsAll $catalogExporter @('getTrendKind', 'f
   HasFilterDataAttributes = $hasFilterDataAttributes
   HasBatchedFilterInputs = $hasBatchedFilterInputs
   UsesExportedTrendFields = $usesExportedTrendFields
-  HasSoftTrendUpThreshold = $catalogExporter.Contains('slope >= 0.3')
-  HasSoftTrendDownThreshold = $catalogExporter.Contains('slope <= -0.3')
-  HasFiniteSeasonScoreGuard = $catalogExporter.Contains('function finiteSeasonScore')
+  UsesSharedTrendRulesInExport = $usesSharedTrendRulesInExport
+  UsesSharedTrendRulesInMigration = $usesSharedTrendRulesInMigration
+  HasSoftTrendUpThreshold = $trendRulesScript.Contains('slope >= TREND_RULES.trendUpSlope')
+  HasSoftTrendDownThreshold = $trendRulesScript.Contains('slope <= TREND_RULES.trendDownSlope')
+  HasFiniteSeasonScoreGuard = $trendRulesScript.Contains('function finiteSeasonScore')
   HasExporterTrendPoints = $hasExporterTrendPoints
   HasUnsafeSeasonScoreNumberCast = $pageSource.Contains('y: Number(season.score)')
-  HasDisasterThreshold = $catalogExporter.Contains('lastScore - firstScore <= -1.5')
+  HasDisasterThreshold = $trendRulesScript.Contains('lastScore - firstScore <= TREND_RULES.disasterDrop')
   HasDeadRankStyle = $css.Contains('.rank')
 } | Format-List
 
@@ -325,10 +332,13 @@ Assert-Condition $hasDerivedImdbUrl "Series cards should derive IMDb links from 
 Assert-Condition $hasFilterDataAttributes "Series cards should expose precomputed filter data."
 Assert-Condition $hasBatchedFilterInputs "Text and range filter inputs should batch DOM filtering work."
 Assert-Condition $usesExportedTrendFields "Series cards should use exported trend fields."
-if (-not $catalogExporter.Contains('slope >= 0.3')) { throw "Trend Up should use the softened 0.3 threshold." }
-if (-not $catalogExporter.Contains('slope <= -0.3')) { throw "Trend Down should use the softened -0.3 threshold." }
-if (-not $catalogExporter.Contains('function finiteSeasonScore')) { throw "Trend calculations should guard against pending null season scores." }
+Assert-Condition $usesSharedTrendRulesInExport "Public export should use shared trend rules."
+Assert-Condition $usesSharedTrendRulesInMigration "SQLite migration should use shared trend rules."
+Assert-Condition $hasSharedTrendThresholds "Shared trend rules should define the expected thresholds."
+if (-not $trendRulesScript.Contains('slope >= TREND_RULES.trendUpSlope')) { throw "Trend Up should use the softened 0.3 threshold." }
+if (-not $trendRulesScript.Contains('slope <= TREND_RULES.trendDownSlope')) { throw "Trend Down should use the softened -0.3 threshold." }
+if (-not $trendRulesScript.Contains('function finiteSeasonScore')) { throw "Trend calculations should guard against pending null season scores." }
 Assert-Condition $hasExporterTrendPoints "Trend calculations should operate on rated seasons only."
 if ($pageSource.Contains('y: Number(season.score)')) { throw "Trend fallback should not cast pending null season scores to zero." }
-if (-not $catalogExporter.Contains('lastScore - firstScore <= -1.5')) { throw "Disaster should use the 1.5 point drop threshold." }
+if (-not $trendRulesScript.Contains('lastScore - firstScore <= TREND_RULES.disasterDrop')) { throw "Disaster should use the 1.5 point drop threshold." }
 if ($css.Contains('.rank')) { throw "Stylesheet should not keep unused rank styles." }

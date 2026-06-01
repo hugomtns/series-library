@@ -1,6 +1,7 @@
 const fs = require("node:fs");
 const path = require("node:path");
 const Database = require("better-sqlite3");
+const { calculateSeasonRatingTrend } = require("./trend_rules");
 
 const root = path.resolve(__dirname, "..");
 const inputArgIndex = process.argv.indexOf("--input");
@@ -71,38 +72,6 @@ function average(values) {
   return Number((total / values.length).toFixed(1));
 }
 
-function roundOrNull(value, decimals = 4) {
-  if (!Number.isFinite(value)) return null;
-  return Number(value.toFixed(decimals));
-}
-
-function linearRegression(points) {
-  if (points.length < 3) return null;
-
-  let sumX = 0;
-  let sumY = 0;
-  let sumXY = 0;
-  let sumXX = 0;
-  for (const point of points) {
-    sumX += point.x;
-    sumY += point.y;
-    sumXY += point.x * point.y;
-    sumXX += point.x * point.x;
-  }
-
-  const n = points.length;
-  const denominator = (n * sumXX) - (sumX * sumX);
-  if (denominator === 0) return null;
-
-  const slope = ((n * sumXY) - (sumX * sumY)) / denominator;
-  const intercept = (sumY - (slope * sumX)) / n;
-  return {
-    slope: roundOrNull(slope),
-    intercept: roundOrNull(intercept),
-    points: n,
-  };
-}
-
 function episodeStatsBySeason(episodes) {
   const statsBySeason = new Map();
   for (const episode of episodes) {
@@ -171,27 +140,6 @@ function buildSeasonRows(item) {
   }
   seasonRows.sort((a, b) => a.season_number - b.season_number);
   return seasonRows;
-}
-
-function calculateSeasonRatingTrend(item, seasonRows) {
-  const points = seasonRows
-    .filter((season) => season.imdb_score !== null)
-    .map((season) => ({ x: season.season_number, y: season.imdb_score }));
-  if (points.length < 3) {
-    return {
-      season_rating_trend_slope: null,
-      season_rating_trend_intercept: null,
-      season_rating_trend_points: 0,
-    };
-  }
-
-  const regression = linearRegression(points);
-
-  return {
-    season_rating_trend_slope: regression?.slope ?? null,
-    season_rating_trend_intercept: regression?.intercept ?? null,
-    season_rating_trend_points: regression?.points ?? points.length,
-  };
 }
 
 function addColumnIfMissing(table, columnDefinition) {
@@ -366,7 +314,10 @@ const migrate = db.transaction(() => {
     const refresh = readRefreshMetadata(item.id);
     const previousRefresh = existingRefresh.get(item.id) || {};
     const seasonRows = buildSeasonRows(item);
-    const trend = calculateSeasonRatingTrend(item, seasonRows);
+    const trend = calculateSeasonRatingTrend(seasonRows, {
+      seasonKey: "season_number",
+      scoreKey: "imdb_score",
+    });
     insertSeries.run({
       imdb_id: item.id,
       title: item.title || item.id,
