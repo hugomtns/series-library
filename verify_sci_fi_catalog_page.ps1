@@ -24,6 +24,7 @@ $publicSeries = @($publicData.series)
 $publicDetailSeries = if ($null -ne $publicDetails) { @($publicDetails.series) } else { @() }
 $publicIndexRowsWithDetails = @($publicSeries | Where-Object { $_.PSObject.Properties.Name -contains "synopsis" -or $_.PSObject.Properties.Name -contains "seasonDetails" })
 $publicIndexRowsWithTrendPayload = @($publicSeries | Where-Object { $_.PSObject.Properties.Name -contains "seasonTrend" })
+$publicIndexRowsWithImdbUrl = @($publicSeries | Where-Object { $_.PSObject.Properties.Name -contains "imdbUrl" })
 $publicDetailRowsWithDetails = @($publicDetailSeries | Where-Object { $_.PSObject.Properties.Name -contains "synopsis" -and $_.PSObject.Properties.Name -contains "seasonDetails" })
 $badVotes = @($series | Where-Object { [int]$_.votes -lt 5000 })
 $missingPosters = @($series | Where-Object { [string]::IsNullOrWhiteSpace($_.poster) })
@@ -59,6 +60,7 @@ $years = @($data.years)
   PublicDetailsTotal = if ($null -ne $publicDetails) { $publicDetails.total } else { 0 }
   PublicIndexRowsWithDetails = $publicIndexRowsWithDetails.Count
   PublicIndexRowsWithTrendPayload = $publicIndexRowsWithTrendPayload.Count
+  PublicIndexRowsWithImdbUrl = $publicIndexRowsWithImdbUrl.Count
   PublicDetailRowsWithDetails = $publicDetailRowsWithDetails.Count
   SeriesRows = $series.Count
   Years = $years.Count
@@ -132,6 +134,7 @@ $years = @($data.years)
   HasTrendDown = $pageSource.Contains('Trend Down')
   HasDisaster = $pageSource.Contains('Disaster')
   HasCardTrendDataset = $pageSource.Contains('data-trend="${escapeText(trendKind(item) || "")}"')
+  HasDerivedImdbUrl = $pageSource.Contains('function imdbTitleUrl') -and $pageSource.Contains('href="${escapeText(imdbTitleUrl(item))}"')
   HasFilterDataAttributes = $pageSource.Contains('data-score="${escapeText(Number(item.score).toFixed(1))}"') -and $pageSource.Contains('data-primary-categories=')
   HasBatchedFilterInputs = $pageSource.Contains('function scheduleApplyFilters') -and $pageSource.Contains('requestAnimationFrame')
   HasSoftTrendUpThreshold = $pageSource.Contains('slope >= 0.3')
@@ -147,6 +150,7 @@ if ($publicData.total -ne $data.total) { throw "Public JSON total does not match
 if ($null -eq $publicDetails -or $publicDetails.total -ne $data.total) { throw "Public detail JSON total does not match SQLite catalog total." }
 if ($publicIndexRowsWithDetails.Count -gt 0) { throw "Public index JSON should not include modal-only synopsis or season detail payloads." }
 if ($publicIndexRowsWithTrendPayload.Count -gt 0) { throw "Public index JSON should expose compact trend fields instead of the full seasonTrend payload." }
+if ($publicIndexRowsWithImdbUrl.Count -gt 0) { throw "Public index JSON should derive IMDb links from title ids instead of storing imdbUrl per row." }
 if ($publicDetailRowsWithDetails.Count -ne $data.total) { throw "Public detail JSON should include one detail payload per series." }
 if ($years.Count -lt 60) { throw "Expected at least 60 years with eligible series after extending to 1960." }
 if ((($years | Sort-Object { [int]$_.year } | Select-Object -First 1).year) -gt 1961) { throw "Expected catalog to include early 1960s entries." }
@@ -218,6 +222,7 @@ if (-not $pageSource.Contains('Trend Up')) { throw "Series cards should support 
 if (-not $pageSource.Contains('Trend Down')) { throw "Series cards should support Trend Down tags." }
 if (-not $pageSource.Contains('Disaster')) { throw "Series cards should support Disaster tags." }
 if (-not $pageSource.Contains('data-trend="${escapeText(trendKind(item) || "")}"')) { throw "Series cards should expose trend data for filtering." }
+if (-not ($pageSource.Contains('function imdbTitleUrl') -and $pageSource.Contains('href="${escapeText(imdbTitleUrl(item))}"'))) { throw "Series cards should derive IMDb links from title ids." }
 if (-not ($pageSource.Contains('data-score="${escapeText(Number(item.score).toFixed(1))}"') -and $pageSource.Contains('data-primary-categories='))) { throw "Series cards should expose precomputed filter data." }
 if (-not ($pageSource.Contains('function scheduleApplyFilters') -and $pageSource.Contains('requestAnimationFrame'))) { throw "Text and range filter inputs should batch DOM filtering work." }
 if (-not $pageSource.Contains('slope >= 0.3')) { throw "Trend Up should use the softened 0.3 threshold." }

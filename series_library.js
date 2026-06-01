@@ -137,6 +137,10 @@ function renderPoster(item) {
   return `<div class="poster"><img loading="lazy" src="${escapeText(item.poster)}" alt="Poster for ${escapeText(item.title)}"></div>`;
 }
 
+function imdbTitleUrl(item) {
+  return `https://www.imdb.com/title/${encodeURIComponent(item.id)}/`;
+}
+
 function lerp(start, end, amount) {
   return start + (end - start) * amount;
 }
@@ -354,7 +358,7 @@ function renderCatalogSection(year, items) {
             </div>
             <div class="card-actions">
               ${renderTrendTag(item)}
-              <a class="imdb-link" href="${escapeText(item.imdbUrl)}" target="_blank" rel="noreferrer">IMDb</a>
+              <a class="imdb-link" href="${escapeText(imdbTitleUrl(item))}" target="_blank" rel="noreferrer">IMDb</a>
             </div>
           </div>
         </article>
