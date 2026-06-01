@@ -81,6 +81,7 @@ $years = @($data.years)
   HasCatalogBuilderHtmlOutput = $catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')
   HasExtractedCss = $css.Contains('.card') -and $css.Contains('.series-detail-modal')
   HasYearSectionRenderContainment = $css.Contains('content-visibility: auto') -and $css.Contains('contain-intrinsic-size')
+  HasTouchSizedControls = -not ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px'))
   UsesStaticCatalogJson = $pageSource.Contains('fetch("series_library_data.json"')
   HasUpdateButton = $html.Contains('id="updateButton"')
   HasUpdateApiReference = $pageSource.Contains('/api/update') -or $pageSource.Contains('EventSource')
@@ -159,6 +160,7 @@ if ($html.Contains('<style>')) { throw "HTML should not contain an inline style 
 if ($catalogBuilder.Contains('$OutHtml') -or $catalogBuilder.Contains('$SkipHtml') -or $catalogBuilder.Contains('$html = @''') -or $catalogBuilder.Contains('<style>')) { throw "Catalog builder should not contain dead HTML generation code." }
 if (-not ($css.Contains('.card') -and $css.Contains('.series-detail-modal'))) { throw "Extracted stylesheet is missing expected UI styles." }
 if (-not ($css.Contains('content-visibility: auto') -and $css.Contains('contain-intrinsic-size'))) { throw "Year sections should use render containment for offscreen catalog performance." }
+if ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px')) { throw "Primary interactive controls should meet 44px touch target sizing." }
 if (-not $pageSource.Contains('fetch("series_library_data.json"')) { throw "Public page should load static catalog JSON." }
 if ($html.Contains('id="updateButton"')) { throw "Public page should not expose update controls." }
 if ($pageSource.Contains('/api/update') -or $pageSource.Contains('EventSource')) { throw "Public page should not reference update APIs." }
