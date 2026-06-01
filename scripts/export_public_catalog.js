@@ -78,11 +78,13 @@ function getCatalog() {
       });
     }
 
-    const details = ranked.map((item) => ({
-      id: item.id,
-      synopsis: item.synopsis,
-      seasonDetails: item.seasonDetails,
-    }));
+    const details = Object.fromEntries(ranked.map((item) => [
+      item.id,
+      {
+        synopsis: item.synopsis,
+        seasonDetails: item.seasonDetails,
+      },
+    ]));
     const index = ranked.map(({
       synopsis,
       seasonDetails,
@@ -109,7 +111,7 @@ function getCatalog() {
       },
       details: {
         generatedAt: meta.generatedAt || "",
-        total: details.length,
+        total: ranked.length,
         series: details,
       },
     };

@@ -21,9 +21,16 @@ if ($LASTEXITCODE -ne 0) {
 }
 $data = $dataJson | ConvertFrom-Json
 
+function Get-DetailRows($detailsPayload) {
+  if ($null -eq $detailsPayload -or $null -eq $detailsPayload.series) { return @() }
+  if ($detailsPayload.series -is [array]) { return @($detailsPayload.series) }
+  return @($detailsPayload.series.PSObject.Properties | ForEach-Object { $_.Value })
+}
+
 $series = @($data.series)
 $publicSeries = @($publicData.series)
-$publicDetailSeries = if ($null -ne $publicDetails) { @($publicDetails.series) } else { @() }
+$publicDetailSeries = Get-DetailRows $publicDetails
+$publicDetailKeys = if ($null -ne $publicDetails -and $null -ne $publicDetails.series -and -not ($publicDetails.series -is [array])) { @($publicDetails.series.PSObject.Properties.Name) } else { @() }
 $publicIndexRowsWithDetails = @($publicSeries | Where-Object { $_.PSObject.Properties.Name -contains "synopsis" -or $_.PSObject.Properties.Name -contains "seasonDetails" })
 $publicIndexRowsWithTrendPayload = @($publicSeries | Where-Object { $_.PSObject.Properties.Name -contains "seasonTrend" })
 $publicIndexRowsWithImdbUrl = @($publicSeries | Where-Object { $_.PSObject.Properties.Name -contains "imdbUrl" })
@@ -40,6 +47,7 @@ $publicIndexRowsWithUnusedMetadata = @($publicSeries | Where-Object {
 $publicDetailRowsWithDetails = @($publicDetailSeries | Where-Object { $_.PSObject.Properties.Name -contains "synopsis" -and $_.PSObject.Properties.Name -contains "seasonDetails" })
 $publicDetailSeasonRowsWithVotes = @($publicDetailSeries | ForEach-Object { @($_.seasonDetails) } | Where-Object { $_.PSObject.Properties.Name -contains "votes" })
 $publicDetailSeasonRowsWithLabels = @($publicDetailSeries | ForEach-Object { @($_.seasonDetails) } | Where-Object { $_.PSObject.Properties.Name -contains "label" })
+$publicDetailRowsWithIds = @($publicDetailSeries | Where-Object { $_.PSObject.Properties.Name -contains "id" })
 $publicPayloadHasNullFields = $publicDataJson.Contains(':null') -or $publicDetailsJson.Contains(':null')
 $badVotes = @($series | Where-Object { [int]$_.votes -lt 5000 })
 $missingPosters = @($series | Where-Object { [string]::IsNullOrWhiteSpace($_.poster) })
@@ -79,6 +87,8 @@ $years = @($data.years)
   PublicIndexRowsWithPosterDimensions = $publicIndexRowsWithPosterDimensions.Count
   PublicIndexRowsWithUnusedMetadata = $publicIndexRowsWithUnusedMetadata.Count
   PublicDetailRowsWithDetails = $publicDetailRowsWithDetails.Count
+  PublicDetailKeys = $publicDetailKeys.Count
+  PublicDetailRowsWithIds = $publicDetailRowsWithIds.Count
   PublicDetailSeasonRowsWithVotes = $publicDetailSeasonRowsWithVotes.Count
   PublicDetailSeasonRowsWithLabels = $publicDetailSeasonRowsWithLabels.Count
   PublicPayloadHasNullFields = $publicPayloadHasNullFields
@@ -117,6 +127,7 @@ $years = @($data.years)
   HasTouchSizedControls = -not ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px'))
   UsesStaticCatalogJson = $pageSource.Contains('fetch("series_library_data.json"')
   UsesLazySeriesDetailsJson = $pageSource.Contains('fetch("series_library_details.json"')
+  UsesKeyedSeriesDetails = $pageSource.Contains('details.series || {}') -and $pageSource.Contains('detailMap[item.id]')
   HasUpdateButton = $html.Contains('id="updateButton"')
   HasUpdateApiReference = $pageSource.Contains('/api/update') -or $pageSource.Contains('EventSource')
   HasVercelRootRewrite = $vercelConfig.Contains('"source": "/"') -and $vercelConfig.Contains('"destination": "/series_library.html"')
@@ -175,6 +186,8 @@ if ($publicIndexRowsWithImdbUrl.Count -gt 0) { throw "Public index JSON should d
 if ($publicIndexRowsWithPosterDimensions.Count -gt 0) { throw "Public index JSON should not include unused poster dimension fields." }
 if ($publicIndexRowsWithUnusedMetadata.Count -gt 0) { throw "Public index JSON should not include metadata fields unused by the UI." }
 if ($publicDetailRowsWithDetails.Count -ne $data.total) { throw "Public detail JSON should include one detail payload per series." }
+if ($publicDetailKeys.Count -ne $data.total) { throw "Public detail JSON should be keyed by series id." }
+if ($publicDetailRowsWithIds.Count -gt 0) { throw "Public detail JSON should not repeat id fields inside detail rows." }
 if ($publicDetailSeasonRowsWithVotes.Count -gt 0) { throw "Public detail JSON should not include unused season vote counts." }
 if ($publicDetailSeasonRowsWithLabels.Count -gt 0) { throw "Public detail JSON should not include unused season label fields." }
 if ($publicPayloadHasNullFields) { throw "Public JSON should omit null-valued fields." }
@@ -212,6 +225,7 @@ if (-not ($pageSource.Contains('requestIdleCallback') -and $pageSource.Contains(
 if ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px')) { throw "Primary interactive controls should meet 44px touch target sizing." }
 if (-not $pageSource.Contains('fetch("series_library_data.json"')) { throw "Public page should load static catalog JSON." }
 if (-not $pageSource.Contains('fetch("series_library_details.json"')) { throw "Series detail modal should lazy-load detail JSON." }
+if (-not ($pageSource.Contains('details.series || {}') -and $pageSource.Contains('detailMap[item.id]'))) { throw "Series detail modal should read id-keyed detail JSON." }
 if ($html.Contains('id="updateButton"')) { throw "Public page should not expose update controls." }
 if ($pageSource.Contains('/api/update') -or $pageSource.Contains('EventSource')) { throw "Public page should not reference update APIs." }
 if (-not ($vercelConfig.Contains('"source": "/"') -and $vercelConfig.Contains('"destination": "/series_library.html"'))) { throw "Missing Vercel root rewrite." }

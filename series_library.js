@@ -523,7 +523,7 @@ function renderSeasonDetails(item) {
 async function getSeriesDetail(item) {
   if (!detailsPromise) {
     detailsPromise = loadSeriesDetails().then(details => {
-      detailsById = new Map((details.series || []).map(detail => [detail.id, detail]));
+      detailsById = details.series || {};
       return detailsById;
     }).catch(error => {
       detailsPromise = null;
@@ -536,7 +536,7 @@ async function getSeriesDetail(item) {
     const detailMap = detailsById || await detailsPromise;
     return {
       ...item,
-      ...(detailMap.get(item.id) || {}),
+      ...(detailMap[item.id] || {}),
     };
   } catch (error) {
     console.error(error);
