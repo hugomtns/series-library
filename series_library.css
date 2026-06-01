@@ -282,6 +282,11 @@ h1 {
   background: var(--panel-2);
 }
 
+.category-option:focus-within {
+  outline: var(--focus-ring);
+  background: var(--panel-2);
+}
+
 .category-option input {
   margin: 0;
   accent-color: oklch(54% 0.17 35);

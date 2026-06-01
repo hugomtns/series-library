@@ -610,6 +610,22 @@ function closeFilterMenu(filter, trigger, restoreFocus = false) {
   if (restoreFocus) trigger.focus();
 }
 
+function openFilterMenu(filter, trigger) {
+  filter.classList.add("open");
+  trigger.setAttribute("aria-expanded", "true");
+}
+
+function getFilterMenuInputs(filter) {
+  return Array.from(filter.querySelectorAll(".category-menu input"));
+}
+
+function focusFilterMenuInput(filter, index) {
+  const inputs = getFilterMenuInputs(filter);
+  if (!inputs.length) return;
+  const nextIndex = (index + inputs.length) % inputs.length;
+  inputs[nextIndex].focus();
+}
+
 function closeOpenFilterMenu(restoreFocus = false) {
   if (categoryFilter.classList.contains("open")) {
     closeFilterMenu(categoryFilter, categoryTrigger, restoreFocus);
@@ -622,16 +638,73 @@ function closeOpenFilterMenu(restoreFocus = false) {
   return false;
 }
 
+function toggleFilterMenu(filter, trigger, otherFilter, otherTrigger) {
+  const isOpen = !filter.classList.contains("open");
+  if (isOpen) {
+    openFilterMenu(filter, trigger);
+  } else {
+    closeFilterMenu(filter, trigger);
+  }
+  closeFilterMenu(otherFilter, otherTrigger);
+}
+
+function handleFilterTriggerKeydown(event, filter, trigger, otherFilter, otherTrigger) {
+  if (event.key !== "ArrowDown" && event.key !== "ArrowUp") return;
+  event.preventDefault();
+  openFilterMenu(filter, trigger);
+  closeFilterMenu(otherFilter, otherTrigger);
+  focusFilterMenuInput(filter, event.key === "ArrowUp" ? -1 : 0);
+}
+
+function handleFilterMenuKeydown(event, filter, trigger) {
+  if (event.target === trigger) return;
+  const inputs = getFilterMenuInputs(filter);
+  const currentIndex = inputs.indexOf(document.activeElement);
+  if (currentIndex === -1) return;
+
+  if (event.key === "ArrowDown" || event.key === "ArrowRight") {
+    event.preventDefault();
+    focusFilterMenuInput(filter, currentIndex + 1);
+  } else if (event.key === "ArrowUp" || event.key === "ArrowLeft") {
+    event.preventDefault();
+    focusFilterMenuInput(filter, currentIndex - 1);
+  } else if (event.key === "Home") {
+    event.preventDefault();
+    focusFilterMenuInput(filter, 0);
+  } else if (event.key === "End") {
+    event.preventDefault();
+    focusFilterMenuInput(filter, inputs.length - 1);
+  } else if (event.key === "Enter") {
+    event.preventDefault();
+    document.activeElement.click();
+  } else if (event.key === "Escape") {
+    event.preventDefault();
+    closeFilterMenu(filter, trigger, true);
+  }
+}
+
 categoryTrigger.addEventListener("click", () => {
-  const isOpen = categoryFilter.classList.toggle("open");
-  categoryTrigger.setAttribute("aria-expanded", String(isOpen));
-  closeFilterMenu(trendFilter, trendTrigger);
+  toggleFilterMenu(categoryFilter, categoryTrigger, trendFilter, trendTrigger);
 });
 
 trendTrigger.addEventListener("click", () => {
-  const isOpen = trendFilter.classList.toggle("open");
-  trendTrigger.setAttribute("aria-expanded", String(isOpen));
-  closeFilterMenu(categoryFilter, categoryTrigger);
+  toggleFilterMenu(trendFilter, trendTrigger, categoryFilter, categoryTrigger);
+});
+
+categoryTrigger.addEventListener("keydown", event => {
+  handleFilterTriggerKeydown(event, categoryFilter, categoryTrigger, trendFilter, trendTrigger);
+});
+
+trendTrigger.addEventListener("keydown", event => {
+  handleFilterTriggerKeydown(event, trendFilter, trendTrigger, categoryFilter, categoryTrigger);
+});
+
+categoryFilter.addEventListener("keydown", event => {
+  handleFilterMenuKeydown(event, categoryFilter, categoryTrigger);
+});
+
+trendFilter.addEventListener("keydown", event => {
+  handleFilterMenuKeydown(event, trendFilter, trendTrigger);
 });
 
 categoryAll.addEventListener("change", () => {

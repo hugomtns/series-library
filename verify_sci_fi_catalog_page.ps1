@@ -102,6 +102,7 @@ $hasVercelRootRewrite = Test-ContainsAll $vercelConfig @('"source": "/"', '"dest
 $hasMobileFilterPanel = (Test-ContainsAll $html @('id="filterPanel"', 'id="filterPanelState"')) -and $css.Contains('.filter-summary') -and (Test-ContainsAll $pageSource @('mobileFilterQuery', 'function syncFilterPanelState'))
 $hasNonOverlappingFilterMenus = $css.Contains('.category-menu') -and $css.Contains('margin-top: 5px') -and -not $css.Contains('top: calc(100% + 5px)')
 $hasFilterMenuEscape = Test-ContainsAll $pageSource @('function closeOpenFilterMenu', 'closeOpenFilterMenu(true)')
+$hasFilterKeyboardNavigation = (Test-ContainsAll $html @('aria-haspopup="true"', 'aria-controls="categoryMenu"', 'aria-controls="trendMenu"')) -and (Test-ContainsAll $pageSource @('function handleFilterTriggerKeydown', 'function handleFilterMenuKeydown', 'event.target === trigger', 'ArrowDown', 'ArrowUp', 'Home', 'End', 'document.activeElement.click()')) -and $css.Contains('.category-option:focus-within')
 $hasFilterReset = (Test-ContainsAll $html @('id="filterStatus"', 'id="resetFilters"')) -and (Test-ContainsAll $pageSource @('function updateFilterStatus', 'resetFilters.addEventListener("click"'))
 $hasLiveFilterResults = (Test-ContainsAll $html @('id="metaLine" aria-live="polite"', 'id="empty" role="status"'))
 $hasRecoverableEmptyState = (Test-ContainsAll $html @('id="emptyTitle"', 'id="emptyMessage"', 'id="emptyReset"')) -and (Test-ContainsAll $pageSource @('function updateEmptyState', 'function resetAllFilters', 'emptyReset.addEventListener("click"', 'No categories selected', 'No title matches'))
@@ -216,6 +217,7 @@ $hasDeployCheck = $packageJson.Contains('"deploy:check"') -and $packageJson.Cont
   HasMobileFilterPanel = $hasMobileFilterPanel
   HasNonOverlappingFilterMenus = $hasNonOverlappingFilterMenus
   HasFilterMenuEscape = $hasFilterMenuEscape
+  HasFilterKeyboardNavigation = $hasFilterKeyboardNavigation
   HasFilterReset = $hasFilterReset
   HasLiveFilterResults = $hasLiveFilterResults
   HasRecoverableEmptyState = $hasRecoverableEmptyState
@@ -338,6 +340,7 @@ if (-not $html.Contains('id="categoryFilter"')) { throw "Missing category filter
 Assert-Condition $hasMobileFilterPanel "Mobile filters should collapse behind a responsive filter panel."
 Assert-Condition $hasNonOverlappingFilterMenus "Filter menus should not overlap adjacent filter controls."
 Assert-Condition $hasFilterMenuEscape "Filter menus should close with Escape and restore trigger focus."
+Assert-Condition $hasFilterKeyboardNavigation "Filter menus should support arrow-key navigation between options."
 Assert-Condition $hasFilterReset "Filters should expose a reset control and active-filter status."
 Assert-Condition $hasLiveFilterResults "Filter result counts should be announced to assistive technology."
 Assert-Condition $hasRecoverableEmptyState "Empty filter results should explain the state and offer recovery."
