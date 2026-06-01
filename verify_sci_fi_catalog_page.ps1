@@ -2,7 +2,12 @@ $ErrorActionPreference = "Stop"
 
 $html = Get-Content -Path "series_library.html" -Raw
 $css = Get-Content -Path "series_library.css" -Raw
-$clientJs = if (Test-Path -Path "series_library.js") { Get-Content -Path "series_library.js" -Raw } else { "" }
+$clientModulePaths = @(
+  "series_library.js",
+  "series_library_data_client.js",
+  "series_library_rendering.js"
+)
+$clientJs = ($clientModulePaths | Where-Object { Test-Path -Path $_ } | ForEach-Object { Get-Content -Path $_ -Raw }) -join "`n"
 $pageSource = "$html`n$clientJs"
 $packageJson = Get-Content -Path "package.json" -Raw
 $catalogBuilder = Get-Content -Path "build_sci_fi_catalog_page.ps1" -Raw
