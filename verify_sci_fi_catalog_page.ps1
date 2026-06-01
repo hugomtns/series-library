@@ -19,6 +19,7 @@ $seasonRefreshScript = Get-Content -Path "scripts/refresh_open_series_seasons.ps
 $currentYearSourcesScript = Get-Content -Path "scripts/update_current_year_sources.ps1" -Raw
 $updateScript = Get-Content -Path "scripts/update_library.js" -Raw
 $serverScript = Get-Content -Path "series_library_server.js" -Raw
+$deployCheckScript = if (Test-Path -Path "scripts/check_deploy_ready.js") { Get-Content -Path "scripts/check_deploy_ready.js" -Raw } else { "" }
 $verifyScript = Get-Content -Path "verify_sci_fi_catalog_page.ps1" -Raw
 $publicDataJson = Get-Content -Path "series_library_data.json" -Raw
 $publicDetailsJson = if (Test-Path -Path "series_library_details.json") { Get-Content -Path "series_library_details.json" -Raw } else { "" }
@@ -158,6 +159,7 @@ $hasPublicSchemaDoc = Test-ContainsAll $publicSchemaDoc @(
 $hasStaticServerAllowlist = Test-ContainsAll $serverScript @('const publicFiles = new Set', 'resolvePublicFile', 'publicFiles.has', 'series_library_data_client.js', 'series_library_rendering.js')
 $hasStaticServerHeadHandling = Test-ContainsAll $serverScript @('req.method === "HEAD"', '"content-length": content.length')
 $hasStaticServerHostConfig = Test-ContainsAll $serverScript @('process.env.HOST || "127.0.0.1"', 'server.listen(port, host')
+$hasDeployCheck = $packageJson.Contains('"deploy:check"') -and $packageJson.Contains('npm run deploy:check') -and (Test-ContainsAll $deployCheckScript @('requiredPublicFiles', 'requiredIgnoredPaths', 'vercel.json should rewrite /', 'Deploy readiness check passed.'))
 
 [pscustomobject]@{
   Total = $data.total
@@ -213,6 +215,7 @@ $hasStaticServerHostConfig = Test-ContainsAll $serverScript @('process.env.HOST 
   HasStaticServerAllowlist = $hasStaticServerAllowlist
   HasStaticServerHeadHandling = $hasStaticServerHeadHandling
   HasStaticServerHostConfig = $hasStaticServerHostConfig
+  HasDeployCheck = $hasDeployCheck
   HasYearSectionRenderContainment = $hasYearSectionRenderContainment
   HasIncrementalCatalogRender = $hasIncrementalCatalogRender
   HasTouchSizedControls = $hasTouchSizedControls
@@ -332,6 +335,7 @@ Assert-Condition $hasPublicSchemaDoc "Public JSON schema should be documented."
 Assert-Condition $hasStaticServerAllowlist "Local static server should only expose public app files."
 Assert-Condition $hasStaticServerHeadHandling "Local static server should handle HEAD without sending a response body."
 Assert-Condition $hasStaticServerHostConfig "Local static server should allow HOST override while defaulting to loopback."
+Assert-Condition $hasDeployCheck "Deployment readiness should be covered by npm test."
 Assert-Condition $hasYearSectionRenderContainment "Year sections should use render containment for offscreen catalog performance."
 Assert-Condition $hasIncrementalCatalogRender "Catalog should incrementally render year sections after the initial viewport."
 Assert-Condition $hasTouchSizedControls "Primary interactive controls should meet 44px touch target sizing."
