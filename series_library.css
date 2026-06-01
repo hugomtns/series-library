@@ -8,9 +8,13 @@
   --line: oklch(86% 0.014 250);
   --accent: oklch(54% 0.17 35);
   --accent-soft: oklch(91% 0.052 35);
+  --control-bg: oklch(99.2% 0.006 250);
+  --control-border: oklch(78% 0.018 250);
+  --control-hover: oklch(94.8% 0.012 250);
   --focus: oklch(58% 0.18 250);
   --focus-ring: 2px solid oklch(70% 0.12 250 / 0.38);
   --card-focus-ring: 0 0 0 2px oklch(70% 0.12 250 / 0.18);
+  --active-shift: translateY(1px);
   --shadow: 0 18px 55px oklch(22% 0.018 250 / 0.13);
 }
 
@@ -35,6 +39,40 @@ body.modal-open {
 }
 
 a { color: inherit; }
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+.category-trigger,
+.score-field input,
+.reset-filters,
+.year-picker select,
+.search {
+  min-height: 44px;
+  border: 1px solid var(--control-border);
+  border-radius: 8px;
+  background-color: var(--control-bg);
+  color: var(--ink);
+}
+
+.category-trigger,
+.reset-filters,
+.year-picker select,
+.search {
+  transition: border-color 160ms ease, background-color 160ms ease, transform 120ms ease;
+}
+
+.category-trigger:hover,
+.reset-filters:hover,
+.year-nav a:hover,
+.search:hover,
+.score-field input:hover,
+.year-picker select:hover {
+  background-color: var(--control-hover);
+}
 
 /* App Layout */
 
@@ -103,16 +141,10 @@ h1 {
   align-items: center;
   justify-content: space-between;
   gap: 10px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  background: var(--panel);
-  color: var(--ink);
-  padding: 0 10px;
-  font: inherit;
+  padding: 0 14px 0 10px;
   font-size: 0.82rem;
   font-weight: 700;
   cursor: pointer;
-  transition: border-color 160ms ease, background-color 160ms ease;
 }
 
 .category-trigger:hover,
@@ -122,13 +154,27 @@ h1 {
 }
 
 .category-trigger::after {
-  content: "v";
-  color: var(--muted);
-  font-size: 0.78rem;
+  content: "";
+  width: 8px;
+  height: 8px;
+  margin-right: 2px;
+  border-right: 2px solid var(--muted);
+  border-bottom: 2px solid var(--muted);
+  transform: translateY(-2px) rotate(45deg);
+  transition: transform 160ms ease;
 }
 
 .category-filter.open .category-trigger::after {
-  content: "^";
+  transform: translateY(2px) rotate(225deg);
+}
+
+.category-trigger:active,
+.reset-filters:active,
+.year-nav a:active,
+.card:active,
+.imdb-link:active,
+.series-detail-close:active {
+  transform: var(--active-shift);
 }
 
 .category-menu {
@@ -179,13 +225,7 @@ h1 {
 
 .score-field input {
   width: 100%;
-  min-height: 44px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  background: var(--panel);
-  color: var(--ink);
   padding: 0 9px;
-  font: inherit;
 }
 
 .filter-status {
@@ -200,15 +240,11 @@ h1 {
   width: 100%;
   min-height: 44px;
   margin: 0 0 14px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  background: var(--panel);
   color: oklch(38% 0.105 35);
-  font: inherit;
   font-size: 0.82rem;
   font-weight: 750;
   cursor: pointer;
-  transition: border-color 160ms ease, background-color 160ms ease, color 160ms ease;
+  transition-property: border-color, background-color, color, transform;
 }
 
 .reset-filters:hover,
@@ -223,6 +259,7 @@ h1 {
   opacity: 0.55;
   color: var(--muted);
   background: var(--panel);
+  transform: none;
 }
 
 .category-option:hover {
@@ -270,7 +307,7 @@ h1 {
   margin: 18px 0 12px;
 }
 
-.year-picker span,
+.year-picker label,
 .nav-label {
   color: var(--muted);
   font-size: 0.74rem;
@@ -279,15 +316,27 @@ h1 {
   letter-spacing: 0.04em;
 }
 
+.select-shell {
+  position: relative;
+}
+
+.select-shell::after {
+  content: "";
+  position: absolute;
+  right: 14px;
+  top: 50%;
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid var(--muted);
+  border-bottom: 2px solid var(--muted);
+  pointer-events: none;
+  transform: translateY(-65%) rotate(45deg);
+}
+
 .year-picker select {
-  min-height: 44px;
   width: 100%;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  background: var(--panel);
-  color: var(--ink);
-  padding: 0 10px;
-  font: inherit;
+  appearance: none;
+  padding: 0 40px 0 10px;
 }
 
 .year-nav {
@@ -318,12 +367,17 @@ h1 {
 .decade-group summary::-webkit-details-marker { display: none; }
 
 .decade-group summary::after {
-  content: "+";
-  color: var(--muted);
-  font-weight: 700;
+  content: "";
+  width: 10px;
+  height: 10px;
+  background:
+    linear-gradient(var(--muted), var(--muted)) center / 10px 2px no-repeat,
+    linear-gradient(var(--muted), var(--muted)) center / 2px 10px no-repeat;
 }
 
-.decade-group[open] summary::after { content: "-"; }
+.decade-group[open] summary::after {
+  background: linear-gradient(var(--muted), var(--muted)) center / 10px 2px no-repeat;
+}
 
 .decade-count {
   color: var(--muted);
@@ -350,7 +404,7 @@ h1 {
   background: var(--panel);
   text-decoration: none;
   font-size: 0.82rem;
-  transition: border-color 160ms ease, background-color 160ms ease, color 160ms ease;
+  transition: border-color 160ms ease, background-color 160ms ease, color 160ms ease, transform 120ms ease;
 }
 
 .year-nav a:hover,
@@ -397,13 +451,7 @@ h1 {
 
 .search {
   width: 100%;
-  min-height: 44px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  background: var(--panel);
-  color: var(--ink);
   padding: 0 12px;
-  font: inherit;
 }
 
 .meta-line {
@@ -414,7 +462,9 @@ h1 {
 
 .score-field input:focus,
 .year-picker select:focus,
-.search:focus {
+.search:focus,
+.category-trigger:focus-visible,
+.reset-filters:focus-visible {
   outline: var(--focus-ring);
   border-color: var(--focus);
 }
@@ -466,7 +516,7 @@ h1 {
   background: var(--panel);
   box-shadow: 0 1px 0 oklch(100% 0 0 / 0.65) inset;
   cursor: pointer;
-  transition: border-color 160ms ease, box-shadow 160ms ease, background-color 160ms ease;
+  transition: border-color 160ms ease, box-shadow 160ms ease, background-color 160ms ease, transform 120ms ease;
 }
 
 .card:hover,
@@ -616,6 +666,7 @@ h1 {
   font-weight: 650;
   text-decoration: none;
   font-size: 0.82rem;
+  transition: color 160ms ease, transform 120ms ease;
 }
 
 .imdb-link:hover,
@@ -693,6 +744,7 @@ h1 {
   font: inherit;
   font-size: 1rem;
   line-height: 1;
+  transition: background-color 160ms ease, transform 120ms ease;
 }
 
 .series-detail-close:hover,
@@ -857,6 +909,18 @@ h1 {
 body.searching .empty.visible { display: block; }
 body.searching .year-section.empty-year { display: none; }
 .card.hidden { display: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}
 
 /* Responsive */
 

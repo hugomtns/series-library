@@ -106,6 +106,8 @@ $hasCatalogBuilderHtmlOutput = $catalogBuilder.Contains('$OutHtml') -or $catalog
 $hasExtractedCss = $css.Contains('.card') -and $css.Contains('.series-detail-modal')
 $hasOrganizedCssSections = Test-ContainsAll $css @('/* Foundation */', '/* App Layout */', '/* Filters */', '/* Year Navigation */', '/* Toolbar */', '/* Catalog */', '/* Detail Modal */', '/* State Utilities */', '/* Responsive */')
 $hasSharedFocusTokens = Test-ContainsAll $css @('--focus-ring:', '--card-focus-ring:', 'outline: var(--focus-ring)', 'box-shadow: var(--card-focus-ring)')
+$hasControlSystem = Test-ContainsAll $css @('--control-bg:', '--control-border:', '--control-hover:', '.category-trigger,', '.score-field input,', '.reset-filters,', '.year-picker select,', '.search {', '.select-shell::after', 'appearance: none')
+$hasPolishedControlIndicators = (Test-ContainsAll $css @('--active-shift:', 'border-right: 2px solid var(--muted)', 'linear-gradient(var(--muted), var(--muted)) center / 10px 2px no-repeat', '@media (prefers-reduced-motion: reduce)')) -and $hasControlSystem
 $hasYearSectionRenderContainment = Test-ContainsAll $css @('content-visibility: auto', 'contain-intrinsic-size')
 $hasIncrementalCatalogRender = Test-ContainsAll $pageSource @('requestIdleCallback', 'function ensureCatalogRendered')
 $hasTouchSizedControls = -not ($css.Contains('min-height: 38px') -or $css.Contains('min-height: 36px') -or $css.Contains('min-height: 34px') -or $css.Contains('width: 34px') -or $css.Contains('height: 34px'))
@@ -205,6 +207,8 @@ $hasStaticServerHostConfig = Test-ContainsAll $serverScript @('process.env.HOST 
   HasExtractedCss = $hasExtractedCss
   HasOrganizedCssSections = $hasOrganizedCssSections
   HasSharedFocusTokens = $hasSharedFocusTokens
+  HasControlSystem = $hasControlSystem
+  HasPolishedControlIndicators = $hasPolishedControlIndicators
   HasPublicSchemaDoc = $hasPublicSchemaDoc
   HasStaticServerAllowlist = $hasStaticServerAllowlist
   HasStaticServerHeadHandling = $hasStaticServerHeadHandling
@@ -322,6 +326,8 @@ Assert-Condition (-not $hasCatalogBuilderHtmlOutput) "Catalog builder should not
 Assert-Condition $hasExtractedCss "Extracted stylesheet is missing expected UI styles."
 Assert-Condition $hasOrganizedCssSections "Stylesheet should keep major UI regions organized into labeled sections."
 Assert-Condition $hasSharedFocusTokens "Stylesheet should use shared focus ring tokens instead of repeated literal rings."
+Assert-Condition $hasControlSystem "Controls should share a standardized visual system."
+Assert-Condition $hasPolishedControlIndicators "Control indicators and motion preferences should be polished."
 Assert-Condition $hasPublicSchemaDoc "Public JSON schema should be documented."
 Assert-Condition $hasStaticServerAllowlist "Local static server should only expose public app files."
 Assert-Condition $hasStaticServerHeadHandling "Local static server should handle HEAD without sending a response body."

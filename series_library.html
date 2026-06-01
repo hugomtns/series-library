@@ -56,10 +56,12 @@
           </div>
           <div class="filter-status" id="filterStatus" aria-live="polite">No filters active</div>
           <button type="button" class="reset-filters" id="resetFilters" disabled>Reset filters</button>
-          <label class="year-picker" for="yearSelect">
-            <span>Jump to year</span>
-            <select id="yearSelect"></select>
-          </label>
+          <div class="year-picker">
+            <label for="yearSelect">Jump to year</label>
+            <div class="select-shell">
+              <select id="yearSelect"></select>
+            </div>
+          </div>
           <div class="nav-label">Browse by decade</div>
           <nav class="year-nav" id="yearNav" aria-label="Jump to year"></nav>
         </div>
