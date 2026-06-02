@@ -600,7 +600,7 @@ h1 {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(176px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   gap: 18px 14px;
   align-items: start;
 }
@@ -707,9 +707,9 @@ h1 {
 .facts {
   display: flex;
   flex-wrap: wrap;
-  gap: 5px;
+  gap: 4px;
   color: var(--muted);
-  font-size: 0.72rem;
+  font-size: 0.7rem;
 }
 
 .card-meta {
@@ -728,9 +728,9 @@ h1 {
 .fact {
   display: inline-flex;
   align-items: center;
-  min-height: 24px;
+  min-height: 22px;
   min-width: 0;
-  padding: 2px 7px;
+  padding: 2px 6px;
   border: 1px solid var(--line-soft);
   border-radius: 999px;
   background: oklch(17% 0.018 238 / 0.82);
