@@ -607,7 +607,7 @@ h1 {
 
 .card {
   display: grid;
-  grid-template-rows: auto 184px;
+  grid-template-rows: auto 232px;
   gap: 10px;
   min-width: 0;
   padding: 8px;
