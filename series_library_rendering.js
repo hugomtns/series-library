@@ -88,11 +88,15 @@ export function renderCatalogSection(year, items, options = {}) {
                 <h3 class="title">${escapeText(item.title)}</h3>
                 <div class="rating" title="IMDb rating" style="${ratingTone(item.score)}">IMDb ${escapeText(item.score.toFixed(1))}</div>
               </div>
-              <div class="facts meta-stack">
-                ${item.categories.map(category => `<span class="fact category-chip">${escapeText(category)}</span>`).join("")}
-                <span class="fact">${escapeText(item.seasonLabel)}</span>
-                <span class="fact">${escapeText(item.years)}</span>
-                <span class="fact">${escapeText(item.primaryOrigin)}</span>
+              <div class="card-meta">
+                <div class="facts category-stack">
+                  ${item.categories.map(category => `<span class="fact category-chip">${escapeText(category)}</span>`).join("")}
+                </div>
+                <div class="facts meta-stack">
+                  <span class="fact">${escapeText(item.seasonLabel)}</span>
+                  <span class="fact">${escapeText(item.years)}</span>
+                  <span class="fact">${escapeText(item.primaryOrigin)}</span>
+                </div>
               </div>
             </div>
             <div class="card-actions">
