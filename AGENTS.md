@@ -187,6 +187,9 @@ Expected behavior:
 - Cards are clickable and keyboard-openable detail triggers.
 - Cards show compact metadata and the IMDb link.
 - Detail modal shows poster, same card-style series info, synopsis, and season breakdown.
+- Desktop catalog uses stable poster-wall cards; do not let metadata chips or actions clip.
+- Detail modal should make efficient use of width, with poster and series information visible without a tall empty synopsis panel.
+- Back-to-top/list control should stay non-intrusive, appear only after scrolling into the catalog, scroll to `#catalog`, respect reduced motion, and hide again near the list top on mobile.
 - Detail modal must not duplicate the IMDb link.
 - Detail modal uses only the close `X`, no footer "Done" button.
 - Category and trend filters are multi-select dropdowns.
@@ -201,6 +204,7 @@ Do not re-add:
 - Inline `<style>` block.
 - Card synopsis.
 - Duplicate detail modal tag rows or metric boxes.
+- Paint-heavy repeated card effects such as backdrop blur, per-card overlay pseudo-elements, or heavy shadows that make catalog scrolling sluggish.
 
 ## Vercel Deployment
 

@@ -22,12 +22,14 @@ The app is intentionally static on Vercel. Data updates happen through CLI workf
 - Filter by source category, secondary animation tag, trend label, title search, score range, and rated-season count range.
 - Jump to a year or decade.
 - Open a detail modal to inspect synopsis and season breakdown.
+- Return to the top of the series list with a non-intrusive floating control after scrolling deep into the catalog.
 - Leave the app and data immutable from the public browser.
 
 ## Product Principles
 
 - Static-first: committed JSON is the public contract.
 - Dense but calm: prioritize scanning, comparison, and repeated browsing.
+- Poster-forward discovery: use the committed poster art as the main visual signal while keeping metadata compact and stable.
 - Familiar controls: standard inputs and predictable navigation beat novelty.
 - Fast perceived performance: render the first useful catalog quickly, defer the rest.
 - Clear provenance: IMDb ids, ratings, years, country origin, categories, rated-season counts, and trends should be easy to inspect.
@@ -42,4 +44,4 @@ The app is intentionally static on Vercel. Data updates happen through CLI workf
 
 ## Quality Bar
 
-Production utility. The interface should feel stable, restrained, and trustworthy rather than flashy. UI improvements should standardize existing patterns before adding new visual language.
+Production utility. The interface should feel stable, restrained, distinctive, and trustworthy rather than flashy. UI improvements should preserve the static data contract, keep poster browsing fast, and avoid decoration that makes scrolling feel heavier.
