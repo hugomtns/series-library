@@ -112,6 +112,7 @@ $hasFilterKeyboardNavigation = (Test-ContainsAll $html @('aria-haspopup="true"',
 $hasFilterReset = (Test-ContainsAll $html @('id="filterStatus"', 'id="resetFilters"')) -and (Test-ContainsAll $pageSource @('function updateFilterStatus', 'resetFilters.addEventListener("click"'))
 $hasRatedSeasonFilter = (Test-ContainsAll $html @('id="minSeasons"', 'id="maxSeasons"', 'Rated season count range')) -and (Test-ContainsAll $pageSource @('data-rated-seasons=', 'function cardMatchesRatedSeasonCount', 'parseSeasonCountInput', 'rated seasons', 'No rated season counts in range')) -and (Test-ContainsAll $catalogExporter @('ratedSeasonCount = seasonTrendPoints', 'item.seasonDetails'))
 $hasLiveFilterResults = (Test-ContainsAll $html @('id="metaLine" aria-live="polite"', 'id="empty" role="status"'))
+$hasBackToList = (Test-ContainsAll $html @('id="backToList"', 'aria-label="Back to top of series list"')) -and (Test-ContainsAll $css @('.back-to-list', '#catalog', 'scroll-margin-top')) -and (Test-ContainsAll $pageSource @('function syncBackToListButton', 'catalog.scrollIntoView', 'prefers-reduced-motion: reduce'))
 $hasRecoverableEmptyState = (Test-ContainsAll $html @('id="emptyTitle"', 'id="emptyMessage"', 'id="emptyReset"')) -and (Test-ContainsAll $pageSource @('function updateEmptyState', 'function resetAllFilters', 'emptyReset.addEventListener("click"', 'No categories selected', 'No title matches'))
 $hasPosterPriorityLoading = Test-ContainsAll $pageSource @('priorityPosterBudgetStart', 'priorityPosterCount', 'isPriority ? "eager" : "lazy"', 'isPriority ? "high" : "auto"', 'decoding="async"')
 $hasPosterErrorFallback = Test-ContainsAll $pageSource @('function handlePosterImageError', 'addEventListener("error", handlePosterImageError, true)')
@@ -238,6 +239,7 @@ $hasCiWorkflow = Test-ContainsAll $ciWorkflow @('runs-on: windows-latest', 'acti
   HasFilterReset = $hasFilterReset
   HasRatedSeasonFilter = $hasRatedSeasonFilter
   HasLiveFilterResults = $hasLiveFilterResults
+  HasBackToList = $hasBackToList
   HasRecoverableEmptyState = $hasRecoverableEmptyState
   HasPosterPriorityLoading = $hasPosterPriorityLoading
   HasPosterErrorFallback = $hasPosterErrorFallback
@@ -367,6 +369,7 @@ Assert-Condition $hasFilterKeyboardNavigation "Filter menus should support arrow
 Assert-Condition $hasFilterReset "Filters should expose a reset control and active-filter status."
 Assert-Condition $hasRatedSeasonFilter "Filters should expose a rated-season range based on rated seasons only."
 Assert-Condition $hasLiveFilterResults "Filter result counts should be announced to assistive technology."
+Assert-Condition $hasBackToList "Catalog should expose an accessible back-to-list-top control."
 Assert-Condition $hasRecoverableEmptyState "Empty filter results should explain the state and offer recovery."
 if (-not $html.Contains('id="trendFilter"')) { throw "Missing trend filter." }
 Assert-Condition $hasTrendFilterChoices "Missing trend filter choices."

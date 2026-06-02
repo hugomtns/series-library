@@ -54,6 +54,7 @@ const empty = document.getElementById("empty");
 const emptyTitle = document.getElementById("emptyTitle");
 const emptyMessage = document.getElementById("emptyMessage");
 const emptyReset = document.getElementById("emptyReset");
+const backToList = document.getElementById("backToList");
 
 let selectedCategories = new Set(categoryChoices.map(input => input.value));
 let selectedTrends = new Set(trendChoices.map(input => input.value));
@@ -67,6 +68,7 @@ const focusableSelectors = [
   "[tabindex]:not([tabindex='-1'])"
 ].join(",");
 const mobileFilterQuery = window.matchMedia("(max-width: 620px)");
+const reducedMotionQuery = window.matchMedia("(prefers-reduced-motion: reduce)");
 
 function syncFilterPanelForViewport(event = mobileFilterQuery) {
   filterPanel.open = !event.matches;
@@ -331,9 +333,23 @@ function renderCatalogSections() {
   scheduleCatalogRender();
 }
 
+let pendingBackToListFrame = null;
+
+function syncBackToListButton() {
+  if (pendingBackToListFrame !== null) {
+    cancelAnimationFrame(pendingBackToListFrame);
+  }
+  pendingBackToListFrame = requestAnimationFrame(() => {
+    pendingBackToListFrame = null;
+    const catalogTop = catalog.getBoundingClientRect().top + window.scrollY;
+    backToList.hidden = window.scrollY < catalogTop + 320;
+  });
+}
+
 renderYearNavigation();
 navLinks = Array.from(yearNav.querySelectorAll("a"));
 renderCatalogSections();
+syncBackToListButton();
 
 yearSelect.addEventListener("change", () => {
   ensureCatalogRendered();
@@ -812,6 +828,19 @@ function resetAllFilters() {
 
 resetFilters.addEventListener("click", resetAllFilters);
 emptyReset.addEventListener("click", resetAllFilters);
+
+backToList.addEventListener("click", () => {
+  catalog.scrollIntoView({
+    behavior: reducedMotionQuery.matches ? "auto" : "smooth",
+    block: "start",
+  });
+  if (mobileFilterQuery.matches) {
+    backToList.hidden = true;
+  }
+});
+
+window.addEventListener("scroll", syncBackToListButton, { passive: true });
+window.addEventListener("resize", syncBackToListButton);
 
 document.addEventListener("keydown", event => {
   if (event.key === "Escape" && !seriesDetailModal.hidden) {
