@@ -8,6 +8,7 @@
     "update": "node scripts/update_library.js",
     "export": "node scripts/export_public_catalog.js",
     "refresh:action-seasons": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/refresh_open_series_seasons.ps1 -Category Action -SkipExisting",
+    "refresh:comedy-seasons": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/refresh_open_series_seasons.ps1 -Category Comedy -SkipExisting",
     "trends": "node scripts/report_season_rating_trends.js",
     "posters:report": "node scripts/report_poster_delivery.js",
     "serve": "node series_library_server.js",
@@ -15,7 +16,8 @@
     "server:check": "node scripts/check_local_server.js",
     "schema:check": "node scripts/validate_public_json_schema.js",
     "test:browser": "node scripts/browser_regression_check.js",
-    "test": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File verify_sci_fi_catalog_page.ps1 && npm run schema:check && npm run deploy:check && npm run server:check"
+    "test:migrate": "node scripts/test_migrate_null_seasons.js",
+    "test": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File verify_sci_fi_catalog_page.ps1 && npm run test:migrate && npm run schema:check && npm run deploy:check && npm run server:check"
   },
   "keywords": [],
   "author": "",

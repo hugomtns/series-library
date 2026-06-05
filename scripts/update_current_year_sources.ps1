@@ -22,7 +22,8 @@ $tasks = @(
   @{ Genre = "Sci-Fi"; GenreLabel = "Sci-Fi"; FilePrefix = "imdb_sci_fi_primary_origin"; OutYearDir = "imdb_sci_fi_year_files_primary_origin" },
   @{ Genre = "Fantasy"; GenreLabel = "Fantasy"; FilePrefix = "imdb_fantasy_primary_origin"; OutYearDir = "imdb_fantasy_year_files_primary_origin" },
   @{ Genre = "Adventure"; GenreLabel = "Adventure"; FilePrefix = "imdb_adventure_primary_origin"; OutYearDir = "imdb_adventure_year_files_primary_origin" },
-  @{ Genre = "Action"; GenreLabel = "Action"; FilePrefix = "imdb_action_primary_origin"; OutYearDir = "imdb_action_year_files_primary_origin" }
+  @{ Genre = "Action"; GenreLabel = "Action"; FilePrefix = "imdb_action_primary_origin"; OutYearDir = "imdb_action_year_files_primary_origin" },
+  @{ Genre = "Comedy"; GenreLabel = "Comedy"; FilePrefix = "imdb_comedy_primary_origin"; OutYearDir = "imdb_comedy_year_files_primary_origin" }
 )
 
 Write-StepEvent -Current 0 -Total $tasks.Count -Message "Refreshing $year searches"

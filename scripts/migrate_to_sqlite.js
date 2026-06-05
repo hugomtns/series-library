@@ -116,6 +116,7 @@ function buildSeasonRows(item) {
   const episodeStats = episodeStatsBySeason(readCachedEpisodes(item.id));
   const seasonRows = [];
   for (const season of readCachedSeasons(item.id)) {
+    if (!season) continue;
     const seasonNumber = intOrNull(season.season);
     if (seasonNumber === null) continue;
     const stats = episodeStats.get(seasonNumber) || { ratings: [], voteCount: 0, years: [] };

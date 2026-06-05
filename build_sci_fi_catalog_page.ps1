@@ -226,7 +226,7 @@ $years = @($items | Group-Object year | Sort-Object { [int]$_.Name } | ForEach-O
 
 $data = [pscustomobject]@{
   generatedAt = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
-  source = "IMDbAPI via imdbapi.dev, filtered to primary-origin US/UK/Canada/Europe/Australia/New Zealand, Sci-Fi/Fantasy/Adventure, min 5000 votes"
+  source = "IMDbAPI via imdbapi.dev, filtered to primary-origin US/UK/Canada/Europe/Australia/New Zealand, Sci-Fi/Fantasy/Adventure/Action/Comedy, min 5000 votes"
   total = $items.Count
   years = $years
   series = @($items | Sort-Object year, rank)

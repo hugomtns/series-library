@@ -90,6 +90,7 @@ $turkishPrimaryRows = @($series | Where-Object { $_.primaryOrigin -eq "TR" })
 $sciFiRows = @($series | Where-Object { @($_.categories) -contains "Sci-Fi" })
 $fantasyRows = @($series | Where-Object { @($_.categories) -contains "Fantasy" })
 $actionRows = @($series | Where-Object { @($_.categories) -contains "Action" })
+$comedyRows = @($series | Where-Object { @($_.categories) -contains "Comedy" })
 $bothRows = @($series | Where-Object { @($_.categories) -contains "Sci-Fi" -and @($_.categories) -contains "Fantasy" })
 $years = @($data.years)
 $hasExternalClientScript = $html.Contains('<script type="module" src="series_library.js"></script>') -and $clientJs.Contains('async function loadCatalogData')
@@ -117,9 +118,11 @@ $hasRecoverableEmptyState = (Test-ContainsAll $html @('id="emptyTitle"', 'id="em
 $hasPosterPriorityLoading = Test-ContainsAll $pageSource @('priorityPosterBudgetStart', 'priorityPosterCount', 'isPriority ? "eager" : "lazy"', 'isPriority ? "high" : "auto"', 'decoding="async"')
 $hasPosterErrorFallback = Test-ContainsAll $pageSource @('function handlePosterImageError', 'addEventListener("error", handlePosterImageError, true)')
 $hasActionSeasonRefresh = $packageJson.Contains('refresh:action-seasons') -and $seasonRefreshScript.Contains('REFRESH_CATEGORY')
+$hasComedySeasonRefresh = $packageJson.Contains('refresh:comedy-seasons') -and $seasonRefreshScript.Contains('REFRESH_CATEGORY')
 $hasCachedSeasonRefreshDefault = Test-ContainsAll $updateScript @('refresh_open_series_seasons.ps1', '"-SkipExisting"')
 $hasParallelSeasonRefresh = (Test-ContainsAll $seasonRefreshScript @('[int]$Concurrency', 'Start-Job')) -and $updateScript.Contains('"-Concurrency", "2"')
 $hasActionSourceConfig = $combinedSourceScript.Contains('imdb_action_year_files_primary_origin') -and $currentYearSourcesScript.Contains('Genre = "Action"')
+$hasComedySourceConfig = $combinedSourceScript.Contains('imdb_comedy_year_files_primary_origin') -and $currentYearSourcesScript.Contains('Genre = "Comedy"')
 $hasTrendFilterChoices = (Test-ContainsAll $html @('class="trend-choice"', 'value="up"', 'value="down"', 'value="disaster"'))
 $hasDeadSeriesDetailHead = $html.Contains('id="seriesDetailHead"') -or $clientJs.Contains('seriesDetailHead') -or $css.Contains('.series-detail-head')
 $hasClickableCards = Test-ContainsAll $pageSource @('role="button"', 'data-id="${escapeText(item.id)}"')
@@ -196,6 +199,7 @@ $hasCiWorkflow = Test-ContainsAll $ciWorkflow @('runs-on: windows-latest', 'acti
   SciFiRows = $sciFiRows.Count
   FantasyRows = $fantasyRows.Count
   ActionRows = $actionRows.Count
+  ComedyRows = $comedyRows.Count
   BothRows = $bothRows.Count
   MissingCategories = $missingCategories.Count
   TurkishPrimaryRows = $turkishPrimaryRows.Count
@@ -244,11 +248,14 @@ $hasCiWorkflow = Test-ContainsAll $ciWorkflow @('runs-on: windows-latest', 'acti
   HasPosterPriorityLoading = $hasPosterPriorityLoading
   HasPosterErrorFallback = $hasPosterErrorFallback
   HasActionCategoryFilter = $html.Contains('class="category-choice" value="Action"')
+  HasComedyCategoryFilter = $html.Contains('class="category-choice" value="Comedy"')
   HasActionSeasonRefresh = $hasActionSeasonRefresh
+  HasComedySeasonRefresh = $hasComedySeasonRefresh
   HasCachedSeasonRefreshDefault = $hasCachedSeasonRefreshDefault
   HasParallelSeasonRefresh = $hasParallelSeasonRefresh
   HasTrendFilter = $html.Contains('id="trendFilter"')
   HasActionSourceConfig = $hasActionSourceConfig
+  HasComedySourceConfig = $hasComedySourceConfig
   HasTrendFilterChoices = $hasTrendFilterChoices
   HasDecadeGroups = $pageSource.Contains('"decade-group"')
   HasPosterMarkup = $pageSource.Contains('class="poster"')
@@ -323,12 +330,16 @@ if ($badSeasonDetailRows.Count -gt 0) { throw "Found invalid normalized season d
 if ($turkishPrimaryRows.Count -gt 0) { throw "Found Turkish-primary rows." }
 if ($sciFiRows.Count -lt 600) { throw "Expected at least 600 Sci-Fi rows." }
 if ($fantasyRows.Count -lt 500) { throw "Expected at least 500 Fantasy rows." }
+if ($comedyRows.Count -lt 800) { throw "Expected at least 800 Comedy rows." }
 if ($bothRows.Count -lt 200) { throw "Expected at least 200 rows in both categories." }
 if (-not $html.Contains('class="category-choice" value="Action"')) { throw "Missing Action category filter." }
+if (-not $html.Contains('class="category-choice" value="Comedy"')) { throw "Missing Comedy category filter." }
 Assert-Condition $hasActionSeasonRefresh "Missing Action season refresh command."
+Assert-Condition $hasComedySeasonRefresh "Missing Comedy season refresh command."
 Assert-Condition $hasCachedSeasonRefreshDefault "Full update should skip complete season caches by default."
 Assert-Condition $hasParallelSeasonRefresh "Season refresh should support bounded parallelism for full updates."
 Assert-Condition $hasActionSourceConfig "Missing Action source configuration."
+Assert-Condition $hasComedySourceConfig "Missing Comedy source configuration."
 if (-not $html.Contains('href="series_library.css"')) { throw "Missing extracted stylesheet link." }
 Assert-Condition $hasExternalClientScript "Public page should load extracted client JavaScript."
 if ($html.Contains('<script type="module">')) { throw "HTML should not contain the inline app module." }
