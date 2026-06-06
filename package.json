@@ -15,10 +15,15 @@
     "deploy:check": "node scripts/check_deploy_ready.js",
     "server:check": "node scripts/check_local_server.js",
     "schema:check": "node scripts/validate_public_json_schema.js",
+    "plex:probe": "node scripts/plex_probe.js",
+    "plex:sync": "node scripts/plex_sync.js",
+    "plex:sync:apply": "node scripts/plex_sync.js --apply",
     "test:browser": "node scripts/browser_regression_check.js",
     "test:migrate": "node scripts/test_migrate_null_seasons.js",
+    "test:plex": "node scripts/test_plex_probe.js",
+    "test:plex-sync": "node scripts/test_plex_sync.js",
     "test:state": "node scripts/test_series_state_store.js",
-    "test": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File verify_sci_fi_catalog_page.ps1 && npm run test:migrate && npm run test:state && npm run schema:check && npm run deploy:check && npm run server:check"
+    "test": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File verify_sci_fi_catalog_page.ps1 && npm run test:migrate && npm run test:plex && npm run test:plex-sync && npm run test:state && npm run schema:check && npm run deploy:check && npm run server:check"
   },
   "keywords": [],
   "author": "",
@@ -26,6 +31,7 @@
   "type": "commonjs",
   "dependencies": {
     "better-sqlite3": "^12.10.0",
+    "fast-xml-parser": "^5.8.0",
     "pg": "^8.21.0"
   }
 }
