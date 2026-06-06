@@ -8,7 +8,7 @@ Product UI for a static catalog browser.
 
 Use a restrained dark product palette: tinted neutrals, one electric cyan/teal accent for selected/current/action states, and semantic colors only where they carry meaning.
 
-The app is a quiet but distinctive browsing tool, not a branded media site. The design should support scanning hundreds of poster-led records, comparing ratings, and opening details repeatedly.
+The app is a quiet but distinctive browsing tool, not a branded media site. The design should support scanning thousands of poster-led records, comparing ratings, and opening details repeatedly.
 
 The current visual direction is Orbital Catalog: dark, minimal, poster-forward, dense, and technical without decorative sci-fi effects.
 
@@ -26,17 +26,22 @@ The current visual direction is Orbital Catalog: dark, minimal, poster-forward, 
 
 - Filter triggers, selects, search, score/rated-season inputs, and reset buttons must share the same control system: height, border, radius, fill, focus, and hover treatment.
 - Cards are repeated catalog items only. Desktop cards are poster-wall tiles with stable dimensions; mobile cards may become compact media rows. Do not wrap page sections in decorative cards.
-- Detail modal uses a large poster, compact metadata section, synopsis, and season table. Desktop should use the width efficiently with poster on one side and information/seasons on the other. No footer action bar.
+- Detail modal uses a large poster, compact metadata section, synopsis, and season table loaded from the static detail payload. Desktop should use the width efficiently with poster on one side and information/seasons on the other. No footer action bar.
+- Personal tag toggles live in the detail modal as compact state buttons. Active personal tags render as small semantic pills on both cards and the modal.
 - Back-to-list control is a small fixed button that appears only after scrolling into the catalog and scrolls to the top of the series list.
 - Trend tags are semantic pills:
   - `up`: positive green.
   - `down`: warning red.
   - `disaster`: high-contrast severe red.
+- Personal tags are semantic pills:
+  - `wishlisted`: cyan/teal.
+  - `available`: green.
+  - `seen`: muted violet/blue.
 - Rating pills use score-derived color and must remain legible.
 
 ## Layout
 
-- Desktop uses a sticky left sidebar and poster-wall catalog grid.
+- Desktop uses a sticky left sidebar, sticky search/status toolbar, and poster-wall catalog grid.
 - Mobile collapses filters behind a `details` panel.
 - Catalog cards need stable poster and metadata dimensions to avoid layout shift or clipped labels.
 - Long titles and labels must wrap without overlapping controls.

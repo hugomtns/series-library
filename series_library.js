@@ -1,6 +1,10 @@
-import { loadCatalogData, loadSeriesDetails } from "./series_library_data_client.js";
+import { loadCatalogData, loadSeriesDetails, loadSeriesState, saveSeriesState } from "./series_library_data_client.js";
 import {
   escapeText,
+  filterTagKeys,
+  personalTagDefinitions,
+  renderPersonalTagControls,
+  renderPersonalTags,
   ratingTone,
   renderCatalogSection,
   renderDetailPoster,
@@ -9,7 +13,7 @@ import {
   trendKind,
 } from "./series_library_rendering.js";
 
-let data = await loadCatalogData();
+let [data, seriesStateById] = await Promise.all([loadCatalogData(), loadSeriesState()]);
 let detailsById = null;
 let detailsPromise = null;
 let byYear = new Map();
@@ -57,7 +61,7 @@ const emptyReset = document.getElementById("emptyReset");
 const backToList = document.getElementById("backToList");
 
 let selectedCategories = new Set(categoryChoices.map(input => input.value));
-let selectedTrends = new Set(trendChoices.map(input => input.value));
+let selectedTags = new Set(trendChoices.map(input => input.value));
 let lastSeriesTrigger = null;
 const focusableSelectors = [
   "a[href]",
@@ -91,8 +95,8 @@ function allCategoriesSelected() {
   return selectedCategories.size === categoryChoices.length;
 }
 
-function allTrendsSelected() {
-  return selectedTrends.size === trendChoices.length;
+function allTagsSelected() {
+  return selectedTags.size === trendChoices.length;
 }
 
 function updateCategoryTrigger() {
@@ -116,23 +120,30 @@ function updateCategoryTrigger() {
 }
 
 function updateTrendTrigger() {
-  const labels = { up: "Trend Up", down: "Trend Down", disaster: "Disaster" };
-  if (allTrendsSelected()) {
-    trendTrigger.textContent = "All trends";
+  const labels = {
+    up: "Trend Up",
+    down: "Trend Down",
+    disaster: "Disaster",
+    wishlisted: "Wishlisted",
+    available: "Available",
+    seen: "Seen",
+  };
+  if (allTagsSelected()) {
+    trendTrigger.textContent = "All tags";
     trendAll.checked = true;
-  } else if (selectedTrends.size === 0) {
-    trendTrigger.textContent = "No trends";
+  } else if (selectedTags.size === 0) {
+    trendTrigger.textContent = "No tags";
     trendAll.checked = false;
-  } else if (selectedTrends.size === 1) {
-    trendTrigger.textContent = labels[Array.from(selectedTrends)[0]];
+  } else if (selectedTags.size === 1) {
+    trendTrigger.textContent = labels[Array.from(selectedTags)[0]];
     trendAll.checked = false;
   } else {
-    trendTrigger.textContent = `${selectedTrends.size} trends selected`;
+    trendTrigger.textContent = `${selectedTags.size} tags selected`;
     trendAll.checked = false;
   }
 
   for (const input of trendChoices) {
-    input.checked = selectedTrends.has(input.value);
+    input.checked = selectedTags.has(input.value);
   }
 }
 
@@ -145,16 +156,15 @@ function itemMatchesCategory(item) {
   return primaryCategories.some(category => selectedCategories.has(category));
 }
 
-function itemMatchesTrend(item) {
-  if (allTrendsSelected()) return true;
-  const kind = trendKind(item);
-  return Boolean(kind && selectedTrends.has(kind));
+function itemMatchesTag(item) {
+  if (allTagsSelected()) return true;
+  return filterTagKeys(item, seriesStateById[item.id]).some(tag => selectedTags.has(tag));
 }
 
 function getVisibleYearInfo() {
   return data.years
     .map(yearInfo => {
-      const count = (byYear.get(yearInfo.year) || []).filter(item => itemMatchesCategory(item) && itemMatchesTrend(item)).length;
+      const count = (byYear.get(yearInfo.year) || []).filter(item => itemMatchesCategory(item) && itemMatchesTag(item)).length;
       return { year: yearInfo.year, count };
     })
     .filter(yearInfo => yearInfo.count > 0);
@@ -264,7 +274,7 @@ function appendCatalogSections(targetCount) {
   for (let index = renderedYearCount; index < end; index++) {
     const [year, items] = yearEntries[index];
     const priorityPosterCount = Math.min(priorityPosterBudget, items.length);
-    const section = renderCatalogSection(year, items, { priorityPosterCount });
+    const section = renderCatalogSection(year, items, { priorityPosterCount, seriesStateById });
     priorityPosterBudget -= priorityPosterCount;
     fragment.appendChild(section);
     newSections.push(section);
@@ -388,9 +398,66 @@ async function getSeriesDetail(item) {
   }
 }
 
+function getSeriesState(id) {
+  return seriesStateById[id] || {};
+}
+
+function setSeriesState(id, state) {
+  if (personalTagDefinitions.some(tag => state[tag.key])) {
+    seriesStateById[id] = state;
+  } else {
+    delete seriesStateById[id];
+  }
+}
+
+function updateSeriesStateDisplays(id) {
+  const item = seriesById.get(id);
+  if (!item) return;
+  const state = getSeriesState(id);
+  for (const card of catalog.querySelectorAll(`.card[data-id="${CSS.escape(id)}"]`)) {
+    card.dataset.tags = filterTagKeys(item, state).join(";");
+    const personalTags = card.querySelector(".personal-tags");
+    if (personalTags) personalTags.innerHTML = renderPersonalTags(state);
+  }
+
+  if (seriesDetailModal.dataset.id === id) {
+    const detailPersonalTags = seriesDetailModal.querySelector("#detailPersonalTags");
+    if (detailPersonalTags) detailPersonalTags.innerHTML = renderPersonalTags(state);
+    for (const button of seriesDetailModal.querySelectorAll("[data-personal-tag]")) {
+      const isActive = Boolean(state[button.dataset.personalTag]);
+      button.setAttribute("aria-pressed", isActive ? "true" : "false");
+    }
+  }
+}
+
+async function toggleSeriesState(id, key) {
+  const controls = Array.from(seriesDetailModal.querySelectorAll("[data-personal-tag]"));
+  controls.forEach(button => { button.disabled = true; });
+  try {
+    const current = getSeriesState(id);
+    const saved = await saveSeriesState(id, {
+      wishlisted: Boolean(current.wishlisted),
+      available: Boolean(current.available),
+      seen: Boolean(current.seen),
+      [key]: !current[key],
+    });
+    const { id: savedId, ...state } = saved;
+    setSeriesState(savedId, state);
+    updateSeriesStateDisplays(savedId);
+    applyFilters();
+  } catch (error) {
+    console.error(error);
+    filterStatus.textContent = "Tag update failed";
+  } finally {
+    controls.forEach(button => { button.disabled = false; });
+  }
+}
+
 async function openSeriesDetail(item, trigger) {
   lastSeriesTrigger = trigger || null;
   const detailItem = await getSeriesDetail(item);
+  const state = getSeriesState(item.id);
+  seriesDetailModal.dataset.id = item.id;
   seriesDetailBody.innerHTML = `
     <div class="detail-layout">
       <div class="detail-poster-frame">${renderDetailPoster(detailItem)}</div>
@@ -410,7 +477,9 @@ async function openSeriesDetail(item, trigger) {
         </div>
         <div class="card-actions">
           ${renderTrendTag(detailItem)}
+          <span class="personal-tags" id="detailPersonalTags">${renderPersonalTags(state)}</span>
         </div>
+        ${renderPersonalTagControls(state)}
       </section>
       <p class="detail-synopsis">${escapeText(detailItem.synopsis || "No synopsis available.")}</p>
       <div class="detail-season-panel">
@@ -438,6 +507,7 @@ function unlockPageScroll() {
 function closeSeriesDetail() {
   const modalScrollY = window.scrollY;
   seriesDetailModal.hidden = true;
+  delete seriesDetailModal.dataset.id;
   unlockPageScroll();
   window.scrollTo(0, modalScrollY);
   lastSeriesTrigger = null;
@@ -488,7 +558,12 @@ catalog.addEventListener("keydown", async event => {
   if (item) await openSeriesDetail(item, card);
 });
 
-seriesDetailModal.addEventListener("click", event => {
+seriesDetailModal.addEventListener("click", async event => {
+  const tagButton = event.target.closest("[data-personal-tag]");
+  if (tagButton) {
+    await toggleSeriesState(seriesDetailModal.dataset.id, tagButton.dataset.personalTag);
+    return;
+  }
   if (event.target === seriesDetailModal) closeSeriesDetail();
   if (event.target.id === "seriesDetailClose") closeSeriesDetail();
 });
@@ -522,9 +597,9 @@ function cardMatchesCategory(card) {
   return false;
 }
 
-function cardMatchesTrend(card) {
-  if (allTrendsSelected()) return true;
-  return Boolean(card.dataset.trend && selectedTrends.has(card.dataset.trend));
+function cardMatchesTag(card) {
+  if (allTagsSelected()) return true;
+  return card.dataset.tags.split(";").some(tag => selectedTags.has(tag));
 }
 
 function parseScoreInput(input, fallback) {
@@ -544,7 +619,7 @@ function parseSeasonCountInput(input, fallback) {
 function hasActiveFilters() {
   return search.value.trim().length > 0 ||
     !allCategoriesSelected() ||
-    !allTrendsSelected() ||
+    !allTagsSelected() ||
     minScoreInput.value.trim().length > 0 ||
     maxScoreInput.value.trim().length > 0 ||
     minSeasonsInput.value.trim().length > 0 ||
@@ -555,7 +630,7 @@ function updateFilterStatus(visibleCards = data.total) {
   const active = [];
   if (search.value.trim()) active.push("title search");
   if (!allCategoriesSelected()) active.push(selectedCategories.size === 1 ? "1 category" : `${selectedCategories.size} categories`);
-  if (!allTrendsSelected()) active.push(selectedTrends.size === 1 ? "1 trend" : `${selectedTrends.size} trends`);
+  if (!allTagsSelected()) active.push(selectedTags.size === 1 ? "1 tag" : `${selectedTags.size} tags`);
   if (minScoreInput.value.trim() || maxScoreInput.value.trim()) active.push("score range");
   if (minSeasonsInput.value.trim() || maxSeasonsInput.value.trim()) active.push("rated seasons");
 
@@ -569,9 +644,9 @@ function updateEmptyState(query) {
   if (selectedCategories.size === 0) {
     emptyTitle.textContent = "No categories selected";
     emptyMessage.textContent = "Select at least one category or reset filters.";
-  } else if (selectedTrends.size === 0) {
-    emptyTitle.textContent = "No trends selected";
-    emptyMessage.textContent = "Select at least one trend label or reset filters.";
+  } else if (selectedTags.size === 0) {
+    emptyTitle.textContent = "No tags selected";
+    emptyMessage.textContent = "Select at least one trend or personal tag, or reset filters.";
   } else if (query) {
     emptyTitle.textContent = "No title matches";
     emptyMessage.textContent = `No series title contains "${query}".`;
@@ -632,7 +707,7 @@ function applyFilters() {
   for (const section of sections) {
     let sectionVisible = 0;
     for (const card of section.querySelectorAll(".card")) {
-      const match = cardMatchesCategory(card) && cardMatchesTrend(card) && cardMatchesScore(card) && cardMatchesRatedSeasonCount(card) && (!query || card.dataset.search.includes(query));
+      const match = cardMatchesCategory(card) && cardMatchesTag(card) && cardMatchesScore(card) && cardMatchesRatedSeasonCount(card) && (!query || card.dataset.search.includes(query));
       card.classList.toggle("hidden", !match);
       if (match) sectionVisible++;
     }
@@ -645,7 +720,7 @@ function applyFilters() {
   yearCount.textContent = visibleYears.toLocaleString();
   empty.classList.toggle("visible", searching && visibleCards === 0);
   updateEmptyState(query);
-  metaLine.textContent = query || !allCategoriesSelected() || !allTrendsSelected() || minHasValue || maxHasValue || minSeasonsHasValue || maxSeasonsHasValue ? `${visibleCards.toLocaleString()} matching series` : `Generated ${data.generatedAt}`;
+  metaLine.textContent = query || !allCategoriesSelected() || !allTagsSelected() || minHasValue || maxHasValue || minSeasonsHasValue || maxSeasonsHasValue ? `${visibleCards.toLocaleString()} matching series` : `Generated ${data.generatedAt}`;
   updateFilterStatus(visibleCards);
 }
 
@@ -658,7 +733,7 @@ function categorySelectionChanged() {
 }
 
 function trendSelectionChanged() {
-  selectedTrends = new Set(trendChoices.filter(input => input.checked).map(input => input.value));
+  selectedTags = new Set(trendChoices.filter(input => input.checked).map(input => input.value));
   updateTrendTrigger();
   renderYearNavigation();
   navLinks = Array.from(yearNav.querySelectorAll("a"));
@@ -818,7 +893,7 @@ function resetAllFilters() {
   minSeasonsInput.value = "";
   maxSeasonsInput.value = "";
   selectedCategories = new Set(categoryChoices.map(input => input.value));
-  selectedTrends = new Set(trendChoices.map(input => input.value));
+  selectedTags = new Set(trendChoices.map(input => input.value));
   updateCategoryTrigger();
   updateTrendTrigger();
   renderYearNavigation();

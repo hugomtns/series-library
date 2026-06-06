@@ -1,6 +1,6 @@
 # Release and Deploy Notes
 
-This app deploys as static files from the repository root. Vercel serves `series_library.html`, `series_library.css`, frontend JavaScript modules, and the committed public JSON payloads.
+This app deploys static catalog files from the repository root plus Vercel API routes for personal series tags. Vercel serves `series_library.html`, `series_library.css`, frontend JavaScript modules, and the committed public JSON payloads.
 
 ## Before Committing
 
@@ -33,6 +33,7 @@ When data logic or catalog content changes:
 ## Deploy
 
 Push the tested branch to the Vercel-connected remote. The public page uses committed static files only; SQLite is not deployed.
+Personal tags require a hosted Postgres connection in Vercel via `DATABASE_URL` or `POSTGRES_URL`.
 
 ```powershell
 git push
@@ -43,4 +44,5 @@ git push
 - `/` rewrites to `/series_library.html`.
 - Public JSON is committed and schema-valid.
 - `.vercelignore` excludes source/cache folders, generated files, SQLite DB files, and local metadata.
-- No browser update controls or mutable data APIs are present.
+- No browser update controls for catalog data are present.
+- The only mutable public API is `/api/series-state` for `Wishlisted`, `Available`, and `Seen`.

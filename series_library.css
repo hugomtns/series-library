@@ -611,7 +611,7 @@ h1 {
 
 .card {
   display: grid;
-  grid-template-rows: auto 232px;
+  grid-template-rows: auto 258px;
   gap: 10px;
   min-width: 0;
   padding: 8px;
@@ -663,7 +663,7 @@ h1 {
 .card-main {
   min-width: 0;
   display: grid;
-  grid-template-rows: minmax(0, 1fr) 44px;
+  grid-template-rows: minmax(0, 1fr) auto;
   gap: 8px;
   align-content: stretch;
 }
@@ -750,10 +750,12 @@ h1 {
 
 .card-actions {
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
   align-items: center;
+  flex-wrap: wrap;
   gap: 8px;
   margin-top: 0;
+  min-height: 44px;
   min-width: 0;
 }
 
@@ -769,7 +771,46 @@ h1 {
   font-size: 0.74rem;
   font-weight: 850;
   white-space: nowrap;
-  margin-right: auto;
+}
+
+.personal-tags {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+  min-width: 0;
+}
+
+.personal-tag {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--personal-border);
+  background: var(--personal-bg);
+  color: var(--personal-fg);
+  font-size: 0.72rem;
+  font-weight: 850;
+  white-space: nowrap;
+}
+
+.personal-tag-wishlisted {
+  --personal-bg: oklch(25% 0.065 194);
+  --personal-fg: oklch(86% 0.095 194);
+  --personal-border: oklch(46% 0.11 194);
+}
+
+.personal-tag-available {
+  --personal-bg: oklch(25% 0.078 145);
+  --personal-fg: oklch(84% 0.105 145);
+  --personal-border: oklch(45% 0.12 145);
+}
+
+.personal-tag-seen {
+  --personal-bg: oklch(25% 0.065 275);
+  --personal-fg: oklch(84% 0.085 275);
+  --personal-border: oklch(46% 0.105 275);
 }
 
 .trend-up {
@@ -791,6 +832,7 @@ h1 {
 }
 
 .imdb-link {
+  margin-left: auto;
   min-width: 44px;
   min-height: 44px;
   display: inline-flex;
@@ -1001,6 +1043,74 @@ h1 {
 
 .detail-info .card-actions {
   margin-top: 0;
+}
+
+.personal-tag-controls {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.personal-tag-toggle {
+  min-height: 44px;
+  min-width: 0;
+  padding: 0 10px;
+  border: 1px solid var(--control-border);
+  border-radius: var(--radius);
+  background: var(--control-bg);
+  color: var(--muted);
+  font: inherit;
+  font-size: 0.8rem;
+  font-weight: 850;
+  cursor: pointer;
+  transition:
+    border-color 160ms var(--ease-out-quart),
+    background-color 160ms var(--ease-out-quart),
+    color 160ms var(--ease-out-quart),
+    transform 120ms var(--ease-out-quart);
+}
+
+.personal-tag-toggle:hover,
+.personal-tag-toggle:focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: 2px;
+  border-color: var(--focus);
+  background: var(--control-hover);
+  color: var(--ink);
+  box-shadow: var(--focus-halo);
+}
+
+.personal-tag-toggle:active {
+  transform: var(--active-shift);
+}
+
+.personal-tag-toggle[aria-pressed="true"] {
+  border-color: var(--personal-border);
+  background: var(--personal-bg);
+  color: var(--personal-fg);
+}
+
+.personal-tag-toggle-wishlisted {
+  --personal-bg: oklch(25% 0.065 194);
+  --personal-fg: oklch(86% 0.095 194);
+  --personal-border: oklch(46% 0.11 194);
+}
+
+.personal-tag-toggle-available {
+  --personal-bg: oklch(25% 0.078 145);
+  --personal-fg: oklch(84% 0.105 145);
+  --personal-border: oklch(45% 0.12 145);
+}
+
+.personal-tag-toggle-seen {
+  --personal-bg: oklch(25% 0.065 275);
+  --personal-fg: oklch(84% 0.085 275);
+  --personal-border: oklch(46% 0.105 275);
+}
+
+.personal-tag-toggle:disabled {
+  cursor: wait;
+  opacity: 0.62;
 }
 
 .detail-synopsis {
@@ -1225,7 +1335,7 @@ body.year-jumping .year-section { content-visibility: visible; }
   }
 
   .card-main {
-    grid-template-rows: minmax(0, 1fr) 44px;
+    grid-template-rows: minmax(0, 1fr) auto;
   }
 
   .title-row {
@@ -1275,6 +1385,10 @@ body.year-jumping .year-section { content-visibility: visible; }
 
   .detail-title-actions {
     justify-content: space-between;
+  }
+
+  .personal-tag-controls {
+    grid-template-columns: 1fr;
   }
 
   .detail-synopsis {

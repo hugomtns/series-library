@@ -3,6 +3,10 @@ const path = require("node:path");
 
 const root = path.resolve(__dirname, "..");
 const requiredPublicFiles = [
+  "api/series-state-store.js",
+  "api/series-state-handler.js",
+  "api/series-state.js",
+  "api/series-state/[imdbId].js",
   "series_library.html",
   "series_library.css",
   "series_library.js",
@@ -21,6 +25,9 @@ const requiredIgnoredPaths = [
   "series_library.db",
   "series_library.db-shm",
   "series_library.db-wal",
+  "series_user_state.db",
+  "series_user_state.db-shm",
+  "series_user_state.db-wal",
 ];
 
 function readText(relativePath) {

@@ -4,6 +4,7 @@ node_modules/
 *.bak
 *.db-shm
 *.db-wal
+series_user_state.db
 .DS_Store
 Thumbs.db
 scripts/.generated/

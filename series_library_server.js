@@ -1,6 +1,7 @@
 const fs = require("node:fs");
 const http = require("node:http");
 const path = require("node:path");
+const { handleSeriesStateApiRequest } = require("./api/series-state-handler");
 
 const root = __dirname;
 const port = Number(process.env.PORT || 8787);
@@ -72,6 +73,18 @@ function serveStatic(req, res) {
 }
 
 const server = http.createServer((req, res) => {
+  let pathname = "";
+  try {
+    pathname = decodeURIComponent(new URL(req.url, `http://${host}:${port}`).pathname);
+  } catch {
+    pathname = "";
+  }
+
+  if (pathname === "/api/series-state" || pathname.startsWith("/api/series-state/")) {
+    handleSeriesStateRequest(req, res);
+    return;
+  }
+
   if (req.method !== "GET" && req.method !== "HEAD") {
     res.writeHead(405);
     res.end("Method not allowed");
@@ -79,6 +92,15 @@ const server = http.createServer((req, res) => {
   }
   serveStatic(req, res);
 });
+
+function handleSeriesStateRequest(req, res) {
+  if (req.method !== "GET" && req.method !== "PUT") {
+    res.writeHead(405, { "content-type": "application/json; charset=utf-8", "cache-control": "no-store" });
+    res.end(JSON.stringify({ error: "Method not allowed." }));
+    return;
+  }
+  handleSeriesStateApiRequest(req, res);
+}
 
 server.on("error", (error) => {
   if (error.code === "EADDRINUSE") {

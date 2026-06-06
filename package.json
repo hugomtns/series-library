@@ -17,13 +17,15 @@
     "schema:check": "node scripts/validate_public_json_schema.js",
     "test:browser": "node scripts/browser_regression_check.js",
     "test:migrate": "node scripts/test_migrate_null_seasons.js",
-    "test": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File verify_sci_fi_catalog_page.ps1 && npm run test:migrate && npm run schema:check && npm run deploy:check && npm run server:check"
+    "test:state": "node scripts/test_series_state_store.js",
+    "test": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File verify_sci_fi_catalog_page.ps1 && npm run test:migrate && npm run test:state && npm run schema:check && npm run deploy:check && npm run server:check"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "better-sqlite3": "^12.10.0"
+    "better-sqlite3": "^12.10.0",
+    "pg": "^8.21.0"
   }
 }

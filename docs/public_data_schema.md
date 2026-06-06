@@ -1,6 +1,6 @@
 # Public Data Schema
 
-The browser reads only committed static JSON files. SQLite remains the source of truth, and `scripts/export_public_catalog.js` is the only public JSON exporter.
+The browser reads committed static JSON files for catalog data. SQLite remains the catalog source of truth, and `scripts/export_public_catalog.js` is the only public JSON exporter. Personal tags are separate mutable state exposed by `/api/series-state`; they must not be added to the catalog JSON exports.
 
 ## `series_library_data.json`
 

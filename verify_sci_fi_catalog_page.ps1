@@ -21,6 +21,9 @@ $seasonRefreshScript = Get-Content -Path "scripts/refresh_open_series_seasons.ps
 $currentYearSourcesScript = Get-Content -Path "scripts/update_current_year_sources.ps1" -Raw
 $updateScript = Get-Content -Path "scripts/update_library.js" -Raw
 $serverScript = Get-Content -Path "series_library_server.js" -Raw
+$stateStoreScript = Get-TextOrEmpty "api/series-state-store.js"
+$stateApiScript = Get-TextOrEmpty "api/series-state.js"
+$stateApiByIdScript = Get-TextOrEmpty "api/series-state/[imdbId].js"
 $deployCheckScript = Get-TextOrEmpty "scripts/check_deploy_ready.js"
 $posterDeliveryReportScript = Get-TextOrEmpty "scripts/report_poster_delivery.js"
 $verifyScript = Get-Content -Path "verify_sci_fi_catalog_page.ps1" -Raw
@@ -124,6 +127,11 @@ $hasParallelSeasonRefresh = (Test-ContainsAll $seasonRefreshScript @('[int]$Conc
 $hasActionSourceConfig = $combinedSourceScript.Contains('imdb_action_year_files_primary_origin') -and $currentYearSourcesScript.Contains('Genre = "Action"')
 $hasComedySourceConfig = $combinedSourceScript.Contains('imdb_comedy_year_files_primary_origin') -and $currentYearSourcesScript.Contains('Genre = "Comedy"')
 $hasTrendFilterChoices = (Test-ContainsAll $html @('class="trend-choice"', 'value="up"', 'value="down"', 'value="disaster"'))
+$hasPersonalStateApi = (Test-ContainsAll $serverScript @('/api/series-state', 'handleSeriesStateRequest')) -and (Test-ContainsAll $stateStoreScript @('createSeriesStateStore', 'createLocalSeriesStateStore', 'createPostgresSeriesStateStore', 'normalizeSeriesState')) -and (Test-ContainsAll "$stateApiScript`n$stateApiByIdScript" @('handleSeriesStateApiRequest'))
+$hasPersonalTagChoices = Test-ContainsAll $html @('class="trend-choice"', 'value="wishlisted"', 'value="available"', 'value="seen"', 'Wishlisted', 'Available', 'Seen')
+$hasPersonalTagState = Test-ContainsAll $pageSource @('loadSeriesState', 'saveSeriesState', 'seriesStateById', 'personalTagDefinitions', 'personal-tag')
+$hasPersonalTagToggles = Test-ContainsAll $pageSource @('class="personal-tag-controls"', 'data-personal-tag="${escapeText(tag.key)}"', 'toggleSeriesState', 'personalTagDefinitions')
+$hasCombinedTagFilter = Test-ContainsAll $pageSource @('selectedTags', 'allTagsSelected', 'cardMatchesTag', 'data-tags="${escapeText', '1 tag')
 $hasDeadSeriesDetailHead = $html.Contains('id="seriesDetailHead"') -or $clientJs.Contains('seriesDetailHead') -or $css.Contains('.series-detail-head')
 $hasClickableCards = Test-ContainsAll $pageSource @('role="button"', 'data-id="${escapeText(item.id)}"')
 $hasModalFocusTrap = Test-ContainsAll $pageSource @('function trapModalFocus', 'focusableSelectors')
@@ -257,6 +265,11 @@ $hasCiWorkflow = Test-ContainsAll $ciWorkflow @('runs-on: windows-latest', 'acti
   HasActionSourceConfig = $hasActionSourceConfig
   HasComedySourceConfig = $hasComedySourceConfig
   HasTrendFilterChoices = $hasTrendFilterChoices
+  HasPersonalStateApi = $hasPersonalStateApi
+  HasPersonalTagChoices = $hasPersonalTagChoices
+  HasPersonalTagState = $hasPersonalTagState
+  HasPersonalTagToggles = $hasPersonalTagToggles
+  HasCombinedTagFilter = $hasCombinedTagFilter
   HasDecadeGroups = $pageSource.Contains('"decade-group"')
   HasPosterMarkup = $pageSource.Contains('class="poster"')
   HasSearch = $html.Contains('id="search"')
@@ -384,6 +397,11 @@ Assert-Condition $hasBackToList "Catalog should expose an accessible back-to-lis
 Assert-Condition $hasRecoverableEmptyState "Empty filter results should explain the state and offer recovery."
 if (-not $html.Contains('id="trendFilter"')) { throw "Missing trend filter." }
 Assert-Condition $hasTrendFilterChoices "Missing trend filter choices."
+Assert-Condition $hasPersonalStateApi "Missing API-backed personal series state."
+Assert-Condition $hasPersonalTagChoices "Missing personal tag choices in the existing tag filter."
+Assert-Condition $hasPersonalTagState "Missing client-side personal tag state wiring."
+Assert-Condition $hasPersonalTagToggles "Missing detail-modal personal tag toggles."
+Assert-Condition $hasCombinedTagFilter "Trend filter should become a combined trend/personal tag filter."
 if (-not $pageSource.Contains('"decade-group"')) { throw "Missing decade group renderer." }
 if (-not $pageSource.Contains('class="poster"')) { throw "Missing poster markup." }
 Assert-Condition $hasPosterPriorityLoading "Poster images should prioritize the initial viewport and lazy-load the rest."

@@ -34,6 +34,12 @@ export function trendKind(item) {
   return item.trendKind || null;
 }
 
+export const personalTagDefinitions = [
+  { key: "wishlisted", label: "Wishlisted" },
+  { key: "available", label: "Available" },
+  { key: "seen", label: "Seen" },
+];
+
 export function seasonTrendSlope(item) {
   const slope = Number(item.trendSlope);
   return Number.isFinite(slope) ? slope : null;
@@ -48,6 +54,34 @@ export function renderTrendTag(item) {
     ? "Last season is at least 1.5 IMDb points below the first"
     : Number.isFinite(slope) ? `Season rating trend m=${slope.toFixed(2)}` : "Season rating trend";
   return `<span class="trend-tag trend-${kind}" title="${escapeText(title)}">${label}</span>`;
+}
+
+export function personalTagKeys(state = {}) {
+  return personalTagDefinitions
+    .filter(tag => state[tag.key])
+    .map(tag => tag.key);
+}
+
+export function filterTagKeys(item, state = {}) {
+  return [trendKind(item), ...personalTagKeys(state)].filter(Boolean);
+}
+
+export function renderPersonalTags(state = {}) {
+  return personalTagDefinitions
+    .filter(tag => state[tag.key])
+    .map(tag => `<span class="personal-tag personal-tag-${tag.key}">${escapeText(tag.label)}</span>`)
+    .join("");
+}
+
+export function renderPersonalTagControls(state = {}) {
+  return `
+    <div class="personal-tag-controls" aria-label="Series tags">
+      ${personalTagDefinitions.map(tag => {
+        const pressed = state[tag.key] ? "true" : "false";
+        return `<button type="button" class="personal-tag-toggle personal-tag-toggle-${tag.key}" data-personal-tag="${escapeText(tag.key)}" aria-pressed="${pressed}">${escapeText(tag.label)}</button>`;
+      }).join("")}
+    </div>
+  `;
 }
 
 export function primaryCategoryList(categories) {
@@ -69,6 +103,7 @@ export function renderPoster(item, isPriority = false) {
 
 export function renderCatalogSection(year, items, options = {}) {
   const priorityPosterCount = options.priorityPosterCount || 0;
+  const seriesStateById = options.seriesStateById || {};
   const section = document.createElement("section");
   section.className = "year-section";
   section.id = `year-${year}`;
@@ -80,7 +115,7 @@ export function renderCatalogSection(year, items, options = {}) {
     </div>
     <div class="grid">
       ${items.map((item, index) => `
-        <article class="card" tabindex="0" role="button" aria-label="Open details for ${escapeText(item.title)}" data-id="${escapeText(item.id)}" data-categories="${escapeText(item.categories.join(";"))}" data-primary-categories="${escapeText(primaryCategoryList(item.categories).join(";"))}" data-has-animation="${item.categories.includes("Animation") ? "1" : "0"}" data-trend="${escapeText(trendKind(item) || "")}" data-score="${escapeText(Number(item.score).toFixed(1))}" data-rated-seasons="${escapeText(Number(item.ratedSeasonCount || 0))}" data-search="${escapeText(item.title.toLowerCase())}">
+        <article class="card" tabindex="0" role="button" aria-label="Open details for ${escapeText(item.title)}" data-id="${escapeText(item.id)}" data-categories="${escapeText(item.categories.join(";"))}" data-primary-categories="${escapeText(primaryCategoryList(item.categories).join(";"))}" data-has-animation="${item.categories.includes("Animation") ? "1" : "0"}" data-trend="${escapeText(trendKind(item) || "")}" data-tags="${escapeText(filterTagKeys(item, seriesStateById[item.id]).join(";"))}" data-score="${escapeText(Number(item.score).toFixed(1))}" data-rated-seasons="${escapeText(Number(item.ratedSeasonCount || 0))}" data-search="${escapeText(item.title.toLowerCase())}">
           ${renderPoster(item, index < priorityPosterCount)}
           <div class="card-main">
             <div class="card-top">
@@ -101,6 +136,7 @@ export function renderCatalogSection(year, items, options = {}) {
             </div>
             <div class="card-actions">
               ${renderTrendTag(item)}
+              <span class="personal-tags">${renderPersonalTags(seriesStateById[item.id])}</span>
               <a class="imdb-link" href="${escapeText(imdbTitleUrl(item))}" target="_blank" rel="noreferrer">IMDb</a>
             </div>
           </div>
