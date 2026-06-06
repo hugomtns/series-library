@@ -30,6 +30,24 @@ When data logic or catalog content changes:
 
 3. Run `npm test`.
 
+## Personal Tag Sync
+
+Plex sync is a CLI-only personal-state workflow. It updates `Available` from Plex library presence and `Seen` from fully watched episode counts; it does not change catalog JSON.
+
+Dry-run locally:
+
+```powershell
+npm run plex:sync
+```
+
+Apply locally:
+
+```powershell
+npm run plex:sync:apply
+```
+
+To push synced tags to production, write through `/api/series-state` or use the production database connection. Preserve existing `Wishlisted` values when syncing Plex state.
+
 ## Deploy
 
 Push the tested branch to the Vercel-connected remote. The public page uses committed static files only; SQLite is not deployed.

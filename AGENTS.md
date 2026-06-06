@@ -59,6 +59,8 @@ Data pipeline files:
 - `scripts/preview_under_5k_near_misses.ps1`: near-miss report for under-5000-vote candidates.
 - `scripts/report_season_rating_trends.js`: prints season trend slopes.
 - `scripts/report_poster_delivery.js`: checks poster URL availability.
+- `scripts/plex_probe.js`: probes local Plex TV library connectivity, catalog matches, watched counts, and catalog miss reasons.
+- `scripts/plex_sync.js`: syncs Plex-derived `Available` and `Seen` personal tags; dry-run by default.
 - `scripts/validate_public_json_schema.js`: validates compact public index/detail JSON shape.
 - `scripts/check_deploy_ready.js`: checks Vercel/static deploy readiness.
 - `scripts/check_local_server.js`: smoke-checks the local static server.
@@ -149,6 +151,24 @@ Check poster delivery:
 npm run posters:report
 ```
 
+Probe local Plex TV library:
+
+```powershell
+npm run plex:probe
+```
+
+Dry-run Plex personal-tag sync:
+
+```powershell
+npm run plex:sync
+```
+
+Apply Plex personal-tag sync locally:
+
+```powershell
+npm run plex:sync:apply
+```
+
 Collect a historical category source set, example:
 
 ```powershell
@@ -166,6 +186,8 @@ Use `-SkipJson` unless there is a specific reason to write raw source JSON.
 5. `scripts/export_public_catalog.js` exports compact `series_library_data.json` plus lazy-loaded modal payloads in `series_library_details.json`.
 6. Vercel serves the static HTML/CSS/JS files plus `series_library_data.json` and `series_library_details.json`.
 7. Personal tags are read and written through `/api/series-state`, backed by Postgres in production and `series_user_state.db` locally.
+
+Plex sync is a CLI-only personal-state workflow. It updates only `Available` and `Seen`, preserves `Wishlisted`, and must not mutate catalog JSON.
 
 The browser never reads SQLite directly.
 
@@ -256,7 +278,7 @@ It sets `Cache-Control: public, max-age=0, must-revalidate` for both public JSON
 - node_modules
 - local Vercel metadata
 
-The deployed public catalog relies on committed `series_library_data.json` and `series_library_details.json`, not the SQLite DB. Personal tags require `DATABASE_URL` or `POSTGRES_URL` in Vercel.
+The deployed public catalog relies on committed `series_library_data.json` and `series_library_details.json`, not the SQLite DB. Personal tags require `DATABASE_URL` or `POSTGRES_URL` in Vercel. Synced Plex tags can be pushed to production through `/api/series-state` or a production state-store connection; do not commit local `series_user_state.db`.
 
 ## Update Policy
 

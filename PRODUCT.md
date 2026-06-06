@@ -21,6 +21,7 @@ The catalog is intentionally static on Vercel. Catalog data updates happen throu
 - Browse ranked series by year.
 - Filter by source category, secondary animation tag, trend label, title search, score range, and rated-season count range.
 - Filter by personal tags: Wishlisted, Available, and Seen.
+- Sync Available and Seen from a local Plex TV library through CLI tooling.
 - Jump to a year or decade.
 - Open a detail modal to inspect synopsis, season breakdown, and personal tag controls.
 - Lazy-load modal-only synopsis and season details from the static detail payload.
@@ -32,6 +33,7 @@ The catalog is intentionally static on Vercel. Catalog data updates happen throu
 - Static-first: committed JSON is the public contract.
 - Compact index first: the public index stays small, and modal-only details live in the separate static detail payload.
 - Personal state is separate: user-facing tags live in API-backed storage, not catalog JSON.
+- Local media state is additive: Plex sync updates personal tags only and never mutates catalog data.
 - Dense but calm: prioritize scanning, comparison, and repeated browsing.
 - Poster-forward discovery: use the committed poster art as the main visual signal while keeping metadata compact and stable.
 - Familiar controls: standard inputs and predictable navigation beat novelty.

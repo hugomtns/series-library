@@ -1,6 +1,6 @@
 # Public Data Schema
 
-The browser reads committed static JSON files for catalog data. SQLite remains the catalog source of truth, and `scripts/export_public_catalog.js` is the only public JSON exporter. Personal tags are separate mutable state exposed by `/api/series-state`; they must not be added to the catalog JSON exports.
+The browser reads committed static JSON files for catalog data. SQLite remains the catalog source of truth, and `scripts/export_public_catalog.js` is the only public JSON exporter. Personal tags are separate mutable state exposed by `/api/series-state`; they must not be added to the catalog JSON exports. Plex sync writes only to personal tag state.
 
 ## `series_library_data.json`
 
