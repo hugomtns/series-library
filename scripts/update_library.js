@@ -17,6 +17,12 @@ const tasks = [
     args: ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "scripts/update_current_year_sources.ps1"],
   },
   {
+    key: "rebuildCatalog",
+    label: "Rebuild SQLite for current catalog rows",
+    command: "powershell.exe",
+    args: ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "scripts/rebuild_catalog_and_db.ps1"],
+  },
+  {
     key: "seasons",
     label: "Refresh seasons and episode ratings",
     command: "powershell.exe",
@@ -29,8 +35,8 @@ const tasks = [
     args: ["scripts/refresh_existing_ratings.js"],
   },
   {
-    key: "rebuild",
-    label: "Rebuild SQLite and public JSON",
+    key: "publishCatalog",
+    label: "Rebuild SQLite and public JSON with refreshed ratings",
     command: "powershell.exe",
     args: ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "scripts/rebuild_catalog_and_db.ps1"],
   },
