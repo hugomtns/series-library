@@ -158,7 +158,13 @@ $env:REFRESH_CATEGORY = $Category
 $env:REFRESH_LIMIT = "$Limit"
 $env:REFRESH_ALL = if ($All) { "1" } else { "0" }
 $env:REFRESH_SKIP_EXISTING = if ($SkipExisting) { "1" } else { "0" }
-$seriesJson = & node -e "const Database = require('better-sqlite3'); const db = new Database(process.env.SERIES_LIBRARY_DB, { readonly: true }); const rows = db.prepare('SELECT payload_json FROM series ORDER BY start_year ASC, title ASC').all(); db.close(); const titleId = process.env.REFRESH_TITLE_ID || ''; const category = process.env.REFRESH_CATEGORY || ''; const limit = Number(process.env.REFRESH_LIMIT || 0); const all = process.env.REFRESH_ALL === '1'; const skipExisting = process.env.REFRESH_SKIP_EXISTING === '1'; let items = rows.map(row => JSON.parse(row.payload_json)); items = titleId ? items.filter(item => item.id === titleId) : category ? items.filter(item => Array.isArray(item.categories) && item.categories.includes(category)) : all ? items : skipExisting ? items : items.filter(item => String(item.years || '').endsWith('-')); if (limit > 0) items = items.slice(0, limit); process.stdout.write(JSON.stringify(items));"
+$selectorArgs = @("scripts/season_cache_health.js", "--select-refresh")
+if (-not [string]::IsNullOrWhiteSpace($TitleId)) { $selectorArgs += @("--title-id", $TitleId) }
+if (-not [string]::IsNullOrWhiteSpace($Category)) { $selectorArgs += @("--category", $Category) }
+if ($Limit -gt 0) { $selectorArgs += @("--limit", "$Limit") }
+if ($All) { $selectorArgs += "--all" }
+if ($SkipExisting) { $selectorArgs += "--skip-existing" }
+$seriesJson = & node @selectorArgs
 if ($LASTEXITCODE -ne 0) {
   throw "Failed to read series from SQLite."
 }
@@ -215,12 +221,6 @@ foreach ($item in $refreshSeries) {
   } else {
     $cached = [pscustomobject]@{ id = $item.id; detail = $null; seasons = $null; episodes = $null }
   }
-  if ($SkipExisting -and (Test-HasCompleteEpisodeCache -Cached $cached)) {
-    $i++
-    Write-StepEvent -Current $i -Total $totalSeries -Message "Skipped cached seasons: $($item.title)"
-    continue
-  }
-
   $cached.seasons = @(Get-Seasons -TitleId $item.id)
   $episodeResult = Get-Episodes -TitleId $item.id
   $cached | Add-Member -NotePropertyName episodes -NotePropertyValue @($episodeResult.episodes) -Force

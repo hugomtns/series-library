@@ -27,8 +27,10 @@ assert(
 
 assert(
   refreshScript.includes("$env:REFRESH_SKIP_EXISTING") &&
-    refreshScript.includes("skipExisting ? items : items.filter(item => String(item.years || '').endsWith('-'))"),
-  "Season refresh default should inspect every catalog row when -SkipExisting is set."
+    refreshScript.includes("scripts/season_cache_health.js") &&
+    refreshScript.includes("--select-refresh") &&
+    refreshScript.includes("--skip-existing"),
+  "Season refresh should delegate -SkipExisting candidate selection to season cache health rules."
 );
 
 console.log("Update pipeline refresh order is guarded.");

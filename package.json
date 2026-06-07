@@ -18,13 +18,15 @@
     "plex:probe": "node scripts/plex_probe.js",
     "plex:sync": "node scripts/plex_sync.js",
     "plex:sync:apply": "node scripts/plex_sync.js --apply",
+    "season-cache:report": "node scripts/season_cache_health.js --category Comedy",
     "test:browser": "node scripts/browser_regression_check.js",
     "test:migrate": "node scripts/test_migrate_null_seasons.js",
     "test:update-pipeline": "node scripts/test_update_pipeline.js",
+    "test:season-cache": "node scripts/test_season_cache_health.js",
     "test:plex": "node scripts/test_plex_probe.js",
     "test:plex-sync": "node scripts/test_plex_sync.js",
     "test:state": "node scripts/test_series_state_store.js",
-    "test": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File verify_sci_fi_catalog_page.ps1 && npm run test:migrate && npm run test:update-pipeline && npm run test:plex && npm run test:plex-sync && npm run test:state && npm run schema:check && npm run deploy:check && npm run server:check"
+    "test": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File verify_sci_fi_catalog_page.ps1 && npm run test:migrate && npm run test:update-pipeline && npm run test:season-cache && npm run test:plex && npm run test:plex-sync && npm run test:state && npm run schema:check && npm run deploy:check && npm run server:check"
   },
   "keywords": [],
   "author": "",
