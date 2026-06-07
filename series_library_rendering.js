@@ -73,13 +73,23 @@ export function renderPersonalTags(state = {}) {
     .join("");
 }
 
+export function personalTagSummary(state = {}) {
+  const activeTags = personalTagDefinitions.filter(tag => state[tag.key]);
+  if (activeTags.length === 0) return "Set tags";
+  if (activeTags.length === 1) return activeTags[0].label;
+  return `${activeTags.length} tags selected`;
+}
+
 export function renderPersonalTagControls(state = {}) {
   return `
-    <div class="personal-tag-controls" aria-label="Series tags">
+    <div class="personal-tag-controls category-filter" id="detailTagSelector" aria-label="Series tags">
+      <button type="button" class="category-trigger personal-tag-trigger" id="detailTagTrigger" aria-expanded="false" aria-haspopup="true" aria-controls="detailTagMenu">${escapeText(personalTagSummary(state))}</button>
+      <div class="category-menu personal-tag-menu" id="detailTagMenu">
       ${personalTagDefinitions.map(tag => {
-        const pressed = state[tag.key] ? "true" : "false";
-        return `<button type="button" class="personal-tag-toggle personal-tag-toggle-${tag.key}" data-personal-tag="${escapeText(tag.key)}" aria-pressed="${pressed}">${escapeText(tag.label)}</button>`;
+        const checked = state[tag.key] ? "checked" : "";
+        return `<label class="category-option personal-tag-option personal-tag-toggle-${tag.key}"><input type="checkbox" value="${escapeText(tag.key)}" data-personal-tag="${escapeText(tag.key)}" ${checked}> ${escapeText(tag.label)}</label>`;
       }).join("")}
+      </div>
     </div>
   `;
 }

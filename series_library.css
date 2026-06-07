@@ -1046,69 +1046,53 @@ h1 {
 }
 
 .personal-tag-controls {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 8px;
+  max-width: 260px;
+  margin-top: 2px;
 }
 
-.personal-tag-toggle {
-  min-height: 44px;
-  min-width: 0;
-  padding: 0 10px;
-  border: 1px solid var(--control-border);
-  border-radius: var(--radius);
-  background: var(--control-bg);
-  color: var(--muted);
-  font: inherit;
+.personal-tag-trigger {
   font-size: 0.8rem;
-  font-weight: 850;
-  cursor: pointer;
-  transition:
-    border-color 160ms var(--ease-out-quart),
-    background-color 160ms var(--ease-out-quart),
-    color 160ms var(--ease-out-quart),
-    transform 120ms var(--ease-out-quart);
 }
 
-.personal-tag-toggle:hover,
-.personal-tag-toggle:focus-visible {
-  outline: var(--focus-ring);
-  outline-offset: 2px;
-  border-color: var(--focus);
-  background: var(--control-hover);
-  color: var(--ink);
-  box-shadow: var(--focus-halo);
+.personal-tag-menu {
+  position: absolute;
+  z-index: 4;
+  width: 100%;
 }
 
-.personal-tag-toggle:active {
-  transform: var(--active-shift);
+.personal-tag-option {
+  border: 1px solid transparent;
+  color: var(--personal-fg);
 }
 
-.personal-tag-toggle[aria-pressed="true"] {
+.personal-tag-option:has(input:checked) {
   border-color: var(--personal-border);
   background: var(--personal-bg);
   color: var(--personal-fg);
 }
 
-.personal-tag-toggle-wishlisted {
+.personal-tag-toggle-wishlisted,
+.personal-tag-option:has(input[value="wishlisted"]) {
   --personal-bg: oklch(25% 0.065 194);
   --personal-fg: oklch(86% 0.095 194);
   --personal-border: oklch(46% 0.11 194);
 }
 
-.personal-tag-toggle-available {
+.personal-tag-toggle-available,
+.personal-tag-option:has(input[value="available"]) {
   --personal-bg: oklch(25% 0.078 145);
   --personal-fg: oklch(84% 0.105 145);
   --personal-border: oklch(45% 0.12 145);
 }
 
-.personal-tag-toggle-seen {
+.personal-tag-toggle-seen,
+.personal-tag-option:has(input[value="seen"]) {
   --personal-bg: oklch(25% 0.065 275);
   --personal-fg: oklch(84% 0.085 275);
   --personal-border: oklch(46% 0.105 275);
 }
 
-.personal-tag-toggle:disabled {
+.personal-tag-option:has(input:disabled) {
   cursor: wait;
   opacity: 0.62;
 }
@@ -1385,10 +1369,6 @@ body.year-jumping .year-section { content-visibility: visible; }
 
   .detail-title-actions {
     justify-content: space-between;
-  }
-
-  .personal-tag-controls {
-    grid-template-columns: 1fr;
   }
 
   .detail-synopsis {

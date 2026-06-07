@@ -5,6 +5,7 @@ import {
   personalTagDefinitions,
   renderPersonalTagControls,
   renderPersonalTags,
+  personalTagSummary,
   ratingTone,
   renderCatalogSection,
   renderDetailPoster,
@@ -423,16 +424,17 @@ function updateSeriesStateDisplays(id) {
   if (seriesDetailModal.dataset.id === id) {
     const detailPersonalTags = seriesDetailModal.querySelector("#detailPersonalTags");
     if (detailPersonalTags) detailPersonalTags.innerHTML = renderPersonalTags(state);
-    for (const button of seriesDetailModal.querySelectorAll("[data-personal-tag]")) {
-      const isActive = Boolean(state[button.dataset.personalTag]);
-      button.setAttribute("aria-pressed", isActive ? "true" : "false");
+    const detailTagTrigger = seriesDetailModal.querySelector("#detailTagTrigger");
+    if (detailTagTrigger) detailTagTrigger.textContent = personalTagSummary(state);
+    for (const input of seriesDetailModal.querySelectorAll("[data-personal-tag]")) {
+      input.checked = Boolean(state[input.dataset.personalTag]);
     }
   }
 }
 
 async function toggleSeriesState(id, key) {
   const controls = Array.from(seriesDetailModal.querySelectorAll("[data-personal-tag]"));
-  controls.forEach(button => { button.disabled = true; });
+  controls.forEach(input => { input.disabled = true; });
   try {
     const current = getSeriesState(id);
     const saved = await saveSeriesState(id, {
@@ -448,8 +450,9 @@ async function toggleSeriesState(id, key) {
   } catch (error) {
     console.error(error);
     filterStatus.textContent = "Tag update failed";
+    updateSeriesStateDisplays(id);
   } finally {
-    controls.forEach(button => { button.disabled = false; });
+    controls.forEach(input => { input.disabled = false; });
   }
 }
 
@@ -559,13 +562,47 @@ catalog.addEventListener("keydown", async event => {
 });
 
 seriesDetailModal.addEventListener("click", async event => {
-  const tagButton = event.target.closest("[data-personal-tag]");
-  if (tagButton) {
-    await toggleSeriesState(seriesDetailModal.dataset.id, tagButton.dataset.personalTag);
+  const tagTrigger = event.target.closest("#detailTagTrigger");
+  if (tagTrigger) {
+    const tagSelector = seriesDetailModal.querySelector("#detailTagSelector");
+    const isOpen = !tagSelector.classList.contains("open");
+    tagSelector.classList.toggle("open", isOpen);
+    tagTrigger.setAttribute("aria-expanded", isOpen ? "true" : "false");
     return;
+  }
+  const tagSelector = seriesDetailModal.querySelector("#detailTagSelector");
+  const tagTriggerElement = seriesDetailModal.querySelector("#detailTagTrigger");
+  if (tagSelector && tagTriggerElement && !tagSelector.contains(event.target)) {
+    closeFilterMenu(tagSelector, tagTriggerElement);
   }
   if (event.target === seriesDetailModal) closeSeriesDetail();
   if (event.target.id === "seriesDetailClose") closeSeriesDetail();
+});
+
+seriesDetailModal.addEventListener("change", async event => {
+  const tagInput = event.target.closest("[data-personal-tag]");
+  if (!tagInput) return;
+  await toggleSeriesState(seriesDetailModal.dataset.id, tagInput.dataset.personalTag);
+});
+
+seriesDetailModal.addEventListener("keydown", event => {
+  const tagSelector = seriesDetailModal.querySelector("#detailTagSelector");
+  const tagTrigger = seriesDetailModal.querySelector("#detailTagTrigger");
+  if (!tagSelector || !tagTrigger) return;
+
+  if (event.target === tagTrigger) {
+    if (event.key === "Escape" && tagSelector.classList.contains("open")) {
+      event.preventDefault();
+      closeFilterMenu(tagSelector, tagTrigger, true);
+      return;
+    }
+    if (event.key !== "ArrowDown" && event.key !== "ArrowUp") return;
+    event.preventDefault();
+    openFilterMenu(tagSelector, tagTrigger);
+    focusFilterMenuInput(tagSelector, event.key === "ArrowUp" ? -1 : 0);
+  } else if (tagSelector.contains(event.target)) {
+    handleFilterMenuKeydown(event, tagSelector, tagTrigger);
+  }
 });
 
 function handlePosterImageError(event) {
@@ -918,6 +955,7 @@ window.addEventListener("scroll", syncBackToListButton, { passive: true });
 window.addEventListener("resize", syncBackToListButton);
 
 document.addEventListener("keydown", event => {
+  if (event.defaultPrevented) return;
   if (event.key === "Escape" && !seriesDetailModal.hidden) {
     closeSeriesDetail();
   } else if (event.key === "Escape" && closeOpenFilterMenu(true)) {

@@ -130,7 +130,7 @@ $hasTrendFilterChoices = (Test-ContainsAll $html @('class="trend-choice"', 'valu
 $hasPersonalStateApi = (Test-ContainsAll $serverScript @('/api/series-state', 'handleSeriesStateRequest')) -and (Test-ContainsAll $stateStoreScript @('createSeriesStateStore', 'createLocalSeriesStateStore', 'createPostgresSeriesStateStore', 'normalizeSeriesState')) -and (Test-ContainsAll "$stateApiScript`n$stateApiByIdScript" @('handleSeriesStateApiRequest'))
 $hasPersonalTagChoices = Test-ContainsAll $html @('class="trend-choice"', 'value="wishlisted"', 'value="available"', 'value="seen"', 'Wishlisted', 'Available', 'Seen')
 $hasPersonalTagState = Test-ContainsAll $pageSource @('loadSeriesState', 'saveSeriesState', 'seriesStateById', 'personalTagDefinitions', 'personal-tag')
-$hasPersonalTagToggles = Test-ContainsAll $pageSource @('class="personal-tag-controls"', 'data-personal-tag="${escapeText(tag.key)}"', 'toggleSeriesState', 'personalTagDefinitions')
+$hasPersonalTagToggles = Test-ContainsAll $pageSource @('personal-tag-controls', 'id="detailTagTrigger"', 'id="detailTagMenu"', 'type="checkbox"', 'data-personal-tag="${escapeText(tag.key)}"', 'toggleSeriesState', 'personalTagDefinitions')
 $hasCombinedTagFilter = Test-ContainsAll $pageSource @('selectedTags', 'allTagsSelected', 'cardMatchesTag', 'data-tags="${escapeText', '1 tag')
 $hasDeadSeriesDetailHead = $html.Contains('id="seriesDetailHead"') -or $clientJs.Contains('seriesDetailHead') -or $css.Contains('.series-detail-head')
 $hasClickableCards = Test-ContainsAll $pageSource @('role="button"', 'data-id="${escapeText(item.id)}"')
